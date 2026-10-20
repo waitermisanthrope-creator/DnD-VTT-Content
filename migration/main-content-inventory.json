@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "waitermisanthrope-creator/DnD-VTT",
+  "sourceBranch": "main",
+  "note": "Inventory only. No binary files moved, published or removed. Audit licensing, dependencies and runtime loading before migration.",
+  "files": [
+    {
+      "sourcePath": "app/data/classes/Accursed.js",
+      "bytes": 3369,
+      "gitBlobSha": "96b456bab3e91dfd163194fb2ee1d1a9a511cab0",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Alchemist.js",
+      "bytes": 5589,
+      "gitBlobSha": "c5825eb457e5fced954c53d2c0c3f06e95b36fca",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Artificer.js",
+      "bytes": 2124,
+      "gitBlobSha": "dba7f5d4359219ea812541dd0dd530ad5a00cf20",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Barbarian.js",
+      "bytes": 3822,
+      "gitBlobSha": "adfd1ae9f2c9e6fc46cb4758751574f5fd25aec7",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Bard.js",
+      "bytes": 2085,
+      "gitBlobSha": "7ddf716a42551f4db8bc56d34aded4a8a5594fba",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Beastheart.js",
+      "bytes": 28992,
+      "gitBlobSha": "69c106bc555b1beb3d28654082e67defc1eb2af6",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/BloodHunter.js",
+      "bytes": 5283,
+      "gitBlobSha": "d731e6d31f921bbb9747d042658f879e59f6bc79",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Cleric.js",
+      "bytes": 1987,
+      "gitBlobSha": "0692bb970822647d1325f417567abb1e515eccea",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Druid.js",
+      "bytes": 1898,
+      "gitBlobSha": "85ce6c4b5d0b10d7529c4ed57c1dbaa3828409bb",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Fighter.js",
+      "bytes": 3771,
+      "gitBlobSha": "5e3d258107d558be358da9ea547efb01ab782ae3",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Ghost.js",
+      "bytes": 295,
+      "gitBlobSha": "c1fec340cc760ab31ca000ad3574b4397a445ba0",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Illigger.js",
+      "bytes": 6058,
+      "gitBlobSha": "aaaaeae02d0eb65eb59e445a3be00008e34a0373",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Martyr.js",
+      "bytes": 884,
+      "gitBlobSha": "5ef17ab21e9c15405a139317173982eda8893469",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Monk.js",
+      "bytes": 2493,
+      "gitBlobSha": "56152f69e35c975f5a5811320e0f4627a77ca03f",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Necromancer.js",
+      "bytes": 1013,
+      "gitBlobSha": "9d15fd13c9dea5339a45e14bd0105ab9621b2ddf",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Occultist.js",
+      "bytes": 8507,
+      "gitBlobSha": "faa28208ba7a654335560630ba8b8d76d36c8a53",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Paladin.js",
+      "bytes": 2017,
+      "gitBlobSha": "b728cb512c2e10bb6c56a4c863716119684d7b79",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Parasite.js",
+      "bytes": 545,
+      "gitBlobSha": "3cc717bbb57fb0e1969fd27dc0b24209ff4f6407",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Psion.js",
+      "bytes": 9033,
+      "gitBlobSha": "d8177a5d19a3c08364d4ddb185ab2288b13bd6b1",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Pugilist.js",
+      "bytes": 11453,
+      "gitBlobSha": "5ab57d0f794dba64c55942b5e8003721b1ce6ef9",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Ranger.js",
+      "bytes": 1938,
+      "gitBlobSha": "bc1531d802ef7f45660581b6f5ef27d293940001",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Rogue.js",
+      "bytes": 3244,
+      "gitBlobSha": "2a6017a670a833dd26569e46047853e6f8d9f428",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/RuneKeeper.js",
+      "bytes": 2366,
+      "gitBlobSha": "3e97760034741c0f317e2eb3b49462c4370cd415",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Savant.js",
+      "bytes": 930,
+      "gitBlobSha": "846f951bdf60e90af8933735fbb9ecad339e72f2",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Shifter.js",
+      "bytes": 734,
+      "gitBlobSha": "7eec7eb6682591f61150bf7404fbe7266df7ad09",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Sorcerer.js",
+      "bytes": 2098,
+      "gitBlobSha": "d5c662b414ea1f0c4b3472c33c8ce400143954c5",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Swarm.js",
+      "bytes": 198,
+      "gitBlobSha": "0815db948d1bcfb784def70b3053635c43d89ac5",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Vessel.js",
+      "bytes": 751,
+      "gitBlobSha": "2f0e6a02f933280aa6702698b0d30d910dd24a7d",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/WalterParasite.js",
+      "bytes": 303,
+      "gitBlobSha": "a9fcff766c5f36ad9223eed2f3dc34ac46852929",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Warden.js",
+      "bytes": 6678,
+      "gitBlobSha": "72c3d21d0943413e827c62dfbe90c96ffa49f330",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Warlock.js",
+      "bytes": 2013,
+      "gitBlobSha": "442418ad967ea47e2fb03dae0e7b6e8f34980810",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Warlord.js",
+      "bytes": 9504,
+      "gitBlobSha": "eb0ad09e49c6b44e25dfe81e24a4cafdf8aa2ba8",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Witch.js",
+      "bytes": 8032,
+      "gitBlobSha": "15400237f302fd2874c8f582196cd9b54689bcdb",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/Wizard.js",
+      "bytes": 1627,
+      "gitBlobSha": "fd00f45871d7bfce400ea4e0535aed4daea14565",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/extra_class_stubs.js",
+      "bytes": 4499,
+      "gitBlobSha": "12898f31d0b6cfe037f37999538592166c569c53",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/level_up.js",
+      "bytes": 62903,
+      "gitBlobSha": "20b3b30414a6bad3143205f575c1288941edb53a",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/classes/progressionEngine.js",
+      "bytes": 20610,
+      "gitBlobSha": "c6259621e1ba68ee197800032434b36697d6fe9b",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/feats/Feat_widget.js",
+      "bytes": 25654,
+      "gitBlobSha": "9dec15f2a2276827d6648de256927d65012f0f63",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/feats/Feats_phb.js",
+      "bytes": 19377,
+      "gitBlobSha": "7ba1d091733faf27921b61130bb3fa54ab3b5591",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/feats/Feats_settings.js",
+      "bytes": 4392,
+      "gitBlobSha": "27d1176ea6faf0342101bb97427f5bd9fb654b0a",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/feats/Feats_tcoe.js",
+      "bytes": 5779,
+      "gitBlobSha": "f7824029a1cbb408c80d1fd543657a76c2313299",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/feats/Feats_ua_homebrew.js",
+      "bytes": 11770,
+      "gitBlobSha": "c7edd458aa1339b133c1d5e12145cba0e55a5b58",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/feats/Feats_xgte.js",
+      "bytes": 6729,
+      "gitBlobSha": "4c56ff0ae13132998d27fffd6168b33680e0f93e",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_castle_black_rose_v740030.json",
+      "bytes": 177758,
+      "gitBlobSha": "30413fbc4ab3fdd78bc24a2effafa9857c77da0e",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_castle_v740019.json",
+      "bytes": 107873,
+      "gitBlobSha": "32d680bed991ea48bcf3651cb2131eddb67e2fd4",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_house_v740019.json",
+      "bytes": 22923,
+      "gitBlobSha": "047ed8ea194bd68ad6656eba3a8a6a9e2129dd24",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_stress_test_all.json",
+      "bytes": 165139,
+      "gitBlobSha": "8d48c25e4732adfe27d2921075082d257dc8d01f",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_stress_v740026.json",
+      "bytes": 506389,
+      "gitBlobSha": "f6c16cc009879716f4316cdd9fcb492c6db6343a",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_tavern_v740019.json",
+      "bytes": 32583,
+      "gitBlobSha": "4d0a55807fdbddca36a3c581d88e500e8942e05f",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_test_dungeon.json",
+      "bytes": 20092,
+      "gitBlobSha": "84e8074bc741d07f6c5815e1fe1dccd5490d7424",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_town_v740019.json",
+      "bytes": 78781,
+      "gitBlobSha": "a182882cb6638ed016b3b07fb5b1abbb20e00e14",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/maps/3d_village_v740019.json",
+      "bytes": 39834,
+      "gitBlobSha": "36e35239f3ce6bd7f16e4f31b35233134244f6a1",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Focuses.js",
+      "bytes": 53387,
+      "gitBlobSha": "386d61e1d146d9c904c915bf8bd3adf19ca02bda",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells1lvl.js",
+      "bytes": 60079,
+      "gitBlobSha": "378c8621ed5ea8837175c84f54f82e56af876a2d",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells2lvl.js",
+      "bytes": 70401,
+      "gitBlobSha": "a6591c95fa4f3d1ad1702f79b524550e53858739",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells3lvl.js",
+      "bytes": 48531,
+      "gitBlobSha": "f53cf1dd9b8a6ec070c9f16066fa182e85025d03",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells4lvl.js",
+      "bytes": 39396,
+      "gitBlobSha": "478892a4a1bfb17bddfec6bbbbe89548be27df62",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells5lvl.js",
+      "bytes": 41719,
+      "gitBlobSha": "ad7d2277493863e501649a6d1ebb191ea5f423db",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells7lvl.js",
+      "bytes": 29194,
+      "gitBlobSha": "ca8e8d7d2b8897d071ee90a4c5e7412d9c826c7d",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells8lvl.js",
+      "bytes": 21355,
+      "gitBlobSha": "f3427408a37639693b90acee1977c344994c4c1b",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/Spells9lvl.js",
+      "bytes": 32625,
+      "gitBlobSha": "3d02ac3f7119c74dba2b52004c4a61e61e948b9f",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/spells/spells6lvl.js",
+      "bytes": 37855,
+      "gitBlobSha": "0902f5a10948bda823c853fbacfbe61670a33fa4",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    },
+    {
+      "sourcePath": "app/data/subclasses/subclassesRegistry.js",
+      "bytes": 111805,
+      "gitBlobSha": "740ff4e0e21398e0d838f8cd7a54a3c277066ecf",
+      "review": "pending-license-and-dependency-audit",
+      "migrated": false
+    }
+  ]
+}
