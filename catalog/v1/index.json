@@ -3,15 +3,21 @@
   "catalogId": "dnd-vtt-official",
   "packages": [
     {
-      "id": "demo.race.raccoonfolk",
-      "name": "Енотолюды (демо)",
+      "schemaVersion": 1,
+      "version": "1.0.0",
+      "author": "DnD-VTT contributors",
+      "license": "CC0-1.0",
+      "platform": "any",
+      "unityVersion": "*",
+      "dependencies": [],
+      "format": "json",
+      "id": "demo.race.lanternfolk",
+      "name": "Фонарники — тестовая раса",
       "type": "race",
-      "version": "0.1.0",
-      "author": "DnD-VTT",
-      "description": "Тестовый JSON-пакет. Не добавляет расу в редактор персонажей.",
-      "bytes": 299,
-      "sha256": "55e2f90bdb5c1ddd2c6cb600e97dd8e8ae8502a308bd0dd1450b6d7bb53ae22d",
-      "url": "https://raw.githubusercontent.com/waitermisanthrope-creator/DnD-VTT-Content/main/packages/demo-race.json"
+      "description": "Оригинальная тестовая раса: +1 Ловкость, скорость 30 футов.",
+      "bytes": 1037,
+      "sha256": "39293efa6c2d145c0c036d67d0e9bbdfd17b643bfd82222a32e861dfbf43e759",
+      "url": "https://raw.githubusercontent.com/waitermisanthrope-creator/DnD-VTT-Content/main/packages/demo.race.lanternfolk.json"
     }
   ]
 }

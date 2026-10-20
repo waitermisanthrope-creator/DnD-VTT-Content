@@ -1,0 +1,1 @@
+New demo.* packages created for DnD-VTT are dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). They contain only declarative JSON, no executable code. MakeHuman files retain their original license and author metadata. Other existing files are not relicensed.

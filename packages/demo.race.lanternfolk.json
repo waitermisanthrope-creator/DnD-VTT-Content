@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "author": "DnD-VTT contributors",
+  "license": "CC0-1.0",
+  "platform": "any",
+  "unityVersion": "*",
+  "dependencies": [],
+  "format": "json",
+  "id": "demo.race.lanternfolk",
+  "name": "Фонарники — тестовая раса",
+  "type": "race",
+  "description": "Оригинальная тестовая раса: +1 Ловкость, скорость 30 футов.",
+  "races": [
+    {
+      "id": "demo.race.lanternfolk",
+      "name": "Фонарник",
+      "desc": "Небольшой странник с фонарём. Ловкость +1, скорость 30 футов.",
+      "seed": {
+        "stats": {
+          "str": 10,
+          "dex": 11,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "speed": "30 футов",
+        "size": "Средний",
+        "raceFeatureDescriptions": [
+          "Ловкость +1. Скорость 30 футов."
+        ]
+      },
+      "choices": []
+    }
+  ]
+}
