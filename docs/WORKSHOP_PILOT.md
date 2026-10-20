@@ -1,3 +1,5 @@
+> 2026-10-20 status update: the public CC0 Lanternfolk package and two Assets JSON demo packages are published and integrated in the experimental Unity source. C# storage/creation tests and public URL/hash checks pass; native runtime and AssetBundle publication still need verification. Earlier pilot notes below are historical.
+
 # Мастерская DnD-VTT — пилот
 
 ## Для автора
