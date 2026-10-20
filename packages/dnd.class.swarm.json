@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.class.swarm",
+  "version": "1.0.0",
+  "type": "class",
+  "classes": [
+    {
+      "id": "swarm",
+      "name": "Рой",
+      "hitDie": 8,
+      "isExtra": true,
+      "replacesRace": true,
+      "seed": {
+        "name": "Template",
+        "age": 0,
+        "level": 1,
+        "class": "Рой",
+        "className": "Рой",
+        "classes": [
+          {
+            "name": "Рой",
+            "level": 1,
+            "subclass": null
+          }
+        ],
+        "background": "",
+        "profession": "",
+        "raceId": "",
+        "raceName": "Рой",
+        "baseAC": 10,
+        "ac": "10",
+        "speed": "30 футов",
+        "profBonus": 2,
+        "stats": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "_builderBaseStats": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "statGenerationMode": "manual",
+        "statRollsUsed": 0,
+        "savesData": {
+          "constitution": 1,
+          "dexterity": 1
+        },
+        "skillsData": {},
+        "proficiencies": [],
+        "feats": [],
+        "features": [],
+        "choiceState": {},
+        "choiceHistory": [],
+        "pendingChoices": [],
+        "activeConditions": {},
+        "weaponsData": [],
+        "spellSlotsData": {},
+        "spellsData": [],
+        "folders": [],
+        "library": [],
+        "isExtraClass": true,
+        "extraClassType": "swarm",
+        "extraClassName": "Рой",
+        "replacesRace": true,
+        "multiclassAllowed": false,
+        "tokenArt": "./app/data/classes/the swam.png",
+        "tokenReady": true,
+        "hpMax": 8,
+        "hpCurrent": 8,
+        "hitDice": "1d8",
+        "gender": "",
+        "origin": "",
+        "classFeaturesState": {},
+        "abilities": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        }
+      },
+      "choices": [],
+      "levelOneFeatures": [],
+      "desc": "Экстра-класс, заменяющий расу. Создание в Unity пока недоступно; существующие персонажи сохраняются и доступны через импорт."
+    }
+  ]
+}

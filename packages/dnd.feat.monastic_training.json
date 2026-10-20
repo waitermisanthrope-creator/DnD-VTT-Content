@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.monastic_training",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "monastic_training",
+      "name": "Monastic Training",
+      "nameRu": "Монастырская выучка",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "wis"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Монастырская выучка. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

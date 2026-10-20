@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.polearm_master",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "polearm_master",
+      "name": "Polearm Master",
+      "nameRu": "Мастер древкового оружия",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Мастер древкового оружия. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

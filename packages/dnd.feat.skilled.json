@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.skilled",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "skilled",
+      "name": "Skilled",
+      "nameRu": "Умелец",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Умелец. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

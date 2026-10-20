@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.flames_of_phlegethos",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "flames_of_phlegethos",
+      "name": "Flames of Phlegethos",
+      "nameRu": "Пламя Флегетоса",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Tiefling"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "int",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Пламя Флегетоса. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

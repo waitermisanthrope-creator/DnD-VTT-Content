@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.alchemist",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "alchemist",
+      "name": "Alchemist",
+      "nameRu": "Алхимик",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "int"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Алхимик. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

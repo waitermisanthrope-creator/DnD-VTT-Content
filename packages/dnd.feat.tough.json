@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.tough",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "tough",
+      "name": "Tough",
+      "nameRu": "Крепыш",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Крепыш. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.holy_warrior",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "holy_warrior",
+      "name": "Holy Warrior",
+      "nameRu": "Святой воитель",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "wis"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Святой воитель. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

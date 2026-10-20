@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.brawler",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "brawler",
+      "name": "Brawler",
+      "nameRu": "Головорез",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Головорез. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

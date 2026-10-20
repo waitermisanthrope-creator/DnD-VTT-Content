@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.master_of_disguise",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "master_of_disguise",
+      "name": "Master of Disguise",
+      "nameRu": "Мастер маскировки",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Мастер маскировки. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.perceptive",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "perceptive",
+      "name": "Eagle Eye",
+      "nameRu": "Соколиный глаз",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "wis"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Соколиный глаз. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

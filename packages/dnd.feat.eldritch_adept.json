@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.eldritch_adept",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "eldritch_adept",
+      "name": "Eldritch Adept",
+      "nameRu": "Мистический адепт",
+      "source": "TCoE",
+      "prerequisite": {
+        "spellcasting": true
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Мистический адепт. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

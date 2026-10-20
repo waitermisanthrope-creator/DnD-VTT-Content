@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.heavily_armored",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "heavily_armored",
+      "name": "Heavily Armored",
+      "nameRu": "Тяжелобронированный",
+      "source": "PHB",
+      "prerequisite": {
+        "proficiency": "Medium Armor"
+      },
+      "statBonus": {
+        "stats": [
+          "str"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Тяжелобронированный. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

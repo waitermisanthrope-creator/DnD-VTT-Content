@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.ritual_caster",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "ritual_caster",
+      "name": "Ritual Caster",
+      "nameRu": "Заклинатель ритуалов",
+      "source": "PHB",
+      "prerequisite": {
+        "stat": "int",
+        "min": 13,
+        "altStat": "wis",
+        "altMin": 13
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Заклинатель ритуалов. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

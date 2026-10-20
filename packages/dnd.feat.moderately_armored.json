@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.moderately_armored",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "moderately_armored",
+      "name": "Moderately Armored",
+      "nameRu": "Умеренно бронированный",
+      "source": "PHB",
+      "prerequisite": {
+        "proficiency": "Light Armor"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Умеренно бронированный. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

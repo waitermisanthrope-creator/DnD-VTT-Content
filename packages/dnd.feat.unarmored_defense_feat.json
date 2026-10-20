@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.unarmored_defense_feat",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "unarmored_defense_feat",
+      "name": "Brawler Defense",
+      "nameRu": "Боевая закалка",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Боевая закалка. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.chef",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "chef",
+      "name": "Chef",
+      "nameRu": "Шеф-повар",
+      "source": "TCoE",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "con",
+          "wis"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Шеф-повар. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

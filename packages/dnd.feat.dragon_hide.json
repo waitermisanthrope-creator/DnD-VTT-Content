@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.dragon_hide",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "dragon_hide",
+      "name": "Dragon Hide",
+      "nameRu": "Драконья шкура",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Dragonborn"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "con",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Драконья шкура. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

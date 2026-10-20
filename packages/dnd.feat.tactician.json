@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.tactician",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "tactician",
+      "name": "Tactician",
+      "nameRu": "Полевой командир",
+      "source": "Homebrew",
+      "prerequisite": {
+        "stat": "int",
+        "min": 13
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Полевой командир. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

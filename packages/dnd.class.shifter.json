@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.class.shifter",
+  "version": "1.0.0",
+  "type": "class",
+  "classes": [
+    {
+      "id": "shifter",
+      "name": "Шифтер",
+      "hitDie": 10,
+      "seed": {
+        "name": "Template",
+        "age": 0,
+        "level": 1,
+        "class": "Шифтер",
+        "className": "Шифтер",
+        "classes": [
+          {
+            "name": "Шифтер",
+            "level": 1,
+            "subclass": null
+          }
+        ],
+        "background": "",
+        "profession": "",
+        "raceId": "",
+        "raceName": "",
+        "baseAC": 10,
+        "ac": "10",
+        "speed": "30 футов",
+        "profBonus": 2,
+        "stats": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "_builderBaseStats": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "statGenerationMode": "manual",
+        "statRollsUsed": 0,
+        "savesData": {
+          "dexterity": 1,
+          "wisdom": 1
+        },
+        "skillsData": {},
+        "proficiencies": [],
+        "feats": [],
+        "features": [],
+        "choiceState": {},
+        "choiceHistory": [],
+        "pendingChoices": [],
+        "activeConditions": {},
+        "weaponsData": [],
+        "spellSlotsData": {},
+        "spellsData": [],
+        "folders": [],
+        "library": [],
+        "hpMax": 10,
+        "hpCurrent": 10,
+        "hitDice": "1d10",
+        "gender": "",
+        "origin": "",
+        "classFeaturesState": {},
+        "abilities": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        }
+      },
+      "choices": [
+        {
+          "id": "shifter_bloodline",
+          "key": "class:Шифтер:bloodline",
+          "type": "single",
+          "label": "Кровная линия Шифтера",
+          "options": [
+            {
+              "id": "aquatic",
+              "name": "Водная"
+            },
+            {
+              "id": "avian",
+              "name": "Птичья"
+            },
+            {
+              "id": "brutish",
+              "name": "Грубая"
+            },
+            {
+              "id": "predatory",
+              "name": "Хищная"
+            },
+            {
+              "id": "insectoid",
+              "name": "Насекомая"
+            },
+            {
+              "id": "reptilian",
+              "name": "Рептильная"
+            },
+            {
+              "id": "parasitic",
+              "name": "Паразитная"
+            }
+          ],
+          "className": "Шифтер",
+          "level": 1,
+          "source": "class"
+        }
+      ],
+      "levelOneFeatures": [],
+      "desc": "Дополнение: Шифтер. Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+    }
+  ]
+}

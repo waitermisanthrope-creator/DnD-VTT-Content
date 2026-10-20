@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.bardic_inspiration_feat",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "bardic_inspiration_feat",
+      "name": "Inspiring Voice",
+      "nameRu": "Звучный голос",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Звучный голос. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.heavy_armor_master",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "heavy_armor_master",
+      "name": "Heavy Armor Master",
+      "nameRu": "Мастер тяжелых доспехов",
+      "source": "PHB",
+      "prerequisite": {
+        "proficiency": "Heavy Armor"
+      },
+      "statBonus": {
+        "stats": [
+          "str"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Мастер тяжелых доспехов. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

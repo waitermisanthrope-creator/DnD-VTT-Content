@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.athlete",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "athlete",
+      "name": "Athlete",
+      "nameRu": "Атлет",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Атлет. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

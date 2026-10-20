@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.initiate_of_high_sorcery",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "initiate_of_high_sorcery",
+      "name": "Initiate of High Sorcery",
+      "nameRu": "Адепт Высшего Волшебства",
+      "source": "SotDQ",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Адепт Высшего Волшебства. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

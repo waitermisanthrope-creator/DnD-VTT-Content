@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.tavern_brawler",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "tavern_brawler",
+      "name": "Tavern Brawler",
+      "nameRu": "Тавернный драчун",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "con"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Тавернный драчун. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

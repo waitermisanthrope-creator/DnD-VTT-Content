@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.inspiring_leader",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "inspiring_leader",
+      "name": "Inspiring Leader",
+      "nameRu": "Вдохновляющий лидер",
+      "source": "PHB",
+      "prerequisite": {
+        "stat": "cha",
+        "min": 13
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Вдохновляющий лидер. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

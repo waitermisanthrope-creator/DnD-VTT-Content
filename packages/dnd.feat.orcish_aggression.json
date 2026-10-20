@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.orcish_aggression",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "orcish_aggression",
+      "name": "Orcish Aggression",
+      "nameRu": "Орочья агрессия",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Half-Orc"
+      },
+      "statBonus": {
+        "stats": [
+          "str"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Орочья агрессия. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.martial_adept",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "martial_adept",
+      "name": "Martial Adept",
+      "nameRu": "Мастер боевых искусств",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Мастер боевых искусств. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

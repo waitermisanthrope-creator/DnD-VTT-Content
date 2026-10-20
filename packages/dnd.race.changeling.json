@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.changeling",
+  "version": "1.0.0",
+  "type": "race",
+  "races": [
+    {
+      "id": "changeling",
+      "name": "Перевертыш (Чейнджлинг)",
+      "speed": "30 футов",
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 2
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Два языка на выбор"
+      ],
+      "seed": {
+        "raceId": "changeling",
+        "raceName": "Перевертыш (Чейнджлинг)",
+        "stats": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 12
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          }
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": false,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": true,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов"
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний",
+        "abilities": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 12
+        },
+        "features": [
+          "Параметры расы: Перевертыш (Чейнджлинг)"
+        ],
+        "raceFeatureDescriptions": [
+          "Дополнение: Перевертыш (Чейнджлинг). Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+        ]
+      },
+      "choices": [
+        {
+          "id": "race_languages",
+          "key": "race:changeling:languages",
+          "type": "multi",
+          "count": 1,
+          "label": "Дополнительные языки",
+          "options": [
+            {
+              "id": "lang_common",
+              "category": "Языки",
+              "name": "Всеобщий язык"
+            },
+            {
+              "id": "lang_dwarvish",
+              "category": "Языки",
+              "name": "Дварфийский"
+            },
+            {
+              "id": "lang_elvish",
+              "category": "Языки",
+              "name": "Эльфийский"
+            },
+            {
+              "id": "lang_giant",
+              "category": "Языки",
+              "name": "Великаний"
+            },
+            {
+              "id": "lang_gnomish",
+              "category": "Языки",
+              "name": "Гномий"
+            },
+            {
+              "id": "lang_goblin",
+              "category": "Языки",
+              "name": "Гоблинский"
+            },
+            {
+              "id": "lang_halfling",
+              "category": "Языки",
+              "name": "Язык полуросликов"
+            },
+            {
+              "id": "lang_orc",
+              "category": "Языки",
+              "name": "Орочий"
+            },
+            {
+              "id": "lang_abyssal",
+              "category": "Языки",
+              "name": "Бездны"
+            },
+            {
+              "id": "lang_celestial",
+              "category": "Языки",
+              "name": "Небесный"
+            },
+            {
+              "id": "lang_draconic",
+              "category": "Языки",
+              "name": "Драконий"
+            },
+            {
+              "id": "lang_deep_speech",
+              "category": "Языки",
+              "name": "Глубинная речь"
+            },
+            {
+              "id": "lang_infernal",
+              "category": "Языки",
+              "name": "Инфернальный"
+            },
+            {
+              "id": "lang_primordial",
+              "category": "Языки",
+              "name": "Первичный"
+            },
+            {
+              "id": "lang_sylvan",
+              "category": "Языки",
+              "name": "Сильван"
+            },
+            {
+              "id": "lang_undercommon",
+              "category": "Языки",
+              "name": "Подземный торговый"
+            }
+          ],
+          "source": "race",
+          "raceId": "changeling"
+        }
+      ],
+      "desc": "Дополнение: Перевертыш (Чейнджлинг). Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+    }
+  ]
+}

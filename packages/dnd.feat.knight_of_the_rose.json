@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.knight_of_the_rose",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "knight_of_the_rose",
+      "name": "Knight of the Rose",
+      "nameRu": "Рыцарь Розы",
+      "source": "SotDQ",
+      "prerequisite": {
+        "feat": "Squire of Solamnia"
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Рыцарь Розы. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

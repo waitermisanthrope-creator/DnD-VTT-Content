@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.arcane_defender",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "arcane_defender",
+      "name": "Arcane Defender",
+      "nameRu": "Магический страж",
+      "source": "Homebrew",
+      "prerequisite": {
+        "spellcasting": true
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Магический страж. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

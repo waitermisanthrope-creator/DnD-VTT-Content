@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.second_chance",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "second_chance",
+      "name": "Second Chance",
+      "nameRu": "Второй шанс",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Halfling"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "dex",
+          "con",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Второй шанс. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

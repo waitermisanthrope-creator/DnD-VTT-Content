@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.fey_touched",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "fey_touched",
+      "name": "Fey Touched",
+      "nameRu": "Меченый феями",
+      "source": "TCoE",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "int",
+          "wis",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Меченый феями. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

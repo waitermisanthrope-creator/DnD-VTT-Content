@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.hadozee",
+  "version": "1.0.0",
+  "type": "race",
+  "races": [
+    {
+      "id": "hadozee",
+      "name": "Хадози",
+      "speed": "30 футов (лазание 30 футов)",
+      "bonuses": {
+        "str": 0,
+        "dex": 1,
+        "con": 1,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Один язык на выбор"
+      ],
+      "seed": {
+        "raceId": "hadozee",
+        "raceName": "Хадози",
+        "speed": "30 футов (лазание 30 футов)",
+        "stats": {
+          "str": 10,
+          "dex": 11,
+          "con": 11,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          }
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": true,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": false,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": true,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов (лазание 30 футов)"
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний",
+        "abilities": {
+          "str": 10,
+          "dex": 11,
+          "con": 11,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "features": [
+          "Параметры расы: Хадози"
+        ],
+        "raceFeatureDescriptions": [
+          "Дополнение: Хадози. Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+        ]
+      },
+      "choices": [
+        {
+          "id": "race_languages",
+          "key": "race:hadozee:languages",
+          "type": "multi",
+          "count": 1,
+          "label": "Дополнительные языки",
+          "options": [
+            {
+              "id": "lang_common",
+              "category": "Языки",
+              "name": "Всеобщий язык"
+            },
+            {
+              "id": "lang_dwarvish",
+              "category": "Языки",
+              "name": "Дварфийский"
+            },
+            {
+              "id": "lang_elvish",
+              "category": "Языки",
+              "name": "Эльфийский"
+            },
+            {
+              "id": "lang_giant",
+              "category": "Языки",
+              "name": "Великаний"
+            },
+            {
+              "id": "lang_gnomish",
+              "category": "Языки",
+              "name": "Гномий"
+            },
+            {
+              "id": "lang_goblin",
+              "category": "Языки",
+              "name": "Гоблинский"
+            },
+            {
+              "id": "lang_halfling",
+              "category": "Языки",
+              "name": "Язык полуросликов"
+            },
+            {
+              "id": "lang_orc",
+              "category": "Языки",
+              "name": "Орочий"
+            },
+            {
+              "id": "lang_abyssal",
+              "category": "Языки",
+              "name": "Бездны"
+            },
+            {
+              "id": "lang_celestial",
+              "category": "Языки",
+              "name": "Небесный"
+            },
+            {
+              "id": "lang_draconic",
+              "category": "Языки",
+              "name": "Драконий"
+            },
+            {
+              "id": "lang_deep_speech",
+              "category": "Языки",
+              "name": "Глубинная речь"
+            },
+            {
+              "id": "lang_infernal",
+              "category": "Языки",
+              "name": "Инфернальный"
+            },
+            {
+              "id": "lang_primordial",
+              "category": "Языки",
+              "name": "Первичный"
+            },
+            {
+              "id": "lang_sylvan",
+              "category": "Языки",
+              "name": "Сильван"
+            },
+            {
+              "id": "lang_undercommon",
+              "category": "Языки",
+              "name": "Подземный торговый"
+            }
+          ],
+          "source": "race",
+          "raceId": "hadozee"
+        }
+      ],
+      "desc": "Дополнение: Хадози. Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.arcane_marksman",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "arcane_marksman",
+      "name": "Arcane Marksman",
+      "nameRu": "Магический стрелок",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Магический стрелок. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

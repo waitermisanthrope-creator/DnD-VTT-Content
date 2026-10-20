@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.dragon_fear",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "dragon_fear",
+      "name": "Dragon Fear",
+      "nameRu": "Драконий страх",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Dragonborn"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "con",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Драконий страх. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

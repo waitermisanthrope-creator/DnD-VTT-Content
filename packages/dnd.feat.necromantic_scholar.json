@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.necromantic_scholar",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "necromantic_scholar",
+      "name": "Necromancer Scholar",
+      "nameRu": "Знаток некромантии",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "int"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Знаток некромантии. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

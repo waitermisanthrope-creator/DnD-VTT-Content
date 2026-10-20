@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.bountiful_luck",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "bountiful_luck",
+      "name": "Bountiful Luck",
+      "nameRu": "Обильная удача",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Halfling"
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Обильная удача. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

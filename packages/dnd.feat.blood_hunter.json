@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.blood_hunter",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "blood_hunter",
+      "name": "Blood Hunter Adept",
+      "nameRu": "Адепт кровавой охоты",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Адепт кровавой охоты. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

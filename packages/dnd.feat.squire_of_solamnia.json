@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.squire_of_solamnia",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "squire_of_solamnia",
+      "name": "Squire of Solamnia",
+      "nameRu": "Соламнийский оруженосец",
+      "source": "SotDQ",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Соламнийский оруженосец. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

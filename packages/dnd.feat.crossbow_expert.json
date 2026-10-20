@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.crossbow_expert",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "crossbow_expert",
+      "name": "Crossbow Expert",
+      "nameRu": "Эксперт по арбалетам",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Эксперт по арбалетам. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

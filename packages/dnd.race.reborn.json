@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.reborn",
+  "version": "1.0.0",
+  "type": "race",
+  "races": [
+    {
+      "id": "reborn",
+      "name": "Возрожденный (Риборн)",
+      "speed": "30 футов",
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 1,
+        "cha": 0
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Один язык на выбор"
+      ],
+      "seed": {
+        "raceId": "reborn",
+        "raceName": "Возрожденный (Риборн)",
+        "stats": {
+          "str": 10,
+          "dex": 10,
+          "con": 12,
+          "int": 10,
+          "wis": 11,
+          "cha": 10
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          }
+        ],
+        "features": [
+          "Параметры расы: Возрожденный (Риборн)"
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": false,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": true,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": true,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний или Маленький",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов"
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний или Маленький",
+        "hpMax": 9,
+        "hpCurrent": 9,
+        "abilities": {
+          "str": 10,
+          "dex": 10,
+          "con": 12,
+          "int": 10,
+          "wis": 11,
+          "cha": 10
+        },
+        "raceFeatureDescriptions": [
+          "Дополнение: Возрожденный (Риборн). Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+        ]
+      },
+      "choices": [
+        {
+          "id": "race_languages",
+          "key": "race:reborn:languages",
+          "type": "multi",
+          "count": 1,
+          "label": "Дополнительные языки",
+          "options": [
+            {
+              "id": "lang_common",
+              "category": "Языки",
+              "name": "Всеобщий язык"
+            },
+            {
+              "id": "lang_dwarvish",
+              "category": "Языки",
+              "name": "Дварфийский"
+            },
+            {
+              "id": "lang_elvish",
+              "category": "Языки",
+              "name": "Эльфийский"
+            },
+            {
+              "id": "lang_giant",
+              "category": "Языки",
+              "name": "Великаний"
+            },
+            {
+              "id": "lang_gnomish",
+              "category": "Языки",
+              "name": "Гномий"
+            },
+            {
+              "id": "lang_goblin",
+              "category": "Языки",
+              "name": "Гоблинский"
+            },
+            {
+              "id": "lang_halfling",
+              "category": "Языки",
+              "name": "Язык полуросликов"
+            },
+            {
+              "id": "lang_orc",
+              "category": "Языки",
+              "name": "Орочий"
+            },
+            {
+              "id": "lang_abyssal",
+              "category": "Языки",
+              "name": "Бездны"
+            },
+            {
+              "id": "lang_celestial",
+              "category": "Языки",
+              "name": "Небесный"
+            },
+            {
+              "id": "lang_draconic",
+              "category": "Языки",
+              "name": "Драконий"
+            },
+            {
+              "id": "lang_deep_speech",
+              "category": "Языки",
+              "name": "Глубинная речь"
+            },
+            {
+              "id": "lang_infernal",
+              "category": "Языки",
+              "name": "Инфернальный"
+            },
+            {
+              "id": "lang_primordial",
+              "category": "Языки",
+              "name": "Первичный"
+            },
+            {
+              "id": "lang_sylvan",
+              "category": "Языки",
+              "name": "Сильван"
+            },
+            {
+              "id": "lang_undercommon",
+              "category": "Языки",
+              "name": "Подземный торговый"
+            }
+          ],
+          "source": "race",
+          "raceId": "reborn"
+        }
+      ],
+      "desc": "Дополнение: Возрожденный (Риборн). Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+    }
+  ]
+}

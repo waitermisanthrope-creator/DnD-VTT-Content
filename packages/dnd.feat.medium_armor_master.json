@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.medium_armor_master",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "medium_armor_master",
+      "name": "Medium Armor Master",
+      "nameRu": "Мастер средних доспехов",
+      "source": "PHB",
+      "prerequisite": {
+        "proficiency": "Medium Armor"
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Мастер средних доспехов. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

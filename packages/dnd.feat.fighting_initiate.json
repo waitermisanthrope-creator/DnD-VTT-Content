@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.fighting_initiate",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "fighting_initiate",
+      "name": "Fighting Initiate",
+      "nameRu": "Адепт боевого стиля",
+      "source": "TCoE",
+      "prerequisite": {
+        "proficiency": "Martial Weapon"
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Адепт боевого стиля. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

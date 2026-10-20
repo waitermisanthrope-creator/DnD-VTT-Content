@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.fey_teleportation",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "fey_teleportation",
+      "name": "Fey Teleportation",
+      "nameRu": "Фейская телепортация",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Elf"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "int",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Фейская телепортация. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.defensive_duelist",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "defensive_duelist",
+      "name": "Defensive Duelist",
+      "nameRu": "Защитный дуэлянт",
+      "source": "PHB",
+      "prerequisite": {
+        "stat": "dex",
+        "min": 13
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Защитный дуэлянт. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

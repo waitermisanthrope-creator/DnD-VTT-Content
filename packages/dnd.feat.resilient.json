@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.resilient",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "resilient",
+      "name": "Resilient",
+      "nameRu": "Закаленный",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Закаленный. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

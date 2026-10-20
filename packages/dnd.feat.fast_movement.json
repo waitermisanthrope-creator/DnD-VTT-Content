@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.fast_movement",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "fast_movement",
+      "name": "Speedster",
+      "nameRu": "Спринтер",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "dex"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Спринтер. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

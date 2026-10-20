@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.orcish_fury",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "orcish_fury",
+      "name": "Orcish Fury",
+      "nameRu": "Орочья ярость",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Half-Orc"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "con"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Орочья ярость. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

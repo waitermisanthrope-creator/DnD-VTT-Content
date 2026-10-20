@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.artisan_genius",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "artisan_genius",
+      "name": "Artisan Genius",
+      "nameRu": "Гениальный ремесленник",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "int"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Гениальный ремесленник. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

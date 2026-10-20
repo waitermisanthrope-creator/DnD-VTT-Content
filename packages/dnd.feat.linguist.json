@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.linguist",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "linguist",
+      "name": "Linguist",
+      "nameRu": "Лингвист",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "int"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Лингвист. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

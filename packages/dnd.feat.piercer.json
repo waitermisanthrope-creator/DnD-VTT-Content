@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.piercer",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "piercer",
+      "name": "Piercer",
+      "nameRu": "Пронзатель",
+      "source": "TCoE",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Пронзатель. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

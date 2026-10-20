@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.skill_expert",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "skill_expert",
+      "name": "Skill Expert",
+      "nameRu": "Эксперт навыков",
+      "source": "TCoE",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Эксперт навыков. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.full_orc",
+  "version": "1.0.0",
+  "type": "race",
+  "races": [
+    {
+      "id": "full_orc",
+      "name": "Орк",
+      "speed": "30 футов",
+      "bonuses": {
+        "str": 2,
+        "dex": 0,
+        "con": 1,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Орочий"
+      ],
+      "seed": {
+        "raceId": "full_orc",
+        "raceName": "Орк",
+        "stats": {
+          "str": 12,
+          "dex": 10,
+          "con": 11,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          },
+          {
+            "id": "lang_orc",
+            "category": "Языки",
+            "name": "Орочий"
+          }
+        ],
+        "features": [
+          "Параметры расы: Орк"
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": false,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов",
+          "craftBonuses": [
+            "Сильная рука: +1 к кузнечному ремеслу"
+          ]
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний",
+        "raceCraftBonuses": [
+          "Сильная рука: +1 к кузнечному ремеслу"
+        ],
+        "abilities": {
+          "str": 12,
+          "dex": 10,
+          "con": 11,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "raceFeatureDescriptions": [
+          "Дополнение: Орк. Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+        ]
+      },
+      "choices": [],
+      "desc": "Дополнение: Орк. Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+    }
+  ]
+}

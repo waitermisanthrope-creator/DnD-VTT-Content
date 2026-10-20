@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.medic",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "medic",
+      "name": "Field Medic",
+      "nameRu": "Полевой медик",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Полевой медик. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

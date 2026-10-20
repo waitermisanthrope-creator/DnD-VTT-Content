@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.dwarven_fortitude",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "dwarven_fortitude",
+      "name": "Dwarven Fortitude",
+      "nameRu": "Дворфийская стойкость",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Dwarf"
+      },
+      "statBonus": {
+        "stats": [
+          "con"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Дворфийская стойкость. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

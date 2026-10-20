@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.squat_nimbleness",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "squat_nimbleness",
+      "name": "Squat Nimbleness",
+      "nameRu": "Приземистая ловкость",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Dwarf / Small Race"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Приземистая ловкость. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

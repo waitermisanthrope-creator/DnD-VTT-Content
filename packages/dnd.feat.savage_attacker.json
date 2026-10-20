@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.savage_attacker",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "savage_attacker",
+      "name": "Savage Attacker",
+      "nameRu": "Зверский атакующий",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Зверский атакующий. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

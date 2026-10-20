@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.sharpshooter",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "sharpshooter",
+      "name": "Sharpshooter",
+      "nameRu": "Снайпер",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Снайпер. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

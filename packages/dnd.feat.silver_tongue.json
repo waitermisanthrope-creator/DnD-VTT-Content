@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.silver_tongue",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "silver_tongue",
+      "name": "Silver Tongue",
+      "nameRu": "Язык без костей",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Язык без костей. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.dual_wielder",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "dual_wielder",
+      "name": "Dual Wielder",
+      "nameRu": "Парное оружие",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Парное оружие. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

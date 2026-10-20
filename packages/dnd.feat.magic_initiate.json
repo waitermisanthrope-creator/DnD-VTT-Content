@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.magic_initiate",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "magic_initiate",
+      "name": "Magic Initiate",
+      "nameRu": "Адепт магии",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Адепт магии. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

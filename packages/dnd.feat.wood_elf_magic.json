@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.wood_elf_magic",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "wood_elf_magic",
+      "name": "Wood Elf Magic",
+      "nameRu": "Магия лесных эльфов",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Wood Elf"
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Магия лесных эльфов. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

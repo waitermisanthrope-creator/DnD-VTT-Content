@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.weapon_master",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "weapon_master",
+      "name": "Weapon Master",
+      "nameRu": "Мастер оружия",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Мастер оружия. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

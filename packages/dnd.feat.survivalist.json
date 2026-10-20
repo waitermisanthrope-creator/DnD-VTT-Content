@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.survivalist",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "survivalist",
+      "name": "Survivalist",
+      "nameRu": "Выживальщик",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "wis"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Выживальщик. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.poisoner",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "poisoner",
+      "name": "Poisoner",
+      "nameRu": "Отравитель",
+      "source": "TCoE",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Отравитель. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

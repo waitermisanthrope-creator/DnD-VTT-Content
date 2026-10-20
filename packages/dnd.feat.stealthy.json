@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.stealthy",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "stealthy",
+      "name": "Stealthy",
+      "nameRu": "Теневой лазутчик",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Теневой лазутчик. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

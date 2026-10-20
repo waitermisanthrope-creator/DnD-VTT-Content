@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.beast_tamer",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "beast_tamer",
+      "name": "Beast Tamer",
+      "nameRu": "Укротитель зверей",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Укротитель зверей. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

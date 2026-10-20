@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.elemental_adept",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "elemental_adept",
+      "name": "Elemental Adept",
+      "nameRu": "Адепт стихий",
+      "source": "PHB",
+      "prerequisite": {
+        "spellcasting": true
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Адепт стихий. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

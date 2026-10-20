@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.arcane_recovery_feat",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "arcane_recovery_feat",
+      "name": "Mana Well",
+      "nameRu": "Магический резерв",
+      "source": "Homebrew",
+      "prerequisite": {
+        "spellcasting": true
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Магический резерв. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

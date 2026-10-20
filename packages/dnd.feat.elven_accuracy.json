@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.elven_accuracy",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "elven_accuracy",
+      "name": "Elven Accuracy",
+      "nameRu": "Эльфийская меткость",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Elf / Half-Elf"
+      },
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "dex",
+          "int",
+          "wis",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Эльфийская меткость. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

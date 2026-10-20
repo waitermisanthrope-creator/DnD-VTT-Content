@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.observant",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "observant",
+      "name": "Observant",
+      "nameRu": "Наблюдательный",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "int",
+          "wis"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Наблюдательный. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

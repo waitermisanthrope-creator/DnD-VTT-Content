@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.shadow_dancer",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "shadow_dancer",
+      "name": "Shadow Dancer",
+      "nameRu": "Теневой танцор",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "dex"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Теневой танцор. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

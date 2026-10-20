@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.scion_of_the_outer_planes",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "scion_of_the_outer_planes",
+      "name": "Scion of the Outer Planes",
+      "nameRu": "Наследник Внешних Планов",
+      "source": "BMT",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "con",
+          "wis",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Наследник Внешних Планов. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.warlock_pact_initiate",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "warlock_pact_initiate",
+      "name": "Pact Initiate",
+      "nameRu": "Адепт договора",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Адепт договора. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

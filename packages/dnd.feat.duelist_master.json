@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.duelist_master",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "duelist_master",
+      "name": "Duelist Master",
+      "nameRu": "Мастер дуэлей",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Мастер дуэлей. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

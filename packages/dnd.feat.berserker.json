@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.berserker",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "berserker",
+      "name": "Berserker",
+      "nameRu": "Берсерк",
+      "source": "UA",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Берсерк. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

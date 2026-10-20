@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.berserker_rage",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "berserker_rage",
+      "name": "Frenzied",
+      "nameRu": "Неистовый",
+      "source": "Homebrew",
+      "prerequisite": null,
+      "statBonus": {
+        "stats": [
+          "str"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Неистовый. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

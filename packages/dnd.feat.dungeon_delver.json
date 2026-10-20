@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.dungeon_delver",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "dungeon_delver",
+      "name": "Dungeon Delver",
+      "nameRu": "Исследователь подземелий",
+      "source": "PHB",
+      "prerequisite": null,
+      "statBonus": null,
+      "description": "Дополнительная черта: Исследователь подземелий. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

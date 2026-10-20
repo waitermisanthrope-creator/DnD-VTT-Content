@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.satyr",
+  "version": "1.0.0",
+  "type": "race",
+  "races": [
+    {
+      "id": "satyr",
+      "name": "Сатир",
+      "speed": "35 футов",
+      "bonuses": {
+        "str": 0,
+        "dex": 1,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 2
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Сильван"
+      ],
+      "seed": {
+        "raceId": "satyr",
+        "raceName": "Сатир",
+        "speed": "35 футов",
+        "stats": {
+          "str": 10,
+          "dex": 11,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 12
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          },
+          {
+            "id": "lang_sylvan",
+            "category": "Языки",
+            "name": "Сильван"
+          }
+        ],
+        "features": [
+          "Параметры расы: Сатир"
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": true,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": true,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 35,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "35 футов"
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний",
+        "abilities": {
+          "str": 10,
+          "dex": 11,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 12
+        },
+        "raceFeatureDescriptions": [
+          "Дополнение: Сатир. Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+        ]
+      },
+      "choices": [],
+      "desc": "Дополнение: Сатир. Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+    }
+  ]
+}

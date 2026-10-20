@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.infernal_constitution",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "infernal_constitution",
+      "name": "Infernal Constitution",
+      "nameRu": "Адское телосложение",
+      "source": "XGtE",
+      "prerequisite": {
+        "race": "Tiefling"
+      },
+      "statBonus": {
+        "stats": [
+          "con"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Адское телосложение. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

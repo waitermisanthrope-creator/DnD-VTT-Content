@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.yuan_ti",
+  "version": "1.0.0",
+  "type": "race",
+  "races": [
+    {
+      "id": "yuan_ti",
+      "name": "Юань-ти (Чистокровный)",
+      "speed": "30 футов",
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 1,
+        "wis": 0,
+        "cha": 2
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Эльфийский",
+        "Бездны"
+      ],
+      "seed": {
+        "raceId": "yuan_ti",
+        "raceName": "Юань-ти (Чистокровный)",
+        "stats": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 11,
+          "wis": 10,
+          "cha": 12
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          },
+          {
+            "id": "lang_elvish",
+            "category": "Языки",
+            "name": "Эльфийский"
+          },
+          {
+            "id": "lang_abyssal",
+            "category": "Языки",
+            "name": "Бездны"
+          }
+        ],
+        "features": [
+          "Параметры расы: Юань-ти (Чистокровный)"
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": true,
+          "poisonResistance": false,
+          "poisonImmunity": true,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов",
+          "craftBonuses": [
+            "Змеиная алхимия: +1 к алхимическому ремеслу"
+          ]
+        },
+        "resistances": [],
+        "immunities": [
+          "яд"
+        ],
+        "size": "Средний",
+        "raceCraftBonuses": [
+          "Змеиная алхимия: +1 к алхимическому ремеслу"
+        ],
+        "abilities": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 11,
+          "wis": 10,
+          "cha": 12
+        },
+        "raceFeatureDescriptions": [
+          "Дополнение: Юань-ти (Чистокровный). Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+        ]
+      },
+      "choices": [],
+      "desc": "Дополнение: Юань-ти (Чистокровный). Перенесены параметры создания персонажа; автоматизация боя и развития класса не входит в этот пакет."
+    }
+  ]
+}

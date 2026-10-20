@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.strike_of_the_giants",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "strike_of_the_giants",
+      "name": "Strike of the Giants",
+      "nameRu": "Удар великанов",
+      "source": "BPGG",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "str",
+          "dex",
+          "con"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Удар великанов. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

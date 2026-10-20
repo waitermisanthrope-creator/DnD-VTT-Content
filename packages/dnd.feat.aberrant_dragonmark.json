@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.aberrant_dragonmark",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "aberrant_dragonmark",
+      "name": "Aberrant Dragonmark",
+      "nameRu": "Чужеродная драконья метка",
+      "source": "ERftLW",
+      "prerequisite": null,
+      "statBonus": {
+        "type": "choice",
+        "stats": [
+          "con",
+          "cha"
+        ],
+        "value": 1
+      },
+      "description": "Дополнительная черта: Чужеродная драконья метка. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}

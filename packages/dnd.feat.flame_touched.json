@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.feat.flame_touched",
+  "version": "1.0.0",
+  "type": "feat",
+  "feats": [
+    {
+      "id": "flame_touched",
+      "name": "Flame Touched",
+      "nameRu": "Огненное касание",
+      "source": "EEPC",
+      "prerequisite": {
+        "spellcasting": true
+      },
+      "statBonus": null,
+      "description": "Дополнительная черта: Огненное касание. Бонус характеристик применяется при выборе; прочие эффекты учитываются вручную."
+    }
+  ]
+}
