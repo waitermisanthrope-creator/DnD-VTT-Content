@@ -1,11 +1,10 @@
 # DnD-VTT-Content
-Official content library and community workshop for DnD-VTT
 
+Public curated data registry for DnD-VTT Unity.
 
-## Content library foundation
+- `catalog/v1/index.json`: live catalog, including the original CC0 Lanternfolk test race.
+- `packages/`: small declarative JSON, exact bytes and SHA-256 in catalog entries.
+- `schemas/catalog-entry-v1.schema.json`: runtime manifest shared with Assets.
+- Existing `demo-race.json` is retained as a historical prototype; it is no longer advertised as active content.
 
-- [`catalog/v1/index.json`](catalog/v1/index.json) — public approved catalog (empty until validated).
-- [`schemas/package-manifest-v1.schema.json`](schemas/package-manifest-v1.schema.json) — proposed manifest format.
-- [`docs/PUBLISHING.md`](docs/PUBLISHING.md) — moderation and publishing procedure.
-
-Do not upload unpublished submissions, secrets, saves or executable mods. Unity 1.00.06 still uses its legacy test catalog; integration with this repository is a separate step.
+Unity integration is in `DnD-VTT/experiment/unity-vtt`. Storage and character integration have executable tests; device QA remains pending. Unsupported gameplay categories are shown as unavailable. No JavaScript, DLLs or user executable mods are accepted.
