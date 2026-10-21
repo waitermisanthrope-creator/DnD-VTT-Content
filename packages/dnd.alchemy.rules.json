@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.alchemy.rules",
+  "version": "1.0.0",
+  "type": "craft",
+  "mode": "alchemy-v30",
+  "catalysts": [
+    {
+      "id": "stabilizing_salt",
+      "name": "Стабилизирующая соль",
+      "stability": 18,
+      "volatility": -12,
+      "potency": 0,
+      "purity": 0
+    },
+    {
+      "id": "mercury_accelerator",
+      "name": "Ртутный ускоритель",
+      "stability": -10,
+      "volatility": 18,
+      "potency": 8,
+      "purity": 0
+    },
+    {
+      "id": "silver_powder",
+      "name": "Серебряный порошок",
+      "stability": 10,
+      "volatility": -4,
+      "potency": 4,
+      "purity": 18
+    },
+    {
+      "id": "dragonbone_powder",
+      "name": "Порошок драконьей кости",
+      "stability": -4,
+      "volatility": 4,
+      "potency": 16,
+      "purity": 0
+    },
+    {
+      "id": "activated_charcoal",
+      "name": "Активированный уголь",
+      "stability": 14,
+      "volatility": -8,
+      "potency": -2,
+      "purity": 10
+    }
+  ],
+  "synergy": [
+    [
+      "Recovery",
+      "Vitality"
+    ],
+    [
+      "Recovery",
+      "Antidote"
+    ],
+    [
+      "Recovery",
+      "Regeneration"
+    ],
+    [
+      "Speed",
+      "Dexterity"
+    ],
+    [
+      "Strength",
+      "Constitution"
+    ],
+    [
+      "Mind",
+      "Perception"
+    ],
+    [
+      "Venom",
+      "Hemorrhage"
+    ],
+    [
+      "Venom",
+      "Weakness"
+    ],
+    [
+      "Fear",
+      "Hallucination"
+    ],
+    [
+      "Fire",
+      "Volatility"
+    ],
+    [
+      "Cold",
+      "Stability"
+    ],
+    [
+      "Magic",
+      "Radiant"
+    ],
+    [
+      "Magic",
+      "Invisibility"
+    ],
+    [
+      "Acid",
+      "Weakness"
+    ],
+    [
+      "Necrotic",
+      "Fear"
+    ],
+    [
+      "Petrification",
+      "Stability"
+    ],
+    [
+      "Earth",
+      "Constitution"
+    ],
+    [
+      "Sleep",
+      "Hallucination"
+    ]
+  ],
+  "conflict": [
+    [
+      "Fire",
+      "Cold"
+    ],
+    [
+      "Recovery",
+      "Necrotic"
+    ],
+    [
+      "Vitality",
+      "Necrotic"
+    ],
+    [
+      "Antidote",
+      "Venom"
+    ],
+    [
+      "Stability",
+      "Volatility"
+    ],
+    [
+      "Invisibility",
+      "Radiant"
+    ],
+    [
+      "Sleep",
+      "Speed"
+    ],
+    [
+      "Petrification",
+      "Recovery"
+    ],
+    [
+      "Fire",
+      "Stability"
+    ],
+    [
+      "Acid",
+      "Recovery"
+    ]
+  ],
+  "effects": {
+    "Recovery": {
+      "label": "Восстановление",
+      "kind": "heal",
+      "formula": "1d4 + Potency/20"
+    },
+    "Vitality": {
+      "label": "Жизненность",
+      "kind": "tempHP",
+      "formula": "временные HP = Potency/5"
+    },
+    "Regeneration": {
+      "label": "Регенерация",
+      "kind": "regen",
+      "formula": "1d4 HP/ход"
+    },
+    "Speed": {
+      "label": "Скорость",
+      "kind": "speed",
+      "formula": "+10 футов"
+    },
+    "Dexterity": {
+      "label": "Ловкость",
+      "kind": "ability",
+      "formula": "преимущество на проверки Ловкости"
+    },
+    "Strength": {
+      "label": "Сила",
+      "kind": "ability",
+      "formula": "преимущество на проверки Силы"
+    },
+    "Constitution": {
+      "label": "Телосложение",
+      "kind": "ability",
+      "formula": "преимущество на проверки Телосложения"
+    },
+    "Mind": {
+      "label": "Разум",
+      "kind": "ability",
+      "formula": "преимущество на проверки Интеллекта"
+    },
+    "Perception": {
+      "label": "Восприятие",
+      "kind": "ability",
+      "formula": "преимущество на проверки Мудрости"
+    },
+    "Venom": {
+      "label": "Яд",
+      "kind": "damage",
+      "damageType": "poison",
+      "formula": "1d6 + Potency/15"
+    },
+    "Hemorrhage": {
+      "label": "Кровотечение",
+      "kind": "damage",
+      "damageType": "bleed",
+      "formula": "1d4/ход"
+    },
+    "Weakness": {
+      "label": "Слабость",
+      "kind": "debuff",
+      "formula": "штраф к силовым атакам/проверкам"
+    },
+    "Nausea": {
+      "label": "Тошнота",
+      "kind": "condition",
+      "condition": "poisoned",
+      "formula": "Poisoned"
+    },
+    "Blindness": {
+      "label": "Слепота",
+      "kind": "condition",
+      "condition": "blinded",
+      "formula": "Blinded"
+    },
+    "Fear": {
+      "label": "Страх",
+      "kind": "condition",
+      "condition": "frightened",
+      "formula": "Frightened"
+    },
+    "Hallucination": {
+      "label": "Галлюцинация",
+      "kind": "condition",
+      "condition": "confused",
+      "formula": "дезориентация"
+    },
+    "Sleep": {
+      "label": "Сон",
+      "kind": "condition",
+      "condition": "unconscious",
+      "formula": "Unconscious"
+    },
+    "Acid": {
+      "label": "Кислота",
+      "kind": "damage",
+      "damageType": "acid",
+      "formula": "2d4 + Potency/10"
+    },
+    "Fire": {
+      "label": "Огонь",
+      "kind": "damage",
+      "damageType": "fire",
+      "formula": "2d4 + Potency/10"
+    },
+    "Cold": {
+      "label": "Холод",
+      "kind": "damage",
+      "damageType": "cold",
+      "formula": "2d4 + Potency/10"
+    },
+    "Necrotic": {
+      "label": "Некротика",
+      "kind": "damage",
+      "damageType": "necrotic",
+      "formula": "2d4 + Potency/10"
+    },
+    "Radiant": {
+      "label": "Сияние",
+      "kind": "damage",
+      "damageType": "radiant",
+      "formula": "2d4 + Potency/10"
+    },
+    "Invisibility": {
+      "label": "Невидимость",
+      "kind": "condition",
+      "condition": "invisible",
+      "formula": "10 минут"
+    },
+    "Breathing": {
+      "label": "Дыхание",
+      "kind": "utility",
+      "formula": "1 час"
+    },
+    "Antidote": {
+      "label": "Антидот",
+      "kind": "cleanse",
+      "formula": "снимает яд"
+    },
+    "Stability": {
+      "label": "Стабильность",
+      "kind": "stability",
+      "formula": "снижает риск"
+    },
+    "Volatility": {
+      "label": "Нестабильность",
+      "kind": "volatile",
+      "formula": "ускоряет реакцию и риск"
+    },
+    "Magic": {
+      "label": "Магия",
+      "kind": "amplify",
+      "formula": "+25% к силе"
+    },
+    "Earth": {
+      "label": "Земля",
+      "kind": "resistance",
+      "formula": "устойчивость к сбиванию"
+    },
+    "Petrification": {
+      "label": "Окаменение",
+      "kind": "condition",
+      "condition": "petrified",
+      "formula": "тяжёлое состояние"
+    }
+  },
+  "extraTrigger": {
+    "Vitality": "Invisibility",
+    "Volatility": "Hallucination",
+    "Recovery": "Necrotic",
+    "Stability": "Recovery",
+    "Hallucination": "Radiant",
+    "Hemorrhage": "Perception",
+    "Magic": "Radiant",
+    "Necrotic": "Magic",
+    "Fear": "Venom",
+    "Fire": "Acid",
+    "Antidote": "Stability",
+    "Perception": "Speed",
+    "Strength": "Mind",
+    "Radiant": "Fire",
+    "Acid": "Invisibility"
+  }
+}

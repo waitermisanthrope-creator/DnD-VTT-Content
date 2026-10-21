@@ -1,0 +1,1954 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.weapons",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.weapons.1",
+      "name": "Кинжал",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1 фунт",
+      "cost": "2 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Кинжал. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.2",
+      "name": "Дубина",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2 фунта",
+      "cost": "1 см",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_club"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Дубина. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.3",
+      "name": "Ручной топорик",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "2 фунта",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Ручной топорик. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.4",
+      "name": "Сулицах (дротик)",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунта",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Сулицах (дротик). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.5",
+      "name": "Копье",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3 фунта",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Копье. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.6",
+      "name": "Булава",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4 фунта",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Булава. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.7",
+      "name": "Боевой посох",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4 фунта",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Боевой посох. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.8",
+      "name": "Серп",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "2 фунта",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Серп. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.9",
+      "name": "Легкий молот",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2 фунта",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Легкий молот. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.10",
+      "name": "Блекджек (Кистень-хлопушка)",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "1 фунт",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Блекджек (Кистень-хлопушка). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.11",
+      "name": "Шипастая рукавица",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1 фунт",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Шипастая рукавица. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.12",
+      "name": "Длинный меч",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "3 фунта",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Длинный меч. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.13",
+      "name": "Рапира",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2 фунта",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Рапира. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.14",
+      "name": "Скимитар",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "3 фунта",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Скимитар. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.15",
+      "name": "Короткий меч",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунта",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Короткий меч. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.16",
+      "name": "Боевой топор",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "4 фунта",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Боевой топор. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.17",
+      "name": "Моргенштерн",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "4 фунта",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Моргенштерн. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.18",
+      "name": "Цеп (Кистень)",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "2 фунта",
+      "cost": "10 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Цеп (Кистень). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.19",
+      "name": "Боевой молот",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "2 фунта",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Боевой молот. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.20",
+      "name": "Трезубец",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "4 фунта",
+      "cost": "5 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_trident"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Трезубец. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.21",
+      "name": "Кнут",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "3 фунта",
+      "cost": "2 зм",
+      "properties": [
+        "Фехтовальное",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_whip"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Кнут. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.22",
+      "name": "Фальшион",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "4 фунта",
+      "cost": "25 зм",
+      "properties": [
+        "Легкое",
+        "критический урон"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Фальшион. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.23",
+      "name": "Катана (Одноручный хват)",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунта",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Катана (Одноручный хват). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.24",
+      "name": "Кусаригама (Серп с цепью)",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунта",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Кусаригама (Серп с цепью). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.25",
+      "name": "Цестус",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунта",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Цестус. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.26",
+      "name": "Рапира с дагой",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3 фунта",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Рапира с дагой. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.27",
+      "name": "Алебарда",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Алебарда. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.28",
+      "name": "Великая дубина",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Великая дубина. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.29",
+      "name": "Великий меч (Двуручник)",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Великий меч (Двуручник). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.30",
+      "name": "Глефа",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Глефа. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.31",
+      "name": "Двойной скимитар (Валарский клинок)",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Двойной скимитар (Валарский клинок). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.32",
+      "name": "Люцернский молот",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Люцернский молот. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.33",
+      "name": "Меч палача",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Меч палача. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.34",
+      "name": "Молот (Тяжелый двуручный)",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Молот (Тяжелый двуручный). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.35",
+      "name": "Нодати (Длинный двуручный самурайский меч)",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Нодати (Длинный двуручный самурайский меч). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.36",
+      "name": "Пика",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Пика. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.37",
+      "name": "Секира (Двуручный топор)",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Секира (Двуручный топор). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.38",
+      "name": "Тяжелый двуручный цеп",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Тяжелый двуручный цеп. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.39",
+      "name": "Легкий арбалет",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Легкий арбалет. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.40",
+      "name": "Метательный дротик (Сюрикэн / Дарт)",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.2 фунта",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Метательный дротик (Сюрикэн / Дарт). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.41",
+      "name": "Многозарядный арбалет (Чо-ко-ну)",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Многозарядный арбалет (Чо-ко-ну). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.42",
+      "name": "Короткий лук",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунта",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Короткий лук. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.43",
+      "name": "Праща",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Праща. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.44",
+      "name": "Ручной арбалет",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3 фунта",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Ручной арбалет. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.45",
+      "name": "Составной длинный лук",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3 фунта",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Составной длинный лук. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.46",
+      "name": "Духовая трубка",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1",
+      "damageType": "колющий",
+      "weight": "1 фунт",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Духовая трубка. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.47",
+      "name": "Длинный лук",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2 фунта",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Длинный лук. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.48",
+      "name": "Тяжелый арбалет",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Тяжелый арбалет. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.49",
+      "name": "Аркебуза",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Аркебуза. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.50",
+      "name": "Капсюльный револьвер",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунта",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Капсюльный револьвер. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.51",
+      "name": "Кремневый пистолет",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунта",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Кремневый пистолет. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.52",
+      "name": "Кремневый мушкет",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Кремневый мушкет. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.53",
+      "name": "Многоствольный пистолет (Пеппербокс)",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунта",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Многоствольный пистолет (Пеппербокс). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.54",
+      "name": "Мушкетон (Тромблон)",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Мушкетон (Тромблон). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.55",
+      "name": "Драгунский пистолет (Обрезыч)",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунта",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Драгунский пистолет (Обрезыч). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.56",
+      "name": "Ручная мортирка",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Ручная мортирка. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.57",
+      "name": "Болас",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2 фунта",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Болас. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.58",
+      "name": "Боевой вее́р (Тессэн)",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунта",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Боевой вее́р (Тессэн). Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.59",
+      "name": "Крюк вместо руки",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "1 фунт",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Крюк вместо руки. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.60",
+      "name": "Лассо",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3 фунта",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Лассо. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.61",
+      "name": "Сетка",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3 фунта",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Сетка. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.weapons.62",
+      "name": "Скрытый рукавной клинок",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1 фунт",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Предмет игрового справочника: Скрытый рукавной клинок. Характеристики указаны в полях записи.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

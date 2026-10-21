@@ -1,0 +1,1232 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.craft.core",
+  "version": "1.0.0",
+  "type": "craft",
+  "mode": "craft-v31",
+  "materials": [
+    {
+      "id": "iron",
+      "name": "Железо",
+      "cat": "metal",
+      "rarity": "common",
+      "price": 1,
+      "weight": 1
+    },
+    {
+      "id": "steel",
+      "name": "Сталь",
+      "cat": "metal",
+      "rarity": "common",
+      "price": 2,
+      "weight": 1
+    },
+    {
+      "id": "mithral",
+      "name": "Мифрил",
+      "cat": "metal",
+      "rarity": "very_rare",
+      "price": 75,
+      "weight": 1
+    },
+    {
+      "id": "adamantine",
+      "name": "Адамантин",
+      "cat": "metal",
+      "rarity": "very_rare",
+      "price": 100,
+      "weight": 1
+    },
+    {
+      "id": "silver",
+      "name": "Серебро",
+      "cat": "metal",
+      "rarity": "uncommon",
+      "price": 5,
+      "weight": 1
+    },
+    {
+      "id": "copper",
+      "name": "Медь",
+      "cat": "metal",
+      "rarity": "common",
+      "price": 0.5,
+      "weight": 1
+    },
+    {
+      "id": "wood",
+      "name": "Древесина",
+      "cat": "wood",
+      "rarity": "common",
+      "price": 0.1,
+      "weight": 1
+    },
+    {
+      "id": "hardwood",
+      "name": "Твёрдая древесина",
+      "cat": "wood",
+      "rarity": "uncommon",
+      "price": 1,
+      "weight": 1
+    },
+    {
+      "id": "darkwood",
+      "name": "Тенедревесина",
+      "cat": "wood",
+      "rarity": "rare",
+      "price": 10,
+      "weight": 1
+    },
+    {
+      "id": "leather",
+      "name": "Кожа",
+      "cat": "hide",
+      "rarity": "common",
+      "price": 1,
+      "weight": 0.5
+    },
+    {
+      "id": "hide",
+      "name": "Шкура",
+      "cat": "hide",
+      "rarity": "common",
+      "price": 2,
+      "weight": 1
+    },
+    {
+      "id": "dragonScale",
+      "name": "Драконья чешуя",
+      "cat": "hide",
+      "rarity": "very_rare",
+      "price": 75,
+      "weight": 0.5
+    },
+    {
+      "id": "spiderSilk",
+      "name": "Паучий шёлк",
+      "cat": "fiber",
+      "rarity": "rare",
+      "price": 15,
+      "weight": 0.2
+    },
+    {
+      "id": "cloth",
+      "name": "Ткань",
+      "cat": "fiber",
+      "rarity": "common",
+      "price": 0.5,
+      "weight": 0.2
+    },
+    {
+      "id": "thread",
+      "name": "Нить",
+      "cat": "fiber",
+      "rarity": "common",
+      "price": 0.1,
+      "weight": 0.1
+    },
+    {
+      "id": "paper",
+      "name": "Бумага",
+      "cat": "paper",
+      "rarity": "common",
+      "price": 0.2,
+      "weight": 0.05
+    },
+    {
+      "id": "parchment",
+      "name": "Пергамент",
+      "cat": "paper",
+      "rarity": "common",
+      "price": 1,
+      "weight": 0.05
+    },
+    {
+      "id": "glass",
+      "name": "Стекло",
+      "cat": "glass",
+      "rarity": "common",
+      "price": 1,
+      "weight": 0.2
+    },
+    {
+      "id": "crystal",
+      "name": "Кристалл",
+      "cat": "glass",
+      "rarity": "uncommon",
+      "price": 10,
+      "weight": 0.2
+    },
+    {
+      "id": "clay",
+      "name": "Глина",
+      "cat": "ceramic",
+      "rarity": "common",
+      "price": 0.1,
+      "weight": 1
+    },
+    {
+      "id": "ceramic",
+      "name": "Керамика",
+      "cat": "ceramic",
+      "rarity": "common",
+      "price": 1,
+      "weight": 0.5
+    },
+    {
+      "id": "charcoal",
+      "name": "Древесный уголь",
+      "cat": "fuel",
+      "rarity": "common",
+      "price": 0.1,
+      "weight": 0.5
+    },
+    {
+      "id": "salt",
+      "name": "Соль",
+      "cat": "reagent",
+      "rarity": "common",
+      "price": 0.05,
+      "weight": 0.2
+    },
+    {
+      "id": "resin",
+      "name": "Смола",
+      "cat": "reagent",
+      "rarity": "common",
+      "price": 0.5,
+      "weight": 0.2
+    },
+    {
+      "id": "wax",
+      "name": "Воск",
+      "cat": "reagent",
+      "rarity": "common",
+      "price": 0.2,
+      "weight": 0.2
+    },
+    {
+      "id": "gem",
+      "name": "Драгоценный камень",
+      "cat": "gem",
+      "rarity": "rare",
+      "price": 50,
+      "weight": 0.1
+    },
+    {
+      "id": "ink",
+      "name": "Чернила",
+      "cat": "reagent",
+      "rarity": "common",
+      "price": 5,
+      "weight": 0.05
+    },
+    {
+      "id": "herb",
+      "name": "Сушёные травы",
+      "cat": "reagent",
+      "rarity": "common",
+      "price": 1,
+      "weight": 0.1
+    },
+    {
+      "id": "monsterPart",
+      "name": "Часть чудовища",
+      "cat": "monster",
+      "rarity": "uncommon",
+      "price": 10,
+      "weight": 0.2
+    }
+  ],
+  "recipes": [
+    {
+      "id": "dagger",
+      "name": "Кинжал",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 10,
+      "time": 4,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "iron": 1,
+        "leather": 1
+      },
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": 1,
+      "cost": "2 зм",
+      "properties": [
+        "Finesse",
+        "Light",
+        "Thrown"
+      ]
+    },
+    {
+      "id": "shortsword",
+      "name": "Короткий меч",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 11,
+      "time": 8,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 2,
+        "leather": 1
+      },
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": 2,
+      "cost": "10 зм",
+      "properties": [
+        "Finesse",
+        "Light"
+      ]
+    },
+    {
+      "id": "longsword",
+      "name": "Длинный меч",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 12,
+      "time": 10,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 3,
+        "leather": 1
+      },
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": 3,
+      "cost": "15 зм",
+      "properties": [
+        "Versatile"
+      ]
+    },
+    {
+      "id": "greatsword",
+      "name": "Двуручный меч",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 14,
+      "time": 18,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 6,
+        "leather": 1
+      },
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": 6,
+      "cost": "50 зм",
+      "properties": [
+        "Heavy",
+        "Two-Handed"
+      ]
+    },
+    {
+      "id": "rapier",
+      "name": "Рапира",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 13,
+      "time": 10,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 2,
+        "silver": 1,
+        "leather": 1
+      },
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": 2,
+      "cost": "25 зм",
+      "properties": [
+        "Finesse"
+      ]
+    },
+    {
+      "id": "mace",
+      "name": "Булава",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 10,
+      "time": 6,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "iron": 2,
+        "wood": 1
+      },
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": 4,
+      "cost": "5 зм",
+      "properties": []
+    },
+    {
+      "id": "battleaxe",
+      "name": "Боевой топор",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 12,
+      "time": 9,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 2,
+        "wood": 1,
+        "leather": 1
+      },
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": 4,
+      "cost": "10 зм",
+      "properties": [
+        "Versatile"
+      ]
+    },
+    {
+      "id": "warhammer",
+      "name": "Боевой молот",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 12,
+      "time": 9,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 2,
+        "wood": 1
+      },
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": 2,
+      "cost": "15 зм",
+      "properties": [
+        "Versatile"
+      ]
+    },
+    {
+      "id": "spear",
+      "name": "Копьё",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 9,
+      "time": 4,
+      "tools": [
+        "smith",
+        "woodwork"
+      ],
+      "materials": {
+        "steel": 1,
+        "wood": 2,
+        "leather": 1
+      },
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": 3,
+      "cost": "1 зм",
+      "properties": [
+        "Thrown",
+        "Versatile"
+      ]
+    },
+    {
+      "id": "shield",
+      "name": "Щит",
+      "inventoryCategory": "armor",
+      "category": "Щит",
+      "dc": 12,
+      "time": 8,
+      "tools": [
+        "smith",
+        "leatherwork"
+      ],
+      "materials": {
+        "wood": 3,
+        "steel": 1,
+        "leather": 1
+      },
+      "ac": 2,
+      "weight": 6,
+      "cost": "10 зм"
+    },
+    {
+      "id": "shortbow",
+      "name": "Короткий лук",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 11,
+      "time": 8,
+      "tools": [
+        "woodwork"
+      ],
+      "materials": {
+        "hardwood": 2,
+        "leather": 1,
+        "thread": 1
+      },
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": 2,
+      "cost": "25 зм",
+      "properties": [
+        "Ammunition",
+        "Two-Handed"
+      ]
+    },
+    {
+      "id": "longbow",
+      "name": "Длинный лук",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 13,
+      "time": 14,
+      "tools": [
+        "woodwork"
+      ],
+      "materials": {
+        "hardwood": 4,
+        "leather": 1,
+        "thread": 2
+      },
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": 2,
+      "cost": "50 зм",
+      "properties": [
+        "Ammunition",
+        "Heavy",
+        "Two-Handed"
+      ]
+    },
+    {
+      "id": "crossbow",
+      "name": "Арбалет",
+      "inventoryCategory": "weapons",
+      "category": "weapons",
+      "dc": 13,
+      "time": 12,
+      "tools": [
+        "woodwork",
+        "smith"
+      ],
+      "materials": {
+        "steel": 2,
+        "hardwood": 2,
+        "leather": 1,
+        "thread": 2
+      },
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": 5,
+      "cost": "25 зм",
+      "properties": [
+        "Ammunition",
+        "Loading",
+        "Two-Handed"
+      ]
+    },
+    {
+      "id": "leatherArmor",
+      "name": "Кожаный доспех",
+      "inventoryCategory": "armor",
+      "category": "Лёгкий доспех",
+      "dc": 10,
+      "time": 10,
+      "tools": [
+        "leatherwork"
+      ],
+      "materials": {
+        "leather": 4,
+        "thread": 2
+      },
+      "ac": 11,
+      "weight": 10,
+      "cost": "10 зм"
+    },
+    {
+      "id": "studdedLeather",
+      "name": "Клёпаная кожа",
+      "inventoryCategory": "armor",
+      "category": "Лёгкий доспех",
+      "dc": 12,
+      "time": 14,
+      "tools": [
+        "leatherwork",
+        "smith"
+      ],
+      "materials": {
+        "leather": 5,
+        "iron": 2,
+        "thread": 2
+      },
+      "ac": 12,
+      "weight": 13,
+      "cost": "45 зм"
+    },
+    {
+      "id": "chainShirt",
+      "name": "Кольчуга",
+      "inventoryCategory": "armor",
+      "category": "Средний доспех",
+      "dc": 13,
+      "time": 20,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 8
+      },
+      "ac": 13,
+      "weight": 20,
+      "cost": "50 зм"
+    },
+    {
+      "id": "breastplate",
+      "name": "Кираса",
+      "inventoryCategory": "armor",
+      "category": "Средний доспех",
+      "dc": 14,
+      "time": 18,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 8,
+        "leather": 2
+      },
+      "ac": 14,
+      "weight": 20,
+      "cost": "400 зм"
+    },
+    {
+      "id": "chainmail",
+      "name": "Кольчужная рубаха",
+      "inventoryCategory": "armor",
+      "category": "Тяжёлый доспех",
+      "dc": 14,
+      "time": 24,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 12,
+        "leather": 2
+      },
+      "ac": 16,
+      "weight": 55,
+      "cost": "75 зм"
+    },
+    {
+      "id": "plate",
+      "name": "Латы",
+      "inventoryCategory": "armor",
+      "category": "Тяжёлый доспех",
+      "dc": 17,
+      "time": 40,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "steel": 24,
+        "leather": 3
+      },
+      "ac": 18,
+      "weight": 65,
+      "cost": "1500 зм"
+    },
+    {
+      "id": "mithralArmor",
+      "name": "Мифриловая броня",
+      "inventoryCategory": "armor",
+      "category": "Средний доспех",
+      "dc": 18,
+      "time": 36,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "mithral": 12,
+        "leather": 2,
+        "thread": 2
+      },
+      "ac": 16,
+      "weight": 25,
+      "cost": "1500+ зм",
+      "rarity": "very_rare",
+      "special": "Не имеет ограничения Силы и помехи скрытности по решению мастера."
+    },
+    {
+      "id": "dragonScaleArmor",
+      "name": "Доспех из драконьей чешуи",
+      "inventoryCategory": "armor",
+      "category": "Средний доспех",
+      "dc": 18,
+      "time": 30,
+      "tools": [
+        "leatherwork"
+      ],
+      "materials": {
+        "dragonScale": 12,
+        "leather": 3,
+        "thread": 2
+      },
+      "ac": 14,
+      "weight": 20,
+      "cost": "500+ зм",
+      "rarity": "very_rare",
+      "special": "Выбери сопротивление, связанное с видом чешуи."
+    },
+    {
+      "id": "amulet",
+      "name": "Амулет",
+      "inventoryCategory": "armor",
+      "category": "Аксессуар",
+      "dc": 10,
+      "time": 6,
+      "tools": [
+        "jeweler"
+      ],
+      "materials": {
+        "silver": 1,
+        "gem": 1,
+        "thread": 1
+      },
+      "weight": 0.1,
+      "cost": "20 зм"
+    },
+    {
+      "id": "ring",
+      "name": "Кольцо",
+      "inventoryCategory": "armor",
+      "category": "Аксессуар",
+      "dc": 11,
+      "time": 5,
+      "tools": [
+        "jeweler"
+      ],
+      "materials": {
+        "silver": 1,
+        "gem": 1
+      },
+      "weight": 0.05,
+      "cost": "25 зм"
+    },
+    {
+      "id": "goggles",
+      "name": "Защитные очки",
+      "inventoryCategory": "armor",
+      "category": "Аксессуар",
+      "dc": 10,
+      "time": 5,
+      "tools": [
+        "glasswork",
+        "leatherwork"
+      ],
+      "materials": {
+        "glass": 2,
+        "leather": 1,
+        "thread": 1
+      },
+      "weight": 0.2,
+      "cost": "10 зм"
+    },
+    {
+      "id": "cloak",
+      "name": "Плотный плащ",
+      "inventoryCategory": "armor",
+      "category": "Аксессуар",
+      "dc": 9,
+      "time": 5,
+      "tools": [
+        "weaver"
+      ],
+      "materials": {
+        "cloth": 3,
+        "thread": 2
+      },
+      "weight": 2,
+      "cost": "5 зм"
+    },
+    {
+      "id": "vial",
+      "name": "Стеклянный флакон",
+      "inventoryCategory": "materials",
+      "category": "Стекло",
+      "dc": 8,
+      "time": 1,
+      "tools": [
+        "glasswork"
+      ],
+      "materials": {
+        "glass": 1
+      },
+      "weight": 0.1,
+      "cost": "1 зм"
+    },
+    {
+      "id": "alchemistBottle",
+      "name": "Алхимическая бутылочка",
+      "inventoryCategory": "materials",
+      "category": "Стекло",
+      "dc": 10,
+      "time": 2,
+      "tools": [
+        "glasswork"
+      ],
+      "materials": {
+        "glass": 2,
+        "clay": 1
+      },
+      "weight": 0.2,
+      "cost": "3 зм"
+    },
+    {
+      "id": "crucible",
+      "name": "Керамический тигель",
+      "inventoryCategory": "materials",
+      "category": "Керамика",
+      "dc": 10,
+      "time": 3,
+      "tools": [
+        "pottery"
+      ],
+      "materials": {
+        "clay": 3,
+        "charcoal": 1
+      },
+      "weight": 2,
+      "cost": "5 зм"
+    },
+    {
+      "id": "retort",
+      "name": "Перегонная колба",
+      "inventoryCategory": "materials",
+      "category": "Алхимия",
+      "dc": 13,
+      "time": 5,
+      "tools": [
+        "glasswork",
+        "alchemy"
+      ],
+      "materials": {
+        "glass": 3,
+        "ceramic": 1
+      },
+      "weight": 1,
+      "cost": "15 зм"
+    },
+    {
+      "id": "sealedJar",
+      "name": "Герметичная банка",
+      "inventoryCategory": "materials",
+      "category": "Керамика",
+      "dc": 9,
+      "time": 2,
+      "tools": [
+        "pottery"
+      ],
+      "materials": {
+        "ceramic": 2,
+        "wax": 1
+      },
+      "weight": 1,
+      "cost": "2 зм"
+    },
+    {
+      "id": "paperBundle",
+      "name": "Стопка бумаги",
+      "inventoryCategory": "materials",
+      "category": "Бумага",
+      "dc": 8,
+      "time": 2,
+      "tools": [
+        "scribe"
+      ],
+      "materials": {
+        "paper": 10,
+        "thread": 1
+      },
+      "weight": 0.5,
+      "cost": "2 зм",
+      "quantity": 10
+    },
+    {
+      "id": "parchmentBundle",
+      "name": "Стопка пергамента",
+      "inventoryCategory": "materials",
+      "category": "Пергамент",
+      "dc": 9,
+      "time": 3,
+      "tools": [
+        "scribe",
+        "leatherwork"
+      ],
+      "materials": {
+        "parchment": 10,
+        "thread": 1
+      },
+      "weight": 0.5,
+      "cost": "10 зм",
+      "quantity": 10
+    },
+    {
+      "id": "map",
+      "name": "Карта местности",
+      "inventoryCategory": "materials",
+      "category": "Карта",
+      "dc": 12,
+      "time": 8,
+      "tools": [
+        "cartographer",
+        "scribe"
+      ],
+      "materials": {
+        "paper": 2,
+        "ink": 1,
+        "thread": 1
+      },
+      "weight": 0.1,
+      "cost": "10 зм",
+      "special": "Точность зависит от инструментов и проверки."
+    },
+    {
+      "id": "spellbook",
+      "name": "Пустая книга заклинаний",
+      "inventoryCategory": "materials",
+      "category": "Книга",
+      "dc": 12,
+      "time": 10,
+      "tools": [
+        "scribe"
+      ],
+      "materials": {
+        "parchment": 30,
+        "leather": 2,
+        "thread": 3,
+        "ink": 2
+      },
+      "weight": 3,
+      "cost": "50 зм"
+    },
+    {
+      "id": "bowl",
+      "name": "Керамическая миска",
+      "inventoryCategory": "junk",
+      "category": "Посуда",
+      "dc": 8,
+      "time": 1,
+      "tools": [
+        "pottery"
+      ],
+      "materials": {
+        "clay": 2
+      },
+      "weight": 1,
+      "cost": 0.02
+    },
+    {
+      "id": "cup",
+      "name": "Керамическая кружка",
+      "inventoryCategory": "junk",
+      "category": "Посуда",
+      "dc": 8,
+      "time": 1,
+      "tools": [
+        "pottery"
+      ],
+      "materials": {
+        "clay": 1
+      },
+      "weight": 0.5,
+      "cost": 0.01
+    },
+    {
+      "id": "glassBottle",
+      "name": "Стеклянная бутылка",
+      "inventoryCategory": "junk",
+      "category": "Стекло",
+      "dc": 8,
+      "time": 1,
+      "tools": [
+        "glasswork"
+      ],
+      "materials": {
+        "glass": 2
+      },
+      "weight": 0.3,
+      "cost": 0.5
+    },
+    {
+      "id": "lens",
+      "name": "Стеклянная линза",
+      "inventoryCategory": "materials",
+      "category": "Оптика",
+      "dc": 14,
+      "time": 4,
+      "tools": [
+        "glasswork"
+      ],
+      "materials": {
+        "glass": 2,
+        "crystal": 1
+      },
+      "weight": 0.2,
+      "cost": "20 зм"
+    },
+    {
+      "id": "candle",
+      "name": "Свеча",
+      "inventoryCategory": "consumables",
+      "category": "Расходник",
+      "dc": 7,
+      "time": 1,
+      "tools": [
+        "weaver"
+      ],
+      "materials": {
+        "wax": 1,
+        "thread": 1
+      },
+      "weight": 0.1,
+      "cost": 0.01,
+      "quantity": 2
+    },
+    {
+      "id": "torch",
+      "name": "Факел",
+      "inventoryCategory": "consumables",
+      "category": "Расходник",
+      "dc": 7,
+      "time": 1,
+      "tools": [
+        "woodwork"
+      ],
+      "materials": {
+        "wood": 1,
+        "cloth": 1,
+        "resin": 1
+      },
+      "weight": 1,
+      "cost": 0.01,
+      "quantity": 2
+    },
+    {
+      "id": "silverWire",
+      "name": "Серебряная проволока",
+      "inventoryCategory": "materials",
+      "category": "Материал",
+      "dc": 11,
+      "time": 3,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "silver": 2
+      },
+      "weight": 0.2,
+      "cost": "10 зм"
+    },
+    {
+      "id": "adamantineEdge",
+      "name": "Адамантиновая заточка",
+      "inventoryCategory": "materials",
+      "category": "Модификатор",
+      "dc": 17,
+      "time": 12,
+      "tools": [
+        "smith"
+      ],
+      "materials": {
+        "adamantine": 1,
+        "steel": 2,
+        "charcoal": 1
+      },
+      "weight": 0.2,
+      "cost": "150 зм",
+      "special": "Можно применить к подходящему оружию по решению мастера."
+    },
+    {
+      "id": "mithralWire",
+      "name": "Мифриловая нить",
+      "inventoryCategory": "materials",
+      "category": "Материал",
+      "dc": 17,
+      "time": 8,
+      "tools": [
+        "smith",
+        "weaver"
+      ],
+      "materials": {
+        "mithral": 1,
+        "thread": 2
+      },
+      "weight": 0.1,
+      "cost": "100 зм"
+    },
+    {
+      "id": "arrows",
+      "name": "Стрелы",
+      "inventoryCategory": "consumables",
+      "category": "Боеприпасы",
+      "dc": 9,
+      "time": 2,
+      "tools": [
+        "woodwork"
+      ],
+      "materials": {
+        "wood": 2,
+        "steel": 1,
+        "thread": 1
+      },
+      "weight": 1,
+      "cost": "1 зм",
+      "quantity": 20
+    },
+    {
+      "id": "bolts",
+      "name": "Арбалетные болты",
+      "inventoryCategory": "consumables",
+      "category": "Боеприпасы",
+      "dc": 9,
+      "time": 2,
+      "tools": [
+        "woodwork",
+        "smith"
+      ],
+      "materials": {
+        "wood": 2,
+        "steel": 1,
+        "thread": 1
+      },
+      "weight": 1.5,
+      "cost": "1 зм",
+      "quantity": 20
+    },
+    {
+      "id": "oil",
+      "name": "Масло",
+      "inventoryCategory": "consumables",
+      "category": "Расходник",
+      "dc": 8,
+      "time": 2,
+      "tools": [
+        "alchemy"
+      ],
+      "materials": {
+        "resin": 1,
+        "glass": 1
+      },
+      "weight": 1,
+      "cost": "1 зм",
+      "quantity": 2
+    },
+    {
+      "id": "antitoxinVial",
+      "name": "Пустой флакон антидота",
+      "inventoryCategory": "materials",
+      "category": "Алхимия",
+      "dc": 9,
+      "time": 2,
+      "tools": [
+        "alchemy",
+        "glasswork"
+      ],
+      "materials": {
+        "glass": 1,
+        "herb": 1,
+        "charcoal": 1
+      },
+      "weight": 0.1,
+      "cost": "2 зм"
+    }
+  ],
+  "toolLabels": {
+    "smith": "Кузнечные инструменты",
+    "woodwork": "Плотницкие инструменты",
+    "leatherwork": "Инструменты кожевника",
+    "glasswork": "Инструменты стеклодува",
+    "pottery": "Гончарные инструменты",
+    "weaver": "Инструменты ткача",
+    "jeweler": "Ювелирные инструменты",
+    "scribe": "Каллиграфические инструменты",
+    "cartographer": "Инструменты картографа",
+    "alchemy": "Инструменты алхимика"
+  },
+  "toolAliases": {
+    "smith": [
+      "smith",
+      "p_smith_tools",
+      "кузнечные инструменты",
+      "smiths tools"
+    ],
+    "woodwork": [
+      "woodwork",
+      "p_carpenter_tools",
+      "плотницкие инструменты",
+      "carpenters tools"
+    ],
+    "leatherwork": [
+      "leatherwork",
+      "p_leatherworker_tools",
+      "инструменты кожевника",
+      "leatherworker tools"
+    ],
+    "glasswork": [
+      "glasswork",
+      "p_glassblower_tools",
+      "инструменты стеклодува",
+      "glassblowers tools"
+    ],
+    "pottery": [
+      "pottery",
+      "p_potter_tools",
+      "гончарные инструменты",
+      "potter tools"
+    ],
+    "weaver": [
+      "weaver",
+      "p_weaver_tools",
+      "инструменты ткача",
+      "weaver tools"
+    ],
+    "jeweler": [
+      "jeweler",
+      "p_jeweler_tools",
+      "ювелирные инструменты",
+      "jeweler tools"
+    ],
+    "scribe": [
+      "scribe",
+      "p_calligrapher_tools",
+      "каллиграфические инструменты",
+      "calligrapher supplies"
+    ],
+    "cartographer": [
+      "cartographer",
+      "p_cartographer_tools",
+      "инструменты картографа",
+      "cartographers tools"
+    ],
+    "alchemy": [
+      "alchemy",
+      "p_alchemist_tools",
+      "инструменты алхимика",
+      "alchemists supplies"
+    ]
+  }
+}

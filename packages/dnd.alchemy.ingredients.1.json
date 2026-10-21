@@ -1,0 +1,1171 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.alchemy.ingredients.1",
+  "version": "1.0.0",
+  "type": "craft",
+  "mode": "alchemy-ingredients",
+  "ingredients": [
+    {
+      "id": "ing_001",
+      "name": "Лунная трава",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Perception",
+        "Stability",
+        "Cold"
+      ],
+      "extra": null,
+      "potency": 24,
+      "stability": 82,
+      "volatility": 22,
+      "purity": 65,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_002",
+      "name": "Красная мандрагора",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Strength",
+        "Earth"
+      ],
+      "extra": null,
+      "potency": 29,
+      "stability": 64,
+      "volatility": 37,
+      "purity": 79,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_003",
+      "name": "Чернолист",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Venom",
+        "Antidote",
+        "Weakness",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 38,
+      "stability": 65,
+      "volatility": 31,
+      "purity": 69,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_004",
+      "name": "Серебряный мох",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Antidote",
+        "Stability",
+        "Radiant",
+        "Cold"
+      ],
+      "extra": "Vitality",
+      "potency": 41,
+      "stability": 71,
+      "volatility": 30,
+      "purity": 67,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_005",
+      "name": "Солнечный лепесток",
+      "category": "plant",
+      "rarity": "rare",
+      "properties": [
+        "Radiant",
+        "Recovery",
+        "Vitality",
+        "Fire"
+      ],
+      "extra": null,
+      "potency": 46,
+      "stability": 68,
+      "volatility": 38,
+      "purity": 72,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_006",
+      "name": "Теневой плющ",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Invisibility",
+        "Venom",
+        "Cold",
+        "Hallucination"
+      ],
+      "extra": null,
+      "potency": 43,
+      "stability": 66,
+      "volatility": 38,
+      "purity": 69,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_007",
+      "name": "Вдовий колокольчик",
+      "category": "plant",
+      "rarity": "rare",
+      "properties": [
+        "Venom",
+        "Nausea",
+        "Sleep",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 51,
+      "stability": 63,
+      "volatility": 45,
+      "purity": 75,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_008",
+      "name": "Пепельный папоротник",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Antidote",
+        "Stability",
+        "Weakness"
+      ],
+      "extra": "Volatility",
+      "potency": 20,
+      "stability": 68,
+      "volatility": 13,
+      "purity": 74,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_009",
+      "name": "Ледяная мята",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Cold",
+        "Nausea",
+        "Recovery",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 18,
+      "stability": 71,
+      "volatility": 20,
+      "purity": 72,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_010",
+      "name": "Кровавый шалфей",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Hemorrhage",
+        "Recovery",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 27,
+      "stability": 67,
+      "volatility": 37,
+      "purity": 71,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_011",
+      "name": "Призрачная орхидея",
+      "category": "plant",
+      "rarity": "rare",
+      "properties": [
+        "Hallucination",
+        "Invisibility",
+        "Magic",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 46,
+      "stability": 61,
+      "volatility": 35,
+      "purity": 78,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_012",
+      "name": "Звёздный анис",
+      "category": "plant",
+      "rarity": "rare",
+      "properties": [
+        "Mind",
+        "Perception",
+        "Magic",
+        "Stability"
+      ],
+      "extra": "Recovery",
+      "potency": 43,
+      "stability": 62,
+      "volatility": 48,
+      "purity": 74,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_013",
+      "name": "Драконья крапива",
+      "category": "plant",
+      "rarity": "rare",
+      "properties": [
+        "Fire",
+        "Strength",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 43,
+      "stability": 71,
+      "volatility": 34,
+      "purity": 86,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_014",
+      "name": "Могильный корень",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Necrotic",
+        "Recovery",
+        "Fear",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 28,
+      "stability": 71,
+      "volatility": 24,
+      "purity": 73,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_015",
+      "name": "Волчья ягода",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Venom",
+        "Dexterity",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 31,
+      "stability": 70,
+      "volatility": 12,
+      "purity": 78,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_016",
+      "name": "Роса фей",
+      "category": "plant",
+      "rarity": "very_rare",
+      "properties": [
+        "Invisibility",
+        "Recovery",
+        "Magic",
+        "Radiant"
+      ],
+      "extra": "Vitality",
+      "potency": 64,
+      "stability": 67,
+      "volatility": 62,
+      "purity": 85,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_017",
+      "name": "Болотная свеча",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Nausea",
+        "Weakness",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 23,
+      "stability": 72,
+      "volatility": 23,
+      "purity": 66,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_018",
+      "name": "Сонный мак",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Sleep",
+        "Nausea",
+        "Mind",
+        "Recovery"
+      ],
+      "extra": null,
+      "potency": 19,
+      "stability": 70,
+      "volatility": 22,
+      "purity": 76,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_019",
+      "name": "Каменный лишайник",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Acid",
+        "Vitality"
+      ],
+      "extra": null,
+      "potency": 29,
+      "stability": 77,
+      "volatility": 26,
+      "purity": 64,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_020",
+      "name": "Чернильный гриб",
+      "category": "fungus",
+      "rarity": "common",
+      "properties": [
+        "Invisibility",
+        "Hallucination",
+        "Mind",
+        "Magic"
+      ],
+      "extra": "Stability",
+      "potency": 17,
+      "stability": 70,
+      "volatility": 25,
+      "purity": 77,
+      "tags": [
+        "fungus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_021",
+      "name": "Пещерный гриб",
+      "category": "fungus",
+      "rarity": "common",
+      "properties": [
+        "Cold",
+        "Perception",
+        "Nausea",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 77,
+      "volatility": 24,
+      "purity": 74,
+      "tags": [
+        "fungus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_022",
+      "name": "Кровомор",
+      "category": "fungus",
+      "rarity": "uncommon",
+      "properties": [
+        "Hemorrhage",
+        "Venom",
+        "Recovery",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 34,
+      "stability": 75,
+      "volatility": 27,
+      "purity": 70,
+      "tags": [
+        "fungus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_023",
+      "name": "Серый трутовик",
+      "category": "fungus",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Antidote",
+        "Weakness"
+      ],
+      "extra": null,
+      "potency": 31,
+      "stability": 78,
+      "volatility": 26,
+      "purity": 66,
+      "tags": [
+        "fungus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_024",
+      "name": "Светящийся гриб",
+      "category": "fungus",
+      "rarity": "uncommon",
+      "properties": [
+        "Radiant",
+        "Perception",
+        "Magic",
+        "Stability"
+      ],
+      "extra": "Hallucination",
+      "potency": 38,
+      "stability": 63,
+      "volatility": 31,
+      "purity": 79,
+      "tags": [
+        "fungus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_025",
+      "name": "Клык паука",
+      "category": "animal",
+      "rarity": "common",
+      "properties": [
+        "Venom",
+        "Hemorrhage",
+        "Dexterity",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 18,
+      "stability": 79,
+      "volatility": 28,
+      "purity": 74,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_026",
+      "name": "Жало скорпиона",
+      "category": "animal",
+      "rarity": "uncommon",
+      "properties": [
+        "Venom",
+        "Weakness",
+        "Nausea",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 41,
+      "stability": 76,
+      "volatility": 33,
+      "purity": 76,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_027",
+      "name": "Кровь летучей мыши",
+      "category": "animal",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Invisibility",
+        "Speed",
+        "Hemorrhage"
+      ],
+      "extra": null,
+      "potency": 29,
+      "stability": 73,
+      "volatility": 27,
+      "purity": 68,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_028",
+      "name": "Глаз совы",
+      "category": "animal",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Mind",
+        "Cold",
+        "Magic"
+      ],
+      "extra": "Hemorrhage",
+      "potency": 27,
+      "stability": 75,
+      "volatility": 30,
+      "purity": 71,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_029",
+      "name": "Перья ворона",
+      "category": "animal",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Invisibility",
+        "Mind",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 25,
+      "stability": 76,
+      "volatility": 12,
+      "purity": 77,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_030",
+      "name": "Коготь волка",
+      "category": "animal",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Strength",
+        "Hemorrhage",
+        "Fear"
+      ],
+      "extra": null,
+      "potency": 24,
+      "stability": 83,
+      "volatility": 16,
+      "purity": 75,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_031",
+      "name": "Клык вампира",
+      "category": "monster",
+      "rarity": "very_rare",
+      "properties": [
+        "Necrotic",
+        "Hemorrhage",
+        "Vitality",
+        "Invisibility"
+      ],
+      "extra": null,
+      "potency": 67,
+      "stability": 57,
+      "volatility": 51,
+      "purity": 93,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_032",
+      "name": "Прах упыря",
+      "category": "monster",
+      "rarity": "rare",
+      "properties": [
+        "Necrotic",
+        "Nausea",
+        "Fear",
+        "Recovery"
+      ],
+      "extra": "Magic",
+      "potency": 53,
+      "stability": 58,
+      "volatility": 39,
+      "purity": 75,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_033",
+      "name": "Кровь оборотня",
+      "category": "monster",
+      "rarity": "rare",
+      "properties": [
+        "Vitality",
+        "Strength",
+        "Speed",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 46,
+      "stability": 58,
+      "volatility": 33,
+      "purity": 78,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_034",
+      "name": "Чешуя дракона",
+      "category": "monster",
+      "rarity": "very_rare",
+      "properties": [
+        "Fire",
+        "Cold",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 62,
+      "stability": 59,
+      "volatility": 58,
+      "purity": 89,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_035",
+      "name": "Слюна дракона",
+      "category": "monster",
+      "rarity": "very_rare",
+      "properties": [
+        "Acid",
+        "Fire",
+        "Venom",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 71,
+      "stability": 57,
+      "volatility": 63,
+      "purity": 80,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_036",
+      "name": "Кость дракона",
+      "category": "monster",
+      "rarity": "very_rare",
+      "properties": [
+        "Magic",
+        "Stability",
+        "Vitality",
+        "Radiant"
+      ],
+      "extra": "Necrotic",
+      "potency": 72,
+      "stability": 56,
+      "volatility": 54,
+      "purity": 84,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_037",
+      "name": "Эктоплазма",
+      "category": "undead",
+      "rarity": "rare",
+      "properties": [
+        "Necrotic",
+        "Invisibility",
+        "Magic",
+        "Hallucination"
+      ],
+      "extra": null,
+      "potency": 55,
+      "stability": 69,
+      "volatility": 33,
+      "purity": 75,
+      "tags": [
+        "undead",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_038",
+      "name": "Пепел вампира",
+      "category": "undead",
+      "rarity": "rare",
+      "properties": [
+        "Necrotic",
+        "Invisibility",
+        "Fear",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 44,
+      "stability": 71,
+      "volatility": 45,
+      "purity": 79,
+      "tags": [
+        "undead",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_039",
+      "name": "Глаз василиска",
+      "category": "monster",
+      "rarity": "legendary",
+      "properties": [
+        "Petrification",
+        "Magic",
+        "Fear",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 81,
+      "stability": 53,
+      "volatility": 74,
+      "purity": 85,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_040",
+      "name": "Желчь хобгоблина",
+      "category": "monster",
+      "rarity": "uncommon",
+      "properties": [
+        "Venom",
+        "Weakness",
+        "Strength",
+        "Nausea"
+      ],
+      "extra": "Fear",
+      "potency": 39,
+      "stability": 71,
+      "volatility": 38,
+      "purity": 82,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_001",
+      "name": "Лунная трава",
+      "alchemyId": "ing_001",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_002",
+      "name": "Красная мандрагора",
+      "alchemyId": "ing_002",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_003",
+      "name": "Чернолист",
+      "alchemyId": "ing_003",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_004",
+      "name": "Серебряный мох",
+      "alchemyId": "ing_004",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_005",
+      "name": "Солнечный лепесток",
+      "alchemyId": "ing_005",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_006",
+      "name": "Теневой плющ",
+      "alchemyId": "ing_006",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_007",
+      "name": "Вдовий колокольчик",
+      "alchemyId": "ing_007",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_008",
+      "name": "Пепельный папоротник",
+      "alchemyId": "ing_008",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_009",
+      "name": "Ледяная мята",
+      "alchemyId": "ing_009",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_010",
+      "name": "Кровавый шалфей",
+      "alchemyId": "ing_010",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_011",
+      "name": "Призрачная орхидея",
+      "alchemyId": "ing_011",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_012",
+      "name": "Звёздный анис",
+      "alchemyId": "ing_012",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_013",
+      "name": "Драконья крапива",
+      "alchemyId": "ing_013",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_014",
+      "name": "Могильный корень",
+      "alchemyId": "ing_014",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_015",
+      "name": "Волчья ягода",
+      "alchemyId": "ing_015",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_016",
+      "name": "Роса фей",
+      "alchemyId": "ing_016",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_017",
+      "name": "Болотная свеча",
+      "alchemyId": "ing_017",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_018",
+      "name": "Сонный мак",
+      "alchemyId": "ing_018",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_019",
+      "name": "Каменный лишайник",
+      "alchemyId": "ing_019",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_020",
+      "name": "Чернильный гриб",
+      "alchemyId": "ing_020",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_021",
+      "name": "Пещерный гриб",
+      "alchemyId": "ing_021",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_022",
+      "name": "Кровомор",
+      "alchemyId": "ing_022",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_023",
+      "name": "Серый трутовик",
+      "alchemyId": "ing_023",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_024",
+      "name": "Светящийся гриб",
+      "alchemyId": "ing_024",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_025",
+      "name": "Клык паука",
+      "alchemyId": "ing_025",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_026",
+      "name": "Жало скорпиона",
+      "alchemyId": "ing_026",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_027",
+      "name": "Кровь летучей мыши",
+      "alchemyId": "ing_027",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_028",
+      "name": "Глаз совы",
+      "alchemyId": "ing_028",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_029",
+      "name": "Перья ворона",
+      "alchemyId": "ing_029",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_030",
+      "name": "Коготь волка",
+      "alchemyId": "ing_030",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_031",
+      "name": "Клык вампира",
+      "alchemyId": "ing_031",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_032",
+      "name": "Прах упыря",
+      "alchemyId": "ing_032",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_033",
+      "name": "Кровь оборотня",
+      "alchemyId": "ing_033",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_034",
+      "name": "Чешуя дракона",
+      "alchemyId": "ing_034",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_035",
+      "name": "Слюна дракона",
+      "alchemyId": "ing_035",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_036",
+      "name": "Кость дракона",
+      "alchemyId": "ing_036",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_037",
+      "name": "Эктоплазма",
+      "alchemyId": "ing_037",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_038",
+      "name": "Пепел вампира",
+      "alchemyId": "ing_038",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_039",
+      "name": "Глаз василиска",
+      "alchemyId": "ing_039",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.1.ing_040",
+      "name": "Желчь хобгоблина",
+      "alchemyId": "ing_040",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    }
+  ]
+}

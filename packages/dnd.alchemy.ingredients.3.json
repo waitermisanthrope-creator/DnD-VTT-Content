@@ -1,0 +1,1171 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.alchemy.ingredients.3",
+  "version": "1.0.0",
+  "type": "craft",
+  "mode": "alchemy-ingredients",
+  "ingredients": [
+    {
+      "id": "ing_081",
+      "name": "Панцирь жука",
+      "category": "animal",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Acid",
+        "Vitality"
+      ],
+      "extra": null,
+      "potency": 25,
+      "stability": 70,
+      "volatility": 15,
+      "purity": 64,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_082",
+      "name": "Перо совы",
+      "category": "animal",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Mind",
+        "Invisibility",
+        "Cold"
+      ],
+      "extra": null,
+      "potency": 21,
+      "stability": 83,
+      "volatility": 23,
+      "purity": 77,
+      "tags": [
+        "animal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_083",
+      "name": "Шкура саламандры",
+      "category": "monster",
+      "rarity": "rare",
+      "properties": [
+        "Fire",
+        "Constitution",
+        "Stability",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 51,
+      "stability": 63,
+      "volatility": 33,
+      "purity": 75,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_084",
+      "name": "Кровь элементаля",
+      "category": "monster",
+      "rarity": "very_rare",
+      "properties": [
+        "Magic",
+        "Fire",
+        "Cold",
+        "Volatility"
+      ],
+      "extra": "Strength",
+      "potency": 63,
+      "stability": 60,
+      "volatility": 61,
+      "purity": 80,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_085",
+      "name": "Сердце голема",
+      "category": "construct",
+      "rarity": "very_rare",
+      "properties": [
+        "Stability",
+        "Constitution",
+        "Strength",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 64,
+      "stability": 68,
+      "volatility": 53,
+      "purity": 77,
+      "tags": [
+        "construct",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_086",
+      "name": "Ржавчина древнего железа",
+      "category": "mineral",
+      "rarity": "uncommon",
+      "properties": [
+        "Weakness",
+        "Acid",
+        "Necrotic",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 73,
+      "volatility": 37,
+      "purity": 74,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_087",
+      "name": "Порошок мела",
+      "category": "mineral",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Antidote",
+        "Mind",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 32,
+      "stability": 75,
+      "volatility": 19,
+      "purity": 63,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_088",
+      "name": "Известь",
+      "category": "mineral",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Stability",
+        "Constitution",
+        "Weakness"
+      ],
+      "extra": "Fire",
+      "potency": 28,
+      "stability": 67,
+      "volatility": 19,
+      "purity": 66,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_089",
+      "name": "Древесный уголь",
+      "category": "material",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Antidote",
+        "Weakness"
+      ],
+      "extra": null,
+      "potency": 28,
+      "stability": 67,
+      "volatility": 19,
+      "purity": 78,
+      "tags": [
+        "material",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_090",
+      "name": "Канифоль",
+      "category": "material",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 26,
+      "stability": 67,
+      "volatility": 23,
+      "purity": 62,
+      "tags": [
+        "material",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_091",
+      "name": "Глицерин",
+      "category": "material",
+      "rarity": "uncommon",
+      "properties": [
+        "Stability",
+        "Recovery",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 36,
+      "stability": 69,
+      "volatility": 25,
+      "purity": 81,
+      "tags": [
+        "material",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_092",
+      "name": "Спирт",
+      "category": "material",
+      "rarity": "common",
+      "properties": [
+        "Volatility",
+        "Antidote",
+        "Fire",
+        "Magic"
+      ],
+      "extra": "Stability",
+      "potency": 25,
+      "stability": 75,
+      "volatility": 21,
+      "purity": 72,
+      "tags": [
+        "material",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_093",
+      "name": "Уксус",
+      "category": "material",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Antidote",
+        "Stability",
+        "Weakness"
+      ],
+      "extra": null,
+      "potency": 24,
+      "stability": 81,
+      "volatility": 27,
+      "purity": 69,
+      "tags": [
+        "material",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_094",
+      "name": "Кровь древнего зверя",
+      "category": "monster",
+      "rarity": "rare",
+      "properties": [
+        "Strength",
+        "Vitality",
+        "Hemorrhage",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 53,
+      "stability": 72,
+      "volatility": 34,
+      "purity": 76,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_095",
+      "name": "Слезы сирены",
+      "category": "monster",
+      "rarity": "rare",
+      "properties": [
+        "Hallucination",
+        "Mind",
+        "Recovery",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 55,
+      "stability": 59,
+      "volatility": 42,
+      "purity": 85,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_096",
+      "name": "Пыль призрачного цветка",
+      "category": "magical",
+      "rarity": "rare",
+      "properties": [
+        "Invisibility",
+        "Necrotic",
+        "Hallucination",
+        "Magic"
+      ],
+      "extra": "Radiant",
+      "potency": 45,
+      "stability": 71,
+      "volatility": 32,
+      "purity": 75,
+      "tags": [
+        "magical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_097",
+      "name": "Лунный камень",
+      "category": "mineral",
+      "rarity": "rare",
+      "properties": [
+        "Cold",
+        "Radiant",
+        "Magic",
+        "Perception"
+      ],
+      "extra": null,
+      "potency": 43,
+      "stability": 58,
+      "volatility": 34,
+      "purity": 80,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_098",
+      "name": "Солнечный камень",
+      "category": "mineral",
+      "rarity": "rare",
+      "properties": [
+        "Radiant",
+        "Fire",
+        "Vitality",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 56,
+      "stability": 62,
+      "volatility": 47,
+      "purity": 86,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_099",
+      "name": "Кристалл памяти",
+      "category": "magical",
+      "rarity": "very_rare",
+      "properties": [
+        "Mind",
+        "Perception",
+        "Magic",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 71,
+      "stability": 65,
+      "volatility": 50,
+      "purity": 79,
+      "tags": [
+        "magical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_100",
+      "name": "Осколок зеркала",
+      "category": "craft",
+      "rarity": "uncommon",
+      "properties": [
+        "Invisibility",
+        "Hallucination",
+        "Perception",
+        "Magic"
+      ],
+      "extra": "Acid",
+      "potency": 30,
+      "stability": 73,
+      "volatility": 33,
+      "purity": 81,
+      "tags": [
+        "craft",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_101",
+      "name": "Порошок жемчуга",
+      "category": "mineral",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Magic",
+        "Radiant",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 35,
+      "stability": 73,
+      "volatility": 25,
+      "purity": 76,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_102",
+      "name": "Черный жемчуг",
+      "category": "mineral",
+      "rarity": "rare",
+      "properties": [
+        "Necrotic",
+        "Magic",
+        "Invisibility",
+        "Fear"
+      ],
+      "extra": null,
+      "potency": 57,
+      "stability": 57,
+      "volatility": 41,
+      "purity": 85,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_103",
+      "name": "Порошок кости",
+      "category": "organic",
+      "rarity": "common",
+      "properties": [
+        "Necrotic",
+        "Vitality",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 76,
+      "volatility": 25,
+      "purity": 70,
+      "tags": [
+        "organic",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_104",
+      "name": "Мозг чудовища",
+      "category": "monster",
+      "rarity": "rare",
+      "properties": [
+        "Mind",
+        "Hallucination",
+        "Magic",
+        "Volatility"
+      ],
+      "extra": "Strength",
+      "potency": 52,
+      "stability": 61,
+      "volatility": 41,
+      "purity": 81,
+      "tags": [
+        "monster",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_105",
+      "name": "Сердце растения",
+      "category": "plant",
+      "rarity": "rare",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 56,
+      "stability": 69,
+      "volatility": 48,
+      "purity": 85,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_106",
+      "name": "Споры грибницы",
+      "category": "fungus",
+      "rarity": "uncommon",
+      "properties": [
+        "Hallucination",
+        "Venom",
+        "Recovery",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 40,
+      "stability": 63,
+      "volatility": 31,
+      "purity": 80,
+      "tags": [
+        "fungus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_107",
+      "name": "Липкая смола",
+      "category": "plant",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Weakness",
+        "Acid",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 31,
+      "stability": 74,
+      "volatility": 27,
+      "purity": 65,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_108",
+      "name": "Корень мандрагоры",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Fear",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": "Stability",
+      "potency": 43,
+      "stability": 73,
+      "volatility": 32,
+      "purity": 80,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_109",
+      "name": "Семя тени",
+      "category": "plant",
+      "rarity": "rare",
+      "properties": [
+        "Invisibility",
+        "Necrotic",
+        "Speed",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 58,
+      "stability": 68,
+      "volatility": 41,
+      "purity": 86,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_110",
+      "name": "Пепел святого",
+      "category": "magical",
+      "rarity": "rare",
+      "properties": [
+        "Radiant",
+        "Antidote",
+        "Necrotic",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 57,
+      "stability": 67,
+      "volatility": 47,
+      "purity": 72,
+      "tags": [
+        "magical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_111",
+      "name": "Пепел проклятого",
+      "category": "magical",
+      "rarity": "rare",
+      "properties": [
+        "Necrotic",
+        "Fear",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 51,
+      "stability": 63,
+      "volatility": 40,
+      "purity": 88,
+      "tags": [
+        "magical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_112",
+      "name": "Священная вода",
+      "category": "magical",
+      "rarity": "uncommon",
+      "properties": [
+        "Radiant",
+        "Antidote",
+        "Recovery",
+        "Stability"
+      ],
+      "extra": "Magic",
+      "potency": 41,
+      "stability": 68,
+      "volatility": 34,
+      "purity": 71,
+      "tags": [
+        "magical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_113",
+      "name": "Вода из забытого источника",
+      "category": "magical",
+      "rarity": "rare",
+      "properties": [
+        "Recovery",
+        "Mind",
+        "Magic",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 52,
+      "stability": 62,
+      "volatility": 42,
+      "purity": 76,
+      "tags": [
+        "magical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_114",
+      "name": "Роса рассвета",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Radiant",
+        "Recovery",
+        "Stability",
+        "Vitality"
+      ],
+      "extra": null,
+      "potency": 35,
+      "stability": 77,
+      "volatility": 22,
+      "purity": 67,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_115",
+      "name": "Роса сумерек",
+      "category": "plant",
+      "rarity": "uncommon",
+      "properties": [
+        "Invisibility",
+        "Mind",
+        "Cold",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 39,
+      "stability": 73,
+      "volatility": 38,
+      "purity": 79,
+      "tags": [
+        "plant",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_116",
+      "name": "Медная стружка",
+      "category": "mineral",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Magic",
+        "Stability",
+        "Acid"
+      ],
+      "extra": "Radiant",
+      "potency": 25,
+      "stability": 72,
+      "volatility": 15,
+      "purity": 67,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_117",
+      "name": "Оловянная пыль",
+      "category": "mineral",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Magic",
+        "Weakness",
+        "Cold"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 68,
+      "volatility": 19,
+      "purity": 78,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_118",
+      "name": "Свинцовая пыль",
+      "category": "mineral",
+      "rarity": "common",
+      "properties": [
+        "Necrotic",
+        "Stability",
+        "Weakness",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 26,
+      "stability": 69,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_119",
+      "name": "Кварцевый песок",
+      "category": "mineral",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Magic",
+        "Radiant",
+        "Acid"
+      ],
+      "extra": null,
+      "potency": 28,
+      "stability": 75,
+      "volatility": 15,
+      "purity": 71,
+      "tags": [
+        "mineral",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "ing_120",
+      "name": "Древесная смола",
+      "category": "material",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Fire",
+        "Recovery",
+        "Volatility"
+      ],
+      "extra": "Antidote",
+      "potency": 22,
+      "stability": 78,
+      "volatility": 25,
+      "purity": 74,
+      "tags": [
+        "material",
+        "alchemy"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_081",
+      "name": "Панцирь жука",
+      "alchemyId": "ing_081",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_082",
+      "name": "Перо совы",
+      "alchemyId": "ing_082",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_083",
+      "name": "Шкура саламандры",
+      "alchemyId": "ing_083",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_084",
+      "name": "Кровь элементаля",
+      "alchemyId": "ing_084",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_085",
+      "name": "Сердце голема",
+      "alchemyId": "ing_085",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_086",
+      "name": "Ржавчина древнего железа",
+      "alchemyId": "ing_086",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_087",
+      "name": "Порошок мела",
+      "alchemyId": "ing_087",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_088",
+      "name": "Известь",
+      "alchemyId": "ing_088",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_089",
+      "name": "Древесный уголь",
+      "alchemyId": "ing_089",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_090",
+      "name": "Канифоль",
+      "alchemyId": "ing_090",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_091",
+      "name": "Глицерин",
+      "alchemyId": "ing_091",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_092",
+      "name": "Спирт",
+      "alchemyId": "ing_092",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_093",
+      "name": "Уксус",
+      "alchemyId": "ing_093",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_094",
+      "name": "Кровь древнего зверя",
+      "alchemyId": "ing_094",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_095",
+      "name": "Слезы сирены",
+      "alchemyId": "ing_095",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_096",
+      "name": "Пыль призрачного цветка",
+      "alchemyId": "ing_096",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_097",
+      "name": "Лунный камень",
+      "alchemyId": "ing_097",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_098",
+      "name": "Солнечный камень",
+      "alchemyId": "ing_098",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_099",
+      "name": "Кристалл памяти",
+      "alchemyId": "ing_099",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_100",
+      "name": "Осколок зеркала",
+      "alchemyId": "ing_100",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_101",
+      "name": "Порошок жемчуга",
+      "alchemyId": "ing_101",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_102",
+      "name": "Черный жемчуг",
+      "alchemyId": "ing_102",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_103",
+      "name": "Порошок кости",
+      "alchemyId": "ing_103",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_104",
+      "name": "Мозг чудовища",
+      "alchemyId": "ing_104",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_105",
+      "name": "Сердце растения",
+      "alchemyId": "ing_105",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_106",
+      "name": "Споры грибницы",
+      "alchemyId": "ing_106",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_107",
+      "name": "Липкая смола",
+      "alchemyId": "ing_107",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_108",
+      "name": "Корень мандрагоры",
+      "alchemyId": "ing_108",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_109",
+      "name": "Семя тени",
+      "alchemyId": "ing_109",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_110",
+      "name": "Пепел святого",
+      "alchemyId": "ing_110",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_111",
+      "name": "Пепел проклятого",
+      "alchemyId": "ing_111",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_112",
+      "name": "Священная вода",
+      "alchemyId": "ing_112",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_113",
+      "name": "Вода из забытого источника",
+      "alchemyId": "ing_113",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_114",
+      "name": "Роса рассвета",
+      "alchemyId": "ing_114",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_115",
+      "name": "Роса сумерек",
+      "alchemyId": "ing_115",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_116",
+      "name": "Медная стружка",
+      "alchemyId": "ing_116",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_117",
+      "name": "Оловянная пыль",
+      "alchemyId": "ing_117",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_118",
+      "name": "Свинцовая пыль",
+      "alchemyId": "ing_118",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_119",
+      "name": "Кварцевый песок",
+      "alchemyId": "ing_119",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    },
+    {
+      "id": "dnd.alchemy.ingredients.3.ing_120",
+      "name": "Древесная смола",
+      "alchemyId": "ing_120",
+      "weight": "0.1 кг",
+      "inventoryCategory": "materials",
+      "description": "Алхимический ингредиент; свойства открываются исследованием."
+    }
+  ]
+}
