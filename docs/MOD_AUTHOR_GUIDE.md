@@ -1,6 +1,8 @@
 # Как создавать дополнения для DnD VTT — руководство для человека и ChatGPT
 
-> Актуальная ветка Unity-приложения: `DnD-VTT / experiment/unity-vtt`. Каталог игровых модов: **этот репозиторий**, `catalog/v3/index.json`. Графические дополнения: `DnD-VTT-Assets / catalog/v4/index.json`. Этот документ посвящён **дополнениям**, а не пересборке APK/EXE.
+> Актуальная ветка Unity-приложения: `DnD-VTT / experiment/unity-vtt`. Каталог игровых модов: **этот репозиторий**, `catalog/v3/index.json`. Графические дополнения: `DnD-VTT-Assets / catalog/v5/index.json`. Этот документ посвящён **дополнениям**, а не пересборке APK/EXE.
+
+Unity1.00.24+ читает Assets v5; Assets v4 сохранён для1.00.23 и старых клиентов. Игровые данные Content остаются в v3. Связанные наборы 3D-дайсов — декларативные appearance/dice-рецепты с minClientVersionCode10024; контракт генератора: [DnD-VTT-Assets/docs/DICE_THEMES.md](https://github.com/waitermisanthrope-creator/DnD-VTT-Assets/blob/main/docs/DICE_THEMES.md). Новые типы геометрии требуют кода клиента, произвольные скрипты из пакета не выполняются.
 
 ## Если ты — ИИ нового участника команды
 
@@ -25,7 +27,7 @@
 | `DnD-VTT-Content/catalog/v1/, v2/` | Исторические каталоги старых клиентов | Не менять без задачи на поддержку |
 | `DnD-VTT-Content/schemas/catalog-entry-v1.schema.json` | Схема элемента **каталога** | Проверка формата, не шаблон полезной нагрузки |
 | `DnD-VTT-Assets/packages/*.json` | Карты/примитивные модели/цвета | В другом репозитории |
-| `DnD-VTT-Assets/catalog/v4/index.json` | Живой индекс ассетов/предпросмотров | Публикация графики |
+| `DnD-VTT-Assets/catalog/v5/index.json` | Живой индекс ассетов/предпросмотров | Публикация графики |
 | `DnD-VTT/experiment/unity-vtt/unity/Assets/Vtt/Runtime/WorkshopStore.cs` | Валидатор пакетов, безопасная установка | Только если меняется движок |
 | `DnD-VTT/experiment/unity-vtt/unity/Assets/Vtt/Runtime/LegacySessionPanel.ContentManager.cs` | URL каталогов и UI мастерской | Только если меняется клиент |
 | `DnD-VTT/experiment/unity-vtt/unity/Assets/Vtt/Runtime/WorkshopRuntime.cs` | Активация и загрузка ресурсов | Только если меняется движок |
