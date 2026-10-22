@@ -1,5 +1,7 @@
 # DnD-VTT-Content
 
+> **Новый участник команды / ChatGPT:** начни с [AGENTS.md](AGENTS.md), [пошагового руководства](docs/MOD_AUTHOR_GUIDE.md) и [атласа всех файлов](docs/FILE_ATLAS.md). Они учат создавать, публиковать, скачивать и тестировать модификации без пересборки Unity. Живой каталог: `catalog/v3/index.json`.
+
 Public curated data registry for DnD-VTT Unity.
 
 - `catalog/v1/index.json`: live catalog, including the original CC0 Lanternfolk test race.
