@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.classes",
+  "version": "1.0.0",
+  "type": "collection",
+  "collectionCategory": "classes",
+  "members": [
+    "dnd.class.occultist",
+    "dnd.class.witch",
+    "dnd.class.necromancer",
+    "dnd.class.martyr",
+    "dnd.class.vessel",
+    "dnd.class.alchemist",
+    "dnd.class.artificer",
+    "dnd.class.blood_hunter",
+    "dnd.class.illrigger",
+    "dnd.class.beastheart",
+    "dnd.class.pugilist",
+    "dnd.class.accursed",
+    "dnd.class.geist",
+    "dnd.class.parasite",
+    "dnd.class.walter_parasite",
+    "dnd.class.ghost",
+    "dnd.class.psion",
+    "dnd.class.rune_keeper",
+    "dnd.class.savant",
+    "dnd.class.shifter",
+    "dnd.class.swarm",
+    "dnd.class.warden",
+    "dnd.class.warlord"
+  ]
+}

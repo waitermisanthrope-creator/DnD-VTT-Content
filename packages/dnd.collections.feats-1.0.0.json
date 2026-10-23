@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.feats",
+  "version": "1.0.0",
+  "type": "collection",
+  "collectionCategory": "feats",
+  "members": [
+    "dnd.collections.feats.part01",
+    "dnd.collections.feats.part02",
+    "dnd.collections.feats.part03"
+  ]
+}

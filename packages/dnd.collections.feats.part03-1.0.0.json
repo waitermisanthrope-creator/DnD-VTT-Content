@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.feats.part03",
+  "version": "1.0.0",
+  "type": "collection",
+  "collectionCategory": "feats",
+  "members": [
+    "dnd.feat.arcane_recovery_feat",
+    "dnd.feat.berserker_rage",
+    "dnd.feat.tactician",
+    "dnd.feat.elven_accuracy",
+    "dnd.feat.infernal_constitution",
+    "dnd.feat.prodigy",
+    "dnd.feat.bountiful_luck",
+    "dnd.feat.dragon_fear",
+    "dnd.feat.dragon_hide",
+    "dnd.feat.dwarven_fortitude",
+    "dnd.feat.flames_of_phlegethos",
+    "dnd.feat.orcish_aggression",
+    "dnd.feat.orcish_fury",
+    "dnd.feat.squat_nimbleness",
+    "dnd.feat.wood_elf_magic",
+    "dnd.feat.second_chance",
+    "dnd.feat.fey_teleportation"
+  ]
+}
