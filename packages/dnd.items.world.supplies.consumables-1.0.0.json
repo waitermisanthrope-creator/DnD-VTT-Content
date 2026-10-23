@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.supplies.consumables",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.supplies.consumables.f2802ea6c23d",
+      "name": "Трут сухой",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Трут сухой. Назначение: использовать порцию при разведении огня. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "plant"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "использовать порцию при разведении огня"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "plant"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.2b33cd586673",
+      "name": "Фитиль хлопковый",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.01 кг",
+      "cost": "0.01 зм",
+      "description": "Фитиль хлопковый. Назначение: заменять фитиль светильника. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "cotton"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "заменять фитиль светильника"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "cotton"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.7e54893ec266",
+      "name": "Фильтр бумажный",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Фильтр бумажный. Назначение: фильтровать одну небольшую порцию жидкости. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "paper"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "filter",
+            "execution": "manual",
+            "text": "фильтровать одну небольшую порцию жидкости"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "paper"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.3d9b6ea53d0d",
+      "name": "Чистая тряпица",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Чистая тряпица. Назначение: протирать или перевязывать предмет. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "протирать или перевязывать предмет"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.b3794f7832f5",
+      "name": "Сургучная палочка",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Сургучная палочка. Назначение: запечатывать письмо. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wax"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "запечатывать письмо"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wax"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.15f6d01f21fe",
+      "name": "Кусочек портновского мела",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.01 кг",
+      "cost": "0.01 зм",
+      "description": "Кусочек портновского мела. Назначение: наносить стираемую разметку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "chalk"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "наносить стираемую разметку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "chalk"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.a5585e4d2490",
+      "name": "Швейная нить на починку",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Швейная нить на починку. Назначение: сшивать небольшую прореху. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "sew",
+            "execution": "manual",
+            "text": "сшивать небольшую прореху"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.20a1a1c9ed98",
+      "name": "Рыбацкая наживка",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Рыбацкая наживка. Назначение: насаживать одну порцию на крючок. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "насаживать одну порцию на крючок"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.a5d903598449",
+      "name": "Порция коптильной щепы",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Порция коптильной щепы. Назначение: создавать дым при копчении. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "создавать дым при копчении"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.956110c6c711",
+      "name": "Соломенная обёртка",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Соломенная обёртка. Назначение: упаковывать хрупкую вещь. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "straw"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "упаковывать хрупкую вещь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "straw"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.9d05f40e7e55",
+      "name": "Мешочек сушёной закваски",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Мешочек сушёной закваски. Назначение: заквашивать пищевую заготовку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "заквашивать пищевую заготовку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.bb32d20911d9",
+      "name": "Пекарские дрожжи",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Пекарские дрожжи. Назначение: поднимать тесто при приготовлении. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "поднимать тесто при приготовлении"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.cb81466e4a00",
+      "name": "Порция зубного порошка",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Порция зубного порошка. Назначение: чистить зубы вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "chalk"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "clean",
+            "execution": "manual",
+            "text": "чистить зубы вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "chalk"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.5891d9cd0891",
+      "name": "Порция стиральной золы",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Порция стиральной золы. Назначение: использовать щёлочной зольный раствор при стирке. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ash"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "использовать щёлочной зольный раствор при стирке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ash"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.781318c22395",
+      "name": "Салфетка для линз",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Салфетка для линз. Назначение: очищать линзу от пыли. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "clean",
+            "execution": "manual",
+            "text": "очищать линзу от пыли"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.b783008e045b",
+      "name": "Вата перевязочная",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Вата перевязочная. Назначение: подкладывать впитывающий материал. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "cotton"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подкладывать впитывающий материал"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "cotton"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.2f1b4499b1b6",
+      "name": "Лист сусального золота",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.001 кг",
+      "cost": "0.01 зм",
+      "description": "Лист сусального золота. Назначение: покрывать небольшую поверхность при отделке. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "gold"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "покрывать небольшую поверхность при отделке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "gold"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.d78b2ca24500",
+      "name": "Вощёная обёртка",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Вощёная обёртка. Назначение: заворачивать продукт. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wax"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "заворачивать продукт"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wax"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.d055417b6993",
+      "name": "Порция сапожной смазки",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Порция сапожной смазки. Назначение: ухаживать за кожаной обувью. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "fat"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "ухаживать за кожаной обувью"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "fat"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.4132e367967a",
+      "name": "Порция сценического грима",
+      "inventoryCategory": "consumables",
+      "category": "Бытовые расходники",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Порция сценического грима. Назначение: наносить грим для представления. Применение разрешается вручную; предмет не даёт скрытых бонусов. Кнопка применения списывает одну порцию без автоматического эффекта.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "pigment"
+        ],
+        "lootTags": [
+          "supplies"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "наносить грим для представления"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "general"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "pigment"
+          ],
+          "recipeTags": [
+            "supplies"
+          ]
+        }
+      },
+      "effects": [],
+      "useMode": "manual"
+    }
+  ]
+}

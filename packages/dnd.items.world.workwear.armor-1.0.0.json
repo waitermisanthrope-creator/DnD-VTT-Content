@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.workwear.armor",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.workwear.armor.1a0034fca77d",
+      "name": "Кожаный напальчник лучника",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Кожаный напальчник лучника. Назначение: защищать палец при работе с тетивой. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "защищать палец при работе с тетивой"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.969856271856",
+      "name": "Налобная повязка ремесленника",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Налобная повязка ремесленника. Назначение: удерживать пот при работе. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать пот при работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.e730eb266ea9",
+      "name": "Защитные очки стеклодува",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.1 кг",
+      "cost": "0.3 зм",
+      "description": "Защитные очки стеклодува. Назначение: прикрывать глаза при ручной работе. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "прикрывать глаза при ручной работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.5fe25c2df29a",
+      "name": "Нарукавник писца",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Нарукавник писца. Назначение: защищать рукав от чернил. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "защищать рукав от чернил"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.83ae4fcd32f0",
+      "name": "Плотницкий пояс для инструментов",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Плотницкий пояс для инструментов. Назначение: носить инструменты на поясе. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "носить инструменты на поясе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.bd5478c3748e",
+      "name": "Пастушеские краги",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.35 кг",
+      "cost": "0.17 зм",
+      "description": "Пастушеские краги. Назначение: прикрывать голени при ходьбе. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "прикрывать голени при ходьбе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.17,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.a4e4de925295",
+      "name": "Лекарский передник клеёнчатый",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Лекарский передник клеёнчатый. Назначение: защищать одежду при ручной разделке. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "защищать одежду при ручной разделке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.cd77ba872039",
+      "name": "Сетчатый колпак пчеловода",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Сетчатый колпак пчеловода. Назначение: прикрывать лицо при работе с насекомыми. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "прикрывать лицо при работе с насекомыми"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.d30afc9959b4",
+      "name": "Меховые наушники",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Меховые наушники. Назначение: прикрывать уши от холода. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "fur"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "прикрывать уши от холода"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "fur"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.0fac5a738ed2",
+      "name": "Рабочие рукавицы брезентовые",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Рабочие рукавицы брезентовые. Назначение: защищать руки при грубой работе. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "защищать руки при грубой работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.f6508705df0d",
+      "name": "Путевой плащ от дождя",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.8 кг",
+      "cost": "0.4 зм",
+      "description": "Путевой плащ от дождя. Назначение: прикрывать одежду от осадков. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "прикрывать одежду от осадков"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.4,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.fac8e11ce4a4",
+      "name": "Обмотки для голеней",
+      "inventoryCategory": "armor",
+      "category": "Рабочая одежда",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Обмотки для голеней. Назначение: закреплять одежду вокруг голеней. Применение разрешается вручную; предмет не даёт скрытых бонусов. Бонуса к КД нет.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "workshop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "закреплять одежду вокруг голеней"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "workshop"
+          ]
+        }
+      },
+      "acBase": 0,
+      "proficiencyType": "none",
+      "equipmentSlot": "clothing"
+    }
+  ]
+}

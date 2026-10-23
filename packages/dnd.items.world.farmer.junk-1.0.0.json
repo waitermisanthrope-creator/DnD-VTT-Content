@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.farmer.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.farmer.junk.c15aabfdce1c",
+      "name": "Садовый совок",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Садовый совок. Назначение: копать небольшие лунки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "копать небольшие лунки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.98f12b0fb3fe",
+      "name": "Мотыга",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "1.4 кг",
+      "cost": "0.7 зм",
+      "description": "Мотыга. Назначение: рыхлить землю. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "рыхлить землю"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.7,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.9e39184db098",
+      "name": "Грабли деревянные",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "1 кг",
+      "cost": "0.5 зм",
+      "description": "Грабли деревянные. Назначение: сгребать сено и листву. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "сгребать сено и листву"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.5,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.6b2dd0bc7f4c",
+      "name": "Садовый секатор",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.2 кг",
+      "cost": "0.6 зм",
+      "description": "Садовый секатор. Назначение: обрезать небольшие ветви. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "обрезать небольшие ветви"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.118368a1ed7a",
+      "name": "Диббер посадочный",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Диббер посадочный. Назначение: делать отверстия под семена. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать отверстия под семена"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.2c7c29a33c16",
+      "name": "Корзина для сбора урожая",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.5 кг",
+      "cost": "0.25 зм",
+      "description": "Корзина для сбора урожая. Назначение: переносить собранные плоды. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wicker"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить собранные плоды"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.25,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wicker"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.81039c238348",
+      "name": "Ситомойка для зерна",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.45 кг",
+      "cost": "0.23 зм",
+      "description": "Ситомойка для зерна. Назначение: отделять примеси от зерна. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отделять примеси от зерна"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.23,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.f5651d2958f5",
+      "name": "Цеп для обмолота",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "1.2 кг",
+      "cost": "0.6 зм",
+      "description": "Цеп для обмолота. Назначение: обмолачивать колосья вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "обмолачивать колосья вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.92ab5c627a7f",
+      "name": "Подкова без гвоздей",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.25 кг",
+      "cost": "0.12 зм",
+      "description": "Подкова без гвоздей. Назначение: подковывать подходящее копыто работой кузнеца. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подковывать подходящее копыто работой кузнеца"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.4dad70014734",
+      "name": "Щётка для лошади",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Щётка для лошади. Назначение: чистить шерсть животного. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "clean",
+            "execution": "manual",
+            "text": "чистить шерсть животного"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.c05407d5933c",
+      "name": "Крючок для копыт",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.07 кг",
+      "cost": "0.21 зм",
+      "description": "Крючок для копыт. Назначение: удалять грязь из копыта. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "удалять грязь из копыта"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.21,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.8a97ad3c8f86",
+      "name": "Скребница",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Скребница. Назначение: чистить шерсть и кожу животного. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "clean",
+            "execution": "manual",
+            "text": "чистить шерсть и кожу животного"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.9af91e6610bb",
+      "name": "Недоуздок",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Недоуздок. Назначение: вести подходящее животное. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "вести подходящее животное"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.0f3469df21c2",
+      "name": "Торба кормовая",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.25 кг",
+      "cost": "0.12 зм",
+      "description": "Торба кормовая. Назначение: подавать корм животному. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подавать корм животному"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.60adb88d3b88",
+      "name": "Сырная форма",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Сырная форма. Назначение: придавать форму сырной массе. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "придавать форму сырной массе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.4aebdefae2e6",
+      "name": "Ковш для зерна",
+      "inventoryCategory": "junk",
+      "category": "Фермер и конюх",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Ковш для зерна. Назначение: отмерять сыпучий корм. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "farm"
+        ],
+        "uses": [
+          {
+            "action": "measure",
+            "execution": "manual",
+            "text": "отмерять сыпучий корм"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "farmer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "farm"
+          ]
+        }
+      }
+    }
+  ]
+}

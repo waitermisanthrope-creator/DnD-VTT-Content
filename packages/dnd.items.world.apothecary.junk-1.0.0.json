@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.apothecary.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.apothecary.junk.8afa869f99c7",
+      "name": "Ступка",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.7 кг",
+      "cost": "0.35 зм",
+      "description": "Ступка. Назначение: растирать сухое сырьё пестиком. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "grind",
+            "execution": "manual",
+            "text": "растирать сухое сырьё пестиком"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.35,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.68f9ba7f939a",
+      "name": "Пестик",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.25 кг",
+      "cost": "0.12 зм",
+      "description": "Пестик. Назначение: измельчать сырьё в ступке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "grind",
+            "execution": "manual",
+            "text": "измельчать сырьё в ступке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.ffa563141f81",
+      "name": "Реторта стеклянная",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.3 кг",
+      "cost": "0.9 зм",
+      "description": "Реторта стеклянная. Назначение: перегонять жидкость с подходящим оборудованием. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "distill",
+            "execution": "manual",
+            "text": "перегонять жидкость с подходящим оборудованием"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.9,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.bd32f664a656",
+      "name": "Алхимический холодильник",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.5 кг",
+      "cost": "1.5 зм",
+      "description": "Алхимический холодильник. Назначение: охлаждать пары при перегонке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "охлаждать пары при перегонке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.5,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.0595c9de8ebf",
+      "name": "Шпатель алхимика",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.03 кг",
+      "cost": "0.09 зм",
+      "description": "Шпатель алхимика. Назначение: отбирать порошок. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отбирать порошок"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.09,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.ef3c8a5afe5c",
+      "name": "Фильтровальная воронка",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.08 кг",
+      "cost": "0.24 зм",
+      "description": "Фильтровальная воронка. Назначение: фильтровать жидкость через расходный фильтр. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "filter",
+            "execution": "manual",
+            "text": "фильтровать жидкость через расходный фильтр"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.24,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.fcc1bfee0f23",
+      "name": "Капельница стеклянная",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.02 кг",
+      "cost": "0.06 зм",
+      "description": "Капельница стеклянная. Назначение: дозировать небольшое количество жидкости. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "дозировать небольшое количество жидкости"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.b1235e56bca4",
+      "name": "Пробиркодержатель",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Пробиркодержатель. Назначение: удерживать небольшой сосуд. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать небольшой сосуд"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.5b52a0e6fd6e",
+      "name": "Сушильная рамка для трав",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Сушильная рамка для трав. Назначение: раскладывать травы для сушки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "dry",
+            "execution": "manual",
+            "text": "раскладывать травы для сушки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.d3aa8a4b1770",
+      "name": "Пресс для растений",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.6 кг",
+      "cost": "0.3 зм",
+      "description": "Пресс для растений. Назначение: высушивать плоские образцы растений. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "высушивать плоские образцы растений"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.e203d45f45f2",
+      "name": "Ложечка для реактивов",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Ложечка для реактивов. Назначение: отмерять небольшую порцию порошка. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "measure",
+            "execution": "manual",
+            "text": "отмерять небольшую порцию порошка"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.5725ae0fc433",
+      "name": "Банка с притёртой крышкой",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.2 кг",
+      "cost": "0.6 зм",
+      "description": "Банка с притёртой крышкой. Назначение: хранить реагент в закрытом сосуде. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить реагент в закрытом сосуде"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.010cb7b05aa1",
+      "name": "Склянка тёмного стекла",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.1 кг",
+      "cost": "0.3 зм",
+      "description": "Склянка тёмного стекла. Назначение: хранить светочувствительный образец. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить светочувствительный образец"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.9c6bf8c2809d",
+      "name": "Медная перегонная трубка",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Медная перегонная трубка. Назначение: направлять пары в перегонном аппарате. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "направлять пары в перегонном аппарате"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.28c37928b428",
+      "name": "Алхимическая тренога",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Алхимическая тренога. Назначение: удерживать сосуд над нагревом. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать сосуд над нагревом"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.6d3853468f85",
+      "name": "Гербарная папка",
+      "inventoryCategory": "junk",
+      "category": "Алхимик и травник",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Гербарная папка. Назначение: переносить плоские растительные образцы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "apothecary"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить плоские растительные образцы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "apothecary"
+          ]
+        }
+      }
+    }
+  ]
+}

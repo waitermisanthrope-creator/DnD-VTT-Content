@@ -1,0 +1,1669 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.alchemy.ingredients.world.anatomy.animal",
+  "version": "1.0.0",
+  "type": "craft",
+  "items": [],
+  "mode": "alchemy-ingredients",
+  "ingredients": [
+    {
+      "id": "harvest_animal_heart",
+      "name": "Сердце животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Strength",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "heart",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_blood",
+      "name": "Кровь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Hemorrhage",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "blood",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_bone",
+      "name": "Кость животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Necrotic",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "bone",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_hide",
+      "name": "Шкура животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "hide",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_meat",
+      "name": "Мясо животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "meat",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_fat",
+      "name": "Жир животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "fat",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_eye",
+      "name": "Глаз животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Mind",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "eye",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_tooth",
+      "name": "Зуб животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Earth",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "tooth",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_claw",
+      "name": "Коготь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Dexterity",
+        "Hemorrhage",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "claw",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_sinew",
+      "name": "Сухожилие животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Dexterity",
+        "Strength",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "sinew",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_liver",
+      "name": "Печень животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Recovery",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "liver",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_gland",
+      "name": "Железа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Venom",
+        "Volatility",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "gland",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_horn",
+      "name": "Рог животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Magic",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "horn",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_scale",
+      "name": "Чешуя животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Earth"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "scale",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_marrow",
+      "name": "Костный мозг животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "marrow",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_fur",
+      "name": "Мех животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Cold",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "fur",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_feather",
+      "name": "Перо животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Breathing",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "feather",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_venom",
+      "name": "Яд животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Venom",
+        "Weakness",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "venom",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_spleen",
+      "name": "Селезёнка животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Recovery",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "spleen",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_kidney",
+      "name": "Почка животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "kidney",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_lung",
+      "name": "Лёгкое животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Breathing",
+        "Vitality",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "lung",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_stomach",
+      "name": "Желудок животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "stomach",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_intestine",
+      "name": "Кишечная ткань животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Nausea",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "intestine",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_brain",
+      "name": "Головной мозг животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Mind",
+        "Hallucination",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "brain",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_spinal_cord",
+      "name": "Спинной мозг животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Mind",
+        "Speed",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "spinal_cord",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_pituitary",
+      "name": "Гипофиз животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Magic",
+        "Vitality",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "pituitary",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_thyroid",
+      "name": "Щитовидная железа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "thyroid",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_adrenal",
+      "name": "Надпочечник животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Fear",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "adrenal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_pancreas",
+      "name": "Поджелудочная железа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "pancreas",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_bladder",
+      "name": "Мочевой пузырь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "bladder",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_gallbladder",
+      "name": "Жёлчный пузырь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Venom",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "gallbladder",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_tongue",
+      "name": "Язык животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Mind",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "tongue",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_ear",
+      "name": "Ухо животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "ear",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_skin",
+      "name": "Кожа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "skin",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_cartilage",
+      "name": "Хрящ животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Regeneration",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "cartilage",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_nerve",
+      "name": "Нервная ткань животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Mind",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "nerve",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_lymph_node",
+      "name": "Лимфатический узел животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Vitality",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "lymph_node",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_lymph",
+      "name": "Лимфа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Recovery",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "lymph",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_bile",
+      "name": "Жёлчь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Venom",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "bile",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_saliva",
+      "name": "Слюна животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Breathing",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "saliva",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_gastric_juice",
+      "name": "Желудочный сок животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Volatility",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "gastric_juice",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_lens",
+      "name": "Хрусталик животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Blindness",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "lens",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_retina",
+      "name": "Сетчатка животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Hallucination",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "retina",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_cornea",
+      "name": "Роговица животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "cornea",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_blood_clot",
+      "name": "Сгусток крови животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Hemorrhage",
+        "Vitality",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "blood_clot",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_vein",
+      "name": "Венозная ткань животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Hemorrhage",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "vein",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_artery",
+      "name": "Артериальная ткань животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Hemorrhage",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "artery",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_ligament",
+      "name": "Связка животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Dexterity",
+        "Strength",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "ligament",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_membrane",
+      "name": "Соединительная оболочка животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Breathing",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "membrane",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_muscle",
+      "name": "Мышечная ткань животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "muscle",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_skull",
+      "name": "Череп животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Mind",
+        "Necrotic",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "skull",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_jaw",
+      "name": "Челюсть животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Earth",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "jaw",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_rib",
+      "name": "Ребро животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Earth"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "rib",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_vertebra",
+      "name": "Позвонок животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Earth",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "vertebra",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_scapula",
+      "name": "Лопаточная кость животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "scapula",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_pelvis",
+      "name": "Тазовая кость животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Earth"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "pelvis",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_fat_gland",
+      "name": "Жировая железа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "fat_gland",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_mucus",
+      "name": "Слизь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Breathing",
+        "Nausea",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "mucus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_tear",
+      "name": "Слёзная жидкость животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Perception",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "tear",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_eye_fluid",
+      "name": "Стекловидное тело животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Cold",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "eye_fluid",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_hair",
+      "name": "Волос животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Magic",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "hair",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_nail",
+      "name": "Ноготь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "nail",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_placenta",
+      "name": "Плацента животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Regeneration",
+        "Vitality",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "placenta",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_umbilical",
+      "name": "Пуповина животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "umbilical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_crop",
+      "name": "Зоб животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "crop",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_gizzard",
+      "name": "Мускульный желудок животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "gizzard",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_swim_bladder",
+      "name": "Плавательный пузырь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Breathing",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "swim_bladder",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_chitin",
+      "name": "Хитиновый панцирь животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Earth"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "chitin",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_quill",
+      "name": "Игла покровная животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Hemorrhage",
+        "Earth",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "quill",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_hoof",
+      "name": "Копыто животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Strength",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "hoof",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_web_gland",
+      "name": "Паутинообразующая железа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Dexterity",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "web_gland",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_ink_sac",
+      "name": "Чернильный мешок животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Blindness",
+        "Invisibility",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "ink_sac",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_egg",
+      "name": "Яйцо животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Recovery",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "egg",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_eggshell",
+      "name": "Яичная скорлупа животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Stability",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "eggshell",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_antler",
+      "name": "Ветвистый рог животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Regeneration",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "antler",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_animal_milk",
+      "name": "Молоко животного",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Constitution"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "animal",
+        "milk",
+        "alchemy"
+      ]
+    }
+  ]
+}

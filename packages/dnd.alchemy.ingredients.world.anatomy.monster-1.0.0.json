@@ -1,0 +1,1743 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.alchemy.ingredients.world.anatomy.monster",
+  "version": "1.0.0",
+  "type": "craft",
+  "items": [],
+  "mode": "alchemy-ingredients",
+  "ingredients": [
+    {
+      "id": "harvest_monster_heart",
+      "name": "Сердце монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Vitality",
+        "Strength",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "heart",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_blood",
+      "name": "Кровь монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Vitality",
+        "Hemorrhage",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "blood",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_bone",
+      "name": "Кость монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Earth",
+        "Necrotic",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "bone",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_hide",
+      "name": "Шкура монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "hide",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_meat",
+      "name": "Мясо монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Constitution",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "meat",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_fat",
+      "name": "Жир монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "fat",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_eye",
+      "name": "Глаз монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Mind",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "eye",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_tooth",
+      "name": "Зуб монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Strength",
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "tooth",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_claw",
+      "name": "Коготь монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Dexterity",
+        "Hemorrhage",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "claw",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_sinew",
+      "name": "Сухожилие монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Dexterity",
+        "Strength",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "sinew",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_liver",
+      "name": "Печень монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Antidote",
+        "Recovery",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "liver",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_gland",
+      "name": "Железа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Venom",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "gland",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_horn",
+      "name": "Рог монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "horn",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_scale",
+      "name": "Чешуя монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Constitution",
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "scale",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_marrow",
+      "name": "Костный мозг монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "marrow",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_fur",
+      "name": "Мех монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Cold",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "fur",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_feather",
+      "name": "Перо монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Speed",
+        "Breathing",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "feather",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_venom",
+      "name": "Яд монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Venom",
+        "Weakness",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "venom",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_spleen",
+      "name": "Селезёнка монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Vitality",
+        "Recovery",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "spleen",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_kidney",
+      "name": "Почка монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Antidote",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "kidney",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_lung",
+      "name": "Лёгкое монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Breathing",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "lung",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_stomach",
+      "name": "Желудок монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Acid",
+        "Constitution",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "stomach",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_intestine",
+      "name": "Кишечная ткань монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Nausea",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "intestine",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_brain",
+      "name": "Головной мозг монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Mind",
+        "Hallucination",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "brain",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_spinal_cord",
+      "name": "Спинной мозг монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Mind",
+        "Speed",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "spinal_cord",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_pituitary",
+      "name": "Гипофиз монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Magic",
+        "Vitality"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "pituitary",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_thyroid",
+      "name": "Щитовидная железа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Speed",
+        "Constitution",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "thyroid",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_adrenal",
+      "name": "Надпочечник монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Strength",
+        "Fear",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "adrenal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_pancreas",
+      "name": "Поджелудочная железа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Vitality",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "pancreas",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_bladder",
+      "name": "Мочевой пузырь монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Acid",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "bladder",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_gallbladder",
+      "name": "Жёлчный пузырь монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Acid",
+        "Venom",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "gallbladder",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_tongue",
+      "name": "Язык монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Mind",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "tongue",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_ear",
+      "name": "Ухо монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "ear",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_skin",
+      "name": "Кожа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "skin",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_cartilage",
+      "name": "Хрящ монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Regeneration",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "cartilage",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_nerve",
+      "name": "Нервная ткань монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Speed",
+        "Mind",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "nerve",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_lymph_node",
+      "name": "Лимфатический узел монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Antidote",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "lymph_node",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_lymph",
+      "name": "Лимфа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Antidote",
+        "Recovery",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "lymph",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_bile",
+      "name": "Жёлчь монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Acid",
+        "Venom",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "bile",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_saliva",
+      "name": "Слюна монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Acid",
+        "Breathing",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "saliva",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_gastric_juice",
+      "name": "Желудочный сок монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Acid",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "gastric_juice",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_lens",
+      "name": "Хрусталик монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Blindness",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "lens",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_retina",
+      "name": "Сетчатка монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Hallucination",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "retina",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_cornea",
+      "name": "Роговица монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "cornea",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_blood_clot",
+      "name": "Сгусток крови монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Hemorrhage",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "blood_clot",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_vein",
+      "name": "Венозная ткань монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Hemorrhage",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "vein",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_artery",
+      "name": "Артериальная ткань монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Speed",
+        "Hemorrhage",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "artery",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_ligament",
+      "name": "Связка монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Dexterity",
+        "Strength",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "ligament",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_membrane",
+      "name": "Соединительная оболочка монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Stability",
+        "Breathing",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "membrane",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_muscle",
+      "name": "Мышечная ткань монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Strength",
+        "Constitution",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "muscle",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_skull",
+      "name": "Череп монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Mind",
+        "Necrotic",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "skull",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_jaw",
+      "name": "Челюсть монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Strength",
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "jaw",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_rib",
+      "name": "Ребро монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Constitution",
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "rib",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_vertebra",
+      "name": "Позвонок монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Stability",
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "vertebra",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_scapula",
+      "name": "Лопаточная кость монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "scapula",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_pelvis",
+      "name": "Тазовая кость монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Constitution",
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "pelvis",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_fat_gland",
+      "name": "Жировая железа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "fat_gland",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_mucus",
+      "name": "Слизь монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Breathing",
+        "Nausea",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "mucus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_tear",
+      "name": "Слёзная жидкость монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Perception",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "tear",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_eye_fluid",
+      "name": "Стекловидное тело монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Cold",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "eye_fluid",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_hair",
+      "name": "Волос монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Magic",
+        "Stability"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "hair",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_nail",
+      "name": "Ноготь монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Earth",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "nail",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_placenta",
+      "name": "Плацента монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Regeneration",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "placenta",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_umbilical",
+      "name": "Пуповина монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "umbilical",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_acid_sac",
+      "name": "Кислотный мешок монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Acid",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "acid_sac",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_venom_sac",
+      "name": "Ядовитый мешок монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Venom",
+        "Weakness",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "venom_sac",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_luminescent",
+      "name": "Светящийся орган монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Radiant",
+        "Perception",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "luminescent",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_electric",
+      "name": "Электрический орган монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Speed",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "electric",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_phase_membrane",
+      "name": "Фазовая мембрана монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Invisibility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "phase_membrane",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_petrifying",
+      "name": "Каменеющая железа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Petrification",
+        "Earth",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "petrifying",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_regenerative",
+      "name": "Регенеративный узел монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Regeneration",
+        "Vitality",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "regenerative",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_fire_sac",
+      "name": "Огненный мешок монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Fire",
+        "Volatility",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "fire_sac",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_frost_crystal",
+      "name": "Морозный кристалл монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Cold",
+        "Stability",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "frost_crystal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_necrotic",
+      "name": "Некротическая ткань монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Necrotic",
+        "Weakness",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "necrotic",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_ectoplasm",
+      "name": "Эктоплазма монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Invisibility",
+        "Necrotic",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "ectoplasm",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_elemental_core",
+      "name": "Стихийное ядро монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Magic",
+        "Volatility"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "elemental_core",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_adhesive",
+      "name": "Клейкий секрет монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Stability",
+        "Dexterity",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "adhesive",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_paralytic",
+      "name": "Паралитическая железа монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Weakness",
+        "Venom",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "paralytic",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_monster_sensory_tendril",
+      "name": "Чувствительный усик монстра",
+      "category": "anatomy",
+      "rarity": "uncommon",
+      "properties": [
+        "Perception",
+        "Mind",
+        "Magic"
+      ],
+      "extra": null,
+      "potency": 45,
+      "stability": 65,
+      "volatility": 30,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "monster",
+        "sensory_tendril",
+        "alchemy"
+      ]
+    }
+  ]
+}

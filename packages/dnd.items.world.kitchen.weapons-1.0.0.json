@@ -1,0 +1,480 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.kitchen.weapons",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.kitchen.weapons.butter_knife",
+      "name": "Нож для масла",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "0.06 кг",
+      "cost": "0.18 зм",
+      "description": "Нож для масла. Назначение: намазывать масло и резать мягкую пищу. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 дробящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "cut_soft_food",
+            "execution": "manual",
+            "text": "намазывать масло и резать мягкую пищу"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "дробящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.18,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.696907876f53",
+      "name": "Поварской нож",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "0.22 кг",
+      "cost": "0.66 зм",
+      "description": "Поварской нож. Назначение: шинковать продукты и разделывать пищу. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 рубящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "cut_food",
+            "execution": "manual",
+            "text": "шинковать продукты и разделывать пищу"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "рубящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.66,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.e7571014f189",
+      "name": "Хлебный нож",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "0.18 кг",
+      "cost": "0.54 зм",
+      "description": "Хлебный нож. Назначение: резать хлеб зубчатым лезвием. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 рубящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "cut_food",
+            "execution": "manual",
+            "text": "резать хлеб зубчатым лезвием"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "рубящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.54,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.fd733b431bad",
+      "name": "Кухонный тесак",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "0.7 кг",
+      "cost": "2.1 зм",
+      "description": "Кухонный тесак. Назначение: рубить пищевые заготовки. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 рубящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "cut_food",
+            "execution": "manual",
+            "text": "рубить пищевые заготовки"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "рубящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.1,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.ad5e1b35bcf3",
+      "name": "Мясницкий нож",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "0.3 кг",
+      "cost": "0.9 зм",
+      "description": "Мясницкий нож. Назначение: отделять мясо от костей. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 рубящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "butcher",
+            "execution": "manual",
+            "text": "отделять мясо от костей"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "рубящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.9,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.b14d2ee6cdea",
+      "name": "Нож для снятия шкуры",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "0.16 кг",
+      "cost": "0.48 зм",
+      "description": "Нож для снятия шкуры. Назначение: снимать шкуру при ручной разделке. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 рубящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "skin",
+            "execution": "manual",
+            "text": "снимать шкуру при ручной разделке"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "рубящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.48,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.ebddb3d4329b",
+      "name": "Скалка",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "0.45 кг",
+      "cost": "0.23 зм",
+      "description": "Скалка. Назначение: раскатывать тесто. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 дробящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "раскатывать тесто"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "дробящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.23,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.98f5eeef8d8f",
+      "name": "Чугунная сковорода",
+      "inventoryCategory": "weapons",
+      "category": "Кухня",
+      "weight": "2 кг",
+      "cost": "1 зм",
+      "description": "Чугунная сковорода. Назначение: жарить пищу и удерживать жар. Применение разрешается вручную; предмет не даёт скрытых бонусов. Можно экипировать как импровизированное оружие: 1d4 дробящий; попадание и обстоятельства разрешает мастер.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "жарить пищу и удерживать жар"
+          },
+          {
+            "action": "improvised_attack",
+            "execution": "manual",
+            "damage": "1d4",
+            "damageType": "дробящий"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      },
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "toHit": 0,
+      "hands": "1 рука",
+      "groupKey": "improvised",
+      "typeKey": "melee",
+      "properties": [
+        "Импровизированное оружие"
+      ],
+      "proficiencies": []
+    }
+  ]
+}

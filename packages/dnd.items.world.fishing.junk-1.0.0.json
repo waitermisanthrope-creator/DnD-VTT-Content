@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.fishing.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.fishing.junk.d901891edbb1",
+      "name": "Рыболовный крючок",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.002 кг",
+      "cost": "0.01 зм",
+      "description": "Рыболовный крючок. Назначение: цеплять приманку и удерживать рыбу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "цеплять приманку и удерживать рыбу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.2ccddb5adda7",
+      "name": "Поплавок пробковый",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Поплавок пробковый. Назначение: показывать поклёвку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "cork"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "показывать поклёвку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "cork"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.1e894c7819ee",
+      "name": "Грузило свинцовое",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Грузило свинцовое. Назначение: утяжелять рыболовную оснастку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "lead"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "утяжелять рыболовную оснастку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "lead"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.da381a79cdd0",
+      "name": "Удилище бамбуковое",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.35 кг",
+      "cost": "0.17 зм",
+      "description": "Удилище бамбуковое. Назначение: забрасывать снасть. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bamboo"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "забрасывать снасть"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.17,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bamboo"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.3b7e8691cb84",
+      "name": "Катушка для лески",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.05 кг",
+      "cost": "0.03 зм",
+      "description": "Катушка для лески. Назначение: хранить намотанную леску. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить намотанную леску"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.1ceb87577c92",
+      "name": "Рыбацкий подсачек",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.35 кг",
+      "cost": "0.17 зм",
+      "description": "Рыбацкий подсачек. Назначение: подхватывать пойманную рыбу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подхватывать пойманную рыбу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.17,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.9f85197b70d0",
+      "name": "Рыболовная верша",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "1.2 кг",
+      "cost": "0.6 зм",
+      "description": "Рыболовная верша. Назначение: удерживать вошедшую рыбу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wicker"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать вошедшую рыбу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wicker"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.736128b042cd",
+      "name": "Кукан",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Кукан. Назначение: удерживать пойманную рыбу в воде. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать пойманную рыбу в воде"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.9bfff7ee4dfe",
+      "name": "Сеть кастинговая",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "2 кг",
+      "cost": "1 зм",
+      "description": "Сеть кастинговая. Назначение: ловить рыбу забрасыванием сети. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "ловить рыбу забрасыванием сети"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.3857fa898b43",
+      "name": "Игла для вязания сетей",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Игла для вязания сетей. Назначение: вязать и чинить сеть. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "вязать и чинить сеть"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.047e9acf7f1c",
+      "name": "Рыбочистка",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.1 кг",
+      "cost": "0.3 зм",
+      "description": "Рыбочистка. Назначение: снимать чешую с рыбы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "снимать чешую с рыбы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.4f5e28695cdc",
+      "name": "Свисток манковый",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Свисток манковый. Назначение: издавать звук приманки вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "издавать звук приманки вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.26f555e55ac2",
+      "name": "Силок проволочный",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.06 кг",
+      "cost": "0.03 зм",
+      "description": "Силок проволочный. Назначение: ставить небольшую петлевую ловушку по решению мастера. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "ставить небольшую петлевую ловушку по решению мастера"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.f5a55d726aac",
+      "name": "Приманочный мешочек",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Приманочный мешочек. Назначение: переносить приманку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить приманку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.c4667008d56a",
+      "name": "Рамка для сушки рыбы",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.6 кг",
+      "cost": "0.3 зм",
+      "description": "Рамка для сушки рыбы. Назначение: развешивать рыбу для сушки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "dry",
+            "execution": "manual",
+            "text": "развешивать рыбу для сушки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.7d1afcfaba85",
+      "name": "Крючок для копчения",
+      "inventoryCategory": "junk",
+      "category": "Рыбак и охотник",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Крючок для копчения. Назначение: подвешивать продукт в коптильне. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "fishing"
+        ],
+        "uses": [
+          {
+            "action": "hang",
+            "execution": "manual",
+            "text": "подвешивать продукт в коптильне"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "fisher"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "fishing"
+          ]
+        }
+      }
+    }
+  ]
+}

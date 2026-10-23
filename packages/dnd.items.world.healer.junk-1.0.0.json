@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.healer.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.healer.junk.ed70ba3f7d80",
+      "name": "Пинцет",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.03 кг",
+      "cost": "0.09 зм",
+      "description": "Пинцет. Назначение: захватывать небольшие предметы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "захватывать небольшие предметы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.09,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.3347e0aa26cf",
+      "name": "Хирургический скальпель",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.04 кг",
+      "cost": "0.12 зм",
+      "description": "Хирургический скальпель. Назначение: делать тонкие разрезы при ручной работе. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать тонкие разрезы при ручной работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.55669aae5ee9",
+      "name": "Зонд лекаря",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.02 кг",
+      "cost": "0.06 зм",
+      "description": "Зонд лекаря. Назначение: осматривать небольшие полости. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "осматривать небольшие полости"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.864955fdf772",
+      "name": "Костная пила",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.4 кг",
+      "cost": "1.2 зм",
+      "description": "Костная пила. Назначение: перепиливать кость при ручной разделке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "перепиливать кость при ручной разделке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.2,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.f6fbc1f1edc6",
+      "name": "Игла для шва",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Игла для шва. Назначение: накладывать шов нитью. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "накладывать шов нитью"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.b9203e2f58ea",
+      "name": "Зажим лекаря",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.06 кг",
+      "cost": "0.18 зм",
+      "description": "Зажим лекаря. Назначение: пережимать ткань при ручной работе. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "пережимать ткань при ручной работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.18,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.ed9a26d71861",
+      "name": "Ложечка для мази",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Ложечка для мази. Назначение: отбирать мазь из сосуда. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отбирать мазь из сосуда"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.513de129d332",
+      "name": "Лекарская лопаточка",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Лекарская лопаточка. Назначение: смешивать и наносить мазь. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "смешивать и наносить мазь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.b94d9719ae53",
+      "name": "Чаша для промывания",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.25 кг",
+      "cost": "0.12 зм",
+      "description": "Чаша для промывания. Назначение: удерживать воду при промывании. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать воду при промывании"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.fbc3dae69ebd",
+      "name": "Шина деревянная",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.25 кг",
+      "cost": "0.12 зм",
+      "description": "Шина деревянная. Назначение: фиксировать повреждённую конечность вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "фиксировать повреждённую конечность вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.49046fa24234",
+      "name": "Лекарская воронка",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.04 кг",
+      "cost": "0.12 зм",
+      "description": "Лекарская воронка. Назначение: переливать жидкость в узкий сосуд. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "переливать жидкость в узкий сосуд"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.9742dbfa324d",
+      "name": "Ланцет",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.03 кг",
+      "cost": "0.09 зм",
+      "description": "Ланцет. Назначение: делать небольшой разрез. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать небольшой разрез"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.09,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.0a04be0ff3ad",
+      "name": "Крючок для ткани",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.02 кг",
+      "cost": "0.06 зм",
+      "description": "Крючок для ткани. Назначение: удерживать край ткани при разделке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать край ткани при разделке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.2f5ab1921b57",
+      "name": "Банка для образцов",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.15 кг",
+      "cost": "0.45 зм",
+      "description": "Банка для образцов. Назначение: хранить один образец с ручной маркировкой. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить один образец с ручной маркировкой"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.45,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.a9ae7f28b1a1",
+      "name": "Доска для разделки органов",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "1 кг",
+      "cost": "0.5 зм",
+      "description": "Доска для разделки органов. Назначение: выкладывать и сортировать органы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "выкладывать и сортировать органы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.5,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.healer.junk.4b5575fa8464",
+      "name": "Футляр лекарских инструментов",
+      "inventoryCategory": "junk",
+      "category": "Лекарь и разделка",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Футляр лекарских инструментов. Назначение: переносить небольшой комплект инструментов. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "healer"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить небольшой комплект инструментов"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "healer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "healer"
+          ]
+        }
+      }
+    }
+  ]
+}

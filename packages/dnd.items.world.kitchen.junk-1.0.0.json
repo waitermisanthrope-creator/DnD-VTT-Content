@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.kitchen.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.kitchen.junk.072dd79fd02a",
+      "name": "Деревянная ложка",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Деревянная ложка. Назначение: есть и перемешивать пищу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "есть и перемешивать пищу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.614036db8f6c",
+      "name": "Половник",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Половник. Назначение: разливать суп и отмерять жидкость. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "measure",
+            "execution": "manual",
+            "text": "разливать суп и отмерять жидкость"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.84ba64892eb9",
+      "name": "Дуршлаг",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Дуршлаг. Назначение: отделять твёрдые продукты от жидкости. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отделять твёрдые продукты от жидкости"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.527b1ef4c29b",
+      "name": "Кухонное сито",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Кухонное сито. Назначение: просеивать муку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "просеивать муку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.1272e97db0eb",
+      "name": "Тёрка",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.18 кг",
+      "cost": "0.54 зм",
+      "description": "Тёрка. Назначение: измельчать пищевые продукты. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "grind",
+            "execution": "manual",
+            "text": "измельчать пищевые продукты"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.54,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.431a649dcd7d",
+      "name": "Щипцы для углей",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Щипцы для углей. Назначение: перекладывать горячие угли. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "перекладывать горячие угли"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.3b99c7b998b1",
+      "name": "Разделочная доска",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.8 кг",
+      "cost": "0.4 зм",
+      "description": "Разделочная доска. Назначение: подкладывать под продукты при нарезке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подкладывать под продукты при нарезке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.4,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.ff15432f8daf",
+      "name": "Глиняная жаровня",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "1.8 кг",
+      "cost": "0.9 зм",
+      "description": "Глиняная жаровня. Назначение: готовить на углях. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить на углях"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.9,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.854bbb09bed8",
+      "name": "Горшок для тушения",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "1.2 кг",
+      "cost": "0.6 зм",
+      "description": "Горшок для тушения. Назначение: тушить пищу на слабом огне. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "sew",
+            "execution": "manual",
+            "text": "тушить пищу на слабом огне"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.547b66509b72",
+      "name": "Маслобойка",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "2.5 кг",
+      "cost": "1.25 зм",
+      "description": "Маслобойка. Назначение: взбивать сливки ручной работой. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "взбивать сливки ручной работой"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.25,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.8be1b6978c26",
+      "name": "Пресс для сыра",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "3 кг",
+      "cost": "1.5 зм",
+      "description": "Пресс для сыра. Назначение: отжимать сырную массу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отжимать сырную массу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.5,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.fffe78e2c9fe",
+      "name": "Мерный ковшик",
+      "inventoryCategory": "junk",
+      "category": "Кухня",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Мерный ковшик. Назначение: отмерять жидкие ингредиенты. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "kitchen"
+        ],
+        "uses": [
+          {
+            "action": "measure",
+            "execution": "manual",
+            "text": "отмерять жидкие ингредиенты"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "cook"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "kitchen"
+          ]
+        }
+      }
+    }
+  ]
+}

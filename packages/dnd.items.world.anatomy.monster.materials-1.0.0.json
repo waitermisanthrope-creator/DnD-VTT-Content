@@ -1,0 +1,4038 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.anatomy.monster.materials",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.spleen",
+      "name": "Селезёнка монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.15 кг",
+      "cost": "2 зм",
+      "description": "Селезёнка монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_spleen",
+      "alchemyId": "harvest_monster_spleen",
+      "harvestGroup": "monster",
+      "harvestPart": "spleen",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.spleen"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.spleen"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "spleen",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_spleen",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.kidney",
+      "name": "Почка монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.12 кг",
+      "cost": "2 зм",
+      "description": "Почка монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_kidney",
+      "alchemyId": "harvest_monster_kidney",
+      "harvestGroup": "monster",
+      "harvestPart": "kidney",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.kidney"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.kidney"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "kidney",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_kidney",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lung",
+      "name": "Лёгкое монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.5 кг",
+      "cost": "2 зм",
+      "description": "Лёгкое монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_lung",
+      "alchemyId": "harvest_monster_lung",
+      "harvestGroup": "monster",
+      "harvestPart": "lung",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lung"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lung"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "lung",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_lung",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.stomach",
+      "name": "Желудок монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.4 кг",
+      "cost": "2 зм",
+      "description": "Желудок монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_stomach",
+      "alchemyId": "harvest_monster_stomach",
+      "harvestGroup": "monster",
+      "harvestPart": "stomach",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.stomach"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.stomach"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "stomach",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_stomach",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.intestine",
+      "name": "Кишечная ткань монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.25 кг",
+      "cost": "2 зм",
+      "description": "Кишечная ткань монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_intestine",
+      "alchemyId": "harvest_monster_intestine",
+      "harvestGroup": "monster",
+      "harvestPart": "intestine",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.intestine"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.intestine"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "intestine",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_intestine",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.brain",
+      "name": "Головной мозг монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.6 кг",
+      "cost": "2 зм",
+      "description": "Головной мозг монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_brain",
+      "alchemyId": "harvest_monster_brain",
+      "harvestGroup": "monster",
+      "harvestPart": "brain",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.brain"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.brain"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "brain",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_brain",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.spinal_cord",
+      "name": "Спинной мозг монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.12 кг",
+      "cost": "2 зм",
+      "description": "Спинной мозг монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_spinal_cord",
+      "alchemyId": "harvest_monster_spinal_cord",
+      "harvestGroup": "monster",
+      "harvestPart": "spinal_cord",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.spinal_cord"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.spinal_cord"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "spinal_cord",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_spinal_cord",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.pituitary",
+      "name": "Гипофиз монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Гипофиз монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_pituitary",
+      "alchemyId": "harvest_monster_pituitary",
+      "harvestGroup": "monster",
+      "harvestPart": "pituitary",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.pituitary"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.pituitary"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "pituitary",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_pituitary",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.thyroid",
+      "name": "Щитовидная железа монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Щитовидная железа монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_thyroid",
+      "alchemyId": "harvest_monster_thyroid",
+      "harvestGroup": "monster",
+      "harvestPart": "thyroid",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.thyroid"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.thyroid"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "thyroid",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_thyroid",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.adrenal",
+      "name": "Надпочечник монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.015 кг",
+      "cost": "2 зм",
+      "description": "Надпочечник монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_adrenal",
+      "alchemyId": "harvest_monster_adrenal",
+      "harvestGroup": "monster",
+      "harvestPart": "adrenal",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.adrenal"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.adrenal"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "adrenal",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_adrenal",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.pancreas",
+      "name": "Поджелудочная железа монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Поджелудочная железа монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_pancreas",
+      "alchemyId": "harvest_monster_pancreas",
+      "harvestGroup": "monster",
+      "harvestPart": "pancreas",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.pancreas"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.pancreas"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "pancreas",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_pancreas",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.bladder",
+      "name": "Мочевой пузырь монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.06 кг",
+      "cost": "2 зм",
+      "description": "Мочевой пузырь монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_bladder",
+      "alchemyId": "harvest_monster_bladder",
+      "harvestGroup": "monster",
+      "harvestPart": "bladder",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.bladder"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.bladder"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "bladder",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_bladder",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.gallbladder",
+      "name": "Жёлчный пузырь монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.04 кг",
+      "cost": "2 зм",
+      "description": "Жёлчный пузырь монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_gallbladder",
+      "alchemyId": "harvest_monster_gallbladder",
+      "harvestGroup": "monster",
+      "harvestPart": "gallbladder",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.gallbladder"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.gallbladder"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "gallbladder",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_gallbladder",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.tongue",
+      "name": "Язык монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Язык монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_tongue",
+      "alchemyId": "harvest_monster_tongue",
+      "harvestGroup": "monster",
+      "harvestPart": "tongue",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.tongue"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.tongue"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "tongue",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_tongue",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.ear",
+      "name": "Ухо монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Ухо монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_ear",
+      "alchemyId": "harvest_monster_ear",
+      "harvestGroup": "monster",
+      "harvestPart": "ear",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.ear"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.ear"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "ear",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_ear",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.skin",
+      "name": "Кожа монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Кожа монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_skin",
+      "alchemyId": "harvest_monster_skin",
+      "harvestGroup": "monster",
+      "harvestPart": "skin",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.skin"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.skin"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "skin",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_skin",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.cartilage",
+      "name": "Хрящ монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Хрящ монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_cartilage",
+      "alchemyId": "harvest_monster_cartilage",
+      "harvestGroup": "monster",
+      "harvestPart": "cartilage",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.cartilage"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.cartilage"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "cartilage",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_cartilage",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.nerve",
+      "name": "Нервная ткань монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Нервная ткань монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_nerve",
+      "alchemyId": "harvest_monster_nerve",
+      "harvestGroup": "monster",
+      "harvestPart": "nerve",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.nerve"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.nerve"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "nerve",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_nerve",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lymph_node",
+      "name": "Лимфатический узел монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Лимфатический узел монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_lymph_node",
+      "alchemyId": "harvest_monster_lymph_node",
+      "harvestGroup": "monster",
+      "harvestPart": "lymph_node",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lymph_node"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lymph_node"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "lymph_node",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_lymph_node",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lymph",
+      "name": "Лимфа монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.1 кг",
+      "cost": "2 зм",
+      "description": "Лимфа монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_lymph",
+      "alchemyId": "harvest_monster_lymph",
+      "harvestGroup": "monster",
+      "harvestPart": "lymph",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lymph"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lymph"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "lymph",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_lymph",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.bile",
+      "name": "Жёлчь монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Жёлчь монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_bile",
+      "alchemyId": "harvest_monster_bile",
+      "harvestGroup": "monster",
+      "harvestPart": "bile",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.bile"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.bile"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "bile",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_bile",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.saliva",
+      "name": "Слюна монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Слюна монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_saliva",
+      "alchemyId": "harvest_monster_saliva",
+      "harvestGroup": "monster",
+      "harvestPart": "saliva",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.saliva"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.saliva"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "saliva",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_saliva",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.gastric_juice",
+      "name": "Желудочный сок монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Желудочный сок монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_gastric_juice",
+      "alchemyId": "harvest_monster_gastric_juice",
+      "harvestGroup": "monster",
+      "harvestPart": "gastric_juice",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.gastric_juice"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.gastric_juice"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "gastric_juice",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_gastric_juice",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lens",
+      "name": "Хрусталик монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Хрусталик монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_lens",
+      "alchemyId": "harvest_monster_lens",
+      "harvestGroup": "monster",
+      "harvestPart": "lens",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lens"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lens"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "lens",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_lens",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.retina",
+      "name": "Сетчатка монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Сетчатка монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_retina",
+      "alchemyId": "harvest_monster_retina",
+      "harvestGroup": "monster",
+      "harvestPart": "retina",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.retina"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.retina"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "retina",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_retina",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.cornea",
+      "name": "Роговица монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Роговица монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_cornea",
+      "alchemyId": "harvest_monster_cornea",
+      "harvestGroup": "monster",
+      "harvestPart": "cornea",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.cornea"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.cornea"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "cornea",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_cornea",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.blood_clot",
+      "name": "Сгусток крови монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Сгусток крови монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_blood_clot",
+      "alchemyId": "harvest_monster_blood_clot",
+      "harvestGroup": "monster",
+      "harvestPart": "blood_clot",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.blood_clot"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.blood_clot"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "blood_clot",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_blood_clot",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.vein",
+      "name": "Венозная ткань монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Венозная ткань монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_vein",
+      "alchemyId": "harvest_monster_vein",
+      "harvestGroup": "monster",
+      "harvestPart": "vein",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.vein"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.vein"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "vein",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_vein",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.artery",
+      "name": "Артериальная ткань монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Артериальная ткань монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_artery",
+      "alchemyId": "harvest_monster_artery",
+      "harvestGroup": "monster",
+      "harvestPart": "artery",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.artery"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.artery"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "artery",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_artery",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.ligament",
+      "name": "Связка монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Связка монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_ligament",
+      "alchemyId": "harvest_monster_ligament",
+      "harvestGroup": "monster",
+      "harvestPart": "ligament",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.ligament"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.ligament"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "ligament",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_ligament",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.membrane",
+      "name": "Соединительная оболочка монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Соединительная оболочка монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_membrane",
+      "alchemyId": "harvest_monster_membrane",
+      "harvestGroup": "monster",
+      "harvestPart": "membrane",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.membrane"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.membrane"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "membrane",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_membrane",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.muscle",
+      "name": "Мышечная ткань монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.15 кг",
+      "cost": "2 зм",
+      "description": "Мышечная ткань монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_muscle",
+      "alchemyId": "harvest_monster_muscle",
+      "harvestGroup": "monster",
+      "harvestPart": "muscle",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.muscle"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.muscle"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "muscle",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_muscle",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.skull",
+      "name": "Череп монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "1 кг",
+      "cost": "2 зм",
+      "description": "Череп монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_skull",
+      "alchemyId": "harvest_monster_skull",
+      "harvestGroup": "monster",
+      "harvestPart": "skull",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.skull"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.skull"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "skull",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_skull",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.jaw",
+      "name": "Челюсть монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Челюсть монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_jaw",
+      "alchemyId": "harvest_monster_jaw",
+      "harvestGroup": "monster",
+      "harvestPart": "jaw",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.jaw"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.jaw"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "jaw",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_jaw",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.rib",
+      "name": "Ребро монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Ребро монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_rib",
+      "alchemyId": "harvest_monster_rib",
+      "harvestGroup": "monster",
+      "harvestPart": "rib",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.rib"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.rib"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "rib",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_rib",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.vertebra",
+      "name": "Позвонок монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Позвонок монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_vertebra",
+      "alchemyId": "harvest_monster_vertebra",
+      "harvestGroup": "monster",
+      "harvestPart": "vertebra",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.vertebra"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.vertebra"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "vertebra",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_vertebra",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.scapula",
+      "name": "Лопаточная кость монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.12 кг",
+      "cost": "2 зм",
+      "description": "Лопаточная кость монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_scapula",
+      "alchemyId": "harvest_monster_scapula",
+      "harvestGroup": "monster",
+      "harvestPart": "scapula",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.scapula"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.scapula"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "scapula",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_scapula",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.pelvis",
+      "name": "Тазовая кость монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.4 кг",
+      "cost": "2 зм",
+      "description": "Тазовая кость монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_pelvis",
+      "alchemyId": "harvest_monster_pelvis",
+      "harvestGroup": "monster",
+      "harvestPart": "pelvis",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.pelvis"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.pelvis"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "pelvis",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_pelvis",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.fat_gland",
+      "name": "Жировая железа монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Жировая железа монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_fat_gland",
+      "alchemyId": "harvest_monster_fat_gland",
+      "harvestGroup": "monster",
+      "harvestPart": "fat_gland",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.fat_gland"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.fat_gland"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "fat_gland",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_fat_gland",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.mucus",
+      "name": "Слизь монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Слизь монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_mucus",
+      "alchemyId": "harvest_monster_mucus",
+      "harvestGroup": "monster",
+      "harvestPart": "mucus",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.mucus"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.mucus"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "mucus",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_mucus",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.tear",
+      "name": "Слёзная жидкость монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Слёзная жидкость монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_tear",
+      "alchemyId": "harvest_monster_tear",
+      "harvestGroup": "monster",
+      "harvestPart": "tear",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.tear"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.tear"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "tear",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_tear",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.eye_fluid",
+      "name": "Стекловидное тело монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Стекловидное тело монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_eye_fluid",
+      "alchemyId": "harvest_monster_eye_fluid",
+      "harvestGroup": "monster",
+      "harvestPart": "eye_fluid",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.eye_fluid"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.eye_fluid"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "eye_fluid",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_eye_fluid",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.hair",
+      "name": "Волос монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Волос монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_hair",
+      "alchemyId": "harvest_monster_hair",
+      "harvestGroup": "monster",
+      "harvestPart": "hair",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.hair"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.hair"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "hair",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_hair",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.nail",
+      "name": "Ноготь монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Ноготь монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_nail",
+      "alchemyId": "harvest_monster_nail",
+      "harvestGroup": "monster",
+      "harvestPart": "nail",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.nail"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.nail"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "nail",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_nail",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.placenta",
+      "name": "Плацента монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Плацента монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_placenta",
+      "alchemyId": "harvest_monster_placenta",
+      "harvestGroup": "monster",
+      "harvestPart": "placenta",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.placenta"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.placenta"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "placenta",
+          "requires": [
+            "requires_compatible_anatomy",
+            "placental_anatomy",
+            "gestation_or_birth"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_placenta",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.umbilical",
+      "name": "Пуповина монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Пуповина монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_umbilical",
+      "alchemyId": "harvest_monster_umbilical",
+      "harvestGroup": "monster",
+      "harvestPart": "umbilical",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.umbilical"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.umbilical"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "umbilical",
+          "requires": [
+            "requires_compatible_anatomy",
+            "placental_anatomy",
+            "gestation_or_birth"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_umbilical",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.acid_sac",
+      "name": "Кислотный мешок монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Кислотный мешок монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_acid_sac",
+      "alchemyId": "harvest_monster_acid_sac",
+      "harvestGroup": "monster",
+      "harvestPart": "acid_sac",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.acid_sac"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.acid_sac"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "acid_sac",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_acid_sac",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.venom_sac",
+      "name": "Ядовитый мешок монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Ядовитый мешок монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_venom_sac",
+      "alchemyId": "harvest_monster_venom_sac",
+      "harvestGroup": "monster",
+      "harvestPart": "venom_sac",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.venom_sac"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.venom_sac"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "venom_sac",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_venom_sac",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.luminescent",
+      "name": "Светящийся орган монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Светящийся орган монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_luminescent",
+      "alchemyId": "harvest_monster_luminescent",
+      "harvestGroup": "monster",
+      "harvestPart": "luminescent",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.luminescent"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.luminescent"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "luminescent",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_luminescent",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.electric",
+      "name": "Электрический орган монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.1 кг",
+      "cost": "2 зм",
+      "description": "Электрический орган монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_electric",
+      "alchemyId": "harvest_monster_electric",
+      "harvestGroup": "monster",
+      "harvestPart": "electric",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.electric"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.electric"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "electric",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_electric",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.phase_membrane",
+      "name": "Фазовая мембрана монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Фазовая мембрана монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_phase_membrane",
+      "alchemyId": "harvest_monster_phase_membrane",
+      "harvestGroup": "monster",
+      "harvestPart": "phase_membrane",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "magical.phase_membrane"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.phase_membrane"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "phase_membrane",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_phase_membrane",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.petrifying",
+      "name": "Каменеющая железа монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Каменеющая железа монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_petrifying",
+      "alchemyId": "harvest_monster_petrifying",
+      "harvestGroup": "monster",
+      "harvestPart": "petrifying",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.petrifying"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.petrifying"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "petrifying",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_petrifying",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.regenerative",
+      "name": "Регенеративный узел монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.04 кг",
+      "cost": "2 зм",
+      "description": "Регенеративный узел монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_regenerative",
+      "alchemyId": "harvest_monster_regenerative",
+      "harvestGroup": "monster",
+      "harvestPart": "regenerative",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.regenerative"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.regenerative"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "regenerative",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_regenerative",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.fire_sac",
+      "name": "Огненный мешок монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.1 кг",
+      "cost": "2 зм",
+      "description": "Огненный мешок монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_fire_sac",
+      "alchemyId": "harvest_monster_fire_sac",
+      "harvestGroup": "monster",
+      "harvestPart": "fire_sac",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.fire_sac"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.fire_sac"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "fire_sac",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_fire_sac",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.frost_crystal",
+      "name": "Морозный кристалл монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.04 кг",
+      "cost": "2 зм",
+      "description": "Морозный кристалл монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_frost_crystal",
+      "alchemyId": "harvest_monster_frost_crystal",
+      "harvestGroup": "monster",
+      "harvestPart": "frost_crystal",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "magical.frost_crystal"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.frost_crystal"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "frost_crystal",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_frost_crystal",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.necrotic",
+      "name": "Некротическая ткань монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.06 кг",
+      "cost": "2 зм",
+      "description": "Некротическая ткань монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_necrotic",
+      "alchemyId": "harvest_monster_necrotic",
+      "harvestGroup": "monster",
+      "harvestPart": "necrotic",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.necrotic"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.necrotic"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "necrotic",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_necrotic",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.ectoplasm",
+      "name": "Эктоплазма монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Эктоплазма монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_ectoplasm",
+      "alchemyId": "harvest_monster_ectoplasm",
+      "harvestGroup": "monster",
+      "harvestPart": "ectoplasm",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "magical.ectoplasm"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.ectoplasm"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "ectoplasm",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_ectoplasm",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.elemental_core",
+      "name": "Стихийное ядро монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Стихийное ядро монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_elemental_core",
+      "alchemyId": "harvest_monster_elemental_core",
+      "harvestGroup": "monster",
+      "harvestPart": "elemental_core",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "magical.elemental_core"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.elemental_core"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "elemental_core",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_elemental_core",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.adhesive",
+      "name": "Клейкий секрет монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Клейкий секрет монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_adhesive",
+      "alchemyId": "harvest_monster_adhesive",
+      "harvestGroup": "monster",
+      "harvestPart": "adhesive",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.adhesive"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.adhesive"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "adhesive",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_adhesive",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.paralytic",
+      "name": "Паралитическая железа монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.04 кг",
+      "cost": "2 зм",
+      "description": "Паралитическая железа монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_paralytic",
+      "alchemyId": "harvest_monster_paralytic",
+      "harvestGroup": "monster",
+      "harvestPart": "paralytic",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.paralytic"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.paralytic"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "paralytic",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_paralytic",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.sensory_tendril",
+      "name": "Чувствительный усик монстра",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Чувствительный усик монстра. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_monster_sensory_tendril",
+      "alchemyId": "harvest_monster_sensory_tendril",
+      "harvestGroup": "monster",
+      "harvestPart": "sensory_tendril",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.sensory_tendril"
+        ],
+        "lootTags": [
+          "harvest.monster"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.sensory_tendril"
+          ],
+          "recipeTags": [
+            "harvest.monster"
+          ]
+        },
+        "anatomy": {
+          "group": "monster",
+          "part": "sensory_tendril",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_monster_sensory_tendril",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.monster",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    }
+  ]
+}

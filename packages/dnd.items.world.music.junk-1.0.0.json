@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.music.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.music.junk.4431c8a5c3cb",
+      "name": "Камертон",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.08 кг",
+      "cost": "0.24 зм",
+      "description": "Камертон. Назначение: задавать тон для настройки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "задавать тон для настройки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.24,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.1b219250b829",
+      "name": "Смычок",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.06 кг",
+      "cost": "0.03 зм",
+      "description": "Смычок. Назначение: извлекать звук из струнного инструмента. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "извлекать звук из струнного инструмента"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.6c5d27505fc1",
+      "name": "Медиатор костяной",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.002 кг",
+      "cost": "0.01 зм",
+      "description": "Медиатор костяной. Назначение: защипывать струны. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "защипывать струны"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.c403f644857c",
+      "name": "Колокольчик сценический",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.08 кг",
+      "cost": "0.24 зм",
+      "description": "Колокольчик сценический. Назначение: подавать звуковой знак. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подавать звуковой знак"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.24,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.6c51fddc9789",
+      "name": "Театральная полумаска",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Театральная полумаска. Назначение: менять внешний облик в представлении. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "менять внешний облик в представлении"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.9c7ffa6f289d",
+      "name": "Погремушка",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Погремушка. Назначение: отбивать ритм. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отбивать ритм"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.81e11495503d",
+      "name": "Барабанная палочка",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Барабанная палочка. Назначение: ударять по барабану. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "ударять по барабану"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.440f83b6552e",
+      "name": "Свирель тростниковая",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.05 кг",
+      "cost": "0.03 зм",
+      "description": "Свирель тростниковая. Назначение: играть простую мелодию. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "reed"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "играть простую мелодию"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "reed"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.2d662f72d02b",
+      "name": "Футляр для флейты",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Футляр для флейты. Назначение: переносить подходящую флейту. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить подходящую флейту"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.eabb92cf732b",
+      "name": "Гримировальная кисть",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.015 кг",
+      "cost": "0.01 зм",
+      "description": "Гримировальная кисть. Назначение: наносить сценический грим. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "наносить сценический грим"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.2d2452d11b27",
+      "name": "Шаблон для теневого театра",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Шаблон для теневого театра. Назначение: создавать силуэт в свете. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "создавать силуэт в свете"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.music.junk.3fdaad7b97c5",
+      "name": "Щётка для струн",
+      "inventoryCategory": "junk",
+      "category": "Музыка и сцена",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Щётка для струн. Назначение: очищать струны инструмента. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "theatre"
+        ],
+        "uses": [
+          {
+            "action": "clean",
+            "execution": "manual",
+            "text": "очищать струны инструмента"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "performer"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "theatre"
+          ]
+        }
+      }
+    }
+  ]
+}

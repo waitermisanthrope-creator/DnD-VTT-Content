@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.merchant.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.merchant.junk.19f92fe4fb64",
+      "name": "Весы чашечные",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.8 кг",
+      "cost": "2.4 зм",
+      "description": "Весы чашечные. Назначение: сравнивать массу товара с гирями. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "weigh",
+            "execution": "manual",
+            "text": "сравнивать массу товара с гирями"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.4,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.965381d8fe5f",
+      "name": "Набор малых гирь",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.5 кг",
+      "cost": "1.5 зм",
+      "description": "Набор малых гирь. Назначение: взвешивать товар на весах. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "weigh",
+            "execution": "manual",
+            "text": "взвешивать товар на весах"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.5,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.3e425f3f1e7f",
+      "name": "Лоток менялы",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Лоток менялы. Назначение: раскладывать монеты для счёта. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "раскладывать монеты для счёта"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.fd13c2be7b7f",
+      "name": "Пробирный камень",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Пробирный камень. Назначение: оставлять пробную черту металла. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "оставлять пробную черту металла"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.d73c0cd0065a",
+      "name": "Пломбир купеческий",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Пломбир купеческий. Назначение: зажимать торговую пломбу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "зажимать торговую пломбу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.d726abd3854a",
+      "name": "Бирка для товара",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Бирка для товара. Назначение: подписывать единицу товара. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "label",
+            "execution": "manual",
+            "text": "подписывать единицу товара"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.077a5a8cb593",
+      "name": "Дощечка долговая",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Дощечка долговая. Назначение: вести ручную запись долга. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "вести ручную запись долга"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.f17d6565f3ec",
+      "name": "Торговый счётчик бусинный",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Торговый счётчик бусинный. Назначение: считать небольшие партии вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "считать небольшие партии вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.b113383ce69a",
+      "name": "Футляр для печати",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Футляр для печати. Назначение: переносить личную печать. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить личную печать"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.58aa77a23a33",
+      "name": "Складская мерка",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Складская мерка. Назначение: отмерять объём сыпучего товара. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "measure",
+            "execution": "manual",
+            "text": "отмерять объём сыпучего товара"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.25c51e9a2190",
+      "name": "Шнур для опечатывания",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Шнур для опечатывания. Назначение: перевязывать опечатываемую упаковку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "перевязывать опечатываемую упаковку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.a2a3e2d9e8af",
+      "name": "Купеческий совок",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Купеческий совок. Назначение: набирать сыпучий товар. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "набирать сыпучий товар"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.a8488fa7f445",
+      "name": "Пробка для бочонка",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Пробка для бочонка. Назначение: закрывать подходящее отверстие. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "cork"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "закрывать подходящее отверстие"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "cork"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.2f3669cb0881",
+      "name": "Кран для бочки",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Кран для бочки. Назначение: сливать жидкость из подходящей бочки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "сливать жидкость из подходящей бочки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.1ddb283ea7a9",
+      "name": "Товарная полочная табличка",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Товарная полочная табличка. Назначение: указывать цену и название вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "указывать цену и название вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.ed27f0d14583",
+      "name": "Мешочек для размена",
+      "inventoryCategory": "junk",
+      "category": "Лавка и торговля",
+      "weight": "0.06 кг",
+      "cost": "0.03 зм",
+      "description": "Мешочек для размена. Назначение: хранить мелкие монеты. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "shop"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить мелкие монеты"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "merchant"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "shop"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -295,3 +295,40 @@
 - `packages/dnd.items.volume13.weapons-1.1.0.json` — 108444 B; совместимая опциональная поставка предметов.
 - `packages/dnd.items.volume14.weapons-1.1.0.json` — 18056 B; совместимая опциональная поставка предметов.
 - `packages/dnd.items.weapons-1.1.0.json` — 98009 B; совместимая опциональная поставка предметов.
+
+## Быт, ремесло и анатомия 1.0.0
+
+Живой v3 после активации: 249 записей. +464 предмета / 219 профилей / 25 пакетов.
+
+- `docs/WORLD_LOOT_AND_ANATOMY.md` — 13252 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `schemas/item-traits-v1.schema.json` — 2368 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `sources/world-loot-1.0.0.json` — 75368 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `sources/world-loot-audit-1.0.0.json` — 5334 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `tools/build_world_loot.py` — 47097 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `tools/verify_world_loot.py` — 5638 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `tools/compatibility-tests/WorldChecks.cs` — 7777 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.alchemy.ingredients.world.anatomy.animal-1.0.0.json` — 34879 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.alchemy.ingredients.world.anatomy.humanoid-1.0.0.json` — 29215 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.alchemy.ingredients.world.anatomy.monster-1.0.0.json` — 36161 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.anatomy.animal.materials-1.0.0.json` — 132928 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.anatomy.humanoid.materials-1.0.0.json` — 106243 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.anatomy.monster.materials-1.0.0.json` — 140563 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.apothecary.junk-1.0.0.json` — 20983 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.camp.junk-1.0.0.json` — 20440 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.carpenter.junk-1.0.0.json` — 20173 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.farmer.junk-1.0.0.json` — 19884 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.fishing.junk-1.0.0.json` — 20260 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.healer.junk-1.0.0.json` — 20563 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.household.junk-1.0.0.json` — 20039 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.kitchen.junk-1.0.0.json` — 14778 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.kitchen.weapons-1.0.0.json` — 15227 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.merchant.junk-1.0.0.json` — 20363 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.miner.junk-1.0.0.json` — 20224 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.music.junk-1.0.0.json` — 15140 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.raw.materials-1.0.0.json` — 43497 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.scribe.junk-1.0.0.json` — 20236 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.shrine.junk-1.0.0.json` — 15329 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.smithy.junk-1.0.0.json` — 20179 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.supplies.consumables-1.0.0.json` — 29770 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.tailor.junk-1.0.0.json` — 19950 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.
+- `packages/dnd.items.world.workwear.armor-1.0.0.json` — 17121 B; бытовые предметы/анатомия, только JSON данные и локальные средства проверки.

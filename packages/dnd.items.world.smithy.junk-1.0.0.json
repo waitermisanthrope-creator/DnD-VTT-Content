@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.smithy.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.smithy.junk.a705b3d378d6",
+      "name": "Кузнечные клещи",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "1.1 кг",
+      "cost": "0.55 зм",
+      "description": "Кузнечные клещи. Назначение: удерживать раскалённую заготовку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать раскалённую заготовку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.55,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.084b260d6241",
+      "name": "Кузнечная бородка",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.35 кг",
+      "cost": "1.05 зм",
+      "description": "Кузнечная бородка. Назначение: пробивать отверстия в горячем металле. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "punch",
+            "execution": "manual",
+            "text": "пробивать отверстия в горячем металле"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.05,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.edb1c7d1125d",
+      "name": "Подбойный молоток",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.8 кг",
+      "cost": "2.4 зм",
+      "description": "Подбойный молоток. Назначение: осаживать и выравнивать металл. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "осаживать и выравнивать металл"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.4,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.af82b66b3bee",
+      "name": "Кузнечная гладилка",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.7 кг",
+      "cost": "2.1 зм",
+      "description": "Кузнечная гладилка. Назначение: выравнивать поверхность поковки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "выравнивать поверхность поковки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.1,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.bc4a4537b412",
+      "name": "Обжимка для заклёпок",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.4 кг",
+      "cost": "1.2 зм",
+      "description": "Обжимка для заклёпок. Назначение: формовать головки заклёпок. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "формовать головки заклёпок"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.2,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.ee2aa1616a73",
+      "name": "Кузнечный зубильник",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.6 кг",
+      "cost": "1.8 зм",
+      "description": "Кузнечный зубильник. Назначение: надрубать металлическую заготовку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "надрубать металлическую заготовку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.8,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.86e9429f94ab",
+      "name": "Напильник плоский",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.25 кг",
+      "cost": "0.75 зм",
+      "description": "Напильник плоский. Назначение: опиливать плоские поверхности. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "file",
+            "execution": "manual",
+            "text": "опиливать плоские поверхности"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.75,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.2b14b127c0ce",
+      "name": "Напильник круглый",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.18 кг",
+      "cost": "0.54 зм",
+      "description": "Напильник круглый. Назначение: расширять круглые отверстия. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "расширять круглые отверстия"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.54,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.228b07fff764",
+      "name": "Рашпиль",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.22 кг",
+      "cost": "0.66 зм",
+      "description": "Рашпиль. Назначение: грубо обрабатывать мягкие материалы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "грубо обрабатывать мягкие материалы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.66,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.272fb16ec5d7",
+      "name": "Кузнечный мех малый",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "2.4 кг",
+      "cost": "1.2 зм",
+      "description": "Кузнечный мех малый. Назначение: нагнетать воздух в горн. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "нагнетать воздух в горн"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.2,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.3fd68b93a2c5",
+      "name": "Пробойник для листа",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.3 кг",
+      "cost": "0.9 зм",
+      "description": "Пробойник для листа. Назначение: пробивать тонкий металлический лист. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "punch",
+            "execution": "manual",
+            "text": "пробивать тонкий металлический лист"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.9,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.4b0e09f58c7b",
+      "name": "Литейная ложка",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.9 кг",
+      "cost": "0.45 зм",
+      "description": "Литейная ложка. Назначение: переносить небольшую порцию расплава. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить небольшую порцию расплава"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.45,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.3fbd3f4db5d5",
+      "name": "Тигель графитовый",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.6 кг",
+      "cost": "0.3 зм",
+      "description": "Тигель графитовый. Назначение: удерживать металл при плавке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "graphite"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать металл при плавке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "graphite"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.618fd56c7713",
+      "name": "Форма для пряжки",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.5 кг",
+      "cost": "0.25 зм",
+      "description": "Форма для пряжки. Назначение: отливать небольшую пряжку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отливать небольшую пряжку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.25,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.7ab6fc5eca83",
+      "name": "Волочильная доска",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.7 кг",
+      "cost": "2.1 зм",
+      "description": "Волочильная доска. Назначение: вытягивать проволоку через отверстия. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "вытягивать проволоку через отверстия"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.1,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.86d17b0122ce",
+      "name": "Кузнечный шаблон",
+      "inventoryCategory": "junk",
+      "category": "Кузница",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Кузнечный шаблон. Назначение: проверять форму изделия. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "smithy"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "проверять форму изделия"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "smithy"
+          ]
+        }
+      }
+    }
+  ]
+}

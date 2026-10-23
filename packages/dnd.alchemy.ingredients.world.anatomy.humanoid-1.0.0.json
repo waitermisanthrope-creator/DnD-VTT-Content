@@ -1,0 +1,1412 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.alchemy.ingredients.world.anatomy.humanoid",
+  "version": "1.0.0",
+  "type": "craft",
+  "items": [],
+  "mode": "alchemy-ingredients",
+  "ingredients": [
+    {
+      "id": "harvest_humanoid_heart",
+      "name": "Сердце гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Strength",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "heart",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_blood",
+      "name": "Кровь гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Hemorrhage",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "blood",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_bone",
+      "name": "Кость гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Necrotic",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "bone",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_hide",
+      "name": "Шкура гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "hide",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_meat",
+      "name": "Мясо гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Constitution",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "meat",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_fat",
+      "name": "Жир гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "fat",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_eye",
+      "name": "Глаз гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "eye",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_tooth",
+      "name": "Зуб гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Earth",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "tooth",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_claw",
+      "name": "Коготь гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Dexterity",
+        "Hemorrhage",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "claw",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_sinew",
+      "name": "Сухожилие гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Dexterity",
+        "Strength",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "sinew",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_liver",
+      "name": "Печень гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Recovery",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "liver",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_gland",
+      "name": "Железа гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Venom",
+        "Volatility",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "gland",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_horn",
+      "name": "Рог гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Magic",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "horn",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_scale",
+      "name": "Чешуя гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Earth",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "scale",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_marrow",
+      "name": "Костный мозг гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "marrow",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_fur",
+      "name": "Мех гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Cold",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "fur",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_feather",
+      "name": "Перо гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Breathing",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "feather",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_venom",
+      "name": "Яд гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Venom",
+        "Weakness",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "venom",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_spleen",
+      "name": "Селезёнка гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Recovery",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "spleen",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_kidney",
+      "name": "Почка гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "kidney",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_lung",
+      "name": "Лёгкое гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Breathing",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "lung",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_stomach",
+      "name": "Желудок гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Constitution",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "stomach",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_intestine",
+      "name": "Кишечная ткань гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Nausea",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "intestine",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_brain",
+      "name": "Головной мозг гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Mind",
+        "Hallucination"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "brain",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_spinal_cord",
+      "name": "Спинной мозг гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Mind",
+        "Speed"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "spinal_cord",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_pituitary",
+      "name": "Гипофиз гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Magic",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "pituitary",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_thyroid",
+      "name": "Щитовидная железа гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Constitution",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "thyroid",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_adrenal",
+      "name": "Надпочечник гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Fear",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "adrenal",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_pancreas",
+      "name": "Поджелудочная железа гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Vitality",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "pancreas",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_bladder",
+      "name": "Мочевой пузырь гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "bladder",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_gallbladder",
+      "name": "Жёлчный пузырь гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Venom",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "gallbladder",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_tongue",
+      "name": "Язык гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "tongue",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_ear",
+      "name": "Ухо гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "ear",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_skin",
+      "name": "Кожа гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "skin",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_cartilage",
+      "name": "Хрящ гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Regeneration",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "cartilage",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_nerve",
+      "name": "Нервная ткань гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "nerve",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_lymph_node",
+      "name": "Лимфатический узел гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "lymph_node",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_lymph",
+      "name": "Лимфа гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Antidote",
+        "Recovery",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "lymph",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_bile",
+      "name": "Жёлчь гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Venom",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "bile",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_saliva",
+      "name": "Слюна гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Breathing",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "saliva",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_gastric_juice",
+      "name": "Желудочный сок гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Acid",
+        "Volatility",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "gastric_juice",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_lens",
+      "name": "Хрусталик гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Blindness",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "lens",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_retina",
+      "name": "Сетчатка гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Hallucination",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "retina",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_cornea",
+      "name": "Роговица гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "cornea",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_blood_clot",
+      "name": "Сгусток крови гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Hemorrhage",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "blood_clot",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_vein",
+      "name": "Венозная ткань гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Hemorrhage",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "vein",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_artery",
+      "name": "Артериальная ткань гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Speed",
+        "Hemorrhage",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "artery",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_ligament",
+      "name": "Связка гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Dexterity",
+        "Strength",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "ligament",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_membrane",
+      "name": "Соединительная оболочка гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Breathing",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "membrane",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_muscle",
+      "name": "Мышечная ткань гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Constitution",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "muscle",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_skull",
+      "name": "Череп гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Mind",
+        "Necrotic"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "skull",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_jaw",
+      "name": "Челюсть гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Strength",
+        "Earth",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "jaw",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_rib",
+      "name": "Ребро гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Earth",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "rib",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_vertebra",
+      "name": "Позвонок гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Stability",
+        "Earth",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "vertebra",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_scapula",
+      "name": "Лопаточная кость гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "scapula",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_pelvis",
+      "name": "Тазовая кость гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Constitution",
+        "Earth",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "pelvis",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_fat_gland",
+      "name": "Жировая железа гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Fire",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "fat_gland",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_mucus",
+      "name": "Слизь гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Breathing",
+        "Nausea",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "mucus",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_tear",
+      "name": "Слёзная жидкость гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Perception",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "tear",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_eye_fluid",
+      "name": "Стекловидное тело гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Perception",
+        "Cold",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "eye_fluid",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_hair",
+      "name": "Волос гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Magic",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "hair",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_nail",
+      "name": "Ноготь гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Earth",
+        "Stability",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "nail",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_placenta",
+      "name": "Плацента гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Regeneration",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "placenta",
+        "alchemy"
+      ]
+    },
+    {
+      "id": "harvest_humanoid_umbilical",
+      "name": "Пуповина гуманоида",
+      "category": "anatomy",
+      "rarity": "common",
+      "properties": [
+        "Recovery",
+        "Vitality",
+        "Mind"
+      ],
+      "extra": null,
+      "potency": 30,
+      "stability": 65,
+      "volatility": 20,
+      "purity": 65,
+      "tags": [
+        "anatomy",
+        "humanoid",
+        "umbilical",
+        "alchemy"
+      ]
+    }
+  ]
+}

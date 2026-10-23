@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.camp.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.camp.junk.6fbc56cae8db",
+      "name": "Котелок походный",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.65 кг",
+      "cost": "0.33 зм",
+      "description": "Котелок походный. Назначение: готовить порцию пищи на костре. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить порцию пищи на костре"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.33,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.3667cc4bcdd8",
+      "name": "Тренога костровая",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "1.2 кг",
+      "cost": "0.6 зм",
+      "description": "Тренога костровая. Назначение: подвешивать котелок над огнём. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "hang",
+            "execution": "manual",
+            "text": "подвешивать котелок над огнём"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.d7f6908e1a82",
+      "name": "Колышек палаточный",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Колышек палаточный. Назначение: крепить растяжку палатки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "fasten",
+            "execution": "manual",
+            "text": "крепить растяжку палатки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.aa4c49cd4fd1",
+      "name": "Лопатка складная",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.7 кг",
+      "cost": "0.35 зм",
+      "description": "Лопатка складная. Назначение: копать небольшую яму вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "копать небольшую яму вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.35,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.5126d7814038",
+      "name": "Игла парусная",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.01 кг",
+      "cost": "0.03 зм",
+      "description": "Игла парусная. Назначение: шить парусину и толстую ткань. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "sew",
+            "execution": "manual",
+            "text": "шить парусину и толстую ткань"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.d75ecbe0181d",
+      "name": "Крюк подвесной",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Крюк подвесной. Назначение: подвешивать груз к подходящей опоре. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "hang",
+            "execution": "manual",
+            "text": "подвешивать груз к подходящей опоре"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.678c2814f33d",
+      "name": "Кожаная фляга",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Кожаная фляга. Назначение: переносить небольшой запас жидкости. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить небольшой запас жидкости"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.b8a4a2c64069",
+      "name": "Дорожная кружка",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Дорожная кружка. Назначение: пить из переносного сосуда. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "tin"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "пить из переносного сосуда"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "tin"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.b0979afb71f3",
+      "name": "Соломенная подстилка",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.8 кг",
+      "cost": "0.4 зм",
+      "description": "Соломенная подстилка. Назначение: подкладывать под спальное место. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "straw"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подкладывать под спальное место"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.4,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "straw"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.be9e2bbdda1e",
+      "name": "Свёрток для инструментов",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.25 кг",
+      "cost": "0.12 зм",
+      "description": "Свёрток для инструментов. Назначение: переносить инструменты в ткани. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить инструменты в ткани"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.fe85e0d8cf57",
+      "name": "Чехол для топора",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Чехол для топора. Назначение: закрывать лезвие подходящего топора. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "закрывать лезвие подходящего топора"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.37fb6a5830cf",
+      "name": "Шило походное",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.06 кг",
+      "cost": "0.18 зм",
+      "description": "Шило походное. Назначение: прокалывать кожу при ремонте снаряжения. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "pierce",
+            "execution": "manual",
+            "text": "прокалывать кожу при ремонте снаряжения"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.18,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.a55851879a1b",
+      "name": "Песочные часы малые",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.2 кг",
+      "cost": "0.6 зм",
+      "description": "Песочные часы малые. Назначение: отмерять заданный интервал вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "measure",
+            "execution": "manual",
+            "text": "отмерять заданный интервал вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.68a3fb6faf3e",
+      "name": "Дорожный компас",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.1 кг",
+      "cost": "0.3 зм",
+      "description": "Дорожный компас. Назначение: определять направление по решению мастера. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "определять направление по решению мастера"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.d09430a7d99f",
+      "name": "Сигнальное зеркальце",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.08 кг",
+      "cost": "0.24 зм",
+      "description": "Сигнальное зеркальце. Назначение: подавать отражённый световой сигнал. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подавать отражённый световой сигнал"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.24,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.camp.junk.ae86332654b6",
+      "name": "Свисток сигнальный",
+      "inventoryCategory": "junk",
+      "category": "Дорога и лагерь",
+      "weight": "0.03 кг",
+      "cost": "0.09 зм",
+      "description": "Свисток сигнальный. Назначение: подавать слышимый сигнал. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "camp"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подавать слышимый сигнал"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.09,
+          "merchantTags": [
+            "outfitter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "camp"
+          ]
+        }
+      }
+    }
+  ]
+}

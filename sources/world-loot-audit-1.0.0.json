@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "revision": "1.0.0",
+  "baseline": {
+    "items": 3411,
+    "uniqueNames": 3404,
+    "duplicateNameCount": 6
+  },
+  "expansion": {
+    "items": 464,
+    "uniqueNames": 464,
+    "optionalPackages": 25,
+    "researchProfiles": 219,
+    "categories": {
+      "weapons": 8,
+      "junk": 228,
+      "armor": 12,
+      "consumables": 20,
+      "materials": 196
+    }
+  },
+  "combinedItems": 3875,
+  "examples": [
+    {
+      "name": "Нож для масла",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Пинцет",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Шило",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Игла портновская",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Стамеска",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Рыболовный крючок",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Ступка",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Селезёнка гуманоида",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Селезёнка животного",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Селезёнка монстра",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Кислотный мешок монстра",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Плавательный пузырь животного",
+      "before": false,
+      "after": true
+    },
+    {
+      "name": "Хирургический скальпель",
+      "before": false,
+      "after": true
+    }
+  ],
+  "anatomyProfilesByGroup": {
+    "animal": 76,
+    "monster": 79,
+    "humanoid": 64
+  },
+  "coverage": [
+    {
+      "family": "kitchen",
+      "packageId": "dnd.items.world.kitchen.weapons",
+      "itemCount": 8,
+      "category": "weapons"
+    },
+    {
+      "family": "kitchen",
+      "packageId": "dnd.items.world.kitchen.junk",
+      "itemCount": 12,
+      "category": "junk"
+    },
+    {
+      "family": "smithy",
+      "packageId": "dnd.items.world.smithy.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "healer",
+      "packageId": "dnd.items.world.healer.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "scribe",
+      "packageId": "dnd.items.world.scribe.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "tailor",
+      "packageId": "dnd.items.world.tailor.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "fishing",
+      "packageId": "dnd.items.world.fishing.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "carpenter",
+      "packageId": "dnd.items.world.carpenter.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "farmer",
+      "packageId": "dnd.items.world.farmer.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "miner",
+      "packageId": "dnd.items.world.miner.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "merchant",
+      "packageId": "dnd.items.world.merchant.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "household",
+      "packageId": "dnd.items.world.household.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "apothecary",
+      "packageId": "dnd.items.world.apothecary.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "camp",
+      "packageId": "dnd.items.world.camp.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "music",
+      "packageId": "dnd.items.world.music.junk",
+      "itemCount": 12,
+      "category": "junk"
+    },
+    {
+      "family": "shrine",
+      "packageId": "dnd.items.world.shrine.junk",
+      "itemCount": 12,
+      "category": "junk"
+    },
+    {
+      "family": "workwear",
+      "packageId": "dnd.items.world.workwear.armor",
+      "itemCount": 12,
+      "category": "armor"
+    },
+    {
+      "family": "supplies",
+      "packageId": "dnd.items.world.supplies.consumables",
+      "itemCount": 20,
+      "category": "consumables"
+    },
+    {
+      "family": "raw",
+      "packageId": "dnd.items.world.raw.materials",
+      "itemCount": 31,
+      "category": "materials"
+    },
+    {
+      "family": "anatomy.animal",
+      "packageId": "dnd.items.world.anatomy.animal.materials",
+      "itemCount": 58,
+      "category": "materials"
+    },
+    {
+      "family": "anatomy.monster",
+      "packageId": "dnd.items.world.anatomy.monster.materials",
+      "itemCount": 61,
+      "category": "materials"
+    },
+    {
+      "family": "anatomy.humanoid",
+      "packageId": "dnd.items.world.anatomy.humanoid.materials",
+      "itemCount": 46,
+      "category": "materials"
+    }
+  ],
+  "remaining": [
+    "automatic creature drop tables",
+    "harvesting interface and organ availability by creature",
+    "freshness timers and per-provenance stack isolation",
+    "automatic craft recipes and shop transactions for new metadata",
+    "physical device GUI QA"
+  ]
+}

@@ -1,0 +1,3840 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.anatomy.animal.materials",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.spleen",
+      "name": "Селезёнка животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.15 кг",
+      "cost": "2 зм",
+      "description": "Селезёнка животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_spleen",
+      "alchemyId": "harvest_animal_spleen",
+      "harvestGroup": "animal",
+      "harvestPart": "spleen",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.spleen"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.spleen"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "spleen",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_spleen",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.kidney",
+      "name": "Почка животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.12 кг",
+      "cost": "2 зм",
+      "description": "Почка животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_kidney",
+      "alchemyId": "harvest_animal_kidney",
+      "harvestGroup": "animal",
+      "harvestPart": "kidney",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.kidney"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.kidney"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "kidney",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_kidney",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lung",
+      "name": "Лёгкое животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.5 кг",
+      "cost": "2 зм",
+      "description": "Лёгкое животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_lung",
+      "alchemyId": "harvest_animal_lung",
+      "harvestGroup": "animal",
+      "harvestPart": "lung",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lung"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lung"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "lung",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_lung",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.stomach",
+      "name": "Желудок животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.4 кг",
+      "cost": "2 зм",
+      "description": "Желудок животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_stomach",
+      "alchemyId": "harvest_animal_stomach",
+      "harvestGroup": "animal",
+      "harvestPart": "stomach",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.stomach"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.stomach"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "stomach",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_stomach",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.intestine",
+      "name": "Кишечная ткань животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.25 кг",
+      "cost": "2 зм",
+      "description": "Кишечная ткань животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_intestine",
+      "alchemyId": "harvest_animal_intestine",
+      "harvestGroup": "animal",
+      "harvestPart": "intestine",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.intestine"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.intestine"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "intestine",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_intestine",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.brain",
+      "name": "Головной мозг животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.6 кг",
+      "cost": "2 зм",
+      "description": "Головной мозг животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_brain",
+      "alchemyId": "harvest_animal_brain",
+      "harvestGroup": "animal",
+      "harvestPart": "brain",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.brain"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.brain"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "brain",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_brain",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.spinal_cord",
+      "name": "Спинной мозг животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.12 кг",
+      "cost": "2 зм",
+      "description": "Спинной мозг животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_spinal_cord",
+      "alchemyId": "harvest_animal_spinal_cord",
+      "harvestGroup": "animal",
+      "harvestPart": "spinal_cord",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.spinal_cord"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.spinal_cord"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "spinal_cord",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_spinal_cord",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.pituitary",
+      "name": "Гипофиз животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Гипофиз животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_pituitary",
+      "alchemyId": "harvest_animal_pituitary",
+      "harvestGroup": "animal",
+      "harvestPart": "pituitary",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.pituitary"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.pituitary"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "pituitary",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_pituitary",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.thyroid",
+      "name": "Щитовидная железа животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Щитовидная железа животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_thyroid",
+      "alchemyId": "harvest_animal_thyroid",
+      "harvestGroup": "animal",
+      "harvestPart": "thyroid",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.thyroid"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.thyroid"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "thyroid",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_thyroid",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.adrenal",
+      "name": "Надпочечник животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.015 кг",
+      "cost": "2 зм",
+      "description": "Надпочечник животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_adrenal",
+      "alchemyId": "harvest_animal_adrenal",
+      "harvestGroup": "animal",
+      "harvestPart": "adrenal",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.adrenal"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.adrenal"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "adrenal",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_adrenal",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.pancreas",
+      "name": "Поджелудочная железа животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Поджелудочная железа животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_pancreas",
+      "alchemyId": "harvest_animal_pancreas",
+      "harvestGroup": "animal",
+      "harvestPart": "pancreas",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.pancreas"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.pancreas"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "pancreas",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_pancreas",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.bladder",
+      "name": "Мочевой пузырь животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.06 кг",
+      "cost": "2 зм",
+      "description": "Мочевой пузырь животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_bladder",
+      "alchemyId": "harvest_animal_bladder",
+      "harvestGroup": "animal",
+      "harvestPart": "bladder",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.bladder"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.bladder"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "bladder",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_bladder",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.gallbladder",
+      "name": "Жёлчный пузырь животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.04 кг",
+      "cost": "2 зм",
+      "description": "Жёлчный пузырь животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_gallbladder",
+      "alchemyId": "harvest_animal_gallbladder",
+      "harvestGroup": "animal",
+      "harvestPart": "gallbladder",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.gallbladder"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.gallbladder"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "gallbladder",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_gallbladder",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.tongue",
+      "name": "Язык животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Язык животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_tongue",
+      "alchemyId": "harvest_animal_tongue",
+      "harvestGroup": "animal",
+      "harvestPart": "tongue",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.tongue"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.tongue"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "tongue",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_tongue",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.ear",
+      "name": "Ухо животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Ухо животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_ear",
+      "alchemyId": "harvest_animal_ear",
+      "harvestGroup": "animal",
+      "harvestPart": "ear",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.ear"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.ear"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "ear",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_ear",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.skin",
+      "name": "Кожа животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Кожа животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_skin",
+      "alchemyId": "harvest_animal_skin",
+      "harvestGroup": "animal",
+      "harvestPart": "skin",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.skin"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.skin"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "skin",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_skin",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.cartilage",
+      "name": "Хрящ животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Хрящ животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_cartilage",
+      "alchemyId": "harvest_animal_cartilage",
+      "harvestGroup": "animal",
+      "harvestPart": "cartilage",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.cartilage"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.cartilage"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "cartilage",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_cartilage",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.nerve",
+      "name": "Нервная ткань животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Нервная ткань животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_nerve",
+      "alchemyId": "harvest_animal_nerve",
+      "harvestGroup": "animal",
+      "harvestPart": "nerve",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.nerve"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.nerve"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "nerve",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_nerve",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lymph_node",
+      "name": "Лимфатический узел животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Лимфатический узел животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_lymph_node",
+      "alchemyId": "harvest_animal_lymph_node",
+      "harvestGroup": "animal",
+      "harvestPart": "lymph_node",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lymph_node"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lymph_node"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "lymph_node",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_lymph_node",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lymph",
+      "name": "Лимфа животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.1 кг",
+      "cost": "2 зм",
+      "description": "Лимфа животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_lymph",
+      "alchemyId": "harvest_animal_lymph",
+      "harvestGroup": "animal",
+      "harvestPart": "lymph",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lymph"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lymph"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "lymph",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_lymph",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.bile",
+      "name": "Жёлчь животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Жёлчь животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_bile",
+      "alchemyId": "harvest_animal_bile",
+      "harvestGroup": "animal",
+      "harvestPart": "bile",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.bile"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.bile"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "bile",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_bile",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.saliva",
+      "name": "Слюна животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Слюна животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_saliva",
+      "alchemyId": "harvest_animal_saliva",
+      "harvestGroup": "animal",
+      "harvestPart": "saliva",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.saliva"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.saliva"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "saliva",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_saliva",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.gastric_juice",
+      "name": "Желудочный сок животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Желудочный сок животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_gastric_juice",
+      "alchemyId": "harvest_animal_gastric_juice",
+      "harvestGroup": "animal",
+      "harvestPart": "gastric_juice",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.gastric_juice"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.gastric_juice"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "gastric_juice",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_gastric_juice",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lens",
+      "name": "Хрусталик животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Хрусталик животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_lens",
+      "alchemyId": "harvest_animal_lens",
+      "harvestGroup": "animal",
+      "harvestPart": "lens",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.lens"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.lens"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "lens",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_lens",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.retina",
+      "name": "Сетчатка животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Сетчатка животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_retina",
+      "alchemyId": "harvest_animal_retina",
+      "harvestGroup": "animal",
+      "harvestPart": "retina",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.retina"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.retina"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "retina",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_retina",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.cornea",
+      "name": "Роговица животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Роговица животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_cornea",
+      "alchemyId": "harvest_animal_cornea",
+      "harvestGroup": "animal",
+      "harvestPart": "cornea",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.cornea"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.cornea"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "cornea",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_cornea",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.blood_clot",
+      "name": "Сгусток крови животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Сгусток крови животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_blood_clot",
+      "alchemyId": "harvest_animal_blood_clot",
+      "harvestGroup": "animal",
+      "harvestPart": "blood_clot",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.blood_clot"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.blood_clot"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "blood_clot",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_blood_clot",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.vein",
+      "name": "Венозная ткань животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Венозная ткань животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_vein",
+      "alchemyId": "harvest_animal_vein",
+      "harvestGroup": "animal",
+      "harvestPart": "vein",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.vein"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.vein"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "vein",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_vein",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.artery",
+      "name": "Артериальная ткань животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Артериальная ткань животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_artery",
+      "alchemyId": "harvest_animal_artery",
+      "harvestGroup": "animal",
+      "harvestPart": "artery",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.artery"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.artery"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "artery",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_artery",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.ligament",
+      "name": "Связка животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Связка животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_ligament",
+      "alchemyId": "harvest_animal_ligament",
+      "harvestGroup": "animal",
+      "harvestPart": "ligament",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.ligament"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.ligament"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "ligament",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_ligament",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.membrane",
+      "name": "Соединительная оболочка животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Соединительная оболочка животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_membrane",
+      "alchemyId": "harvest_animal_membrane",
+      "harvestGroup": "animal",
+      "harvestPart": "membrane",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.membrane"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.membrane"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "membrane",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_membrane",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.muscle",
+      "name": "Мышечная ткань животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.15 кг",
+      "cost": "2 зм",
+      "description": "Мышечная ткань животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_muscle",
+      "alchemyId": "harvest_animal_muscle",
+      "harvestGroup": "animal",
+      "harvestPart": "muscle",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.muscle"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.muscle"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "muscle",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_muscle",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.skull",
+      "name": "Череп животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "1 кг",
+      "cost": "2 зм",
+      "description": "Череп животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_skull",
+      "alchemyId": "harvest_animal_skull",
+      "harvestGroup": "animal",
+      "harvestPart": "skull",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.skull"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.skull"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "skull",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_skull",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.jaw",
+      "name": "Челюсть животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Челюсть животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_jaw",
+      "alchemyId": "harvest_animal_jaw",
+      "harvestGroup": "animal",
+      "harvestPart": "jaw",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.jaw"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.jaw"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "jaw",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_jaw",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.rib",
+      "name": "Ребро животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Ребро животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_rib",
+      "alchemyId": "harvest_animal_rib",
+      "harvestGroup": "animal",
+      "harvestPart": "rib",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.rib"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.rib"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "rib",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_rib",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.vertebra",
+      "name": "Позвонок животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.08 кг",
+      "cost": "2 зм",
+      "description": "Позвонок животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_vertebra",
+      "alchemyId": "harvest_animal_vertebra",
+      "harvestGroup": "animal",
+      "harvestPart": "vertebra",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.vertebra"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.vertebra"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "vertebra",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_vertebra",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.scapula",
+      "name": "Лопаточная кость животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.12 кг",
+      "cost": "2 зм",
+      "description": "Лопаточная кость животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_scapula",
+      "alchemyId": "harvest_animal_scapula",
+      "harvestGroup": "animal",
+      "harvestPart": "scapula",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.scapula"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.scapula"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "scapula",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_scapula",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.pelvis",
+      "name": "Тазовая кость животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.4 кг",
+      "cost": "2 зм",
+      "description": "Тазовая кость животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_pelvis",
+      "alchemyId": "harvest_animal_pelvis",
+      "harvestGroup": "animal",
+      "harvestPart": "pelvis",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.pelvis"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.pelvis"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "pelvis",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_pelvis",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.fat_gland",
+      "name": "Жировая железа животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Жировая железа животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_fat_gland",
+      "alchemyId": "harvest_animal_fat_gland",
+      "harvestGroup": "animal",
+      "harvestPart": "fat_gland",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.fat_gland"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.fat_gland"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "fat_gland",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_fat_gland",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.mucus",
+      "name": "Слизь животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Слизь животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_mucus",
+      "alchemyId": "harvest_animal_mucus",
+      "harvestGroup": "animal",
+      "harvestPart": "mucus",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.mucus"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.mucus"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "mucus",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_mucus",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.tear",
+      "name": "Слёзная жидкость животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Слёзная жидкость животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_tear",
+      "alchemyId": "harvest_animal_tear",
+      "harvestGroup": "animal",
+      "harvestPart": "tear",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.tear"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.tear"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "tear",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_tear",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.eye_fluid",
+      "name": "Стекловидное тело животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Стекловидное тело животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_eye_fluid",
+      "alchemyId": "harvest_animal_eye_fluid",
+      "harvestGroup": "animal",
+      "harvestPart": "eye_fluid",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.eye_fluid"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.eye_fluid"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "eye_fluid",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_eye_fluid",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.hair",
+      "name": "Волос животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Волос животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_hair",
+      "alchemyId": "harvest_animal_hair",
+      "harvestGroup": "animal",
+      "harvestPart": "hair",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.hair"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.hair"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "hair",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_hair",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.nail",
+      "name": "Ноготь животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.005 кг",
+      "cost": "2 зм",
+      "description": "Ноготь животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_nail",
+      "alchemyId": "harvest_animal_nail",
+      "harvestGroup": "animal",
+      "harvestPart": "nail",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.nail"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.nail"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "nail",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_nail",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.placenta",
+      "name": "Плацента животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Плацента животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_placenta",
+      "alchemyId": "harvest_animal_placenta",
+      "harvestGroup": "animal",
+      "harvestPart": "placenta",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.placenta"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.placenta"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "placenta",
+          "requires": [
+            "requires_compatible_anatomy",
+            "placental_anatomy",
+            "gestation_or_birth"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_placenta",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.umbilical",
+      "name": "Пуповина животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Пуповина животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_umbilical",
+      "alchemyId": "harvest_animal_umbilical",
+      "harvestGroup": "animal",
+      "harvestPart": "umbilical",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.umbilical"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.umbilical"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "umbilical",
+          "requires": [
+            "requires_compatible_anatomy",
+            "placental_anatomy",
+            "gestation_or_birth"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_umbilical",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.crop",
+      "name": "Зоб животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.05 кг",
+      "cost": "2 зм",
+      "description": "Зоб животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_crop",
+      "alchemyId": "harvest_animal_crop",
+      "harvestGroup": "animal",
+      "harvestPart": "crop",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.crop"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.crop"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "crop",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_crop",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.gizzard",
+      "name": "Мускульный желудок животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.1 кг",
+      "cost": "2 зм",
+      "description": "Мускульный желудок животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_gizzard",
+      "alchemyId": "harvest_animal_gizzard",
+      "harvestGroup": "animal",
+      "harvestPart": "gizzard",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.gizzard"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.gizzard"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "gizzard",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_gizzard",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.swim_bladder",
+      "name": "Плавательный пузырь животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Плавательный пузырь животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_swim_bladder",
+      "alchemyId": "harvest_animal_swim_bladder",
+      "harvestGroup": "animal",
+      "harvestPart": "swim_bladder",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.swim_bladder"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.swim_bladder"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "swim_bladder",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_swim_bladder",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.chitin",
+      "name": "Хитиновый панцирь животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Хитиновый панцирь животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_chitin",
+      "alchemyId": "harvest_animal_chitin",
+      "harvestGroup": "animal",
+      "harvestPart": "chitin",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.chitin"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.chitin"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "chitin",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_chitin",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.quill",
+      "name": "Игла покровная животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.01 кг",
+      "cost": "2 зм",
+      "description": "Игла покровная животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_quill",
+      "alchemyId": "harvest_animal_quill",
+      "harvestGroup": "animal",
+      "harvestPart": "quill",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.quill"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.quill"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "quill",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_quill",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.hoof",
+      "name": "Копыто животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.1 кг",
+      "cost": "2 зм",
+      "description": "Копыто животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_hoof",
+      "alchemyId": "harvest_animal_hoof",
+      "harvestGroup": "animal",
+      "harvestPart": "hoof",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.hoof"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.hoof"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "hoof",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_hoof",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.web_gland",
+      "name": "Паутинообразующая железа животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Паутинообразующая железа животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_web_gland",
+      "alchemyId": "harvest_animal_web_gland",
+      "harvestGroup": "animal",
+      "harvestPart": "web_gland",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.web_gland"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.web_gland"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "web_gland",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_web_gland",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.ink_sac",
+      "name": "Чернильный мешок животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Чернильный мешок животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_ink_sac",
+      "alchemyId": "harvest_animal_ink_sac",
+      "harvestGroup": "animal",
+      "harvestPart": "ink_sac",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.ink_sac"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.ink_sac"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "ink_sac",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_ink_sac",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.egg",
+      "name": "Яйцо животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.06 кг",
+      "cost": "2 зм",
+      "description": "Яйцо животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_egg",
+      "alchemyId": "harvest_animal_egg",
+      "harvestGroup": "animal",
+      "harvestPart": "egg",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.egg"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.egg"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "egg",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_egg",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.eggshell",
+      "name": "Яичная скорлупа животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.02 кг",
+      "cost": "2 зм",
+      "description": "Яичная скорлупа животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_eggshell",
+      "alchemyId": "harvest_animal_eggshell",
+      "harvestGroup": "animal",
+      "harvestPart": "eggshell",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.eggshell"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.eggshell"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "eggshell",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_eggshell",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.antler",
+      "name": "Ветвистый рог животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.3 кг",
+      "cost": "2 зм",
+      "description": "Ветвистый рог животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_antler",
+      "alchemyId": "harvest_animal_antler",
+      "harvestGroup": "animal",
+      "harvestPart": "antler",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.antler"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.antler"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "antler",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_antler",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.milk",
+      "name": "Молоко животного",
+      "inventoryCategory": "materials",
+      "category": "Органы и ткани",
+      "weight": "0.1 кг",
+      "cost": "2 зм",
+      "description": "Молоко животного. Необработанный образец разделки существа с подходящей анатомией. Алхимические свойства открываются исследованием при установленном дополнении профилей. Происхождение и состояние образца учитывает мастер.",
+      "craftMaterialId": "harvest_animal_milk",
+      "alchemyId": "harvest_animal_milk",
+      "harvestGroup": "animal",
+      "harvestPart": "milk",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "organic.milk"
+        ],
+        "lootTags": [
+          "harvest.animal"
+        ],
+        "uses": [
+          {
+            "action": "alchemy_sample",
+            "execution": "manual",
+            "text": "использовать как алхимический образец после исследования"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "unprocessed",
+          "freshness": "fresh"
+        },
+        "trade": {
+          "basePriceGp": 2,
+          "merchantTags": [
+            "alchemist"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "organic.milk"
+          ],
+          "recipeTags": [
+            "harvest.animal"
+          ]
+        },
+        "anatomy": {
+          "group": "animal",
+          "part": "milk",
+          "requires": [
+            "requires_compatible_anatomy"
+          ],
+          "unit": "sample"
+        },
+        "research": {
+          "ingredientId": "harvest_animal_milk",
+          "profilePackageId": "dnd.alchemy.ingredients.world.anatomy.animal",
+          "knowledgeStore": "alchemyState.discovered"
+        },
+        "provenanceFields": [
+          "creatureName",
+          "harvestedAt",
+          "harvesterId"
+        ]
+      }
+    }
+  ]
+}

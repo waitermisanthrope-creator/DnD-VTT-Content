@@ -1,0 +1,1372 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.raw.materials",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.raw.materials.fbce83f77c0b",
+      "name": "Солома пшеничная",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Солома пшеничная. Назначение: набивать подстилку или плести. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "straw"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "weave",
+            "execution": "manual",
+            "text": "набивать подстилку или плести"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "straw"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_fbce83f77c0b"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.923dcaf5fde6",
+      "name": "Лыко липовое",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Лыко липовое. Назначение: плести ленты и верёвки. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bast"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "weave",
+            "execution": "manual",
+            "text": "плести ленты и верёвки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bast"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_923dcaf5fde6"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.805e3abccc2a",
+      "name": "Береста листовая",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Береста листовая. Назначение: делать обёртку или короб. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bark"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать обёртку или короб"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bark"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_805e3abccc2a"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.e7681f7ab434",
+      "name": "Ивовый прут",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Ивовый прут. Назначение: плести корзины. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "weave",
+            "execution": "manual",
+            "text": "плести корзины"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_e7681f7ab434"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.bbb2c7e520e3",
+      "name": "Тростниковый стебель",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.05 кг",
+      "cost": "0.03 зм",
+      "description": "Тростниковый стебель. Назначение: делать простую трубку или перо. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "reed"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать простую трубку или перо"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "reed"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_bbb2c7e520e3"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.0a3aa4eba8aa",
+      "name": "Бамбуковая трубка",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Бамбуковая трубка. Назначение: делать полую заготовку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bamboo"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать полую заготовку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bamboo"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_0a3aa4eba8aa"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.f8d38adb4dfd",
+      "name": "Пробковая кора",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Пробковая кора. Назначение: вырезать поплавок или пробку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "cork"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "вырезать поплавок или пробку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "cork"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_f8d38adb4dfd"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.4234085265cf",
+      "name": "Дубовая кора",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Дубовая кора. Назначение: готовить дубильное сырьё. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bark"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить дубильное сырьё"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bark"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_4234085265cf"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.6c47d22be0fb",
+      "name": "Льняная костра",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Льняная костра. Назначение: использовать растительные отходы производства. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "plant"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "использовать растительные отходы производства"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "plant"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_6c47d22be0fb"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.e8e96f923d67",
+      "name": "Хлопковое волокно",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Хлопковое волокно. Назначение: прясть нить. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "cotton"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "spin",
+            "execution": "manual",
+            "text": "прясть нить"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "cotton"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_e8e96f923d67"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.88fd11a1a2a6",
+      "name": "Шерсть вычесанная",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Шерсть вычесанная. Назначение: прясть или валять. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wool"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "spin",
+            "execution": "manual",
+            "text": "прясть или валять"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wool"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_88fd11a1a2a6"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.26090edbb38d",
+      "name": "Конский волос",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.05 кг",
+      "cost": "0.03 зм",
+      "description": "Конский волос. Назначение: делать щётку или плетение. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "hair"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать щётку или плетение"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "hair"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_26090edbb38d"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.0eb3614f240b",
+      "name": "Щетина сырьевая",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.05 кг",
+      "cost": "0.03 зм",
+      "description": "Щетина сырьевая. Назначение: делать кисть или щётку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать кисть или щётку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_0eb3614f240b"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.b77af2520a86",
+      "name": "Кость полированная",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Кость полированная. Назначение: вырезать небольшую деталь. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "вырезать небольшую деталь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_b77af2520a86"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.3b7a20a85370",
+      "name": "Роговая пластина",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Роговая пластина. Назначение: вырезать накладку или гребень. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "horn"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "вырезать накладку или гребень"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "horn"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_3b7a20a85370"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.d4fd44e2db47",
+      "name": "Кожаный лоскут",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Кожаный лоскут. Назначение: латать или вырезать ремешок. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "латать или вырезать ремешок"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_d4fd44e2db47"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.adde20d75132",
+      "name": "Полоса сыромятной кожи",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Полоса сыромятной кожи. Назначение: делать крепление. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать крепление"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_adde20d75132"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.5ac5a23f9ad8",
+      "name": "Сухожильная нить",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Сухожильная нить. Назначение: сшивать или связывать вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "sinew"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "sew",
+            "execution": "manual",
+            "text": "сшивать или связывать вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "sinew"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_5ac5a23f9ad8"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.ac9c1ab63341",
+      "name": "Льняная ветошь",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Льняная ветошь. Назначение: готовить наполнитель или бумажное сырьё. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить наполнитель или бумажное сырьё"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_ac9c1ab63341"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.ca24cb020afa",
+      "name": "Стеклянный бой",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.2 кг",
+      "cost": "0.6 зм",
+      "description": "Стеклянный бой. Назначение: переплавлять по будущему рецепту. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "smelt",
+            "execution": "manual",
+            "text": "переплавлять по будущему рецепту"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_ca24cb020afa"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.7859d600e963",
+      "name": "Керамический черепок",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Керамический черепок. Назначение: использовать как абразив или заполнитель. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "использовать как абразив или заполнитель"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_7859d600e963"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.4153ecefb2af",
+      "name": "Латунный обрезок",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.3 зм",
+      "description": "Латунный обрезок. Назначение: переплавлять по будущему рецепту. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "smelt",
+            "execution": "manual",
+            "text": "переплавлять по будущему рецепту"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_4153ecefb2af"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.40ac857889c0",
+      "name": "Железная окалина",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Железная окалина. Назначение: использовать побочный продукт ковки. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "использовать побочный продукт ковки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_40ac857889c0"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.de8d534da5af",
+      "name": "Древесная стружка",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Древесная стружка. Назначение: использовать наполнитель или растопку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "использовать наполнитель или растопку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_de8d534da5af"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.23dae1854a75",
+      "name": "Опилки столярные",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Опилки столярные. Назначение: готовить наполнитель. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить наполнитель"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_23dae1854a75"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.3a0813933216",
+      "name": "Пыль костяная",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.05 кг",
+      "cost": "0.03 зм",
+      "description": "Пыль костяная. Назначение: готовить состав по будущему рецепту. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить состав по будущему рецепту"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_3a0813933216"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.41dcc8e09378",
+      "name": "Воск забрусный",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Воск забрусный. Назначение: готовить свечу или восковую смесь. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wax"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить свечу или восковую смесь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wax"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_41dcc8e09378"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.c4a5a2d3faf1",
+      "name": "Песок формовочный",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Песок формовочный. Назначение: готовить литейную форму. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "sand"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "готовить литейную форму"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "sand"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_c4a5a2d3faf1"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.737bed8b0888",
+      "name": "Глина огнеупорная",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Глина огнеупорная. Назначение: формовать жаростойкую заготовку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "clay"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "формовать жаростойкую заготовку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "clay"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_737bed8b0888"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.615b5b3910b7",
+      "name": "Шерстяной войлок",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Шерстяной войлок. Назначение: вырезать подкладку. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wool"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "вырезать подкладку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wool"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_615b5b3910b7"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.282dfd8362f4",
+      "name": "Невыделанная кожа",
+      "inventoryCategory": "materials",
+      "category": "Природное и вторичное сырьё",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Невыделанная кожа. Назначение: выделывать кожу по будущему рецепту. Применение разрешается вручную; предмет не даёт скрытых бонусов. Автоматический рецепт пока не назначен.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "hide"
+        ],
+        "lootTags": [
+          "raw"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "выделывать кожу по будущему рецепту"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "artisan"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "hide"
+          ],
+          "recipeTags": [
+            "raw"
+          ]
+        }
+      },
+      "craftMaterialId": "world_282dfd8362f4"
+    }
+  ]
+}

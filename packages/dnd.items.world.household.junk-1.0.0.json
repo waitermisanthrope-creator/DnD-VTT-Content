@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.household.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.household.junk.9f79f058ea69",
+      "name": "Щётка одежная",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Щётка одежная. Назначение: чистить ткань от пыли. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "clean",
+            "execution": "manual",
+            "text": "чистить ткань от пыли"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.df0d3713e416",
+      "name": "Веник берёзовый",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Веник берёзовый. Назначение: подметать пол. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подметать пол"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.0dcbd562a6b7",
+      "name": "Совок для золы",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Совок для золы. Назначение: собирать остывшую золу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "собирать остывшую золу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.02a7c9322238",
+      "name": "Кочерга",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.7 кг",
+      "cost": "0.35 зм",
+      "description": "Кочерга. Назначение: ворошить угли в очаге. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "sew",
+            "execution": "manual",
+            "text": "ворошить угли в очаге"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.35,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.07d7ed55e128",
+      "name": "Ведро деревянное",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.8 кг",
+      "cost": "0.4 зм",
+      "description": "Ведро деревянное. Назначение: переносить жидкость вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить жидкость вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.4,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.96cd5b7451f4",
+      "name": "Таз медный",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "1 кг",
+      "cost": "0.5 зм",
+      "description": "Таз медный. Назначение: мыть вещи и удерживать воду. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "wash",
+            "execution": "manual",
+            "text": "мыть вещи и удерживать воду"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.5,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.0338221378a8",
+      "name": "Доска стиральная",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.7 кг",
+      "cost": "0.35 зм",
+      "description": "Доска стиральная. Назначение: оттирать ткань при стирке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "оттирать ткань при стирке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.35,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.0f56d331c8c9",
+      "name": "Щётка для посуды",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Щётка для посуды. Назначение: чистить посуду. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "clean",
+            "execution": "manual",
+            "text": "чистить посуду"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.63614ee91225",
+      "name": "Прищепка деревянная",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.01 кг",
+      "cost": "0.01 зм",
+      "description": "Прищепка деревянная. Назначение: закреплять ткань на верёвке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "закреплять ткань на верёвке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.2401b41399a9",
+      "name": "Щипцы для свечного нагара",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.06 кг",
+      "cost": "0.03 зм",
+      "description": "Щипцы для свечного нагара. Назначение: подрезать обгоревший фитиль. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "подрезать обгоревший фитиль"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.6f7d05dea077",
+      "name": "Огнивная коробочка",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Огнивная коробочка. Назначение: хранить огниво и трут. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить огниво и трут"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.4ead032015aa",
+      "name": "Грелка постельная",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.8 кг",
+      "cost": "0.4 зм",
+      "description": "Грелка постельная. Назначение: согревать постель закрытым нагретым сосудом. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "согревать постель закрытым нагретым сосудом"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.4,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.fe80a77aa171",
+      "name": "Горшок ночной",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.6 кг",
+      "cost": "0.3 зм",
+      "description": "Горшок ночной. Назначение: использовать как бытовую санитарную ёмкость. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "использовать как бытовую санитарную ёмкость"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.42eab0a81ec9",
+      "name": "Дверной клин",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Дверной клин. Назначение: подпирать дверь без автоматического запирания. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подпирать дверь без автоматического запирания"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.a19ecfeb16f7",
+      "name": "Катушка бельевой верёвки",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Катушка бельевой верёвки. Назначение: развешивать бельё. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "развешивать бельё"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.household.junk.4c260f90980d",
+      "name": "Рожок обувной",
+      "inventoryCategory": "junk",
+      "category": "Дом и уборка",
+      "weight": "0.05 кг",
+      "cost": "0.03 зм",
+      "description": "Рожок обувной. Назначение: помогать надевать обувь. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "horn"
+        ],
+        "lootTags": [
+          "home"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "помогать надевать обувь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.03,
+          "merchantTags": [
+            "householder"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "horn"
+          ],
+          "recipeTags": [
+            "home"
+          ]
+        }
+      }
+    }
+  ]
+}

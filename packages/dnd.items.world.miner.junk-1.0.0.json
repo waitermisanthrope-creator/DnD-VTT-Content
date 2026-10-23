@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.miner.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.miner.junk.9865c212289c",
+      "name": "Клин камнекольный",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.7 кг",
+      "cost": "2.1 зм",
+      "description": "Клин камнекольный. Назначение: раскалывать камень в подготовленной щели. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "раскалывать камень в подготовленной щели"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.1,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.33ef7caa5f25",
+      "name": "Молоток геолога",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.7 кг",
+      "cost": "2.1 зм",
+      "description": "Молоток геолога. Назначение: отбивать небольшой образец породы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "отбивать небольшой образец породы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.1,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.e76e9d9b39a5",
+      "name": "Зубило камнереза",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.4 кг",
+      "cost": "1.2 зм",
+      "description": "Зубило камнереза. Назначение: обтёсывать камень. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "обтёсывать камень"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.2,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.b00f94af0cf7",
+      "name": "Промывочный лоток",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.6 кг",
+      "cost": "0.3 зм",
+      "description": "Промывочный лоток. Назначение: промывать россыпь. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "промывать россыпь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.f880f149f1df",
+      "name": "Сито рудокопа",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.7 кг",
+      "cost": "0.35 зм",
+      "description": "Сито рудокопа. Назначение: сортировать мелкую породу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "сортировать мелкую породу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.35,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.c46e2ba49bf7",
+      "name": "Рудная корзина",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.8 кг",
+      "cost": "0.4 зм",
+      "description": "Рудная корзина. Назначение: переносить небольшую порцию руды. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wicker"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить небольшую порцию руды"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.4,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wicker"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.c7d054c24e3a",
+      "name": "Рудная лопатка",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Рудная лопатка. Назначение: собирать породу в ёмкость. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "собирать породу в ёмкость"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.114fda07618b",
+      "name": "Масляная лампа шахтёра",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Масляная лампа шахтёра. Назначение: освещать рабочее место при наличии масла. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "освещать рабочее место при наличии масла"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.740b16b7a942",
+      "name": "Кожаная наколенная подкладка",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Кожаная наколенная подкладка. Назначение: подкладывать под колено при работе. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подкладывать под колено при работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.96e2a939255d",
+      "name": "Мешочек для проб",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Мешочек для проб. Назначение: хранить подписанный образец породы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить подписанный образец породы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.b48f4f2eed6e",
+      "name": "Черта минералога",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Черта минералога. Назначение: проверять цвет порошка минерала. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "проверять цвет порошка минерала"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.803e680007f3",
+      "name": "Лупа минералога",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.08 кг",
+      "cost": "0.24 зм",
+      "description": "Лупа минералога. Назначение: рассматривать структуру породы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "рассматривать структуру породы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.24,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.b7dc46f51ecc",
+      "name": "Шаблон каменщика",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Шаблон каменщика. Назначение: проверять форму блока. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "проверять форму блока"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.1dec81967df9",
+      "name": "Гладилка каменщика",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.4 кг",
+      "cost": "1.2 зм",
+      "description": "Гладилка каменщика. Назначение: разравнивать раствор. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "разравнивать раствор"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.2,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.db0f5c6ce67f",
+      "name": "Кельма",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.3 кг",
+      "cost": "0.9 зм",
+      "description": "Кельма. Назначение: наносить кладочный раствор. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "наносить кладочный раствор"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.9,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.miner.junk.9b23a6b23730",
+      "name": "Камнерезная тёрка",
+      "inventoryCategory": "junk",
+      "category": "Шахтёр и камнерез",
+      "weight": "0.5 кг",
+      "cost": "0.25 зм",
+      "description": "Камнерезная тёрка. Назначение: шлифовать поверхность камня. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "mine"
+        ],
+        "uses": [
+          {
+            "action": "polish",
+            "execution": "manual",
+            "text": "шлифовать поверхность камня"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.25,
+          "merchantTags": [
+            "miner"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "mine"
+          ]
+        }
+      }
+    }
+  ]
+}

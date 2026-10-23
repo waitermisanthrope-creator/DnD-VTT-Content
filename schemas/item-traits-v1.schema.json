@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "World loot itemTraits v1 (manual uses and future integration metadata)",
+  "type": "object",
+  "required": ["schemaVersion", "materialTags", "lootTags", "uses", "stateDefaults", "trade", "processing"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "materialTags": {"$ref": "#/$defs/tags"},
+    "lootTags": {"$ref": "#/$defs/tags"},
+    "uses": {"type": "array", "minItems": 1, "items": {
+      "type": "object", "required": ["action", "execution"],
+      "properties": {
+        "action": {"type": "string", "minLength": 1},
+        "execution": {"const": "manual"},
+        "text": {"type": "string", "minLength": 1},
+        "damage": {"type": "string", "pattern": "^[1-9][0-9]*d[1-9][0-9]*$"},
+        "damageType": {"type": "string"}
+      }
+    }},
+    "stateDefaults": {"type": "object", "required": ["condition"], "properties": {
+      "condition": {"enum": ["intact", "unprocessed"]}, "freshness": {"enum": ["fresh"]}
+    }},
+    "trade": {"type": "object", "required": ["basePriceGp", "merchantTags"], "properties": {
+      "basePriceGp": {"type": "number", "minimum": 0}, "merchantTags": {"$ref": "#/$defs/tags"}
+    }},
+    "processing": {"type": "object", "required": ["execution", "materialTags", "recipeTags"], "properties": {
+      "execution": {"const": "planned"}, "materialTags": {"$ref": "#/$defs/tags"}, "recipeTags": {"$ref": "#/$defs/tags"}
+    }},
+    "anatomy": {"type": "object", "required": ["group", "part", "requires", "unit"], "properties": {
+      "group": {"enum": ["animal", "monster", "humanoid"]},
+      "part": {"type": "string", "pattern": "^[a-z][a-z_]+$"},
+      "requires": {"$ref": "#/$defs/tags"}, "unit": {"const": "sample"}
+    }},
+    "research": {"type": "object", "required": ["ingredientId", "profilePackageId", "knowledgeStore"], "properties": {
+      "ingredientId": {"type": "string", "pattern": "^harvest_(animal|monster|humanoid)_[a-z_]+$"},
+      "profilePackageId": {"type": "string", "minLength": 1},
+      "knowledgeStore": {"const": "alchemyState.discovered"}
+    }},
+    "provenanceFields": {"type": "array", "uniqueItems": true, "items": {"enum": ["creatureName", "harvestedAt", "harvesterId"]}}
+  },
+  "$defs": {"tags": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "minLength": 1}}}
+}

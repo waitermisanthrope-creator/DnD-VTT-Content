@@ -10,6 +10,7 @@ class Compatibility
  static void Main(string[] args)
  {
   string source=Path.GetFullPath(args[0]);
+  if(args.Length>1 && args[1]=="--world") {WorldChecks.Run(source);return;}
   var catalog=WorkshopStore.Catalog(File.ReadAllText(Path.Combine(source,"catalog/v3/index.json")),"packages");
   var volumes=catalog.OfType<JObject>().Where(m=>m["collectionVolume"]!=null).ToArray();
   Check(volumes.Length==36,"36 optional volumes");
@@ -52,7 +53,7 @@ class Compatibility
    Check(JToken.DeepEquals(new LegacyCharacterArchive(new LegacyCharacterArchive(hero.ToString()).Export()).Snapshot(0),hero),"existing save roundtrip");
    Check((bool)hero["unknown"]["keep"],"unknown save fields retained");
    // Existing ingredient packages remain optional and retain their original chemistry.
-   foreach(var m in catalog.OfType<JObject>().Where(m=>(string)m["id"]=="dnd.alchemy.rules" || ((string)m["id"]).StartsWith("dnd.alchemy.ingredients."))) {
+   foreach(var m in catalog.OfType<JObject>().Where(m=>(string)m["id"]=="dnd.alchemy.rules" || new[]{"dnd.alchemy.ingredients.1","dnd.alchemy.ingredients.2","dnd.alchemy.ingredients.3"}.Contains((string)m["id"]))) {
     string part=Path.Combine(root,"download.json");File.Copy(Path.Combine(source,"packages",Path.GetFileName((string)m["url"])),part,true);combined.Install(m,part,"android-arm64","6000.3.26f1");
    }
    Check(((JArray)combined.Commerce()["items"]).Count==3411,"existing 120 ingredients do not duplicate volumes");

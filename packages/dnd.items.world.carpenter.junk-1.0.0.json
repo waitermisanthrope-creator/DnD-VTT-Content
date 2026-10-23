@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.carpenter.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.carpenter.junk.b7c555b5026c",
+      "name": "Стамеска",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.18 кг",
+      "cost": "0.54 зм",
+      "description": "Стамеска. Назначение: выбирать углубления в древесине. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "выбирать углубления в древесине"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.54,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.91ea59ca2fef",
+      "name": "Долото",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.3 кг",
+      "cost": "0.9 зм",
+      "description": "Долото. Назначение: выдалбливать глубокое гнездо. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "выдалбливать глубокое гнездо"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.9,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.ec882a96506e",
+      "name": "Рубанок",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.8 кг",
+      "cost": "0.4 зм",
+      "description": "Рубанок. Назначение: снимать тонкую стружку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "снимать тонкую стружку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.4,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.926c1b3c3ffe",
+      "name": "Лучковая пила",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.7 кг",
+      "cost": "2.1 зм",
+      "description": "Лучковая пила. Назначение: пилить древесину. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "saw",
+            "execution": "manual",
+            "text": "пилить древесину"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.1,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.354384a312e8",
+      "name": "Ножовка обушковая",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.45 кг",
+      "cost": "1.35 зм",
+      "description": "Ножовка обушковая. Назначение: делать точный короткий пропил. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать точный короткий пропил"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.35,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.16028fef36ae",
+      "name": "Коловорот",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.6 кг",
+      "cost": "1.8 зм",
+      "description": "Коловорот. Назначение: сверлить отверстие ручным вращением. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "drill",
+            "execution": "manual",
+            "text": "сверлить отверстие ручным вращением"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.8,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.f96c7011af31",
+      "name": "Сверло ложечное",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.12 кг",
+      "cost": "0.36 зм",
+      "description": "Сверло ложечное. Назначение: высверливать древесину. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "высверливать древесину"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.36,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.00c38def1cc4",
+      "name": "Струбцина деревянная",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.5 кг",
+      "cost": "0.25 зм",
+      "description": "Струбцина деревянная. Назначение: сжимать детали при склейке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "clamp",
+            "execution": "manual",
+            "text": "сжимать детали при склейке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.25,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.eb97e3213194",
+      "name": "Киянка",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.5 кг",
+      "cost": "0.25 зм",
+      "description": "Киянка. Назначение: ударять по инструменту без стального бойка. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "ударять по инструменту без стального бойка"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.25,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.722b49a0d52a",
+      "name": "Рейсмус столярный",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Рейсмус столярный. Назначение: размечать параллельные линии. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "размечать параллельные линии"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.6f11e1d2e325",
+      "name": "Отвес каменщика",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Отвес каменщика. Назначение: определять вертикаль. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "lead"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "определять вертикаль"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "lead"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.132bea148824",
+      "name": "Шнур разметочный",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Шнур разметочный. Назначение: переносить прямую линию на заготовку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить прямую линию на заготовку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.69045ddbd04b",
+      "name": "Скобель",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.4 кг",
+      "cost": "1.2 зм",
+      "description": "Скобель. Назначение: снимать кору и стружку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "снимать кору и стружку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.2,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.29e11442ccca",
+      "name": "Цикля",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.08 кг",
+      "cost": "0.24 зм",
+      "description": "Цикля. Назначение: соскабливать тонкую стружку. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "соскабливать тонкую стружку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.24,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.a81206b214eb",
+      "name": "Клещевой гвоздодёр",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Клещевой гвоздодёр. Назначение: вытаскивать гвозди. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "вытаскивать гвозди"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.e68dfb4426cd",
+      "name": "Бондарная скоба",
+      "inventoryCategory": "junk",
+      "category": "Плотник и столяр",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Бондарная скоба. Назначение: удерживать клёпки при сборке бочки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "carpentry"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать клёпки при сборке бочки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "carpenter"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "carpentry"
+          ]
+        }
+      }
+    }
+  ]
+}

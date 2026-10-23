@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.tailor.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.tailor.junk.abdedd337121",
+      "name": "Шило",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.05 кг",
+      "cost": "0.15 зм",
+      "description": "Шило. Назначение: прокалывать кожу и плотную ткань. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "pierce",
+            "execution": "manual",
+            "text": "прокалывать кожу и плотную ткань"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.9aeed0926b48",
+      "name": "Игла портновская",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.002 кг",
+      "cost": "0.01 зм",
+      "description": "Игла портновская. Назначение: шить ткань нитью. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "sew",
+            "execution": "manual",
+            "text": "шить ткань нитью"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.56839ee82693",
+      "name": "Игла костяная",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Игла костяная. Назначение: сшивать грубую ткань. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "sew",
+            "execution": "manual",
+            "text": "сшивать грубую ткань"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.c00be71a587e",
+      "name": "Ножницы портновские",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.18 кг",
+      "cost": "0.54 зм",
+      "description": "Ножницы портновские. Назначение: кроить ткань. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "кроить ткань"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.54,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.9bf98119da1a",
+      "name": "Нож кожевника",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.14 кг",
+      "cost": "0.42 зм",
+      "description": "Нож кожевника. Назначение: резать кожу по выкройке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "резать кожу по выкройке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.42,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.1011b7ba0a02",
+      "name": "Копирное колёсико",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.06 кг",
+      "cost": "0.18 зм",
+      "description": "Копирное колёсико. Назначение: переносить линию выкройки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить линию выкройки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.18,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.59f4571a17fc",
+      "name": "Колодка сапожника",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.5 кг",
+      "cost": "0.25 зм",
+      "description": "Колодка сапожника. Назначение: формовать обувь. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "формовать обувь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.25,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.fe1116771ef1",
+      "name": "Молоточек сапожника",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.25 кг",
+      "cost": "0.75 зм",
+      "description": "Молоточек сапожника. Назначение: прибивать мелкие крепления обуви. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "прибивать мелкие крепления обуви"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.75,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.01a9da1159bb",
+      "name": "Крючок сапожника",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.03 кг",
+      "cost": "0.09 зм",
+      "description": "Крючок сапожника. Назначение: протягивать нить через кожу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "протягивать нить через кожу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.09,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.bb215aa8eb4a",
+      "name": "Пяльцы",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Пяльцы. Назначение: натягивать ткань для вышивки. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "натягивать ткань для вышивки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.fd0f8d0dfdd9",
+      "name": "Веретено",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.08 кг",
+      "cost": "0.04 зм",
+      "description": "Веретено. Назначение: прясть волокно. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "spin",
+            "execution": "manual",
+            "text": "прясть волокно"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.3e2d2747ef8e",
+      "name": "Челнок ткацкий",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Челнок ткацкий. Назначение: пропускать нить через основу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "пропускать нить через основу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.b3cf67b48f68",
+      "name": "Гребень для шерсти",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.22 кг",
+      "cost": "0.11 зм",
+      "description": "Гребень для шерсти. Назначение: расчёсывать волокно. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "расчёсывать волокно"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.11,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.5d8ccefa735c",
+      "name": "Распорка для шкуры",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "1.4 кг",
+      "cost": "0.7 зм",
+      "description": "Распорка для шкуры. Назначение: растягивать шкуру при сушке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "растягивать шкуру при сушке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.7,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.589106ed441e",
+      "name": "Скребок мездрильный",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "0.3 кг",
+      "cost": "0.9 зм",
+      "description": "Скребок мездрильный. Назначение: снимать мездру со шкуры. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "снимать мездру со шкуры"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.9,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.fb537afdaec2",
+      "name": "Утюг угольный",
+      "inventoryCategory": "junk",
+      "category": "Портной и кожевник",
+      "weight": "2 кг",
+      "cost": "1 зм",
+      "description": "Утюг угольный. Назначение: разглаживать ткань нагретым корпусом. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "tailor"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "разглаживать ткань нагретым корпусом"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "tailor"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tailor"
+          ]
+        }
+      }
+    }
+  ]
+}

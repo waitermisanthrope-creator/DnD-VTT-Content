@@ -1,0 +1,2494 @@
+{
+  "schemaVersion": 1,
+  "revision": "1.0.0",
+  "clientSource": "e99d922aeab38dde49ba4268a1db8a895a4f053e",
+  "packages": [
+    "dnd.items.world.kitchen.weapons",
+    "dnd.items.world.kitchen.junk",
+    "dnd.items.world.smithy.junk",
+    "dnd.items.world.healer.junk",
+    "dnd.items.world.scribe.junk",
+    "dnd.items.world.tailor.junk",
+    "dnd.items.world.fishing.junk",
+    "dnd.items.world.carpenter.junk",
+    "dnd.items.world.farmer.junk",
+    "dnd.items.world.miner.junk",
+    "dnd.items.world.merchant.junk",
+    "dnd.items.world.household.junk",
+    "dnd.items.world.apothecary.junk",
+    "dnd.items.world.camp.junk",
+    "dnd.items.world.music.junk",
+    "dnd.items.world.shrine.junk",
+    "dnd.items.world.workwear.armor",
+    "dnd.items.world.supplies.consumables",
+    "dnd.items.world.raw.materials",
+    "dnd.items.world.anatomy.animal.materials",
+    "dnd.alchemy.ingredients.world.anatomy.animal",
+    "dnd.items.world.anatomy.monster.materials",
+    "dnd.alchemy.ingredients.world.anatomy.monster",
+    "dnd.items.world.anatomy.humanoid.materials",
+    "dnd.alchemy.ingredients.world.anatomy.humanoid"
+  ],
+  "newItemCount": 464,
+  "newProfileCount": 219,
+  "existingSharedPartsReused": 54,
+  "coverage": [
+    {
+      "family": "kitchen",
+      "packageId": "dnd.items.world.kitchen.weapons",
+      "itemCount": 8,
+      "category": "weapons"
+    },
+    {
+      "family": "kitchen",
+      "packageId": "dnd.items.world.kitchen.junk",
+      "itemCount": 12,
+      "category": "junk"
+    },
+    {
+      "family": "smithy",
+      "packageId": "dnd.items.world.smithy.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "healer",
+      "packageId": "dnd.items.world.healer.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "scribe",
+      "packageId": "dnd.items.world.scribe.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "tailor",
+      "packageId": "dnd.items.world.tailor.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "fishing",
+      "packageId": "dnd.items.world.fishing.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "carpenter",
+      "packageId": "dnd.items.world.carpenter.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "farmer",
+      "packageId": "dnd.items.world.farmer.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "miner",
+      "packageId": "dnd.items.world.miner.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "merchant",
+      "packageId": "dnd.items.world.merchant.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "household",
+      "packageId": "dnd.items.world.household.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "apothecary",
+      "packageId": "dnd.items.world.apothecary.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "camp",
+      "packageId": "dnd.items.world.camp.junk",
+      "itemCount": 16,
+      "category": "junk"
+    },
+    {
+      "family": "music",
+      "packageId": "dnd.items.world.music.junk",
+      "itemCount": 12,
+      "category": "junk"
+    },
+    {
+      "family": "shrine",
+      "packageId": "dnd.items.world.shrine.junk",
+      "itemCount": 12,
+      "category": "junk"
+    },
+    {
+      "family": "workwear",
+      "packageId": "dnd.items.world.workwear.armor",
+      "itemCount": 12,
+      "category": "armor"
+    },
+    {
+      "family": "supplies",
+      "packageId": "dnd.items.world.supplies.consumables",
+      "itemCount": 20,
+      "category": "consumables"
+    },
+    {
+      "family": "raw",
+      "packageId": "dnd.items.world.raw.materials",
+      "itemCount": 31,
+      "category": "materials"
+    },
+    {
+      "family": "anatomy.animal",
+      "packageId": "dnd.items.world.anatomy.animal.materials",
+      "itemCount": 58,
+      "category": "materials"
+    },
+    {
+      "family": "anatomy.monster",
+      "packageId": "dnd.items.world.anatomy.monster.materials",
+      "itemCount": 61,
+      "category": "materials"
+    },
+    {
+      "family": "anatomy.humanoid",
+      "packageId": "dnd.items.world.anatomy.humanoid.materials",
+      "itemCount": 46,
+      "category": "materials"
+    }
+  ],
+  "skippedExistingNames": [
+    "Медная стружка"
+  ],
+  "items": [
+    {
+      "id": "dnd.items.world.kitchen.weapons.butter_knife",
+      "name": "Нож для масла",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.696907876f53",
+      "name": "Поварской нож",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.e7571014f189",
+      "name": "Хлебный нож",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.fd733b431bad",
+      "name": "Кухонный тесак",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.ad5e1b35bcf3",
+      "name": "Мясницкий нож",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.b14d2ee6cdea",
+      "name": "Нож для снятия шкуры",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.ebddb3d4329b",
+      "name": "Скалка",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.weapons.98f5eeef8d8f",
+      "name": "Чугунная сковорода",
+      "category": "weapons"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.072dd79fd02a",
+      "name": "Деревянная ложка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.614036db8f6c",
+      "name": "Половник",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.84ba64892eb9",
+      "name": "Дуршлаг",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.527b1ef4c29b",
+      "name": "Кухонное сито",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.1272e97db0eb",
+      "name": "Тёрка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.431a649dcd7d",
+      "name": "Щипцы для углей",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.3b99c7b998b1",
+      "name": "Разделочная доска",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.ff15432f8daf",
+      "name": "Глиняная жаровня",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.854bbb09bed8",
+      "name": "Горшок для тушения",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.547b66509b72",
+      "name": "Маслобойка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.8be1b6978c26",
+      "name": "Пресс для сыра",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.kitchen.junk.fffe78e2c9fe",
+      "name": "Мерный ковшик",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.a705b3d378d6",
+      "name": "Кузнечные клещи",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.084b260d6241",
+      "name": "Кузнечная бородка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.edb1c7d1125d",
+      "name": "Подбойный молоток",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.af82b66b3bee",
+      "name": "Кузнечная гладилка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.bc4a4537b412",
+      "name": "Обжимка для заклёпок",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.ee2aa1616a73",
+      "name": "Кузнечный зубильник",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.86e9429f94ab",
+      "name": "Напильник плоский",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.2b14b127c0ce",
+      "name": "Напильник круглый",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.228b07fff764",
+      "name": "Рашпиль",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.272fb16ec5d7",
+      "name": "Кузнечный мех малый",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.3fd68b93a2c5",
+      "name": "Пробойник для листа",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.4b0e09f58c7b",
+      "name": "Литейная ложка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.3fbd3f4db5d5",
+      "name": "Тигель графитовый",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.618fd56c7713",
+      "name": "Форма для пряжки",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.7ab6fc5eca83",
+      "name": "Волочильная доска",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.smithy.junk.86d17b0122ce",
+      "name": "Кузнечный шаблон",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.ed70ba3f7d80",
+      "name": "Пинцет",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.3347e0aa26cf",
+      "name": "Хирургический скальпель",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.55669aae5ee9",
+      "name": "Зонд лекаря",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.864955fdf772",
+      "name": "Костная пила",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.f6fbc1f1edc6",
+      "name": "Игла для шва",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.b9203e2f58ea",
+      "name": "Зажим лекаря",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.ed9a26d71861",
+      "name": "Ложечка для мази",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.513de129d332",
+      "name": "Лекарская лопаточка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.b94d9719ae53",
+      "name": "Чаша для промывания",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.fbc3dae69ebd",
+      "name": "Шина деревянная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.49046fa24234",
+      "name": "Лекарская воронка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.9742dbfa324d",
+      "name": "Ланцет",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.0a04be0ff3ad",
+      "name": "Крючок для ткани",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.2f5ab1921b57",
+      "name": "Банка для образцов",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.a9ae7f28b1a1",
+      "name": "Доска для разделки органов",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.healer.junk.4b5575fa8464",
+      "name": "Футляр лекарских инструментов",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.0d8ff374e745",
+      "name": "Перо гусиное писчее",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.958964264f0e",
+      "name": "Перо тростниковое",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.67daa8ea34ee",
+      "name": "Писчий нож",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.e629be4ea1a3",
+      "name": "Песочница писца",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.16fff5ba093f",
+      "name": "Линейка чертёжная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.8dc334e6bb8f",
+      "name": "Циркуль картографа",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.32874cfca3c2",
+      "name": "Угольник чертёжный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.ab5766fe5184",
+      "name": "Рейсфедер",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.d019e7bf89c0",
+      "name": "Восковая табличка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.7dc12d2013fc",
+      "name": "Стилус писца",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.7ce2dfcbc57c",
+      "name": "Скребок для пергамента",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.6fe7d7621933",
+      "name": "Пресс переплётчика",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.eef77a410df6",
+      "name": "Папка для карт",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.0706f8ca2849",
+      "name": "Счёты купеческие",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.6df19b53f315",
+      "name": "Лупа писца",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.d98dbb67b245",
+      "name": "Шнур для разметки карты",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.abdedd337121",
+      "name": "Шило",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.9aeed0926b48",
+      "name": "Игла портновская",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.56839ee82693",
+      "name": "Игла костяная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.c00be71a587e",
+      "name": "Ножницы портновские",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.9bf98119da1a",
+      "name": "Нож кожевника",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.1011b7ba0a02",
+      "name": "Копирное колёсико",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.59f4571a17fc",
+      "name": "Колодка сапожника",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.fe1116771ef1",
+      "name": "Молоточек сапожника",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.01a9da1159bb",
+      "name": "Крючок сапожника",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.bb215aa8eb4a",
+      "name": "Пяльцы",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.fd0f8d0dfdd9",
+      "name": "Веретено",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.3e2d2747ef8e",
+      "name": "Челнок ткацкий",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.b3cf67b48f68",
+      "name": "Гребень для шерсти",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.5d8ccefa735c",
+      "name": "Распорка для шкуры",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.589106ed441e",
+      "name": "Скребок мездрильный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.tailor.junk.fb537afdaec2",
+      "name": "Утюг угольный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.d901891edbb1",
+      "name": "Рыболовный крючок",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.2ccddb5adda7",
+      "name": "Поплавок пробковый",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.1e894c7819ee",
+      "name": "Грузило свинцовое",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.da381a79cdd0",
+      "name": "Удилище бамбуковое",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.3b7e8691cb84",
+      "name": "Катушка для лески",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.1ceb87577c92",
+      "name": "Рыбацкий подсачек",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.9f85197b70d0",
+      "name": "Рыболовная верша",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.736128b042cd",
+      "name": "Кукан",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.9bfff7ee4dfe",
+      "name": "Сеть кастинговая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.3857fa898b43",
+      "name": "Игла для вязания сетей",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.047e9acf7f1c",
+      "name": "Рыбочистка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.4f5e28695cdc",
+      "name": "Свисток манковый",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.26f555e55ac2",
+      "name": "Силок проволочный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.f5a55d726aac",
+      "name": "Приманочный мешочек",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.c4667008d56a",
+      "name": "Рамка для сушки рыбы",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.fishing.junk.7d1afcfaba85",
+      "name": "Крючок для копчения",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.b7c555b5026c",
+      "name": "Стамеска",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.91ea59ca2fef",
+      "name": "Долото",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.ec882a96506e",
+      "name": "Рубанок",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.926c1b3c3ffe",
+      "name": "Лучковая пила",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.354384a312e8",
+      "name": "Ножовка обушковая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.16028fef36ae",
+      "name": "Коловорот",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.f96c7011af31",
+      "name": "Сверло ложечное",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.00c38def1cc4",
+      "name": "Струбцина деревянная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.eb97e3213194",
+      "name": "Киянка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.722b49a0d52a",
+      "name": "Рейсмус столярный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.6f11e1d2e325",
+      "name": "Отвес каменщика",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.132bea148824",
+      "name": "Шнур разметочный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.69045ddbd04b",
+      "name": "Скобель",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.29e11442ccca",
+      "name": "Цикля",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.a81206b214eb",
+      "name": "Клещевой гвоздодёр",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.carpenter.junk.e68dfb4426cd",
+      "name": "Бондарная скоба",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.c15aabfdce1c",
+      "name": "Садовый совок",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.98f12b0fb3fe",
+      "name": "Мотыга",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.9e39184db098",
+      "name": "Грабли деревянные",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.6b2dd0bc7f4c",
+      "name": "Садовый секатор",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.118368a1ed7a",
+      "name": "Диббер посадочный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.2c7c29a33c16",
+      "name": "Корзина для сбора урожая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.81039c238348",
+      "name": "Ситомойка для зерна",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.f5651d2958f5",
+      "name": "Цеп для обмолота",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.92ab5c627a7f",
+      "name": "Подкова без гвоздей",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.4dad70014734",
+      "name": "Щётка для лошади",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.c05407d5933c",
+      "name": "Крючок для копыт",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.8a97ad3c8f86",
+      "name": "Скребница",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.9af91e6610bb",
+      "name": "Недоуздок",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.0f3469df21c2",
+      "name": "Торба кормовая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.60adb88d3b88",
+      "name": "Сырная форма",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.farmer.junk.4aebdefae2e6",
+      "name": "Ковш для зерна",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.9865c212289c",
+      "name": "Клин камнекольный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.33ef7caa5f25",
+      "name": "Молоток геолога",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.e76e9d9b39a5",
+      "name": "Зубило камнереза",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.b00f94af0cf7",
+      "name": "Промывочный лоток",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.f880f149f1df",
+      "name": "Сито рудокопа",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.c46e2ba49bf7",
+      "name": "Рудная корзина",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.c7d054c24e3a",
+      "name": "Рудная лопатка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.114fda07618b",
+      "name": "Масляная лампа шахтёра",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.740b16b7a942",
+      "name": "Кожаная наколенная подкладка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.96e2a939255d",
+      "name": "Мешочек для проб",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.b48f4f2eed6e",
+      "name": "Черта минералога",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.803e680007f3",
+      "name": "Лупа минералога",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.b7dc46f51ecc",
+      "name": "Шаблон каменщика",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.1dec81967df9",
+      "name": "Гладилка каменщика",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.db0f5c6ce67f",
+      "name": "Кельма",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.miner.junk.9b23a6b23730",
+      "name": "Камнерезная тёрка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.19f92fe4fb64",
+      "name": "Весы чашечные",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.965381d8fe5f",
+      "name": "Набор малых гирь",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.3e425f3f1e7f",
+      "name": "Лоток менялы",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.fd13c2be7b7f",
+      "name": "Пробирный камень",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.d73c0cd0065a",
+      "name": "Пломбир купеческий",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.d726abd3854a",
+      "name": "Бирка для товара",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.077a5a8cb593",
+      "name": "Дощечка долговая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.f17d6565f3ec",
+      "name": "Торговый счётчик бусинный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.b113383ce69a",
+      "name": "Футляр для печати",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.58aa77a23a33",
+      "name": "Складская мерка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.25c51e9a2190",
+      "name": "Шнур для опечатывания",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.a2a3e2d9e8af",
+      "name": "Купеческий совок",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.a8488fa7f445",
+      "name": "Пробка для бочонка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.2f3669cb0881",
+      "name": "Кран для бочки",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.1ddb283ea7a9",
+      "name": "Товарная полочная табличка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.merchant.junk.ed27f0d14583",
+      "name": "Мешочек для размена",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.9f79f058ea69",
+      "name": "Щётка одежная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.df0d3713e416",
+      "name": "Веник берёзовый",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.0dcbd562a6b7",
+      "name": "Совок для золы",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.02a7c9322238",
+      "name": "Кочерга",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.07d7ed55e128",
+      "name": "Ведро деревянное",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.96cd5b7451f4",
+      "name": "Таз медный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.0338221378a8",
+      "name": "Доска стиральная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.0f56d331c8c9",
+      "name": "Щётка для посуды",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.63614ee91225",
+      "name": "Прищепка деревянная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.2401b41399a9",
+      "name": "Щипцы для свечного нагара",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.6f7d05dea077",
+      "name": "Огнивная коробочка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.4ead032015aa",
+      "name": "Грелка постельная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.fe80a77aa171",
+      "name": "Горшок ночной",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.42eab0a81ec9",
+      "name": "Дверной клин",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.a19ecfeb16f7",
+      "name": "Катушка бельевой верёвки",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.household.junk.4c260f90980d",
+      "name": "Рожок обувной",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.8afa869f99c7",
+      "name": "Ступка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.68f9ba7f939a",
+      "name": "Пестик",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.ffa563141f81",
+      "name": "Реторта стеклянная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.bd32f664a656",
+      "name": "Алхимический холодильник",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.0595c9de8ebf",
+      "name": "Шпатель алхимика",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.ef3c8a5afe5c",
+      "name": "Фильтровальная воронка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.fcc1bfee0f23",
+      "name": "Капельница стеклянная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.b1235e56bca4",
+      "name": "Пробиркодержатель",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.5b52a0e6fd6e",
+      "name": "Сушильная рамка для трав",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.d3aa8a4b1770",
+      "name": "Пресс для растений",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.e203d45f45f2",
+      "name": "Ложечка для реактивов",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.5725ae0fc433",
+      "name": "Банка с притёртой крышкой",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.010cb7b05aa1",
+      "name": "Склянка тёмного стекла",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.9c6bf8c2809d",
+      "name": "Медная перегонная трубка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.28c37928b428",
+      "name": "Алхимическая тренога",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.apothecary.junk.6d3853468f85",
+      "name": "Гербарная папка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.6fbc56cae8db",
+      "name": "Котелок походный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.3667cc4bcdd8",
+      "name": "Тренога костровая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.d7f6908e1a82",
+      "name": "Колышек палаточный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.aa4c49cd4fd1",
+      "name": "Лопатка складная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.5126d7814038",
+      "name": "Игла парусная",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.d75ecbe0181d",
+      "name": "Крюк подвесной",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.678c2814f33d",
+      "name": "Кожаная фляга",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.b8a4a2c64069",
+      "name": "Дорожная кружка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.b0979afb71f3",
+      "name": "Соломенная подстилка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.be9e2bbdda1e",
+      "name": "Свёрток для инструментов",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.fe85e0d8cf57",
+      "name": "Чехол для топора",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.37fb6a5830cf",
+      "name": "Шило походное",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.a55851879a1b",
+      "name": "Песочные часы малые",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.68a3fb6faf3e",
+      "name": "Дорожный компас",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.d09430a7d99f",
+      "name": "Сигнальное зеркальце",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.camp.junk.ae86332654b6",
+      "name": "Свисток сигнальный",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.4431c8a5c3cb",
+      "name": "Камертон",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.1b219250b829",
+      "name": "Смычок",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.6c5d27505fc1",
+      "name": "Медиатор костяной",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.c403f644857c",
+      "name": "Колокольчик сценический",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.6c51fddc9789",
+      "name": "Театральная полумаска",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.9c7ffa6f289d",
+      "name": "Погремушка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.81e11495503d",
+      "name": "Барабанная палочка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.440f83b6552e",
+      "name": "Свирель тростниковая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.2d662f72d02b",
+      "name": "Футляр для флейты",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.eabb92cf732b",
+      "name": "Гримировальная кисть",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.2d2452d11b27",
+      "name": "Шаблон для теневого театра",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.music.junk.3fdaad7b97c5",
+      "name": "Щётка для струн",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.2f6bc96ed008",
+      "name": "Кадильница малая",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.1fa5ad131474",
+      "name": "Кропило",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.59919eec0878",
+      "name": "Чётки деревянные",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.ccd5bae1e382",
+      "name": "Алтарный колокольчик",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.a03515b37da6",
+      "name": "Сосуд для подношений",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.4063498c2e8a",
+      "name": "Дорожная молитвенная дощечка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.f8a34f7b7fba",
+      "name": "Кисть для обрядовых знаков",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.05d12db140b0",
+      "name": "Подставка для благовоний",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.0262373e117a",
+      "name": "Щипцы кадильные",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.8759343a3b14",
+      "name": "Пустой футляр реликвария",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.72ceef937adf",
+      "name": "Обрядовая чашечка",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.f88287eff480",
+      "name": "Свечной гасильник",
+      "category": "junk"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.1a0034fca77d",
+      "name": "Кожаный напальчник лучника",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.969856271856",
+      "name": "Налобная повязка ремесленника",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.e730eb266ea9",
+      "name": "Защитные очки стеклодува",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.5fe25c2df29a",
+      "name": "Нарукавник писца",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.83ae4fcd32f0",
+      "name": "Плотницкий пояс для инструментов",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.bd5478c3748e",
+      "name": "Пастушеские краги",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.a4e4de925295",
+      "name": "Лекарский передник клеёнчатый",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.cd77ba872039",
+      "name": "Сетчатый колпак пчеловода",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.d30afc9959b4",
+      "name": "Меховые наушники",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.0fac5a738ed2",
+      "name": "Рабочие рукавицы брезентовые",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.f6508705df0d",
+      "name": "Путевой плащ от дождя",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.workwear.armor.fac8e11ce4a4",
+      "name": "Обмотки для голеней",
+      "category": "armor"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.f2802ea6c23d",
+      "name": "Трут сухой",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.2b33cd586673",
+      "name": "Фитиль хлопковый",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.7e54893ec266",
+      "name": "Фильтр бумажный",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.3d9b6ea53d0d",
+      "name": "Чистая тряпица",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.b3794f7832f5",
+      "name": "Сургучная палочка",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.15f6d01f21fe",
+      "name": "Кусочек портновского мела",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.a5585e4d2490",
+      "name": "Швейная нить на починку",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.20a1a1c9ed98",
+      "name": "Рыбацкая наживка",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.a5d903598449",
+      "name": "Порция коптильной щепы",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.956110c6c711",
+      "name": "Соломенная обёртка",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.9d05f40e7e55",
+      "name": "Мешочек сушёной закваски",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.bb32d20911d9",
+      "name": "Пекарские дрожжи",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.cb81466e4a00",
+      "name": "Порция зубного порошка",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.5891d9cd0891",
+      "name": "Порция стиральной золы",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.781318c22395",
+      "name": "Салфетка для линз",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.b783008e045b",
+      "name": "Вата перевязочная",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.2f1b4499b1b6",
+      "name": "Лист сусального золота",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.d78b2ca24500",
+      "name": "Вощёная обёртка",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.d055417b6993",
+      "name": "Порция сапожной смазки",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.supplies.consumables.4132e367967a",
+      "name": "Порция сценического грима",
+      "category": "consumables"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.fbce83f77c0b",
+      "name": "Солома пшеничная",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.923dcaf5fde6",
+      "name": "Лыко липовое",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.805e3abccc2a",
+      "name": "Береста листовая",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.e7681f7ab434",
+      "name": "Ивовый прут",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.bbb2c7e520e3",
+      "name": "Тростниковый стебель",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.0a3aa4eba8aa",
+      "name": "Бамбуковая трубка",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.f8d38adb4dfd",
+      "name": "Пробковая кора",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.4234085265cf",
+      "name": "Дубовая кора",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.6c47d22be0fb",
+      "name": "Льняная костра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.e8e96f923d67",
+      "name": "Хлопковое волокно",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.88fd11a1a2a6",
+      "name": "Шерсть вычесанная",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.26090edbb38d",
+      "name": "Конский волос",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.0eb3614f240b",
+      "name": "Щетина сырьевая",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.b77af2520a86",
+      "name": "Кость полированная",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.3b7a20a85370",
+      "name": "Роговая пластина",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.d4fd44e2db47",
+      "name": "Кожаный лоскут",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.adde20d75132",
+      "name": "Полоса сыромятной кожи",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.5ac5a23f9ad8",
+      "name": "Сухожильная нить",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.ac9c1ab63341",
+      "name": "Льняная ветошь",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.ca24cb020afa",
+      "name": "Стеклянный бой",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.7859d600e963",
+      "name": "Керамический черепок",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.4153ecefb2af",
+      "name": "Латунный обрезок",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.40ac857889c0",
+      "name": "Железная окалина",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.de8d534da5af",
+      "name": "Древесная стружка",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.23dae1854a75",
+      "name": "Опилки столярные",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.3a0813933216",
+      "name": "Пыль костяная",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.41dcc8e09378",
+      "name": "Воск забрусный",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.c4a5a2d3faf1",
+      "name": "Песок формовочный",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.737bed8b0888",
+      "name": "Глина огнеупорная",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.615b5b3910b7",
+      "name": "Шерстяной войлок",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.raw.materials.282dfd8362f4",
+      "name": "Невыделанная кожа",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.spleen",
+      "name": "Селезёнка животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.kidney",
+      "name": "Почка животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lung",
+      "name": "Лёгкое животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.stomach",
+      "name": "Желудок животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.intestine",
+      "name": "Кишечная ткань животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.brain",
+      "name": "Головной мозг животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.spinal_cord",
+      "name": "Спинной мозг животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.pituitary",
+      "name": "Гипофиз животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.thyroid",
+      "name": "Щитовидная железа животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.adrenal",
+      "name": "Надпочечник животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.pancreas",
+      "name": "Поджелудочная железа животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.bladder",
+      "name": "Мочевой пузырь животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.gallbladder",
+      "name": "Жёлчный пузырь животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.tongue",
+      "name": "Язык животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.ear",
+      "name": "Ухо животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.skin",
+      "name": "Кожа животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.cartilage",
+      "name": "Хрящ животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.nerve",
+      "name": "Нервная ткань животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lymph_node",
+      "name": "Лимфатический узел животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lymph",
+      "name": "Лимфа животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.bile",
+      "name": "Жёлчь животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.saliva",
+      "name": "Слюна животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.gastric_juice",
+      "name": "Желудочный сок животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.lens",
+      "name": "Хрусталик животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.retina",
+      "name": "Сетчатка животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.cornea",
+      "name": "Роговица животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.blood_clot",
+      "name": "Сгусток крови животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.vein",
+      "name": "Венозная ткань животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.artery",
+      "name": "Артериальная ткань животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.ligament",
+      "name": "Связка животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.membrane",
+      "name": "Соединительная оболочка животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.muscle",
+      "name": "Мышечная ткань животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.skull",
+      "name": "Череп животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.jaw",
+      "name": "Челюсть животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.rib",
+      "name": "Ребро животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.vertebra",
+      "name": "Позвонок животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.scapula",
+      "name": "Лопаточная кость животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.pelvis",
+      "name": "Тазовая кость животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.fat_gland",
+      "name": "Жировая железа животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.mucus",
+      "name": "Слизь животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.tear",
+      "name": "Слёзная жидкость животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.eye_fluid",
+      "name": "Стекловидное тело животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.hair",
+      "name": "Волос животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.nail",
+      "name": "Ноготь животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.placenta",
+      "name": "Плацента животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.umbilical",
+      "name": "Пуповина животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.crop",
+      "name": "Зоб животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.gizzard",
+      "name": "Мускульный желудок животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.swim_bladder",
+      "name": "Плавательный пузырь животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.chitin",
+      "name": "Хитиновый панцирь животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.quill",
+      "name": "Игла покровная животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.hoof",
+      "name": "Копыто животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.web_gland",
+      "name": "Паутинообразующая железа животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.ink_sac",
+      "name": "Чернильный мешок животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.egg",
+      "name": "Яйцо животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.eggshell",
+      "name": "Яичная скорлупа животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.antler",
+      "name": "Ветвистый рог животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.animal.materials.milk",
+      "name": "Молоко животного",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.spleen",
+      "name": "Селезёнка монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.kidney",
+      "name": "Почка монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lung",
+      "name": "Лёгкое монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.stomach",
+      "name": "Желудок монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.intestine",
+      "name": "Кишечная ткань монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.brain",
+      "name": "Головной мозг монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.spinal_cord",
+      "name": "Спинной мозг монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.pituitary",
+      "name": "Гипофиз монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.thyroid",
+      "name": "Щитовидная железа монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.adrenal",
+      "name": "Надпочечник монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.pancreas",
+      "name": "Поджелудочная железа монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.bladder",
+      "name": "Мочевой пузырь монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.gallbladder",
+      "name": "Жёлчный пузырь монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.tongue",
+      "name": "Язык монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.ear",
+      "name": "Ухо монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.skin",
+      "name": "Кожа монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.cartilage",
+      "name": "Хрящ монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.nerve",
+      "name": "Нервная ткань монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lymph_node",
+      "name": "Лимфатический узел монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lymph",
+      "name": "Лимфа монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.bile",
+      "name": "Жёлчь монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.saliva",
+      "name": "Слюна монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.gastric_juice",
+      "name": "Желудочный сок монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.lens",
+      "name": "Хрусталик монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.retina",
+      "name": "Сетчатка монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.cornea",
+      "name": "Роговица монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.blood_clot",
+      "name": "Сгусток крови монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.vein",
+      "name": "Венозная ткань монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.artery",
+      "name": "Артериальная ткань монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.ligament",
+      "name": "Связка монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.membrane",
+      "name": "Соединительная оболочка монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.muscle",
+      "name": "Мышечная ткань монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.skull",
+      "name": "Череп монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.jaw",
+      "name": "Челюсть монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.rib",
+      "name": "Ребро монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.vertebra",
+      "name": "Позвонок монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.scapula",
+      "name": "Лопаточная кость монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.pelvis",
+      "name": "Тазовая кость монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.fat_gland",
+      "name": "Жировая железа монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.mucus",
+      "name": "Слизь монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.tear",
+      "name": "Слёзная жидкость монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.eye_fluid",
+      "name": "Стекловидное тело монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.hair",
+      "name": "Волос монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.nail",
+      "name": "Ноготь монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.placenta",
+      "name": "Плацента монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.umbilical",
+      "name": "Пуповина монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.acid_sac",
+      "name": "Кислотный мешок монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.venom_sac",
+      "name": "Ядовитый мешок монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.luminescent",
+      "name": "Светящийся орган монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.electric",
+      "name": "Электрический орган монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.phase_membrane",
+      "name": "Фазовая мембрана монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.petrifying",
+      "name": "Каменеющая железа монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.regenerative",
+      "name": "Регенеративный узел монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.fire_sac",
+      "name": "Огненный мешок монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.frost_crystal",
+      "name": "Морозный кристалл монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.necrotic",
+      "name": "Некротическая ткань монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.ectoplasm",
+      "name": "Эктоплазма монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.elemental_core",
+      "name": "Стихийное ядро монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.adhesive",
+      "name": "Клейкий секрет монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.paralytic",
+      "name": "Паралитическая железа монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.monster.materials.sensory_tendril",
+      "name": "Чувствительный усик монстра",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.spleen",
+      "name": "Селезёнка гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.kidney",
+      "name": "Почка гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.lung",
+      "name": "Лёгкое гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.stomach",
+      "name": "Желудок гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.intestine",
+      "name": "Кишечная ткань гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.brain",
+      "name": "Головной мозг гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.spinal_cord",
+      "name": "Спинной мозг гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.pituitary",
+      "name": "Гипофиз гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.thyroid",
+      "name": "Щитовидная железа гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.adrenal",
+      "name": "Надпочечник гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.pancreas",
+      "name": "Поджелудочная железа гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.bladder",
+      "name": "Мочевой пузырь гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.gallbladder",
+      "name": "Жёлчный пузырь гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.tongue",
+      "name": "Язык гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.ear",
+      "name": "Ухо гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.skin",
+      "name": "Кожа гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.cartilage",
+      "name": "Хрящ гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.nerve",
+      "name": "Нервная ткань гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.lymph_node",
+      "name": "Лимфатический узел гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.lymph",
+      "name": "Лимфа гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.bile",
+      "name": "Жёлчь гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.saliva",
+      "name": "Слюна гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.gastric_juice",
+      "name": "Желудочный сок гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.lens",
+      "name": "Хрусталик гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.retina",
+      "name": "Сетчатка гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.cornea",
+      "name": "Роговица гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.blood_clot",
+      "name": "Сгусток крови гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.vein",
+      "name": "Венозная ткань гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.artery",
+      "name": "Артериальная ткань гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.ligament",
+      "name": "Связка гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.membrane",
+      "name": "Соединительная оболочка гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.muscle",
+      "name": "Мышечная ткань гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.skull",
+      "name": "Череп гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.jaw",
+      "name": "Челюсть гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.rib",
+      "name": "Ребро гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.vertebra",
+      "name": "Позвонок гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.scapula",
+      "name": "Лопаточная кость гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.pelvis",
+      "name": "Тазовая кость гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.fat_gland",
+      "name": "Жировая железа гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.mucus",
+      "name": "Слизь гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.tear",
+      "name": "Слёзная жидкость гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.eye_fluid",
+      "name": "Стекловидное тело гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.hair",
+      "name": "Волос гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.nail",
+      "name": "Ноготь гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.placenta",
+      "name": "Плацента гуманоида",
+      "category": "materials"
+    },
+    {
+      "id": "dnd.items.world.anatomy.humanoid.materials.umbilical",
+      "name": "Пуповина гуманоида",
+      "category": "materials"
+    }
+  ]
+}

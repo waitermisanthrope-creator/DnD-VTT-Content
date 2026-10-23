@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.shrine.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.shrine.junk.2f6bc96ed008",
+      "name": "Кадильница малая",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.25 кг",
+      "cost": "0.75 зм",
+      "description": "Кадильница малая. Назначение: воскурять благовоние на углях. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "воскурять благовоние на углях"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.75,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.1fa5ad131474",
+      "name": "Кропило",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.12 кг",
+      "cost": "0.06 зм",
+      "description": "Кропило. Назначение: разбрызгивать жидкость вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "разбрызгивать жидкость вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.06,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.59919eec0878",
+      "name": "Чётки деревянные",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.04 кг",
+      "cost": "0.02 зм",
+      "description": "Чётки деревянные. Назначение: считать молитвы или упражнения. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "считать молитвы или упражнения"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.02,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.ccd5bae1e382",
+      "name": "Алтарный колокольчик",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.12 кг",
+      "cost": "0.36 зм",
+      "description": "Алтарный колокольчик. Назначение: подавать обрядовый сигнал. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "подавать обрядовый сигнал"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.36,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.a03515b37da6",
+      "name": "Сосуд для подношений",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.35 кг",
+      "cost": "0.17 зм",
+      "description": "Сосуд для подношений. Назначение: выкладывать подношения. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "выкладывать подношения"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.17,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.4063498c2e8a",
+      "name": "Дорожная молитвенная дощечка",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.07 кг",
+      "cost": "0.04 зм",
+      "description": "Дорожная молитвенная дощечка. Назначение: хранить записанный молитвенный текст. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить записанный молитвенный текст"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.04,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.f8a34f7b7fba",
+      "name": "Кисть для обрядовых знаков",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Кисть для обрядовых знаков. Назначение: наносить краску при обряде. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "наносить краску при обряде"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.05d12db140b0",
+      "name": "Подставка для благовоний",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Подставка для благовоний. Назначение: удерживать тлеющее благовоние. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "hold",
+            "execution": "manual",
+            "text": "удерживать тлеющее благовоние"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.0262373e117a",
+      "name": "Щипцы кадильные",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.15 кг",
+      "cost": "0.07 зм",
+      "description": "Щипцы кадильные. Назначение: перекладывать угли в кадильницу. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "перекладывать угли в кадильницу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.07,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.8759343a3b14",
+      "name": "Пустой футляр реликвария",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.2 кг",
+      "cost": "0.6 зм",
+      "description": "Пустой футляр реликвария. Назначение: хранить небольшой памятный предмет. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "store",
+            "execution": "manual",
+            "text": "хранить небольшой памятный предмет"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.6,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.72ceef937adf",
+      "name": "Обрядовая чашечка",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Обрядовая чашечка. Назначение: отмерять жидкость при обряде. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "measure",
+            "execution": "manual",
+            "text": "отмерять жидкость при обряде"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.shrine.junk.f88287eff480",
+      "name": "Свечной гасильник",
+      "inventoryCategory": "junk",
+      "category": "Храм и обряд",
+      "weight": "0.1 кг",
+      "cost": "0.3 зм",
+      "description": "Свечной гасильник. Назначение: гасить свечу колпачком. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "shrine"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "гасить свечу колпачком"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.3,
+          "merchantTags": [
+            "temple"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "shrine"
+          ]
+        }
+      }
+    }
+  ]
+}

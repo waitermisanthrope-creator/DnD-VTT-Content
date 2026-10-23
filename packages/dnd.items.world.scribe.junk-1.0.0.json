@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.world.scribe.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.world.scribe.junk.0d8ff374e745",
+      "name": "Перо гусиное писчее",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.005 кг",
+      "cost": "0.01 зм",
+      "description": "Перо гусиное писчее. Назначение: писать чернилами. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "feather"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "write",
+            "execution": "manual",
+            "text": "писать чернилами"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "feather"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.958964264f0e",
+      "name": "Перо тростниковое",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.008 кг",
+      "cost": "0.01 зм",
+      "description": "Перо тростниковое. Назначение: наносить широкие чернильные штрихи. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "reed"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "наносить широкие чернильные штрихи"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "reed"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.67daa8ea34ee",
+      "name": "Писчий нож",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.04 кг",
+      "cost": "0.12 зм",
+      "description": "Писчий нож. Назначение: очинять перья и подрезать листы. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "cut",
+            "execution": "manual",
+            "text": "очинять перья и подрезать листы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.12,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.e629be4ea1a3",
+      "name": "Песочница писца",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Песочница писца. Назначение: посыпать свежие чернила сухим песком. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "посыпать свежие чернила сухим песком"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.16fff5ba093f",
+      "name": "Линейка чертёжная",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Линейка чертёжная. Назначение: проводить прямые линии. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "проводить прямые линии"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.8dc334e6bb8f",
+      "name": "Циркуль картографа",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.06 кг",
+      "cost": "0.18 зм",
+      "description": "Циркуль картографа. Назначение: переносить расстояния на карту. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "carry",
+            "execution": "manual",
+            "text": "переносить расстояния на карту"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.18,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.32874cfca3c2",
+      "name": "Угольник чертёжный",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.1 кг",
+      "cost": "0.05 зм",
+      "description": "Угольник чертёжный. Назначение: проверять прямой угол. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "проверять прямой угол"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.05,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.ab5766fe5184",
+      "name": "Рейсфедер",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.03 кг",
+      "cost": "0.09 зм",
+      "description": "Рейсфедер. Назначение: проводить ровные линии чернилами. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "brass"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "проводить ровные линии чернилами"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.09,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "brass"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.d019e7bf89c0",
+      "name": "Восковая табличка",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.2 кг",
+      "cost": "0.1 зм",
+      "description": "Восковая табличка. Назначение: делать стираемые записи стилусом. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wax"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "делать стираемые записи стилусом"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.1,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wax"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.7dc12d2013fc",
+      "name": "Стилус писца",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.02 кг",
+      "cost": "0.01 зм",
+      "description": "Стилус писца. Назначение: писать на восковой табличке. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bone"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "write",
+            "execution": "manual",
+            "text": "писать на восковой табличке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bone"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.7ce2dfcbc57c",
+      "name": "Скребок для пергамента",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.05 кг",
+      "cost": "0.15 зм",
+      "description": "Скребок для пергамента. Назначение: соскабливать поверхность пергамента. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "соскабливать поверхность пергамента"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.6fe7d7621933",
+      "name": "Пресс переплётчика",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "2 кг",
+      "cost": "1 зм",
+      "description": "Пресс переплётчика. Назначение: сжимать листы при переплёте. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "clamp",
+            "execution": "manual",
+            "text": "сжимать листы при переплёте"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.eef77a410df6",
+      "name": "Папка для карт",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.4 кг",
+      "cost": "0.2 зм",
+      "description": "Папка для карт. Назначение: защищать сложенные карты. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "защищать сложенные карты"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.0706f8ca2849",
+      "name": "Счёты купеческие",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.3 кг",
+      "cost": "0.15 зм",
+      "description": "Счёты купеческие. Назначение: считать вручную. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "считать вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.15,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.6df19b53f315",
+      "name": "Лупа писца",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.08 кг",
+      "cost": "0.24 зм",
+      "description": "Лупа писца. Назначение: рассматривать мелкие надписи. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "рассматривать мелкие надписи"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.24,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.world.scribe.junk.d98dbb67b245",
+      "name": "Шнур для разметки карты",
+      "inventoryCategory": "junk",
+      "category": "Писец и картограф",
+      "weight": "0.03 кг",
+      "cost": "0.01 зм",
+      "description": "Шнур для разметки карты. Назначение: размечать расстояния на чертеже. Применение разрешается вручную; предмет не даёт скрытых бонусов.",
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "linen"
+        ],
+        "lootTags": [
+          "study"
+        ],
+        "uses": [
+          {
+            "action": "manual_use",
+            "execution": "manual",
+            "text": "размечать расстояния на чертеже"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.01,
+          "merchantTags": [
+            "scribe"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "linen"
+          ],
+          "recipeTags": [
+            "study"
+          ]
+        }
+      }
+    }
+  ]
+}
