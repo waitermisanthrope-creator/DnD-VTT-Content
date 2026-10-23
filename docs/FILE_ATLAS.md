@@ -390,3 +390,12 @@
 - `tools/verify_category_collections.py`: схемы, хеши, покрытие и публичные URL.
 - `docs/ITEM_CATEGORY_COLLECTIONS.md`: интерфейс, установка и совместимость 10035+.
 - `catalog/v3/index.json`: 293 записи; старые 286 не изменены.
+
+## Сборники всех модов, 23.10.2026
+
+- `tools/build_mod_collections.py`, `tools/verify_mod_collections.py`: построение и проверка Content v3 /Assets v9; все397 исходных модов.
+- `schemas/mod-collection-v1.schema.json`: строгий общий collectionCategory контракт10036+.
+- `sources/mod-category-collections-1.0.0.json`: исходные ID групп рас/классов/черт.
+- `packages/dnd.collections.races-1.0.0.json`, `packages/dnd.collections.classes-1.0.0.json`, `packages/dnd.collections.feats-1.0.0.json`: три новых корневых сборника.
+- `packages/dnd.collections.feats.part01-1.0.0.json`, `packages/dnd.collections.feats.part02-1.0.0.json`, `packages/dnd.collections.feats.part03-1.0.0.json`: внутренние группы117 черт.
+- `docs/MOD_CATEGORY_COLLECTIONS.md`: состав15 библиотек и установка; Content v3 теперь299 записей.

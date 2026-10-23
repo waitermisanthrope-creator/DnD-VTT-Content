@@ -10,7 +10,7 @@ from pathlib import Path
 import jsonschema
 ROOT=Path(__file__).resolve().parents[1]
 raw=(ROOT/'catalog/v3/index.json').read_bytes();catalog=json.loads(raw);by_id={m['id']:m for m in catalog['packages']}
-roots=[m for m in by_id.values() if m.get('collectionRole')=='category'];assert len(roots)==5
+roots=[m for m in by_id.values() if m.get('collectionRole')=='category' and m.get('itemCategoryCollection')];assert len(roots)==5
 members=[m for m in by_id.values() if m.get('itemCategoryCollection')];assert len(members)==7
 schema=json.loads((ROOT/'schemas/catalog-entry-v1.schema.json').read_text())
 for m in by_id.values():
