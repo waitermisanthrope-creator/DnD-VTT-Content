@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.consumables",
+  "version": "1.0.0",
+  "type": "collection",
+  "inventoryCategory": "consumables",
+  "members": [
+    "dnd.items.consumables",
+    "dnd.items.volume02.consumables",
+    "dnd.items.volume03.consumables",
+    "dnd.items.world.supplies.consumables"
+  ]
+}

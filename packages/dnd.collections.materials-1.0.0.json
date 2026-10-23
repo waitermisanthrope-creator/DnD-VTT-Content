@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.materials",
+  "version": "1.0.0",
+  "type": "collection",
+  "inventoryCategory": "materials",
+  "members": [
+    "dnd.items.materials",
+    "dnd.craft.core",
+    "dnd.alchemy.rules",
+    "dnd.alchemy.ingredients.1",
+    "dnd.alchemy.ingredients.2",
+    "dnd.alchemy.ingredients.3",
+    "dnd.items.volume02.materials",
+    "dnd.items.volume03.materials",
+    "dnd.items.volume04.materials",
+    "dnd.items.volume05.materials",
+    "dnd.items.volume06.materials",
+    "dnd.items.world.raw.materials",
+    "dnd.items.world.anatomy.animal.materials",
+    "dnd.alchemy.ingredients.world.anatomy.animal",
+    "dnd.items.world.anatomy.monster.materials",
+    "dnd.alchemy.ingredients.world.anatomy.monster",
+    "dnd.items.world.anatomy.humanoid.materials",
+    "dnd.alchemy.ingredients.world.anatomy.humanoid"
+  ]
+}

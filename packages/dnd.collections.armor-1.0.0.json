@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.armor",
+  "version": "1.0.0",
+  "type": "collection",
+  "inventoryCategory": "armor",
+  "members": [
+    "dnd.items.armor",
+    "dnd.items.volume02.armor",
+    "dnd.items.volume03.armor",
+    "dnd.items.volume04.armor",
+    "dnd.items.volume05.armor",
+    "dnd.items.volume06.armor",
+    "dnd.items.volume07.armor",
+    "dnd.items.volume08.armor",
+    "dnd.items.world.workwear.armor"
+  ]
+}

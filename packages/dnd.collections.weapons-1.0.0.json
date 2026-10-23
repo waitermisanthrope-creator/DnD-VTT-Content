@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.weapons",
+  "version": "1.0.0",
+  "type": "collection",
+  "inventoryCategory": "weapons",
+  "members": [
+    "dnd.items.weapons",
+    "dnd.items.volume02.weapons",
+    "dnd.items.volume03.weapons",
+    "dnd.items.volume04.weapons",
+    "dnd.items.volume05.weapons",
+    "dnd.items.volume06.weapons",
+    "dnd.items.volume07.weapons",
+    "dnd.items.volume08.weapons",
+    "dnd.items.volume09.weapons",
+    "dnd.items.volume10.weapons",
+    "dnd.items.volume11.weapons",
+    "dnd.items.volume12.weapons",
+    "dnd.items.volume13.weapons",
+    "dnd.items.volume14.weapons",
+    "dnd.items.world.kitchen.weapons"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.junk.part02",
+  "version": "1.0.0",
+  "type": "collection",
+  "inventoryCategory": "junk",
+  "members": [
+    "dnd.items.broken.volume22.junk",
+    "dnd.items.broken.volume23.junk",
+    "dnd.items.broken.volume24.junk",
+    "dnd.items.broken.volume25.junk",
+    "dnd.items.broken.volume26.junk",
+    "dnd.items.broken.volume27.junk",
+    "dnd.items.broken.volume28.junk"
+  ]
+}

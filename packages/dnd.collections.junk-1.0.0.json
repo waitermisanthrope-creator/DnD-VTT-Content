@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.junk",
+  "version": "1.0.0",
+  "type": "collection",
+  "inventoryCategory": "junk",
+  "members": [
+    "dnd.collections.junk.part01",
+    "dnd.collections.junk.part02"
+  ]
+}
