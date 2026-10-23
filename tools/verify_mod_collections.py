@@ -7,7 +7,10 @@ p=argparse.ArgumentParser();p.add_argument('--assets',type=Path,required=True);p
 content=Path(__file__).resolve().parents[1];allmods={};new=[];catalogs=[]
 for root,repo,path,key,baseline,schema in [(content,'Content','catalog/v3/index.json','packages','43e3043','schemas/catalog-entry-v1.schema.json'),(args.assets,'Assets','catalog/v9/index.json','packs','8cf392a','schemas/catalog-entry-v3.schema.json')]:
  raw=(root/path).read_bytes();entries=json.loads(raw)[key];byid={m['id']:m for m in entries};assert len(byid)==len(entries)
- old=json.loads(subprocess.check_output(['git','show',baseline+':'+path],cwd=root))[key];assert all(byid[m['id']]==m for m in old)
+ old=json.loads(subprocess.check_output(['git','show',baseline+':'+path],cwd=root))[key];assert all({k:v for k,v in byid[m['id']].items() if k not in ('publishedAt','updatedAt')}==m for m in old)
+ from datetime import datetime
+ for m in entries:
+  assert datetime.fromisoformat(m['updatedAt'].replace('Z','+00:00'))>=datetime.fromisoformat(m['publishedAt'].replace('Z','+00:00'))
  sch=json.loads((root/schema).read_text());catalogs.append((f'https://raw.githubusercontent.com/waitermisanthrope-creator/DnD-VTT-{repo}/main/{path}',raw))
  for m in entries:
   assert m['id'] not in allmods;allmods[m['id']]=(m,root)
@@ -40,4 +43,4 @@ if args.public_payloads or args.public:
 if args.public:
  for url,raw in catalogs:assert urllib.request.urlopen(url,timeout=45).read()==raw
  print('PUBLIC_MOD_COLLECTION_CATALOGS_PASS: Content v3 and Assets v9')
-print('ALL_MOD_COLLECTIONS_PASS:15 libraries cover all397 existing mods; all previous catalog entries unchanged')
+print('ALL_MOD_COLLECTIONS_PASS:15 libraries cover all397 existing mods; previous payloads/manifests unchanged except verified release dates')

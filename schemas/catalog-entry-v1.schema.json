@@ -104,6 +104,16 @@
     },
     "description": {
       "type": "string"
+    },
+    "publishedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC release timestamp; metadata-only catalog refresh must not change this date."
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC release timestamp; metadata-only catalog refresh must not change this date."
     }
   },
   "allOf": [

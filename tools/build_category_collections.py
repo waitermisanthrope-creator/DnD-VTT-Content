@@ -15,7 +15,7 @@ def write(p,d):
   if previous.returncode==0 and previous.stdout!=raw:raise RuntimeError('New immutable revision required: '+p)
  target=ROOT/p;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(raw)
 def main():
- catalog=read('catalog/v3/index.json');catalog['packages']=[m for m in catalog['packages'] if not m.get('itemCategoryCollection')]
+ catalog=read('catalog/v3/index.json');previous={m['id']:m for m in catalog['packages']};catalog['packages']=[m for m in catalog['packages'] if not m.get('itemCategoryCollection')]
  members={c:[] for c in LABELS};counts=collections.Counter()
  for m in catalog['packages']:
   if m['type'] not in ['item','craft']:continue
@@ -27,6 +27,7 @@ def main():
   payload=dict(schemaVersion=1,id=pid,version=VERSION,type='collection',inventoryCategory=cat,members=children)
   path=f'packages/{pid}-{VERSION}.json';write(path,payload);b=(ROOT/path).read_bytes()
   manifest=dict(schemaVersion=1,id=pid,name=('Полный сборник: '+LABELS[cat]) if role=='category' else 'Часть сборника: '+LABELS[cat]+' / '+pid.rsplit('.',1)[-1],version=VERSION,type='collection',author='DnD-VTT contributors',license='CC0-1.0 (project collection metadata)',format='json',platform='any',unityVersion='*',dependencies=children,bytes=len(b),sha256=hashlib.sha256(b).hexdigest(),url='https://raw.githubusercontent.com/waitermisanthrope-creator/DnD-VTT-Content/main/'+path,minClientVersionCode=10035,inventoryCategory=cat,itemCategoryCollection=True,collectionRole=role,itemCount=counts[cat] if role=='category' else 0,description=f'Все предметы категории «{LABELS[cat]}» одной кнопкой. Клиент сам установит недостающие тома, уже проверенные пропустит. Требуется Unity1.00.35+. Старые ID и предметы персонажей сохраняются.' if role=='category' else 'Внутренняя группа загрузки; устанавливается автоматически полным сборником.')
+  manifest.update({k:previous[pid][k] for k in ('publishedAt','updatedAt') if pid in previous and k in previous[pid]})
   catalog['packages'].append(manifest);return pid
  for cat in LABELS:
   parts=members[cat]

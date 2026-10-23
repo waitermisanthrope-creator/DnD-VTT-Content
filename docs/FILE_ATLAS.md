@@ -399,3 +399,7 @@
 - `packages/dnd.collections.races-1.0.0.json`, `packages/dnd.collections.classes-1.0.0.json`, `packages/dnd.collections.feats-1.0.0.json`: три новых корневых сборника.
 - `packages/dnd.collections.feats.part01-1.0.0.json`, `packages/dnd.collections.feats.part02-1.0.0.json`, `packages/dnd.collections.feats.part03-1.0.0.json`: внутренние группы117 черт.
 - `docs/MOD_CATEGORY_COLLECTIONS.md`: состав15 библиотек и установка; Content v3 теперь299 записей.
+
+## Лента и рейтинг, 23.10.2026
+
+Живой каталог содержит опубликованные `publishedAt`/`updatedAt`, восстановленные по полной git-истории; payload/ID/SHA/версии не менялись. Схема каталога документирует UTC date-time поля. Правила: `docs/WORKSHOP_DATES_AND_HEARTS.md` (новый файл); генераторы обоих видов сборников сохраняют даты, проверка разрешает только эти два новых поля у старых записей.

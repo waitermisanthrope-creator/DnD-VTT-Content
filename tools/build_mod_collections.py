@@ -19,7 +19,7 @@ def category(m):
 def main():
  p=argparse.ArgumentParser();p.add_argument('--assets',type=Path,required=True);args=p.parse_args()
  for root,repo,version,key in [(CONTENT,'Content','v3','packages'),(args.assets,'Assets','v9','packs')]:
-  path='catalog/'+version+'/index.json';catalog=json.loads((root/path).read_text());catalog[key]=[m for m in catalog[key] if not m.get('modCategoryCollection')]
+  path='catalog/'+version+'/index.json';catalog=json.loads((root/path).read_text());previous={m['id']:m for m in catalog[key]};catalog[key]=[m for m in catalog[key] if not m.get('modCategoryCollection')]
   groups={}
   for m in catalog[key]:
    c=category(m)
@@ -30,6 +30,7 @@ def main():
    payload=dict(schemaVersion=1,id=pid,version=revision,type='collection',collectionCategory=c,members=members)
    rel=f'packages/{pid}-{revision}.json';write(root,rel,payload);b=(root/rel).read_bytes()
    manifest=dict(schemaVersion=1,id=pid,name=('Полный сборник: ' if role=='category' else 'Часть сборника: ')+GROUPS[c]+(' / '+pid.rsplit('.',1)[-1] if role=='internal' else ''),version=revision,type='collection',author='DnD-VTT contributors',license='CC0-1.0 (collection metadata only; member licenses unchanged)',format='json',platform='any',unityVersion='*',dependencies=members,bytes=len(b),sha256=hashlib.sha256(b).hexdigest(),url=f'https://raw.githubusercontent.com/waitermisanthrope-creator/DnD-VTT-{repo}/main/{rel}',minClientVersionCode=10036,collectionCategory=c,collectionRole=role,modCategoryCollection=True,packageCount=count,description='Все доступные дополнения категории «'+GROUPS[c]+'» одной кнопкой. Установленные проверенные версии пропускаются; прерванную загрузку можно продолжить. Требуется Unity1.00.36+. Лицензии исходных модов сохраняются.')
+   manifest.update({k:previous[pid][k] for k in ('publishedAt','updatedAt') if pid in previous and k in previous[pid]})
    catalog[key].append(manifest);return pid
   for c in GROUPS:
    if c not in groups:continue

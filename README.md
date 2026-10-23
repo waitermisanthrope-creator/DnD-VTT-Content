@@ -1,3 +1,7 @@
+## Лента и сердечки — Unity1.00.37+
+
+Даты публикации/обновления добавлены в живой каталог; payload, ID, версии и SHA сохранены. [Правила дат и регистрации новых модов для рейтинга](https://github.com/waitermisanthrope-creator/DnD-VTT-Content/blob/main/docs/WORKSHOP_DATES_AND_HEARTS.md). Глобальные сердечки требуют серверной миграции; одна публикация каталога их не включает.
+
 ## Сборники всех модов — Unity1.00.36+
 
 [Клиент1.00.36 опубликован](https://github.com/waitermisanthrope-creator/DnD-VTT/releases/tag/unity-v1.00.36). 15 опциональных тематических сборников охватывают все397 опубликованных модов. [Состав, совместимость и публикация](docs/MOD_CATEGORY_COLLECTIONS.md).
