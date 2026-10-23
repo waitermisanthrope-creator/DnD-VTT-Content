@@ -381,3 +381,12 @@
 - `packages/dnd.items.broken.volume26.junk-1.0.0.json` — 341317 B; профильные инструменты/сломанные состояния/условия будущего ремонта.
 - `packages/dnd.items.broken.volume27.junk-1.0.0.json` — 342598 B; профильные инструменты/сломанные состояния/условия будущего ремонта.
 - `packages/dnd.items.broken.volume28.junk-1.0.0.json` — 336000 B; профильные инструменты/сломанные состояния/условия будущего ремонта.
+
+## Дополнение: тематические сборники, 23.10.2026
+
+- `packages/dnd.collections.*-1.0.0.json`: пять корневых сборников и две внутренние группы хлама.
+- `sources/item-category-collections-1.0.0.json`: состав пяти категорий и стабильные ID исходных модулей.
+- `tools/build_category_collections.py`: воспроизводимый генератор, защита опубликованных payloads.
+- `tools/verify_category_collections.py`: схемы, хеши, покрытие и публичные URL.
+- `docs/ITEM_CATEGORY_COLLECTIONS.md`: интерфейс, установка и совместимость 10035+.
+- `catalog/v3/index.json`: 293 записи; старые 286 не изменены.
