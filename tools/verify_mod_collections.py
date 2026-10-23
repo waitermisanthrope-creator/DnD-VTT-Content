@@ -29,7 +29,8 @@ for root in roots:
   active.remove(pid);seen.add(pid)
  visit(root['id']);covered.update(leaves)
  if root.get('modCategoryCollection'):
-  assert len(leaves)==root['packageCount'] and all(category(allmods[i][0])==root['collectionCategory'] for i in leaves)
+  assert len(leaves)==root['packageCount'] and all(category(allmods[i][0])==root['collectionCategory'] or root['collectionCategory']=='maps' and i=='dnd.appearance.map-surfaces' for i in leaves)
+maproot=next(m for m in roots if m.get('collectionCategory')=='maps');assert 'dnd.appearance.map-surfaces' in maproot['dependencies']
 assert covered=={i for i,(m,r) in allmods.items() if m['type']!='collection'} and len(covered)==397
 if args.public_payloads or args.public:
  def verify(m):
