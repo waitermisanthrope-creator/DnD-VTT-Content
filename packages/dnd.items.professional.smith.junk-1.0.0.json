@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.smith.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.smith.junk.forge_hammer",
+      "name": "Кузнечный молот",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кузнечное дело",
+      "weight": "1.5 кг",
+      "cost": "8 зм",
+      "description": "Кузнечный молот. Профиль: кузнечное дело. Назначение: ковать и осаживать нагретую металлическую заготовку. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "forge_hammer",
+        "operations": [
+          "ковать и осаживать нагретую металлическую заготовку"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.smith"
+        ],
+        "uses": [
+          {
+            "action": "forge_hammer",
+            "execution": "manual",
+            "text": "ковать и осаживать нагретую металлическую заготовку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 8.0,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.smith"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.smith.junk.cross_peen",
+      "name": "Кузнечный молот с поперечным бойком",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кузнечное дело",
+      "weight": "1.3 кг",
+      "cost": "9 зм",
+      "description": "Кузнечный молот с поперечным бойком. Профиль: кузнечное дело. Назначение: вытягивать металл поперечным бойком. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "cross_peen",
+        "operations": [
+          "вытягивать металл поперечным бойком"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.smith"
+        ],
+        "uses": [
+          {
+            "action": "cross_peen",
+            "execution": "manual",
+            "text": "вытягивать металл поперечным бойком"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 9.0,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.smith"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.smith.junk.anvil",
+      "name": "Кузнечная наковальня",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кузнечное дело",
+      "weight": "25 кг",
+      "cost": "50 зм",
+      "description": "Кузнечная наковальня. Профиль: кузнечное дело. Назначение: поддерживать заготовку при ковке. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "anvil",
+        "operations": [
+          "поддерживать заготовку при ковке"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.smith"
+        ],
+        "uses": [
+          {
+            "action": "anvil",
+            "execution": "manual",
+            "text": "поддерживать заготовку при ковке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 50.0,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.smith"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.smith.junk.forge_poker",
+      "name": "Кузнечная кочерга",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кузнечное дело",
+      "weight": "1.2 кг",
+      "cost": "2 зм",
+      "description": "Кузнечная кочерга. Профиль: кузнечное дело. Назначение: распределять уголь в горне. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "forge_poker",
+        "operations": [
+          "распределять уголь в горне"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.smith"
+        ],
+        "uses": [
+          {
+            "action": "forge_poker",
+            "execution": "manual",
+            "text": "распределять уголь в горне"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.smith"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.smith.junk.quench_bath",
+      "name": "Закалочная ванна малая",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кузнечное дело",
+      "weight": "4 кг",
+      "cost": "8 зм",
+      "description": "Закалочная ванна малая. Профиль: кузнечное дело. Назначение: погружать заготовку в подходящую закалочную среду. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "quench_bath",
+        "operations": [
+          "погружать заготовку в подходящую закалочную среду"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.smith"
+        ],
+        "uses": [
+          {
+            "action": "quench_bath",
+            "execution": "manual",
+            "text": "погружать заготовку в подходящую закалочную среду"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 8.0,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.smith"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.smith.junk.twist_bar",
+      "name": "Кузнечный вороток",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кузнечное дело",
+      "weight": "0.6 кг",
+      "cost": "5 зм",
+      "description": "Кузнечный вороток. Профиль: кузнечное дело. Назначение: скручивать нагретую полосу металла. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "twist_bar",
+        "operations": [
+          "скручивать нагретую полосу металла"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.smith"
+        ],
+        "uses": [
+          {
+            "action": "twist_bar",
+            "execution": "manual",
+            "text": "скручивать нагретую полосу металла"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 5.0,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.smith"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.smith.junk.straightening_plate",
+      "name": "Правильная плита кузнеца",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кузнечное дело",
+      "weight": "5 кг",
+      "cost": "12 зм",
+      "description": "Правильная плита кузнеца. Профиль: кузнечное дело. Назначение: проверять и править плоскость поковки. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "straightening_plate",
+        "operations": [
+          "проверять и править плоскость поковки"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.smith"
+        ],
+        "uses": [
+          {
+            "action": "straightening_plate",
+            "execution": "manual",
+            "text": "проверять и править плоскость поковки"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 12.0,
+          "merchantTags": [
+            "smith"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.smith"
+          ]
+        }
+      }
+    }
+  ]
+}

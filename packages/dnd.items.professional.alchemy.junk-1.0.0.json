@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.alchemy.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.alchemy.junk.empty_vessel",
+      "name": "Пустой алхимический сосуд",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Алхимия",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Пустой алхимический сосуд. Профиль: алхимия. Назначение: принимать до 250 мл вещества; содержимое добавляется отдельно. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус. Сосуд пуст; вещества и жидкости в комплект не входят. Автоматическое наполнение пока не реализовано.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "empty_vessel",
+        "operations": [
+          "принимать до 250 мл вещества; содержимое добавляется отдельно"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "profession.alchemy"
+        ],
+        "uses": [
+          {
+            "action": "empty_vessel",
+            "execution": "manual",
+            "text": "принимать до 250 мл вещества; содержимое добавляется отдельно"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "alchemy"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "tool.alchemy"
+          ]
+        }
+      },
+      "containerSpec": {
+        "capacityMl": 250,
+        "initialContents": [],
+        "execution": "planned"
+      }
+    },
+    {
+      "id": "dnd.items.professional.alchemy.junk.empty_flask",
+      "name": "Пустая алхимическая колба",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Алхимия",
+      "weight": "0.25 кг",
+      "cost": "3 зм",
+      "description": "Пустая алхимическая колба. Профиль: алхимия. Назначение: удерживать до 500 мл смеси в ручной работе. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус. Сосуд пуст; вещества и жидкости в комплект не входят. Автоматическое наполнение пока не реализовано.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "empty_flask",
+        "operations": [
+          "удерживать до 500 мл смеси в ручной работе"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "profession.alchemy"
+        ],
+        "uses": [
+          {
+            "action": "empty_flask",
+            "execution": "manual",
+            "text": "удерживать до 500 мл смеси в ручной работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "alchemy"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "tool.alchemy"
+          ]
+        }
+      },
+      "containerSpec": {
+        "capacityMl": 500,
+        "initialContents": [],
+        "execution": "planned"
+      }
+    },
+    {
+      "id": "dnd.items.professional.alchemy.junk.empty_vial",
+      "name": "Пустая узкогорлая склянка",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Алхимия",
+      "weight": "0.08 кг",
+      "cost": "1 зм",
+      "description": "Пустая узкогорлая склянка. Профиль: алхимия. Назначение: хранить до 50 мл отдельного образца. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус. Сосуд пуст; вещества и жидкости в комплект не входят. Автоматическое наполнение пока не реализовано.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "empty_vial",
+        "operations": [
+          "хранить до 50 мл отдельного образца"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "profession.alchemy"
+        ],
+        "uses": [
+          {
+            "action": "empty_vial",
+            "execution": "manual",
+            "text": "хранить до 50 мл отдельного образца"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "alchemy"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "tool.alchemy"
+          ]
+        }
+      },
+      "containerSpec": {
+        "capacityMl": 50,
+        "initialContents": [],
+        "execution": "planned"
+      }
+    },
+    {
+      "id": "dnd.items.professional.alchemy.junk.stoppered_bottle",
+      "name": "Пустой флакон с притёртой пробкой",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Алхимия",
+      "weight": "0.12 кг",
+      "cost": "2 зм",
+      "description": "Пустой флакон с притёртой пробкой. Профиль: алхимия. Назначение: закрывать до 100 мл отдельного образца. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус. Сосуд пуст; вещества и жидкости в комплект не входят. Автоматическое наполнение пока не реализовано.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "stoppered_bottle",
+        "operations": [
+          "закрывать до 100 мл отдельного образца"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "profession.alchemy"
+        ],
+        "uses": [
+          {
+            "action": "stoppered_bottle",
+            "execution": "manual",
+            "text": "закрывать до 100 мл отдельного образца"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "alchemy"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "tool.alchemy"
+          ]
+        }
+      },
+      "containerSpec": {
+        "capacityMl": 100,
+        "initialContents": [],
+        "execution": "planned"
+      }
+    },
+    {
+      "id": "dnd.items.professional.alchemy.junk.evaporating_dish",
+      "name": "Термостойкая алхимическая чашка",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Алхимия",
+      "weight": "0.15 кг",
+      "cost": "2 зм",
+      "description": "Термостойкая алхимическая чашка. Профиль: алхимия. Назначение: выпаривать небольшую порцию раствора. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "evaporating_dish",
+        "operations": [
+          "выпаривать небольшую порцию раствора"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "profession.alchemy"
+        ],
+        "uses": [
+          {
+            "action": "evaporating_dish",
+            "execution": "manual",
+            "text": "выпаривать небольшую порцию раствора"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "alchemy"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "tool.alchemy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.alchemy.junk.stirring_rod",
+      "name": "Стеклянная мешалка алхимика",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Алхимия",
+      "weight": "0.03 кг",
+      "cost": "1 зм",
+      "description": "Стеклянная мешалка алхимика. Профиль: алхимия. Назначение: перемешивать совместимый состав вручную. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "stirring_rod",
+        "operations": [
+          "перемешивать совместимый состав вручную"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "glass"
+        ],
+        "lootTags": [
+          "profession.alchemy"
+        ],
+        "uses": [
+          {
+            "action": "stirring_rod",
+            "execution": "manual",
+            "text": "перемешивать совместимый состав вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "alchemy"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "glass"
+          ],
+          "recipeTags": [
+            "tool.alchemy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.alchemy.junk.retort_stand",
+      "name": "Штатив для алхимических сосудов",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Алхимия",
+      "weight": "0.8 кг",
+      "cost": "6 зм",
+      "description": "Штатив для алхимических сосудов. Профиль: алхимия. Назначение: закреплять подходящую посуду при работе. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "retort_stand",
+        "operations": [
+          "закреплять подходящую посуду при работе"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.alchemy"
+        ],
+        "uses": [
+          {
+            "action": "retort_stand",
+            "execution": "manual",
+            "text": "закреплять подходящую посуду при работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 6.0,
+          "merchantTags": [
+            "alchemy"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.alchemy"
+          ]
+        }
+      }
+    }
+  ]
+}

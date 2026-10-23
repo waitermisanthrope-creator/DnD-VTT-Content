@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.woodwork.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.woodwork.junk.adze",
+      "name": "Тесло плотника",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Столярное дело",
+      "weight": "0.8 кг",
+      "cost": "4 зм",
+      "description": "Тесло плотника. Профиль: столярное дело. Назначение: стёсывать поверхность древесины поперечным лезвием. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "adze",
+        "operations": [
+          "стёсывать поверхность древесины поперечным лезвием"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.woodwork"
+        ],
+        "uses": [
+          {
+            "action": "adze",
+            "execution": "manual",
+            "text": "стёсывать поверхность древесины поперечным лезвием"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 4.0,
+          "merchantTags": [
+            "woodwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.woodwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.woodwork.junk.gouge",
+      "name": "Полукруглая стамеска",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Столярное дело",
+      "weight": "0.16 кг",
+      "cost": "2 зм",
+      "description": "Полукруглая стамеска. Профиль: столярное дело. Назначение: выбирать округлые углубления в древесине. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "gouge",
+        "operations": [
+          "выбирать округлые углубления в древесине"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.woodwork"
+        ],
+        "uses": [
+          {
+            "action": "gouge",
+            "execution": "manual",
+            "text": "выбирать округлые углубления в древесине"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "woodwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.woodwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.woodwork.junk.hand_drill",
+      "name": "Ручная дрель с маховичком",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Столярное дело",
+      "weight": "0.5 кг",
+      "cost": "5 зм",
+      "description": "Ручная дрель с маховичком. Профиль: столярное дело. Назначение: вращать небольшое сверло вручную. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "hand_drill",
+        "operations": [
+          "вращать небольшое сверло вручную"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.woodwork"
+        ],
+        "uses": [
+          {
+            "action": "hand_drill",
+            "execution": "manual",
+            "text": "вращать небольшое сверло вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 5.0,
+          "merchantTags": [
+            "woodwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.woodwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.woodwork.junk.joint_template",
+      "name": "Шаблон для шипового соединения",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Столярное дело",
+      "weight": "0.12 кг",
+      "cost": "1 зм",
+      "description": "Шаблон для шипового соединения. Профиль: столярное дело. Назначение: размечать сопрягаемые элементы деревянного соединения. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "joint_template",
+        "operations": [
+          "размечать сопрягаемые элементы деревянного соединения"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.woodwork"
+        ],
+        "uses": [
+          {
+            "action": "joint_template",
+            "execution": "manual",
+            "text": "размечать сопрягаемые элементы деревянного соединения"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "woodwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.woodwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.woodwork.junk.dowel_plate",
+      "name": "Доска для изготовления шкантов",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Столярное дело",
+      "weight": "0.4 кг",
+      "cost": "3 зм",
+      "description": "Доска для изготовления шкантов. Профиль: столярное дело. Назначение: калибровать небольшие деревянные шканты. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "dowel_plate",
+        "operations": [
+          "калибровать небольшие деревянные шканты"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.woodwork"
+        ],
+        "uses": [
+          {
+            "action": "dowel_plate",
+            "execution": "manual",
+            "text": "калибровать небольшие деревянные шканты"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "woodwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.woodwork"
+          ]
+        }
+      }
+    }
+  ]
+}

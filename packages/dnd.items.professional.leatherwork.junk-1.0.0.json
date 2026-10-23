@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.leatherwork.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.leatherwork.junk.fleshing_knife",
+      "name": "Нож для мездрения шкур",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кожевенное дело",
+      "weight": "0.5 кг",
+      "cost": "5 зм",
+      "description": "Нож для мездрения шкур. Профиль: кожевенное дело. Назначение: снимать мездру двуручным тянущим резом на колоде. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "fleshing_knife",
+        "operations": [
+          "снимать мездру двуручным тянущим резом на колоде"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.leatherwork"
+        ],
+        "uses": [
+          {
+            "action": "fleshing_knife",
+            "execution": "manual",
+            "text": "снимать мездру двуручным тянущим резом на колоде"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 5.0,
+          "merchantTags": [
+            "leatherwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.leatherwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.leatherwork.junk.fleshing_beam",
+      "name": "Колодка мездрильная",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кожевенное дело",
+      "weight": "5 кг",
+      "cost": "3 зм",
+      "description": "Колодка мездрильная. Профиль: кожевенное дело. Назначение: подпирать шкуру при мездрении. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "fleshing_beam",
+        "operations": [
+          "подпирать шкуру при мездрении"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.leatherwork"
+        ],
+        "uses": [
+          {
+            "action": "fleshing_beam",
+            "execution": "manual",
+            "text": "подпирать шкуру при мездрении"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "leatherwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.leatherwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.leatherwork.junk.skiving_knife",
+      "name": "Нож для шерфования кожи",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кожевенное дело",
+      "weight": "0.12 кг",
+      "cost": "3 зм",
+      "description": "Нож для шерфования кожи. Профиль: кожевенное дело. Назначение: утончать край кожи перед соединением. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "skiving_knife",
+        "operations": [
+          "утончать край кожи перед соединением"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.leatherwork"
+        ],
+        "uses": [
+          {
+            "action": "skiving_knife",
+            "execution": "manual",
+            "text": "утончать край кожи перед соединением"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "leatherwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.leatherwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.leatherwork.junk.edge_beveler",
+      "name": "Кромкорез кожевника",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кожевенное дело",
+      "weight": "0.09 кг",
+      "cost": "2 зм",
+      "description": "Кромкорез кожевника. Профиль: кожевенное дело. Назначение: снимать фаску с края ремня. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "edge_beveler",
+        "operations": [
+          "снимать фаску с края ремня"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.leatherwork"
+        ],
+        "uses": [
+          {
+            "action": "edge_beveler",
+            "execution": "manual",
+            "text": "снимать фаску с края ремня"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "leatherwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.leatherwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.leatherwork.junk.edge_burnisher",
+      "name": "Гладилка для уреза кожи",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кожевенное дело",
+      "weight": "0.1 кг",
+      "cost": "1 зм",
+      "description": "Гладилка для уреза кожи. Профиль: кожевенное дело. Назначение: заглаживать урез обработанной кожи. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "edge_burnisher",
+        "operations": [
+          "заглаживать урез обработанной кожи"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.leatherwork"
+        ],
+        "uses": [
+          {
+            "action": "edge_burnisher",
+            "execution": "manual",
+            "text": "заглаживать урез обработанной кожи"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "leatherwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.leatherwork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.leatherwork.junk.stitching_clamp",
+      "name": "Седельный зажим",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Кожевенное дело",
+      "weight": "1.2 кг",
+      "cost": "4 зм",
+      "description": "Седельный зажим. Профиль: кожевенное дело. Назначение: удерживать кожаные детали при ручном шитье. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "stitching_clamp",
+        "operations": [
+          "удерживать кожаные детали при ручном шитье"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.leatherwork"
+        ],
+        "uses": [
+          {
+            "action": "stitching_clamp",
+            "execution": "manual",
+            "text": "удерживать кожаные детали при ручном шитье"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 4.0,
+          "merchantTags": [
+            "leatherwork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.leatherwork"
+          ]
+        }
+      }
+    }
+  ]
+}

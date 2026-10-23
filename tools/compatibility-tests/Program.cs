@@ -11,6 +11,7 @@ class Compatibility
  {
   string source=Path.GetFullPath(args[0]);
   if(args.Length>1 && args[1]=="--world") {WorldChecks.Run(source);return;}
+  if(args.Length>1 && args[1]=="--repairs") {RepairChecks.Run(source);return;}
   var catalog=WorkshopStore.Catalog(File.ReadAllText(Path.Combine(source,"catalog/v3/index.json")),"packages");
   var volumes=catalog.OfType<JObject>().Where(m=>m["collectionVolume"]!=null).ToArray();
   Check(volumes.Length==36,"36 optional volumes");

@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.pottery.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.pottery.junk.potter_wheel",
+      "name": "Гончарный круг ручной",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Гончарное дело",
+      "weight": "12 кг",
+      "cost": "15 зм",
+      "description": "Гончарный круг ручной. Профиль: гончарное дело. Назначение: вращать заготовку при ручном формовании. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "potter_wheel",
+        "operations": [
+          "вращать заготовку при ручном формовании"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.pottery"
+        ],
+        "uses": [
+          {
+            "action": "potter_wheel",
+            "execution": "manual",
+            "text": "вращать заготовку при ручном формовании"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 15.0,
+          "merchantTags": [
+            "pottery"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.pottery"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.pottery.junk.modeling_tool",
+      "name": "Гончарный стек",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Гончарное дело",
+      "weight": "0.03 кг",
+      "cost": "0.5 зм",
+      "description": "Гончарный стек. Профиль: гончарное дело. Назначение: формовать глину небольшим рабочим концом. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "modeling_tool",
+        "operations": [
+          "формовать глину небольшим рабочим концом"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.pottery"
+        ],
+        "uses": [
+          {
+            "action": "modeling_tool",
+            "execution": "manual",
+            "text": "формовать глину небольшим рабочим концом"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.5,
+          "merchantTags": [
+            "pottery"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.pottery"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.pottery.junk.clay_wire",
+      "name": "Гончарная струна",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Гончарное дело",
+      "weight": "0.02 кг",
+      "cost": "0.5 зм",
+      "description": "Гончарная струна. Профиль: гончарное дело. Назначение: отрезать заготовку от глиняной массы. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "clay_wire",
+        "operations": [
+          "отрезать заготовку от глиняной массы"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "profession.pottery"
+        ],
+        "uses": [
+          {
+            "action": "clay_wire",
+            "execution": "manual",
+            "text": "отрезать заготовку от глиняной массы"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.5,
+          "merchantTags": [
+            "pottery"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "tool.pottery"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.pottery.junk.trimming_loop",
+      "name": "Петля для обточки глины",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Гончарное дело",
+      "weight": "0.04 кг",
+      "cost": "1 зм",
+      "description": "Петля для обточки глины. Профиль: гончарное дело. Назначение: снимать излишек подсохшей глины. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "trimming_loop",
+        "operations": [
+          "снимать излишек подсохшей глины"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.pottery"
+        ],
+        "uses": [
+          {
+            "action": "trimming_loop",
+            "execution": "manual",
+            "text": "снимать излишек подсохшей глины"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "pottery"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.pottery"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.pottery.junk.potter_rib",
+      "name": "Гончарная почка",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Гончарное дело",
+      "weight": "0.05 кг",
+      "cost": "0.5 зм",
+      "description": "Гончарная почка. Профиль: гончарное дело. Назначение: заглаживать форму глиняного сосуда. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "potter_rib",
+        "operations": [
+          "заглаживать форму глиняного сосуда"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.pottery"
+        ],
+        "uses": [
+          {
+            "action": "potter_rib",
+            "execution": "manual",
+            "text": "заглаживать форму глиняного сосуда"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.5,
+          "merchantTags": [
+            "pottery"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.pottery"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.pottery.junk.kiln_shelf",
+      "name": "Полка для обжиговой печи",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Гончарное дело",
+      "weight": "2 кг",
+      "cost": "3 зм",
+      "description": "Полка для обжиговой печи. Профиль: гончарное дело. Назначение: поддерживать изделия при подходящем обжиге. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "kiln_shelf",
+        "operations": [
+          "поддерживать изделия при подходящем обжиге"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "ceramic"
+        ],
+        "lootTags": [
+          "profession.pottery"
+        ],
+        "uses": [
+          {
+            "action": "kiln_shelf",
+            "execution": "manual",
+            "text": "поддерживать изделия при подходящем обжиге"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "pottery"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "ceramic"
+          ],
+          "recipeTags": [
+            "tool.pottery"
+          ]
+        }
+      }
+    }
+  ]
+}

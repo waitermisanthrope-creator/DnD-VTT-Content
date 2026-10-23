@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.maintenance.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.maintenance.junk.whetstone",
+      "name": "Точильный камень",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "0.6 кг",
+      "cost": "1 зм",
+      "description": "Точильный камень. Профиль: заточка и обслуживание. Назначение: править режущую кромку без восстановления утраченного металла. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "whetstone",
+        "operations": [
+          "править режущую кромку без восстановления утраченного металла"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "whetstone",
+            "execution": "manual",
+            "text": "править режущую кромку без восстановления утраченного металла"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.maintenance.junk.fine_hone",
+      "name": "Оселок мелкозернистый",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "0.2 кг",
+      "cost": "2 зм",
+      "description": "Оселок мелкозернистый. Профиль: заточка и обслуживание. Назначение: тонко доводить подходящую режущую кромку. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "fine_hone",
+        "operations": [
+          "тонко доводить подходящую режущую кромку"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "fine_hone",
+            "execution": "manual",
+            "text": "тонко доводить подходящую режущую кромку"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.maintenance.junk.razor_strop",
+      "name": "Ремень для правки лезвий",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "0.15 кг",
+      "cost": "1 зм",
+      "description": "Ремень для правки лезвий. Профиль: заточка и обслуживание. Назначение: править подходящее лезвие на кожаном ремне. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "razor_strop",
+        "operations": [
+          "править подходящее лезвие на кожаном ремне"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "leather"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "razor_strop",
+            "execution": "manual",
+            "text": "править подходящее лезвие на кожаном ремне"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "leather"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.maintenance.junk.grinding_wheel",
+      "name": "Ручной точильный круг",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "4 кг",
+      "cost": "8 зм",
+      "description": "Ручной точильный круг. Профиль: заточка и обслуживание. Назначение: затачивать инструмент при ручном вращении. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "grinding_wheel",
+        "operations": [
+          "затачивать инструмент при ручном вращении"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "stone"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "grinding_wheel",
+            "execution": "manual",
+            "text": "затачивать инструмент при ручном вращении"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 8.0,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "stone"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.maintenance.junk.empty_oiler",
+      "name": "Пустая маслёнка для инструмента",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "0.08 кг",
+      "cost": "1 зм",
+      "description": "Пустая маслёнка для инструмента. Профиль: заточка и обслуживание. Назначение: дозировать масло после отдельного заполнения. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус. Сосуд пуст; вещества и жидкости в комплект не входят. Автоматическое наполнение пока не реализовано.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "empty_oiler",
+        "operations": [
+          "дозировать масло после отдельного заполнения"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "copper"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "empty_oiler",
+            "execution": "manual",
+            "text": "дозировать масло после отдельного заполнения"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "copper"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      },
+      "containerSpec": {
+        "capacityMl": 50,
+        "initialContents": [],
+        "execution": "planned"
+      }
+    },
+    {
+      "id": "dnd.items.professional.maintenance.junk.barrel_brush",
+      "name": "Ёрш для чистки ствола",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "0.12 кг",
+      "cost": "1 зм",
+      "description": "Ёрш для чистки ствола. Профиль: заточка и обслуживание. Назначение: чистить подходящий разряженный ствол вручную. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "barrel_brush",
+        "operations": [
+          "чистить подходящий разряженный ствол вручную"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "bristle"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "barrel_brush",
+            "execution": "manual",
+            "text": "чистить подходящий разряженный ствол вручную"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 1.0,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "bristle"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.maintenance.junk.hand_vise",
+      "name": "Ручные тиски",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "0.6 кг",
+      "cost": "4 зм",
+      "description": "Ручные тиски. Профиль: заточка и обслуживание. Назначение: зажимать небольшую деталь при ремонте. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "hand_vise",
+        "operations": [
+          "зажимать небольшую деталь при ремонте"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "hand_vise",
+            "execution": "manual",
+            "text": "зажимать небольшую деталь при ремонте"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 4.0,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.maintenance.junk.polishing_block",
+      "name": "Полировальная колодка",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Заточка и обслуживание",
+      "weight": "0.15 кг",
+      "cost": "0.5 зм",
+      "description": "Полировальная колодка. Профиль: заточка и обслуживание. Назначение: поддерживать абразивную ткань при полировании. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "polishing_block",
+        "operations": [
+          "поддерживать абразивную ткань при полировании"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.maintenance"
+        ],
+        "uses": [
+          {
+            "action": "polishing_block",
+            "execution": "manual",
+            "text": "поддерживать абразивную ткань при полировании"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.5,
+          "merchantTags": [
+            "maintenance"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.maintenance"
+          ]
+        }
+      }
+    }
+  ]
+}

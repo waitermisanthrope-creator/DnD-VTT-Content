@@ -22,7 +22,7 @@ for m in catalog['packages']:
     assert all(p[k]==m[k] for k in ['schemaVersion','id','version','type'])
     assert all(d in package_ids for d in m['dependencies'])
     if m not in ms:
-        before+=p.get('items',[])
+        if not m.get('professionalRepairRevision'):before+=p.get('items',[])
         continue
     assert m['minClientVersionCode']==10034
     if m['type']=='craft':

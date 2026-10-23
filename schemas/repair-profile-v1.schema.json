@@ -1,0 +1,171 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "execution",
+    "target",
+    "damage",
+    "craft",
+    "mending",
+    "preserveInstanceState",
+    "restoreOnlyPhysicalCondition",
+    "preserveUnknownInstanceFields"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "execution": {
+      "const": "planned"
+    },
+    "target": {
+      "type": "object",
+      "required": [
+        "itemId",
+        "packageId",
+        "packageVersion",
+        "packageSha256",
+        "packageUrl"
+      ],
+      "properties": {
+        "itemId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._-]{0,119}$"
+        },
+        "packageId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._-]{0,119}$"
+        },
+        "packageVersion": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+        },
+        "packageSha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "packageUrl": {
+          "type": "string",
+          "pattern": "^https://raw\\.githubusercontent\\.com/waitermisanthrope-creator/DnD-VTT-Content/main/packages/[a-zA-Z0-9._/-]+\\.json$"
+        }
+      }
+    },
+    "damage": {
+      "type": "object",
+      "required": [
+        "kind",
+        "breakCount",
+        "maxBreakDimensionFt",
+        "allOriginalPiecesPresent",
+        "missingMaterial"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "single_break",
+            "single_tear"
+          ]
+        },
+        "breakCount": {
+          "const": 1
+        },
+        "maxBreakDimensionFt": {
+          "const": 1
+        },
+        "allOriginalPiecesPresent": {
+          "const": true
+        },
+        "missingMaterial": {
+          "const": false
+        }
+      }
+    },
+    "craft": {
+      "type": "object",
+      "required": [
+        "recipeStatus",
+        "professionIds",
+        "materialTags",
+        "requiresServiceableTools"
+      ],
+      "properties": {
+        "recipeStatus": {
+          "const": "planned"
+        },
+        "professionIds": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "materialTags": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          }
+        },
+        "requiresServiceableTools": {
+          "const": true
+        }
+      }
+    },
+    "mending": {
+      "type": "object",
+      "required": [
+        "eligibleForDeclaredDamage",
+        "castingMinutes",
+        "maxBreakDimensionFt",
+        "requiresAllOriginalPieces",
+        "replacesMissingMaterial",
+        "restoresMagic",
+        "restoresCharges"
+      ],
+      "properties": {
+        "eligibleForDeclaredDamage": {
+          "const": true
+        },
+        "castingMinutes": {
+          "const": 1
+        },
+        "maxBreakDimensionFt": {
+          "const": 1
+        },
+        "requiresAllOriginalPieces": {
+          "const": true
+        },
+        "replacesMissingMaterial": {
+          "const": false
+        },
+        "restoresMagic": {
+          "const": false
+        },
+        "restoresCharges": {
+          "const": false
+        }
+      }
+    },
+    "preserveInstanceState": {
+      "type": "array",
+      "uniqueItems": true,
+      "minItems": 5,
+      "items": {
+        "enum": [
+          "owner",
+          "provenance",
+          "craftQuality",
+          "remainingCharges",
+          "magicState"
+        ]
+      }
+    },
+    "restoreOnlyPhysicalCondition": {
+      "const": true
+    },
+    "preserveUnknownInstanceFields": {
+      "const": true
+    }
+  }
+}

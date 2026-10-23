@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.weaver.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.weaver.junk.weaving_reed",
+      "name": "Ткацкое бердо",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ткачество и пошив",
+      "weight": "0.5 кг",
+      "cost": "3 зм",
+      "description": "Ткацкое бердо. Профиль: ткачество и пошив. Назначение: уплотнять уточную нить на ручном станке. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "weaving_reed",
+        "operations": [
+          "уплотнять уточную нить на ручном станке"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.weaver"
+        ],
+        "uses": [
+          {
+            "action": "weaving_reed",
+            "execution": "manual",
+            "text": "уплотнять уточную нить на ручном станке"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "weaver"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.weaver"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.weaver.junk.warp_beam",
+      "name": "Навой ручного станка",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ткачество и пошив",
+      "weight": "1.8 кг",
+      "cost": "4 зм",
+      "description": "Навой ручного станка. Профиль: ткачество и пошив. Назначение: удерживать намотанную основу ткани. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "warp_beam",
+        "operations": [
+          "удерживать намотанную основу ткани"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.weaver"
+        ],
+        "uses": [
+          {
+            "action": "warp_beam",
+            "execution": "manual",
+            "text": "удерживать намотанную основу ткани"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 4.0,
+          "merchantTags": [
+            "weaver"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.weaver"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.weaver.junk.weaving_bobbin",
+      "name": "Шпуля ткацкая",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ткачество и пошив",
+      "weight": "0.04 кг",
+      "cost": "0.2 зм",
+      "description": "Шпуля ткацкая. Профиль: ткачество и пошив. Назначение: хранить рабочую нить для челнока. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "weaving_bobbin",
+        "operations": [
+          "хранить рабочую нить для челнока"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.weaver"
+        ],
+        "uses": [
+          {
+            "action": "weaving_bobbin",
+            "execution": "manual",
+            "text": "хранить рабочую нить для челнока"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 0.2,
+          "merchantTags": [
+            "weaver"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.weaver"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.weaver.junk.wool_carder",
+      "name": "Ручная чесалка для шерсти",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ткачество и пошив",
+      "weight": "0.25 кг",
+      "cost": "2 зм",
+      "description": "Ручная чесалка для шерсти. Профиль: ткачество и пошив. Назначение: подготавливать шерсть к прядению. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "wool_carder",
+        "operations": [
+          "подготавливать шерсть к прядению"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.weaver"
+        ],
+        "uses": [
+          {
+            "action": "wool_carder",
+            "execution": "manual",
+            "text": "подготавливать шерсть к прядению"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "weaver"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.weaver"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.weaver.junk.cutting_shears",
+      "name": "Ножницы закройщика",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ткачество и пошив",
+      "weight": "0.3 кг",
+      "cost": "4 зм",
+      "description": "Ножницы закройщика. Профиль: ткачество и пошив. Назначение: кроить несколько слоёв подходящей ткани. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "cutting_shears",
+        "operations": [
+          "кроить несколько слоёв подходящей ткани"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.weaver"
+        ],
+        "uses": [
+          {
+            "action": "cutting_shears",
+            "execution": "manual",
+            "text": "кроить несколько слоёв подходящей ткани"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 4.0,
+          "merchantTags": [
+            "weaver"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.weaver"
+          ]
+        }
+      }
+    }
+  ]
+}

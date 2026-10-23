@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.glasswork.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.glasswork.junk.blowpipe",
+      "name": "Стеклодувная трубка",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Стеклодувное дело",
+      "weight": "1.2 кг",
+      "cost": "8 зм",
+      "description": "Стеклодувная трубка. Профиль: стеклодувное дело. Назначение: набирать и выдувать нагретое стекло. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "blowpipe",
+        "operations": [
+          "набирать и выдувать нагретое стекло"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.glasswork"
+        ],
+        "uses": [
+          {
+            "action": "blowpipe",
+            "execution": "manual",
+            "text": "набирать и выдувать нагретое стекло"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 8.0,
+          "merchantTags": [
+            "glasswork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.glasswork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.glasswork.junk.punty",
+      "name": "Понтия стеклодува",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Стеклодувное дело",
+      "weight": "0.8 кг",
+      "cost": "5 зм",
+      "description": "Понтия стеклодува. Профиль: стеклодувное дело. Назначение: поддерживать стеклянное изделие при формовании. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "punty",
+        "operations": [
+          "поддерживать стеклянное изделие при формовании"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "iron"
+        ],
+        "lootTags": [
+          "profession.glasswork"
+        ],
+        "uses": [
+          {
+            "action": "punty",
+            "execution": "manual",
+            "text": "поддерживать стеклянное изделие при формовании"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 5.0,
+          "merchantTags": [
+            "glasswork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "iron"
+          ],
+          "recipeTags": [
+            "tool.glasswork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.glasswork.junk.glass_shears",
+      "name": "Ножницы стеклодува",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Стеклодувное дело",
+      "weight": "0.35 кг",
+      "cost": "5 зм",
+      "description": "Ножницы стеклодува. Профиль: стеклодувное дело. Назначение: подрезать мягкую нагретую стеклянную массу. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "glass_shears",
+        "operations": [
+          "подрезать мягкую нагретую стеклянную массу"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.glasswork"
+        ],
+        "uses": [
+          {
+            "action": "glass_shears",
+            "execution": "manual",
+            "text": "подрезать мягкую нагретую стеклянную массу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 5.0,
+          "merchantTags": [
+            "glasswork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.glasswork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.glasswork.junk.glass_jacks",
+      "name": "Щипцы стеклодува",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Стеклодувное дело",
+      "weight": "0.4 кг",
+      "cost": "5 зм",
+      "description": "Щипцы стеклодува. Профиль: стеклодувное дело. Назначение: формовать нагретое стекло щипцами. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "glass_jacks",
+        "operations": [
+          "формовать нагретое стекло щипцами"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.glasswork"
+        ],
+        "uses": [
+          {
+            "action": "glass_jacks",
+            "execution": "manual",
+            "text": "формовать нагретое стекло щипцами"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 5.0,
+          "merchantTags": [
+            "glasswork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.glasswork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.glasswork.junk.glass_block",
+      "name": "Мокрая формовочная колодка",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Стеклодувное дело",
+      "weight": "0.5 кг",
+      "cost": "2 зм",
+      "description": "Мокрая формовочная колодка. Профиль: стеклодувное дело. Назначение: обкатывать нагретую стеклянную заготовку при ручной работе. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "glass_block",
+        "operations": [
+          "обкатывать нагретую стеклянную заготовку при ручной работе"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.glasswork"
+        ],
+        "uses": [
+          {
+            "action": "glass_block",
+            "execution": "manual",
+            "text": "обкатывать нагретую стеклянную заготовку при ручной работе"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "glasswork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.glasswork"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.glasswork.junk.bottle_mold",
+      "name": "Форма для стеклянного флакона",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Стеклодувное дело",
+      "weight": "0.7 кг",
+      "cost": "4 зм",
+      "description": "Форма для стеклянного флакона. Профиль: стеклодувное дело. Назначение: задавать наружную форму флакона. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "bottle_mold",
+        "operations": [
+          "задавать наружную форму флакона"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "wood"
+        ],
+        "lootTags": [
+          "profession.glasswork"
+        ],
+        "uses": [
+          {
+            "action": "bottle_mold",
+            "execution": "manual",
+            "text": "задавать наружную форму флакона"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 4.0,
+          "merchantTags": [
+            "glasswork"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "wood"
+          ],
+          "recipeTags": [
+            "tool.glasswork"
+          ]
+        }
+      }
+    }
+  ]
+}

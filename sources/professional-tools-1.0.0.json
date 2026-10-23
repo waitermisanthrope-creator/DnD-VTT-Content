@@ -1,0 +1,1000 @@
+{
+  "schemaVersion": 1,
+  "revision": "1.0.0",
+  "newToolCount": 56,
+  "reusedToolCount": 6,
+  "tools": [
+    {
+      "itemId": "dnd.items.professional.smith.junk.forge_hammer",
+      "name": "Кузнечный молот",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "forge_hammer",
+        "operations": [
+          "ковать и осаживать нагретую металлическую заготовку"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.smith.junk.cross_peen",
+      "name": "Кузнечный молот с поперечным бойком",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "cross_peen",
+        "operations": [
+          "вытягивать металл поперечным бойком"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.smith.junk.anvil",
+      "name": "Кузнечная наковальня",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "anvil",
+        "operations": [
+          "поддерживать заготовку при ковке"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.world.smithy.junk.a705b3d378d6",
+      "name": "Кузнечные клещи",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "forge_tongs",
+        "operations": [
+          "удерживать горячую заготовку"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.smith.junk.forge_poker",
+      "name": "Кузнечная кочерга",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "forge_poker",
+        "operations": [
+          "распределять уголь в горне"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.smith.junk.quench_bath",
+      "name": "Закалочная ванна малая",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "quench_bath",
+        "operations": [
+          "погружать заготовку в подходящую закалочную среду"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.smith.junk.twist_bar",
+      "name": "Кузнечный вороток",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "twist_bar",
+        "operations": [
+          "скручивать нагретую полосу металла"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.smith.junk.straightening_plate",
+      "name": "Правильная плита кузнеца",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "smith",
+        "associatedProficiencyId": "p_tool_smith",
+        "role": "straightening_plate",
+        "operations": [
+          "проверять и править плоскость поковки"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.leatherwork.junk.fleshing_knife",
+      "name": "Нож для мездрения шкур",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "fleshing_knife",
+        "operations": [
+          "снимать мездру двуручным тянущим резом на колоде"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.leatherwork.junk.fleshing_beam",
+      "name": "Колодка мездрильная",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "fleshing_beam",
+        "operations": [
+          "подпирать шкуру при мездрении"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.leatherwork.junk.skiving_knife",
+      "name": "Нож для шерфования кожи",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "skiving_knife",
+        "operations": [
+          "утончать край кожи перед соединением"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.leatherwork.junk.edge_beveler",
+      "name": "Кромкорез кожевника",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "edge_beveler",
+        "operations": [
+          "снимать фаску с края ремня"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.leatherwork.junk.edge_burnisher",
+      "name": "Гладилка для уреза кожи",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "edge_burnisher",
+        "operations": [
+          "заглаживать урез обработанной кожи"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.leatherwork.junk.stitching_clamp",
+      "name": "Седельный зажим",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "stitching_clamp",
+        "operations": [
+          "удерживать кожаные детали при ручном шитье"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.world.tailor.junk.589106ed441e",
+      "name": "Скребок мездрильный",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "fleshing_scraper",
+        "operations": [
+          "соскабливать остатки ткани со шкуры"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.world.tailor.junk.abdedd337121",
+      "name": "Шило",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "leatherwork",
+        "associatedProficiencyId": "p_tool_leatherworker",
+        "role": "leather_awl",
+        "operations": [
+          "прокалывать кожу под шов"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.alchemy.junk.empty_vessel",
+      "name": "Пустой алхимический сосуд",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "empty_vessel",
+        "operations": [
+          "принимать до 250 мл вещества; содержимое добавляется отдельно"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.alchemy.junk.empty_flask",
+      "name": "Пустая алхимическая колба",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "empty_flask",
+        "operations": [
+          "удерживать до 500 мл смеси в ручной работе"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.alchemy.junk.empty_vial",
+      "name": "Пустая узкогорлая склянка",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "empty_vial",
+        "operations": [
+          "хранить до 50 мл отдельного образца"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.alchemy.junk.stoppered_bottle",
+      "name": "Пустой флакон с притёртой пробкой",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "stoppered_bottle",
+        "operations": [
+          "закрывать до 100 мл отдельного образца"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.alchemy.junk.evaporating_dish",
+      "name": "Термостойкая алхимическая чашка",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "evaporating_dish",
+        "operations": [
+          "выпаривать небольшую порцию раствора"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.alchemy.junk.stirring_rod",
+      "name": "Стеклянная мешалка алхимика",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "stirring_rod",
+        "operations": [
+          "перемешивать совместимый состав вручную"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.world.smithy.junk.3fbd3f4db5d5",
+      "name": "Тигель графитовый",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "crucible",
+        "operations": [
+          "удерживать вещество при подходящем нагреве"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.alchemy.junk.retort_stand",
+      "name": "Штатив для алхимических сосудов",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "alchemy",
+        "associatedProficiencyId": "p_tool_alchemist",
+        "role": "retort_stand",
+        "operations": [
+          "закреплять подходящую посуду при работе"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.jeweler.junk.jeweler_hammer",
+      "name": "Ювелирный молоток",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "jeweler_hammer",
+        "operations": [
+          "наносить точные небольшие удары по металлу"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.jeweler.junk.ring_mandrel",
+      "name": "Ригель для колец",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "ring_mandrel",
+        "operations": [
+          "формовать и проверять кольцо"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.jeweler.junk.needle_file",
+      "name": "Ювелирный надфиль",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "needle_file",
+        "operations": [
+          "опиливать мелкие детали"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.jeweler.junk.fine_tweezers",
+      "name": "Пинцет ювелира",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "fine_tweezers",
+        "operations": [
+          "удерживать маленький камень или деталь"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.jeweler.junk.engraver",
+      "name": "Штихель ювелира",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "engraver",
+        "operations": [
+          "прорезать тонкую линию на металле"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.jeweler.junk.stone_burnisher",
+      "name": "Гладилка для закрепки камней",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "stone_burnisher",
+        "operations": [
+          "заглаживать металл оправы вокруг камня"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.woodwork.junk.adze",
+      "name": "Тесло плотника",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "adze",
+        "operations": [
+          "стёсывать поверхность древесины поперечным лезвием"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.woodwork.junk.gouge",
+      "name": "Полукруглая стамеска",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "gouge",
+        "operations": [
+          "выбирать округлые углубления в древесине"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.woodwork.junk.hand_drill",
+      "name": "Ручная дрель с маховичком",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "hand_drill",
+        "operations": [
+          "вращать небольшое сверло вручную"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.woodwork.junk.joint_template",
+      "name": "Шаблон для шипового соединения",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "joint_template",
+        "operations": [
+          "размечать сопрягаемые элементы деревянного соединения"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.woodwork.junk.dowel_plate",
+      "name": "Доска для изготовления шкантов",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "dowel_plate",
+        "operations": [
+          "калибровать небольшие деревянные шканты"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.world.carpenter.junk.b7c555b5026c",
+      "name": "Стамеска",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "woodwork",
+        "associatedProficiencyId": "p_tool_carpenter",
+        "role": "chisel",
+        "operations": [
+          "выбирать древесину плоским лезвием"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.weaver.junk.weaving_reed",
+      "name": "Ткацкое бердо",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "weaving_reed",
+        "operations": [
+          "уплотнять уточную нить на ручном станке"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.weaver.junk.warp_beam",
+      "name": "Навой ручного станка",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "warp_beam",
+        "operations": [
+          "удерживать намотанную основу ткани"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.weaver.junk.weaving_bobbin",
+      "name": "Шпуля ткацкая",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "weaving_bobbin",
+        "operations": [
+          "хранить рабочую нить для челнока"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.weaver.junk.wool_carder",
+      "name": "Ручная чесалка для шерсти",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "wool_carder",
+        "operations": [
+          "подготавливать шерсть к прядению"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.weaver.junk.cutting_shears",
+      "name": "Ножницы закройщика",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "cutting_shears",
+        "operations": [
+          "кроить несколько слоёв подходящей ткани"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.world.tailor.junk.fd0f8d0dfdd9",
+      "name": "Веретено",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "weaver",
+        "associatedProficiencyId": "p_tool_weaver",
+        "role": "spindle",
+        "operations": [
+          "скручивать подготовленное волокно в нить"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.glasswork.junk.blowpipe",
+      "name": "Стеклодувная трубка",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "blowpipe",
+        "operations": [
+          "набирать и выдувать нагретое стекло"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.glasswork.junk.punty",
+      "name": "Понтия стеклодува",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "punty",
+        "operations": [
+          "поддерживать стеклянное изделие при формовании"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.glasswork.junk.glass_shears",
+      "name": "Ножницы стеклодува",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "glass_shears",
+        "operations": [
+          "подрезать мягкую нагретую стеклянную массу"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.glasswork.junk.glass_jacks",
+      "name": "Щипцы стеклодува",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "glass_jacks",
+        "operations": [
+          "формовать нагретое стекло щипцами"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.glasswork.junk.glass_block",
+      "name": "Мокрая формовочная колодка",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "glass_block",
+        "operations": [
+          "обкатывать нагретую стеклянную заготовку при ручной работе"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.glasswork.junk.bottle_mold",
+      "name": "Форма для стеклянного флакона",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "glasswork",
+        "associatedProficiencyId": "p_tool_glassblower",
+        "role": "bottle_mold",
+        "operations": [
+          "задавать наружную форму флакона"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.pottery.junk.potter_wheel",
+      "name": "Гончарный круг ручной",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "potter_wheel",
+        "operations": [
+          "вращать заготовку при ручном формовании"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.pottery.junk.modeling_tool",
+      "name": "Гончарный стек",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "modeling_tool",
+        "operations": [
+          "формовать глину небольшим рабочим концом"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.pottery.junk.clay_wire",
+      "name": "Гончарная струна",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "clay_wire",
+        "operations": [
+          "отрезать заготовку от глиняной массы"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.pottery.junk.trimming_loop",
+      "name": "Петля для обточки глины",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "trimming_loop",
+        "operations": [
+          "снимать излишек подсохшей глины"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.pottery.junk.potter_rib",
+      "name": "Гончарная почка",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "potter_rib",
+        "operations": [
+          "заглаживать форму глиняного сосуда"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.pottery.junk.kiln_shelf",
+      "name": "Полка для обжиговой печи",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "pottery",
+        "associatedProficiencyId": "p_tool_potter",
+        "role": "kiln_shelf",
+        "operations": [
+          "поддерживать изделия при подходящем обжиге"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.whetstone",
+      "name": "Точильный камень",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "whetstone",
+        "operations": [
+          "править режущую кромку без восстановления утраченного металла"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.fine_hone",
+      "name": "Оселок мелкозернистый",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "fine_hone",
+        "operations": [
+          "тонко доводить подходящую режущую кромку"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.razor_strop",
+      "name": "Ремень для правки лезвий",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "razor_strop",
+        "operations": [
+          "править подходящее лезвие на кожаном ремне"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.grinding_wheel",
+      "name": "Ручной точильный круг",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "grinding_wheel",
+        "operations": [
+          "затачивать инструмент при ручном вращении"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.empty_oiler",
+      "name": "Пустая маслёнка для инструмента",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "empty_oiler",
+        "operations": [
+          "дозировать масло после отдельного заполнения"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.barrel_brush",
+      "name": "Ёрш для чистки ствола",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "barrel_brush",
+        "operations": [
+          "чистить подходящий разряженный ствол вручную"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.hand_vise",
+      "name": "Ручные тиски",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "hand_vise",
+        "operations": [
+          "зажимать небольшую деталь при ремонте"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    },
+    {
+      "itemId": "dnd.items.professional.maintenance.junk.polishing_block",
+      "name": "Полировальная колодка",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "maintenance",
+        "associatedProficiencyId": null,
+        "role": "polishing_block",
+        "operations": [
+          "поддерживать абразивную ткань при полировании"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.professional.jeweler.junk",
+  "version": "1.0.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.professional.jeweler.junk.jeweler_hammer",
+      "name": "Ювелирный молоток",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ювелирное дело",
+      "weight": "0.12 кг",
+      "cost": "4 зм",
+      "description": "Ювелирный молоток. Профиль: ювелирное дело. Назначение: наносить точные небольшие удары по металлу. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "jeweler_hammer",
+        "operations": [
+          "наносить точные небольшие удары по металлу"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.jeweler"
+        ],
+        "uses": [
+          {
+            "action": "jeweler_hammer",
+            "execution": "manual",
+            "text": "наносить точные небольшие удары по металлу"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 4.0,
+          "merchantTags": [
+            "jeweler"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.jeweler"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.jeweler.junk.ring_mandrel",
+      "name": "Ригель для колец",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ювелирное дело",
+      "weight": "0.35 кг",
+      "cost": "5 зм",
+      "description": "Ригель для колец. Профиль: ювелирное дело. Назначение: формовать и проверять кольцо. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "ring_mandrel",
+        "operations": [
+          "формовать и проверять кольцо"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.jeweler"
+        ],
+        "uses": [
+          {
+            "action": "ring_mandrel",
+            "execution": "manual",
+            "text": "формовать и проверять кольцо"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 5.0,
+          "merchantTags": [
+            "jeweler"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.jeweler"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.jeweler.junk.needle_file",
+      "name": "Ювелирный надфиль",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ювелирное дело",
+      "weight": "0.03 кг",
+      "cost": "2 зм",
+      "description": "Ювелирный надфиль. Профиль: ювелирное дело. Назначение: опиливать мелкие детали. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "needle_file",
+        "operations": [
+          "опиливать мелкие детали"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.jeweler"
+        ],
+        "uses": [
+          {
+            "action": "needle_file",
+            "execution": "manual",
+            "text": "опиливать мелкие детали"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "jeweler"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.jeweler"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.jeweler.junk.fine_tweezers",
+      "name": "Пинцет ювелира",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ювелирное дело",
+      "weight": "0.025 кг",
+      "cost": "2 зм",
+      "description": "Пинцет ювелира. Профиль: ювелирное дело. Назначение: удерживать маленький камень или деталь. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "fine_tweezers",
+        "operations": [
+          "удерживать маленький камень или деталь"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.jeweler"
+        ],
+        "uses": [
+          {
+            "action": "fine_tweezers",
+            "execution": "manual",
+            "text": "удерживать маленький камень или деталь"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 2.0,
+          "merchantTags": [
+            "jeweler"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.jeweler"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.jeweler.junk.engraver",
+      "name": "Штихель ювелира",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ювелирное дело",
+      "weight": "0.04 кг",
+      "cost": "3 зм",
+      "description": "Штихель ювелира. Профиль: ювелирное дело. Назначение: прорезать тонкую линию на металле. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "engraver",
+        "operations": [
+          "прорезать тонкую линию на металле"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.jeweler"
+        ],
+        "uses": [
+          {
+            "action": "engraver",
+            "execution": "manual",
+            "text": "прорезать тонкую линию на металле"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "jeweler"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.jeweler"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dnd.items.professional.jeweler.junk.stone_burnisher",
+      "name": "Гладилка для закрепки камней",
+      "inventoryCategory": "junk",
+      "category": "Профессиональный инструмент: Ювелирное дело",
+      "weight": "0.06 кг",
+      "cost": "3 зм",
+      "description": "Гладилка для закрепки камней. Профиль: ювелирное дело. Назначение: заглаживать металл оправы вокруг камня. Профессиональное применение разрешается мастером; инструмент не выдаёт владение или автоматический бонус.",
+      "professionalTool": {
+        "schemaVersion": 1,
+        "professionId": "jeweler",
+        "associatedProficiencyId": "p_tool_jeweler",
+        "role": "stone_burnisher",
+        "operations": [
+          "заглаживать металл оправы вокруг камня"
+        ],
+        "execution": "manual",
+        "grantsProficiency": false,
+        "requiresServiceableTool": true
+      },
+      "itemTraits": {
+        "schemaVersion": 1,
+        "materialTags": [
+          "steel"
+        ],
+        "lootTags": [
+          "profession.jeweler"
+        ],
+        "uses": [
+          {
+            "action": "stone_burnisher",
+            "execution": "manual",
+            "text": "заглаживать металл оправы вокруг камня"
+          }
+        ],
+        "stateDefaults": {
+          "condition": "intact"
+        },
+        "trade": {
+          "basePriceGp": 3.0,
+          "merchantTags": [
+            "jeweler"
+          ]
+        },
+        "processing": {
+          "execution": "planned",
+          "materialTags": [
+            "steel"
+          ],
+          "recipeTags": [
+            "tool.jeweler"
+          ]
+        }
+      }
+    }
+  ]
+}
