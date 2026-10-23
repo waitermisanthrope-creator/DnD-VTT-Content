@@ -253,7 +253,7 @@
 Каталог v3: 224 записи; 36 томов, 3291 предмет. См. `docs/WORKSHOP_ITEM_VOLUMES.md`.
 
 - `.gitignore` — 32 B; совместимая опциональная поставка предметов.
-- `docs/WORKSHOP_ITEM_VOLUMES.md` — 7155 B; совместимая опциональная поставка предметов.
+- `docs/WORKSHOP_ITEM_VOLUMES.md` — 8422 B; совместимая опциональная поставка предметов.
 - `sources/workshop-volumes-1.1.0.json` — 577111 B; совместимая опциональная поставка предметов.
 - `tools/build_workshop_volumes.py` — 11004 B; совместимая опциональная поставка предметов.
 - `tools/verify_workshop_volumes.py` — 3101 B; совместимая опциональная поставка предметов.
