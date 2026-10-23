@@ -29,3 +29,5 @@
 | `dnd.collections.junk.part01` | 2034 | `18ec6163a243625387d0ceb25e3abeafc1e81a7b63e7806fbc26e0648c5fc250` |
 | `dnd.collections.junk.part02` | 426 | `6343ef1626bc542a25450c6bdda4c35c1daf061a74d033d77c5c4caa8d143746` |
 | `dnd.collections.junk` | 223 | `6c34e054311bafd7faf1336cfcfc84c6283ef8142718f9e1cf00f707efba546c` |
+
+Клиент опубликован: [Unity1.00.35 для Android/Windows](https://github.com/waitermisanthrope-creator/DnD-VTT/releases/tag/unity-v1.00.35). Все три CI-задачи кандидата39998637385 и парный publisher40002043897 завершились SUCCESS; оба публичных установщика независимо скачаны и сверены по SHA-256/размеру. На старом кеше после обновления приложения нажать «Обновить каталоги». Физическая проверка телефона здесь не выполнялась.
