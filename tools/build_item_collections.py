@@ -12,6 +12,7 @@ def write(path, value):
 
 def main():
     catalog = load('catalog/v3/index.json')
+    catalog['packages'] = [m for m in catalog['packages'] if not m.get('collectionVolume') or m['collectionVolume'] == 1]
     packs = {c: load(f'packages/dnd.items.{c}.json') for c in ['weapons', 'armor', 'materials', 'consumables', 'junk']}
     for c, p in packs.items():
         p['version'] = '2.0.0'

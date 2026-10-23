@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume05.materials",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume05.materials.herb.8.1",
+      "name": "Лаванда — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: лаванда. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.8.2",
+      "name": "Лаванда — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: лаванда. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.8.3",
+      "name": "Лаванда — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: лаванда. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.8.4",
+      "name": "Лаванда — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: лаванда. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.8.5",
+      "name": "Лаванда — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: лаванда. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.9.0",
+      "name": "Календула — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: календула. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.9.1",
+      "name": "Календула — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: календула. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.9.2",
+      "name": "Календула — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: календула. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.9.3",
+      "name": "Календула — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: календула. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.9.4",
+      "name": "Календула — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: календула. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.9.5",
+      "name": "Календула — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: календула. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.10.0",
+      "name": "Зверобой — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: зверобой. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.10.1",
+      "name": "Зверобой — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: зверобой. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.10.2",
+      "name": "Зверобой — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: зверобой. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.10.3",
+      "name": "Зверобой — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: зверобой. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.10.4",
+      "name": "Зверобой — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: зверобой. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.10.5",
+      "name": "Зверобой — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: зверобой. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.11.0",
+      "name": "Вереск — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: вереск. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.11.1",
+      "name": "Вереск — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: вереск. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.11.2",
+      "name": "Вереск — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: вереск. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.11.3",
+      "name": "Вереск — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: вереск. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.11.4",
+      "name": "Вереск — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: вереск. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.11.5",
+      "name": "Вереск — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: вереск. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.12.0",
+      "name": "Папоротник — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: папоротник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.12.1",
+      "name": "Папоротник — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: папоротник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.12.2",
+      "name": "Папоротник — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: папоротник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.12.3",
+      "name": "Папоротник — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: папоротник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.12.4",
+      "name": "Папоротник — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: папоротник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.12.5",
+      "name": "Папоротник — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: папоротник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.13.0",
+      "name": "Клевер — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: клевер. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.13.1",
+      "name": "Клевер — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: клевер. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.13.2",
+      "name": "Клевер — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: клевер. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.13.3",
+      "name": "Клевер — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: клевер. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.13.4",
+      "name": "Клевер — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: клевер. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.13.5",
+      "name": "Клевер — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: клевер. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.14.0",
+      "name": "Подорожник — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: подорожник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.14.1",
+      "name": "Подорожник — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: подорожник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.14.2",
+      "name": "Подорожник — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: подорожник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.14.3",
+      "name": "Подорожник — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: подорожник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.14.4",
+      "name": "Подорожник — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: подорожник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.14.5",
+      "name": "Подорожник — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: подорожник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.15.0",
+      "name": "Дягиль — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: дягиль. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.15.1",
+      "name": "Дягиль — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: дягиль. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.15.2",
+      "name": "Дягиль — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: дягиль. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.15.3",
+      "name": "Дягиль — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: дягиль. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.15.4",
+      "name": "Дягиль — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: дягиль. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.15.5",
+      "name": "Дягиль — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: дягиль. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.16.0",
+      "name": "Валериана — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: валериана. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.16.1",
+      "name": "Валериана — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: валериана. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.16.2",
+      "name": "Валериана — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: валериана. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.16.3",
+      "name": "Валериана — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: валериана. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.16.4",
+      "name": "Валериана — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: валериана. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.16.5",
+      "name": "Валериана — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: валериана. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.17.0",
+      "name": "Одуванчик — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: одуванчик. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.17.1",
+      "name": "Одуванчик — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: одуванчик. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.17.2",
+      "name": "Одуванчик — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: одуванчик. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.17.3",
+      "name": "Одуванчик — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: одуванчик. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.17.4",
+      "name": "Одуванчик — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: одуванчик. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.17.5",
+      "name": "Одуванчик — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: одуванчик. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.18.0",
+      "name": "Лопух — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: лопух. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.18.1",
+      "name": "Лопух — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: лопух. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.18.2",
+      "name": "Лопух — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: лопух. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.18.3",
+      "name": "Лопух — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: лопух. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.18.4",
+      "name": "Лопух — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: лопух. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.18.5",
+      "name": "Лопух — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: лопух. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.19.0",
+      "name": "Аир — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: аир. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.19.1",
+      "name": "Аир — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: аир. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.19.2",
+      "name": "Аир — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: аир. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.19.3",
+      "name": "Аир — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: аир. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.19.4",
+      "name": "Аир — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: аир. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.19.5",
+      "name": "Аир — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: аир. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.20.0",
+      "name": "Солодка — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: солодка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.20.1",
+      "name": "Солодка — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: солодка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.20.2",
+      "name": "Солодка — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: солодка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.20.3",
+      "name": "Солодка — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: солодка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.20.4",
+      "name": "Солодка — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: солодка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.20.5",
+      "name": "Солодка — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: солодка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.21.0",
+      "name": "Кипрей — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: кипрей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.21.1",
+      "name": "Кипрей — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: кипрей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.21.2",
+      "name": "Кипрей — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: кипрей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.21.3",
+      "name": "Кипрей — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: кипрей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.21.4",
+      "name": "Кипрей — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: кипрей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.21.5",
+      "name": "Кипрей — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: кипрей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.22.0",
+      "name": "Мелисса — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: мелисса. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.22.1",
+      "name": "Мелисса — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: мелисса. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.22.2",
+      "name": "Мелисса — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: мелисса. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.22.3",
+      "name": "Мелисса — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: мелисса. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.22.4",
+      "name": "Мелисса — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: мелисса. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.22.5",
+      "name": "Мелисса — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: мелисса. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.23.0",
+      "name": "Душица — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: душица. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.23.1",
+      "name": "Душица — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: душица. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.23.2",
+      "name": "Душица — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: душица. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.23.3",
+      "name": "Душица — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: душица. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.23.4",
+      "name": "Душица — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: душица. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.23.5",
+      "name": "Душица — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: душица. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.24.0",
+      "name": "Пижма — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: пижма. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.24.1",
+      "name": "Пижма — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: пижма. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.24.2",
+      "name": "Пижма — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: пижма. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.24.3",
+      "name": "Пижма — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: пижма. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume05.materials.herb.24.4",
+      "name": "Пижма — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: пижма. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    }
+  ]
+}

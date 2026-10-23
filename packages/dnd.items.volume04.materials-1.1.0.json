@@ -1,0 +1,859 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume04.materials",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume04.materials.resource_23_5",
+      "name": "Гематит — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «гематит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_23_5"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_23_6",
+      "name": "Гематит — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «гематит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_23_6"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_23_7",
+      "name": "Гематит — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «гематит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_23_7"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_0",
+      "name": "Пирит — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_0"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_1",
+      "name": "Пирит — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_1"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_2",
+      "name": "Пирит — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_2"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_3",
+      "name": "Пирит — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_3"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_4",
+      "name": "Пирит — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_4"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_5",
+      "name": "Пирит — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_5"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_6",
+      "name": "Пирит — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_6"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_24_7",
+      "name": "Пирит — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «пирит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_24_7"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_0",
+      "name": "Базальт — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_0"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_1",
+      "name": "Базальт — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_1"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_2",
+      "name": "Базальт — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_2"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_3",
+      "name": "Базальт — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_3"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_4",
+      "name": "Базальт — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_4"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_5",
+      "name": "Базальт — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_5"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_6",
+      "name": "Базальт — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_6"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_25_7",
+      "name": "Базальт — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «базальт». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_25_7"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_0",
+      "name": "Слюда — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_0"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_1",
+      "name": "Слюда — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_1"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_2",
+      "name": "Слюда — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_2"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_3",
+      "name": "Слюда — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_3"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_4",
+      "name": "Слюда — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_4"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_5",
+      "name": "Слюда — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_5"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_6",
+      "name": "Слюда — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_6"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_26_7",
+      "name": "Слюда — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «слюда». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_26_7"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_0",
+      "name": "Тальк — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_0"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_1",
+      "name": "Тальк — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_1"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_2",
+      "name": "Тальк — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_2"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_3",
+      "name": "Тальк — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_3"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_4",
+      "name": "Тальк — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_4"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_5",
+      "name": "Тальк — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_5"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_6",
+      "name": "Тальк — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_6"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_27_7",
+      "name": "Тальк — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «тальк». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_27_7"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_0",
+      "name": "Кремень — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_0"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_1",
+      "name": "Кремень — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_1"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_2",
+      "name": "Кремень — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_2"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_3",
+      "name": "Кремень — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_3"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_4",
+      "name": "Кремень — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_4"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_5",
+      "name": "Кремень — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_5"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_6",
+      "name": "Кремень — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_6"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_28_7",
+      "name": "Кремень — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «кремень». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_28_7"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_0",
+      "name": "Селитра — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_0"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_1",
+      "name": "Селитра — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_1"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_2",
+      "name": "Селитра — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_2"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_3",
+      "name": "Селитра — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_3"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_4",
+      "name": "Селитра — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_4"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_5",
+      "name": "Селитра — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_5"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_6",
+      "name": "Селитра — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_6"
+    },
+    {
+      "id": "dnd.items.volume04.materials.resource_29_7",
+      "name": "Селитра — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «селитра». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_29_7"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.0.0",
+      "name": "Мята — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: мята. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.0.1",
+      "name": "Мята — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: мята. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.0.2",
+      "name": "Мята — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: мята. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.0.3",
+      "name": "Мята — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: мята. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.0.4",
+      "name": "Мята — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: мята. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.0.5",
+      "name": "Мята — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: мята. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.1.0",
+      "name": "Шалфей — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: шалфей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.1.1",
+      "name": "Шалфей — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: шалфей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.1.2",
+      "name": "Шалфей — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: шалфей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.1.3",
+      "name": "Шалфей — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: шалфей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.1.4",
+      "name": "Шалфей — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: шалфей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.1.5",
+      "name": "Шалфей — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: шалфей. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.2.0",
+      "name": "Ромашка — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: ромашка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.2.1",
+      "name": "Ромашка — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: ромашка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.2.2",
+      "name": "Ромашка — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: ромашка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.2.3",
+      "name": "Ромашка — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: ромашка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.2.4",
+      "name": "Ромашка — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: ромашка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.2.5",
+      "name": "Ромашка — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: ромашка. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.3.0",
+      "name": "Полынь — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: полынь. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.3.1",
+      "name": "Полынь — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: полынь. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.3.2",
+      "name": "Полынь — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: полынь. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.3.3",
+      "name": "Полынь — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: полынь. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.3.4",
+      "name": "Полынь — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: полынь. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.3.5",
+      "name": "Полынь — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: полынь. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.4.0",
+      "name": "Крапива — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: крапива. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.4.1",
+      "name": "Крапива — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: крапива. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.4.2",
+      "name": "Крапива — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: крапива. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.4.3",
+      "name": "Крапива — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: крапива. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.4.4",
+      "name": "Крапива — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: крапива. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.4.5",
+      "name": "Крапива — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: крапива. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.5.0",
+      "name": "Чабрец — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: чабрец. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.5.1",
+      "name": "Чабрец — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: чабрец. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.5.2",
+      "name": "Чабрец — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: чабрец. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.5.3",
+      "name": "Чабрец — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: чабрец. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.5.4",
+      "name": "Чабрец — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: чабрец. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.5.5",
+      "name": "Чабрец — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: чабрец. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.6.0",
+      "name": "Можжевельник — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: можжевельник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.6.1",
+      "name": "Можжевельник — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: можжевельник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.6.2",
+      "name": "Можжевельник — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: можжевельник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.6.3",
+      "name": "Можжевельник — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: можжевельник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.6.4",
+      "name": "Можжевельник — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: можжевельник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.6.5",
+      "name": "Можжевельник — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: можжевельник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.7.0",
+      "name": "Тысячелистник — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: тысячелистник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.7.1",
+      "name": "Тысячелистник — порошок",
+      "weight": "0.1 кг",
+      "description": "Порошок: тысячелистник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.7.2",
+      "name": "Тысячелистник — настой",
+      "weight": "0.1 кг",
+      "description": "Настой: тысячелистник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.7.3",
+      "name": "Тысячелистник — масло",
+      "weight": "0.1 кг",
+      "description": "Масло: тысячелистник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.7.4",
+      "name": "Тысячелистник — экстракт",
+      "weight": "0.1 кг",
+      "description": "Экстракт: тысячелистник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.7.5",
+      "name": "Тысячелистник — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: тысячелистник. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume04.materials.herb.8.0",
+      "name": "Лаванда — сушёный сбор",
+      "weight": "0.1 кг",
+      "description": "Сушёный сбор: лаванда. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    }
+  ]
+}

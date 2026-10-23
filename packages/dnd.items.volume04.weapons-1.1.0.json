@@ -1,0 +1,3012 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume04.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume04.weapons.forge.12.mithral.2",
+      "name": "Длинный меч — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.12.mithral.3",
+      "name": "Длинный меч — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.steel.0",
+      "name": "Рапира — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.steel.1",
+      "name": "Рапира — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.steel.2",
+      "name": "Рапира — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.steel.3",
+      "name": "Рапира — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.iron.0",
+      "name": "Рапира — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.iron.1",
+      "name": "Рапира — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.iron.2",
+      "name": "Рапира — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.iron.3",
+      "name": "Рапира — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.bronze.0",
+      "name": "Рапира — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.bronze.1",
+      "name": "Рапира — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.bronze.2",
+      "name": "Рапира — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.bronze.3",
+      "name": "Рапира — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.silver.0",
+      "name": "Рапира — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.silver.1",
+      "name": "Рапира — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.silver.2",
+      "name": "Рапира — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.silver.3",
+      "name": "Рапира — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.mithral.0",
+      "name": "Рапира — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.mithral.1",
+      "name": "Рапира — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.mithral.2",
+      "name": "Рапира — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.13.mithral.3",
+      "name": "Рапира — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.steel.0",
+      "name": "Скимитар — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.steel.1",
+      "name": "Скимитар — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.steel.2",
+      "name": "Скимитар — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.steel.3",
+      "name": "Скимитар — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.iron.0",
+      "name": "Скимитар — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.iron.1",
+      "name": "Скимитар — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.iron.2",
+      "name": "Скимитар — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.iron.3",
+      "name": "Скимитар — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.bronze.0",
+      "name": "Скимитар — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.bronze.1",
+      "name": "Скимитар — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.bronze.2",
+      "name": "Скимитар — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.bronze.3",
+      "name": "Скимитар — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.silver.0",
+      "name": "Скимитар — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.silver.1",
+      "name": "Скимитар — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.silver.2",
+      "name": "Скимитар — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.silver.3",
+      "name": "Скимитар — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.mithral.0",
+      "name": "Скимитар — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.mithral.1",
+      "name": "Скимитар — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.mithral.2",
+      "name": "Скимитар — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.14.mithral.3",
+      "name": "Скимитар — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скимитар. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.steel.0",
+      "name": "Короткий меч — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.steel.1",
+      "name": "Короткий меч — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.steel.2",
+      "name": "Короткий меч — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.steel.3",
+      "name": "Короткий меч — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.iron.0",
+      "name": "Короткий меч — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.iron.1",
+      "name": "Короткий меч — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.iron.2",
+      "name": "Короткий меч — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.iron.3",
+      "name": "Короткий меч — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.bronze.0",
+      "name": "Короткий меч — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.bronze.1",
+      "name": "Короткий меч — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.bronze.2",
+      "name": "Короткий меч — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.bronze.3",
+      "name": "Короткий меч — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.silver.0",
+      "name": "Короткий меч — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.silver.1",
+      "name": "Короткий меч — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.silver.2",
+      "name": "Короткий меч — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.silver.3",
+      "name": "Короткий меч — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.mithral.0",
+      "name": "Короткий меч — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.mithral.1",
+      "name": "Короткий меч — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.mithral.2",
+      "name": "Короткий меч — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.15.mithral.3",
+      "name": "Короткий меч — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_shortsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий меч. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.steel.0",
+      "name": "Боевой топор — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.steel.1",
+      "name": "Боевой топор — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.steel.2",
+      "name": "Боевой топор — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.steel.3",
+      "name": "Боевой топор — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.iron.0",
+      "name": "Боевой топор — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "4.4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.iron.1",
+      "name": "Боевой топор — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "4.4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.iron.2",
+      "name": "Боевой топор — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "4.4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.iron.3",
+      "name": "Боевой топор — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "4.4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.bronze.0",
+      "name": "Боевой топор — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "4.6 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.bronze.1",
+      "name": "Боевой топор — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "4.6 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.bronze.2",
+      "name": "Боевой топор — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "4.6 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.bronze.3",
+      "name": "Боевой топор — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "4.6 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.silver.0",
+      "name": "Боевой топор — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.silver.1",
+      "name": "Боевой топор — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.silver.2",
+      "name": "Боевой топор — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.silver.3",
+      "name": "Боевой топор — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.mithral.0",
+      "name": "Боевой топор — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.mithral.1",
+      "name": "Боевой топор — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.mithral.2",
+      "name": "Боевой топор — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.16.mithral.3",
+      "name": "Боевой топор — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_battleaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой топор. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.steel.0",
+      "name": "Моргенштерн — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.steel.1",
+      "name": "Моргенштерн — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.steel.2",
+      "name": "Моргенштерн — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.steel.3",
+      "name": "Моргенштерн — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.iron.0",
+      "name": "Моргенштерн — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "4.4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.iron.1",
+      "name": "Моргенштерн — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "4.4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.iron.2",
+      "name": "Моргенштерн — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "4.4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.iron.3",
+      "name": "Моргенштерн — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "4.4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.bronze.0",
+      "name": "Моргенштерн — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "4.6 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.bronze.1",
+      "name": "Моргенштерн — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "4.6 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.bronze.2",
+      "name": "Моргенштерн — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "4.6 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.bronze.3",
+      "name": "Моргенштерн — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "4.6 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.silver.0",
+      "name": "Моргенштерн — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.silver.1",
+      "name": "Моргенштерн — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.silver.2",
+      "name": "Моргенштерн — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.silver.3",
+      "name": "Моргенштерн — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "4 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.mithral.0",
+      "name": "Моргенштерн — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume04.weapons.forge.17.mithral.1",
+      "name": "Моргенштерн — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "15 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_morningstar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Моргенштерн. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

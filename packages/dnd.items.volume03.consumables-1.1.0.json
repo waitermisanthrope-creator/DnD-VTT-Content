@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume03.consumables",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume03.consumables.provision.13.3",
+      "name": "Чай — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: чай. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.13.4",
+      "name": "Чай — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: чай. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.14.0",
+      "name": "Вода — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: вода. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.14.1",
+      "name": "Вода — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: вода. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.14.2",
+      "name": "Вода — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: вода. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.14.3",
+      "name": "Вода — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: вода. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.14.4",
+      "name": "Вода — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: вода. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.15.0",
+      "name": "Сок — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: сок. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.15.1",
+      "name": "Сок — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: сок. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.15.2",
+      "name": "Сок — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: сок. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.15.3",
+      "name": "Сок — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: сок. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.15.4",
+      "name": "Сок — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: сок. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.16.0",
+      "name": "Компот — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: компот. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.16.1",
+      "name": "Компот — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: компот. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.16.2",
+      "name": "Компот — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: компот. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.16.3",
+      "name": "Компот — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: компот. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.16.4",
+      "name": "Компот — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: компот. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.17.0",
+      "name": "Пиво — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: пиво. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.17.1",
+      "name": "Пиво — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: пиво. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.17.2",
+      "name": "Пиво — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: пиво. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.17.3",
+      "name": "Пиво — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: пиво. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.17.4",
+      "name": "Пиво — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: пиво. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.18.0",
+      "name": "Вино — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: вино. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.18.1",
+      "name": "Вино — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: вино. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.18.2",
+      "name": "Вино — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: вино. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.18.3",
+      "name": "Вино — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: вино. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.18.4",
+      "name": "Вино — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: вино. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.19.0",
+      "name": "Молоко — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: молоко. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.19.1",
+      "name": "Молоко — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: молоко. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.19.2",
+      "name": "Молоко — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: молоко. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.19.3",
+      "name": "Молоко — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: молоко. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.provision.19.4",
+      "name": "Молоко — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: молоко. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.0",
+      "name": "Свеча восковая",
+      "weight": "0.05 кг",
+      "description": "Свеча восковая. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.1",
+      "name": "Факел смоляной",
+      "weight": "0.5 кг",
+      "description": "Факел смоляной. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.2",
+      "name": "Благовоние храмовое",
+      "weight": "0.02 кг",
+      "description": "Благовоние храмовое. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.3",
+      "name": "Мыло дорожное",
+      "weight": "0.1 кг",
+      "description": "Мыло дорожное. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.4",
+      "name": "Мел разметочный",
+      "weight": "0.01 кг",
+      "description": "Мел разметочный. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.5",
+      "name": "Чернила писчие",
+      "weight": "0.05 кг",
+      "description": "Чернила писчие. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.6",
+      "name": "Бумага писчая",
+      "weight": "0.01 кг",
+      "description": "Бумага писчая. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.7",
+      "name": "Пергаментный лист",
+      "weight": "0.01 кг",
+      "description": "Пергаментный лист. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.8",
+      "name": "Бинт льняной",
+      "weight": "0.03 кг",
+      "description": "Бинт льняной. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.9",
+      "name": "Компресс чистый",
+      "weight": "0.05 кг",
+      "description": "Компресс чистый. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.10",
+      "name": "Порция лампового масла",
+      "weight": "0.2 кг",
+      "description": "Порция лампового масла. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.11",
+      "name": "Пакет соли",
+      "weight": "0.1 кг",
+      "description": "Пакет соли. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.12",
+      "name": "Пакет пряностей",
+      "weight": "0.05 кг",
+      "description": "Пакет пряностей. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.13",
+      "name": "Корм для лошади",
+      "weight": "2 кг",
+      "description": "Корм для лошади. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.14",
+      "name": "Сухой паёк на день",
+      "weight": "1 кг",
+      "description": "Сухой паёк на день. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.15",
+      "name": "Табак трубочный",
+      "weight": "0.05 кг",
+      "description": "Табак трубочный. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.16",
+      "name": "Порошок для чистки оружия",
+      "weight": "0.05 кг",
+      "description": "Порошок для чистки оружия. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.17",
+      "name": "Воск для тетивы",
+      "weight": "0.02 кг",
+      "description": "Воск для тетивы. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.18",
+      "name": "Смола для ремонта",
+      "weight": "0.1 кг",
+      "description": "Смола для ремонта. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.volume03.consumables.expanded.19",
+      "name": "Уголь для рисования",
+      "weight": "0.02 кг",
+      "description": "Уголь для рисования. Одно применение списывает единицу запаса. Освещение, уход, лечение, питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Походный расходник",
+      "effects": [],
+      "useMode": "manual"
+    }
+  ]
+}

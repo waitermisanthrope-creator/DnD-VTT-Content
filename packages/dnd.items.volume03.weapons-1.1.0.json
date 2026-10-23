@@ -1,0 +1,3068 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume03.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume03.weapons.forge.7.mithral.2",
+      "name": "Боевой посох — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.7.mithral.3",
+      "name": "Боевой посох — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.steel.0",
+      "name": "Серп — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.steel.1",
+      "name": "Серп — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.steel.2",
+      "name": "Серп — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.steel.3",
+      "name": "Серп — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.iron.0",
+      "name": "Серп — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.iron.1",
+      "name": "Серп — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.iron.2",
+      "name": "Серп — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.iron.3",
+      "name": "Серп — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.bronze.0",
+      "name": "Серп — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.bronze.1",
+      "name": "Серп — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.bronze.2",
+      "name": "Серп — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.bronze.3",
+      "name": "Серп — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.silver.0",
+      "name": "Серп — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.silver.1",
+      "name": "Серп — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.silver.2",
+      "name": "Серп — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.silver.3",
+      "name": "Серп — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.mithral.0",
+      "name": "Серп — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.mithral.1",
+      "name": "Серп — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.mithral.2",
+      "name": "Серп — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.8.mithral.3",
+      "name": "Серп — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sickle"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Серп. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.steel.0",
+      "name": "Легкий молот — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.steel.1",
+      "name": "Легкий молот — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.steel.2",
+      "name": "Легкий молот — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.steel.3",
+      "name": "Легкий молот — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.iron.0",
+      "name": "Легкий молот — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.iron.1",
+      "name": "Легкий молот — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.iron.2",
+      "name": "Легкий молот — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.iron.3",
+      "name": "Легкий молот — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.bronze.0",
+      "name": "Легкий молот — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.bronze.1",
+      "name": "Легкий молот — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.bronze.2",
+      "name": "Легкий молот — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.bronze.3",
+      "name": "Легкий молот — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.silver.0",
+      "name": "Легкий молот — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.silver.1",
+      "name": "Легкий молот — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.silver.2",
+      "name": "Легкий молот — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.silver.3",
+      "name": "Легкий молот — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.mithral.0",
+      "name": "Легкий молот — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.mithral.1",
+      "name": "Легкий молот — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.mithral.2",
+      "name": "Легкий молот — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.9.mithral.3",
+      "name": "Легкий молот — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий молот. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.steel.0",
+      "name": "Блекджек (Кистень-хлопушка) — Сталь",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.steel.1",
+      "name": "Блекджек (Кистень-хлопушка) — Сталь +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.steel.2",
+      "name": "Блекджек (Кистень-хлопушка) — Сталь +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.steel.3",
+      "name": "Блекджек (Кистень-хлопушка) — Сталь +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.iron.0",
+      "name": "Блекджек (Кистень-хлопушка) — Железо",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "1.1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.iron.1",
+      "name": "Блекджек (Кистень-хлопушка) — Железо +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "1.1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.iron.2",
+      "name": "Блекджек (Кистень-хлопушка) — Железо +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "1.1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.iron.3",
+      "name": "Блекджек (Кистень-хлопушка) — Железо +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "1.1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.bronze.0",
+      "name": "Блекджек (Кистень-хлопушка) — Бронза",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "1.15 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.bronze.1",
+      "name": "Блекджек (Кистень-хлопушка) — Бронза +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "1.15 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.bronze.2",
+      "name": "Блекджек (Кистень-хлопушка) — Бронза +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "1.15 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.bronze.3",
+      "name": "Блекджек (Кистень-хлопушка) — Бронза +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "1.15 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.silver.0",
+      "name": "Блекджек (Кистень-хлопушка) — Посеребрение",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.silver.1",
+      "name": "Блекджек (Кистень-хлопушка) — Посеребрение +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.silver.2",
+      "name": "Блекджек (Кистень-хлопушка) — Посеребрение +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.silver.3",
+      "name": "Блекджек (Кистень-хлопушка) — Посеребрение +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.mithral.0",
+      "name": "Блекджек (Кистень-хлопушка) — Мифрил",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "0.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.mithral.1",
+      "name": "Блекджек (Кистень-хлопушка) — Мифрил +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "0.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.mithral.2",
+      "name": "Блекджек (Кистень-хлопушка) — Мифрил +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "0.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.10.mithral.3",
+      "name": "Блекджек (Кистень-хлопушка) — Мифрил +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "0.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Легкое",
+        "скрытное",
+        "оглушающее"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_light_hammer"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Блекджек (Кистень-хлопушка). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.steel.0",
+      "name": "Шипастая рукавица — Сталь",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.steel.1",
+      "name": "Шипастая рукавица — Сталь +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.steel.2",
+      "name": "Шипастая рукавица — Сталь +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.steel.3",
+      "name": "Шипастая рукавица — Сталь +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.iron.0",
+      "name": "Шипастая рукавица — Железо",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.iron.1",
+      "name": "Шипастая рукавица — Железо +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.iron.2",
+      "name": "Шипастая рукавица — Железо +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.iron.3",
+      "name": "Шипастая рукавица — Железо +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.bronze.0",
+      "name": "Шипастая рукавица — Бронза",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.bronze.1",
+      "name": "Шипастая рукавица — Бронза +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.bronze.2",
+      "name": "Шипастая рукавица — Бронза +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.bronze.3",
+      "name": "Шипастая рукавица — Бронза +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.silver.0",
+      "name": "Шипастая рукавица — Посеребрение",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.silver.1",
+      "name": "Шипастая рукавица — Посеребрение +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.silver.2",
+      "name": "Шипастая рукавица — Посеребрение +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.silver.3",
+      "name": "Шипастая рукавица — Посеребрение +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.mithral.0",
+      "name": "Шипастая рукавица — Мифрил",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.mithral.1",
+      "name": "Шипастая рукавица — Мифрил +1",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.mithral.2",
+      "name": "Шипастая рукавица — Мифрил +2",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.11.mithral.3",
+      "name": "Шипастая рукавица — Мифрил +3",
+      "category": "Простое рукопашное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Нельзя выронить"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Шипастая рукавица. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.steel.0",
+      "name": "Длинный меч — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.steel.1",
+      "name": "Длинный меч — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.steel.2",
+      "name": "Длинный меч — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.steel.3",
+      "name": "Длинный меч — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.iron.0",
+      "name": "Длинный меч — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.iron.1",
+      "name": "Длинный меч — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.iron.2",
+      "name": "Длинный меч — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.iron.3",
+      "name": "Длинный меч — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "3.3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.bronze.0",
+      "name": "Длинный меч — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.bronze.1",
+      "name": "Длинный меч — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.bronze.2",
+      "name": "Длинный меч — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.bronze.3",
+      "name": "Длинный меч — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "3.45 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.silver.0",
+      "name": "Длинный меч — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.silver.1",
+      "name": "Длинный меч — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.silver.2",
+      "name": "Длинный меч — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.silver.3",
+      "name": "Длинный меч — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.mithral.0",
+      "name": "Длинный меч — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume03.weapons.forge.12.mithral.1",
+      "name": "Длинный меч — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий",
+      "weight": "1.5 фунтов",
+      "cost": "15 зм",
+      "properties": [
+        "Универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный меч. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

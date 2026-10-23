@@ -1,0 +1,3170 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume13.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume13.weapons.forge.57.mithral.2",
+      "name": "Болас — Мифрил +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.57.mithral.3",
+      "name": "Болас — Мифрил +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.steel.0",
+      "name": "Боевой вее́р (Тессэн) — Сталь",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.steel.1",
+      "name": "Боевой вее́р (Тессэн) — Сталь +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.steel.2",
+      "name": "Боевой вее́р (Тессэн) — Сталь +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.steel.3",
+      "name": "Боевой вее́р (Тессэн) — Сталь +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.iron.0",
+      "name": "Боевой вее́р (Тессэн) — Железо",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.65 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.iron.1",
+      "name": "Боевой вее́р (Тессэн) — Железо +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.65 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.iron.2",
+      "name": "Боевой вее́р (Тессэн) — Железо +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.65 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.iron.3",
+      "name": "Боевой вее́р (Тессэн) — Железо +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.65 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.bronze.0",
+      "name": "Боевой вее́р (Тессэн) — Бронза",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.725 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.bronze.1",
+      "name": "Боевой вее́р (Тессэн) — Бронза +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.725 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.bronze.2",
+      "name": "Боевой вее́р (Тессэн) — Бронза +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.725 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.bronze.3",
+      "name": "Боевой вее́р (Тессэн) — Бронза +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.725 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.silver.0",
+      "name": "Боевой вее́р (Тессэн) — Посеребрение",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.silver.1",
+      "name": "Боевой вее́р (Тессэн) — Посеребрение +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.silver.2",
+      "name": "Боевой вее́р (Тессэн) — Посеребрение +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.silver.3",
+      "name": "Боевой вее́р (Тессэн) — Посеребрение +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.mithral.0",
+      "name": "Боевой вее́р (Тессэн) — Мифрил",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий/дробящий",
+      "weight": "0.75 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.mithral.1",
+      "name": "Боевой вее́р (Тессэн) — Мифрил +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "0.75 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.mithral.2",
+      "name": "Боевой вее́р (Тессэн) — Мифрил +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "0.75 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.58.mithral.3",
+      "name": "Боевой вее́р (Тессэн) — Мифрил +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "0.75 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Фехтовальное",
+        "легкое",
+        "скрытное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой вее́р (Тессэн). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.steel.0",
+      "name": "Крюк вместо руки — Сталь",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.steel.1",
+      "name": "Крюк вместо руки — Сталь +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.steel.2",
+      "name": "Крюк вместо руки — Сталь +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.steel.3",
+      "name": "Крюк вместо руки — Сталь +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.iron.0",
+      "name": "Крюк вместо руки — Железо",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.iron.1",
+      "name": "Крюк вместо руки — Железо +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.iron.2",
+      "name": "Крюк вместо руки — Железо +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.iron.3",
+      "name": "Крюк вместо руки — Железо +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "1.1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.bronze.0",
+      "name": "Крюк вместо руки — Бронза",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.bronze.1",
+      "name": "Крюк вместо руки — Бронза +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.bronze.2",
+      "name": "Крюк вместо руки — Бронза +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.bronze.3",
+      "name": "Крюк вместо руки — Бронза +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "1.15 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.silver.0",
+      "name": "Крюк вместо руки — Посеребрение",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.silver.1",
+      "name": "Крюк вместо руки — Посеребрение +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.silver.2",
+      "name": "Крюк вместо руки — Посеребрение +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.silver.3",
+      "name": "Крюк вместо руки — Посеребрение +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.mithral.0",
+      "name": "Крюк вместо руки — Мифрил",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "рубящий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.mithral.1",
+      "name": "Крюк вместо руки — Мифрил +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "рубящий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.mithral.2",
+      "name": "Крюк вместо руки — Мифрил +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "рубящий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.59.mithral.3",
+      "name": "Крюк вместо руки — Мифрил +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "рубящий",
+      "weight": "0.5 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Особое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Крюк вместо руки. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.steel.0",
+      "name": "Лассо — Сталь",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.steel.1",
+      "name": "Лассо — Сталь +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.steel.2",
+      "name": "Лассо — Сталь +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.steel.3",
+      "name": "Лассо — Сталь +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.iron.0",
+      "name": "Лассо — Железо",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.iron.1",
+      "name": "Лассо — Железо +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.iron.2",
+      "name": "Лассо — Железо +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.iron.3",
+      "name": "Лассо — Железо +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.bronze.0",
+      "name": "Лассо — Бронза",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.bronze.1",
+      "name": "Лассо — Бронза +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.bronze.2",
+      "name": "Лассо — Бронза +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.bronze.3",
+      "name": "Лассо — Бронза +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.silver.0",
+      "name": "Лассо — Посеребрение",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.silver.1",
+      "name": "Лассо — Посеребрение +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.silver.2",
+      "name": "Лассо — Посеребрение +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.silver.3",
+      "name": "Лассо — Посеребрение +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.mithral.0",
+      "name": "Лассо — Мифрил",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.mithral.1",
+      "name": "Лассо — Мифрил +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.mithral.2",
+      "name": "Лассо — Мифрил +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.60.mithral.3",
+      "name": "Лассо — Мифрил +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 10/30)",
+        "захват цели"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Лассо. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.steel.0",
+      "name": "Сетка — Сталь",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.steel.1",
+      "name": "Сетка — Сталь +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.steel.2",
+      "name": "Сетка — Сталь +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.steel.3",
+      "name": "Сетка — Сталь +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.iron.0",
+      "name": "Сетка — Железо",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.iron.1",
+      "name": "Сетка — Железо +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.iron.2",
+      "name": "Сетка — Железо +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.iron.3",
+      "name": "Сетка — Железо +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.bronze.0",
+      "name": "Сетка — Бронза",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.bronze.1",
+      "name": "Сетка — Бронза +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.bronze.2",
+      "name": "Сетка — Бронза +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.bronze.3",
+      "name": "Сетка — Бронза +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.silver.0",
+      "name": "Сетка — Посеребрение",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.silver.1",
+      "name": "Сетка — Посеребрение +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.silver.2",
+      "name": "Сетка — Посеребрение +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.silver.3",
+      "name": "Сетка — Посеребрение +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.mithral.0",
+      "name": "Сетка — Мифрил",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.mithral.1",
+      "name": "Сетка — Мифрил +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+1",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.mithral.2",
+      "name": "Сетка — Мифрил +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+2",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.61.mithral.3",
+      "name": "Сетка — Мифрил +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "0+3",
+      "damageType": "нет",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 5/15)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сетка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.steel.0",
+      "name": "Скрытый рукавной клинок — Сталь",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.steel.1",
+      "name": "Скрытый рукавной клинок — Сталь +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.steel.2",
+      "name": "Скрытый рукавной клинок — Сталь +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.steel.3",
+      "name": "Скрытый рукавной клинок — Сталь +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.iron.0",
+      "name": "Скрытый рукавной клинок — Железо",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.iron.1",
+      "name": "Скрытый рукавной клинок — Железо +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.iron.2",
+      "name": "Скрытый рукавной клинок — Железо +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.iron.3",
+      "name": "Скрытый рукавной клинок — Железо +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.bronze.0",
+      "name": "Скрытый рукавной клинок — Бронза",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.bronze.1",
+      "name": "Скрытый рукавной клинок — Бронза +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.bronze.2",
+      "name": "Скрытый рукавной клинок — Бронза +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.bronze.3",
+      "name": "Скрытый рукавной клинок — Бронза +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.silver.0",
+      "name": "Скрытый рукавной клинок — Посеребрение",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.silver.1",
+      "name": "Скрытый рукавной клинок — Посеребрение +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.silver.2",
+      "name": "Скрытый рукавной клинок — Посеребрение +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.silver.3",
+      "name": "Скрытый рукавной клинок — Посеребрение +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.mithral.0",
+      "name": "Скрытый рукавной клинок — Мифрил",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume13.weapons.forge.62.mithral.1",
+      "name": "Скрытый рукавной клинок — Мифрил +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Особое",
+        "скрытное (преимущество на инициативу скрытой атаки)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Скрытый рукавной клинок. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

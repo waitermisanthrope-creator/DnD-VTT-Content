@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume06.materials",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume06.materials.herb.24.5",
+      "name": "Пижма — семена",
+      "weight": "0.1 кг",
+      "description": "Семена: пижма. Растительное сырьё; свойства и рецепты назначает мастер.",
+      "inventoryCategory": "materials",
+      "category": "Растительное сырьё"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.0",
+      "name": "Пчелиный воск",
+      "weight": "0.1 кг",
+      "description": "Пчелиный воск. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_00"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.1",
+      "name": "Сосновая канифоль",
+      "weight": "0.1 кг",
+      "description": "Сосновая канифоль. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_01"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.2",
+      "name": "Берёзовый дёготь",
+      "weight": "0.2 кг",
+      "description": "Берёзовый дёготь. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_02"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.3",
+      "name": "Костяной клей",
+      "weight": "0.2 кг",
+      "description": "Костяной клей. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_03"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.4",
+      "name": "Рыбий клей",
+      "weight": "0.2 кг",
+      "description": "Рыбий клей. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_04"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.5",
+      "name": "Льняная пакля",
+      "weight": "0.1 кг",
+      "description": "Льняная пакля. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_05"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.6",
+      "name": "Конопляное волокно",
+      "weight": "0.1 кг",
+      "description": "Конопляное волокно. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_06"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.7",
+      "name": "Дубильный экстракт",
+      "weight": "0.2 кг",
+      "description": "Дубильный экстракт. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_07"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.8",
+      "name": "Поташ",
+      "weight": "0.2 кг",
+      "description": "Поташ. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_08"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.9",
+      "name": "Жидкое стекло",
+      "weight": "0.2 кг",
+      "description": "Жидкое стекло. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_09"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.10",
+      "name": "Пемза",
+      "weight": "0.2 кг",
+      "description": "Пемза. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_10"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.11",
+      "name": "Абразивный корунд",
+      "weight": "0.2 кг",
+      "description": "Абразивный корунд. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_11"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.12",
+      "name": "Полировальная паста",
+      "weight": "0.1 кг",
+      "description": "Полировальная паста. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_12"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.13",
+      "name": "Лаковая смола",
+      "weight": "0.1 кг",
+      "description": "Лаковая смола. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_13"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.14",
+      "name": "Краситель индиго",
+      "weight": "0.05 кг",
+      "description": "Краситель индиго. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_14"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.15",
+      "name": "Краситель марены",
+      "weight": "0.05 кг",
+      "description": "Краситель марены. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_15"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.16",
+      "name": "Писчая сажа",
+      "weight": "0.05 кг",
+      "description": "Писчая сажа. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_16"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.17",
+      "name": "Камедь акации",
+      "weight": "0.1 кг",
+      "description": "Камедь акации. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_17"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.18",
+      "name": "Железистые галлы",
+      "weight": "0.1 кг",
+      "description": "Железистые галлы. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_18"
+    },
+    {
+      "id": "dnd.items.volume06.materials.expanded.19",
+      "name": "Шеллачные хлопья",
+      "weight": "0.1 кг",
+      "description": "Шеллачные хлопья. Ремесленное сырьё; рецепты и выход задаёт мастер. У этого нового материала пока нет автоматического рецепта.",
+      "inventoryCategory": "materials",
+      "category": "Ремесленное сырьё",
+      "craftMaterialId": "workshop_supply_19"
+    }
+  ]
+}

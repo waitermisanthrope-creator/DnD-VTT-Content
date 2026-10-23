@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume03.junk",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume03.junk.salvage.17.9",
+      "name": "Цепочка — камень",
+      "weight": "0.05 кг",
+      "description": "Цепочка, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.0",
+      "name": "Шестерёнка — медь",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.1",
+      "name": "Шестерёнка — латунь",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.2",
+      "name": "Шестерёнка — железо",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.3",
+      "name": "Шестерёнка — олово",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.4",
+      "name": "Шестерёнка — дерево",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.5",
+      "name": "Шестерёнка — кость",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.6",
+      "name": "Шестерёнка — керамика",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.7",
+      "name": "Шестерёнка — стекло",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.8",
+      "name": "Шестерёнка — серебро",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.18.9",
+      "name": "Шестерёнка — камень",
+      "weight": "0.05 кг",
+      "description": "Шестерёнка, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.0",
+      "name": "Пластина — медь",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.1",
+      "name": "Пластина — латунь",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.2",
+      "name": "Пластина — железо",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.3",
+      "name": "Пластина — олово",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.4",
+      "name": "Пластина — дерево",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.5",
+      "name": "Пластина — кость",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.6",
+      "name": "Пластина — керамика",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.7",
+      "name": "Пластина — стекло",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.8",
+      "name": "Пластина — серебро",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.19.9",
+      "name": "Пластина — камень",
+      "weight": "0.05 кг",
+      "description": "Пластина, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.0",
+      "name": "Печать — медь",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.1",
+      "name": "Печать — латунь",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.2",
+      "name": "Печать — железо",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.3",
+      "name": "Печать — олово",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.4",
+      "name": "Печать — дерево",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.5",
+      "name": "Печать — кость",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.6",
+      "name": "Печать — керамика",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.7",
+      "name": "Печать — стекло",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.8",
+      "name": "Печать — серебро",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.20.9",
+      "name": "Печать — камень",
+      "weight": "0.05 кг",
+      "description": "Печать, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.0",
+      "name": "Монета — медь",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.1",
+      "name": "Монета — латунь",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.2",
+      "name": "Монета — железо",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.3",
+      "name": "Монета — олово",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.4",
+      "name": "Монета — дерево",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.5",
+      "name": "Монета — кость",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.6",
+      "name": "Монета — керамика",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.7",
+      "name": "Монета — стекло",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.8",
+      "name": "Монета — серебро",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.21.9",
+      "name": "Монета — камень",
+      "weight": "0.05 кг",
+      "description": "Монета, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.0",
+      "name": "Жетон — медь",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.1",
+      "name": "Жетон — латунь",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.2",
+      "name": "Жетон — железо",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.3",
+      "name": "Жетон — олово",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.4",
+      "name": "Жетон — дерево",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.5",
+      "name": "Жетон — кость",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.6",
+      "name": "Жетон — керамика",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.7",
+      "name": "Жетон — стекло",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.8",
+      "name": "Жетон — серебро",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.22.9",
+      "name": "Жетон — камень",
+      "weight": "0.05 кг",
+      "description": "Жетон, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.0",
+      "name": "Игральная кость — медь",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.1",
+      "name": "Игральная кость — латунь",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.2",
+      "name": "Игральная кость — железо",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.3",
+      "name": "Игральная кость — олово",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.4",
+      "name": "Игральная кость — дерево",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.5",
+      "name": "Игральная кость — кость",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.6",
+      "name": "Игральная кость — керамика",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.7",
+      "name": "Игральная кость — стекло",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.8",
+      "name": "Игральная кость — серебро",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.23.9",
+      "name": "Игральная кость — камень",
+      "weight": "0.05 кг",
+      "description": "Игральная кость, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.0",
+      "name": "Свисток — медь",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.1",
+      "name": "Свисток — латунь",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.2",
+      "name": "Свисток — железо",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.3",
+      "name": "Свисток — олово",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.4",
+      "name": "Свисток — дерево",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.5",
+      "name": "Свисток — кость",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.6",
+      "name": "Свисток — керамика",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.7",
+      "name": "Свисток — стекло",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.8",
+      "name": "Свисток — серебро",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.24.9",
+      "name": "Свисток — камень",
+      "weight": "0.05 кг",
+      "description": "Свисток, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.0",
+      "name": "Кольцо — медь",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.1",
+      "name": "Кольцо — латунь",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.2",
+      "name": "Кольцо — железо",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.3",
+      "name": "Кольцо — олово",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.4",
+      "name": "Кольцо — дерево",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.5",
+      "name": "Кольцо — кость",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.6",
+      "name": "Кольцо — керамика",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.7",
+      "name": "Кольцо — стекло",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.8",
+      "name": "Кольцо — серебро",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.25.9",
+      "name": "Кольцо — камень",
+      "weight": "0.05 кг",
+      "description": "Кольцо, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.0",
+      "name": "Брошь — медь",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.1",
+      "name": "Брошь — латунь",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.2",
+      "name": "Брошь — железо",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.3",
+      "name": "Брошь — олово",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.4",
+      "name": "Брошь — дерево",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.5",
+      "name": "Брошь — кость",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.6",
+      "name": "Брошь — керамика",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.7",
+      "name": "Брошь — стекло",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.8",
+      "name": "Брошь — серебро",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.26.9",
+      "name": "Брошь — камень",
+      "weight": "0.05 кг",
+      "description": "Брошь, материал: камень. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.0",
+      "name": "Рамка — медь",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: медь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.1",
+      "name": "Рамка — латунь",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: латунь. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.2",
+      "name": "Рамка — железо",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: железо. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.3",
+      "name": "Рамка — олово",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: олово. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.4",
+      "name": "Рамка — дерево",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: дерево. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.5",
+      "name": "Рамка — кость",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: кость. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.6",
+      "name": "Рамка — керамика",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: керамика. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.7",
+      "name": "Рамка — стекло",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: стекло. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    },
+    {
+      "id": "dnd.items.volume03.junk.salvage.27.8",
+      "name": "Рамка — серебро",
+      "weight": "0.05 кг",
+      "description": "Рамка, материал: серебро. Бытовая находка или товар для продажи; автоматического игрового эффекта нет.",
+      "inventoryCategory": "junk",
+      "category": "Бытовой хлам"
+    }
+  ]
+}

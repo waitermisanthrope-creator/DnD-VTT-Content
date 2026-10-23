@@ -1,0 +1,3226 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume10.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume10.weapons.forge.42.mithral.2",
+      "name": "Короткий лук — Мифрил +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.42.mithral.3",
+      "name": "Короткий лук — Мифрил +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.steel.0",
+      "name": "Праща — Сталь",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.steel.1",
+      "name": "Праща — Сталь +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.steel.2",
+      "name": "Праща — Сталь +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.steel.3",
+      "name": "Праща — Сталь +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.iron.0",
+      "name": "Праща — Железо",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.iron.1",
+      "name": "Праща — Железо +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.iron.2",
+      "name": "Праща — Железо +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.iron.3",
+      "name": "Праща — Железо +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.bronze.0",
+      "name": "Праща — Бронза",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.bronze.1",
+      "name": "Праща — Бронза +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.bronze.2",
+      "name": "Праща — Бронза +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.bronze.3",
+      "name": "Праща — Бронза +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.silver.0",
+      "name": "Праща — Посеребрение",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.silver.1",
+      "name": "Праща — Посеребрение +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.silver.2",
+      "name": "Праща — Посеребрение +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.silver.3",
+      "name": "Праща — Посеребрение +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.mithral.0",
+      "name": "Праща — Мифрил",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.mithral.1",
+      "name": "Праща — Мифрил +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.mithral.2",
+      "name": "Праща — Мифрил +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.43.mithral.3",
+      "name": "Праща — Мифрил +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "0 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Боеприпас (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_sling"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Праща. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.steel.0",
+      "name": "Ручной арбалет — Сталь",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.steel.1",
+      "name": "Ручной арбалет — Сталь +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.steel.2",
+      "name": "Ручной арбалет — Сталь +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.steel.3",
+      "name": "Ручной арбалет — Сталь +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.iron.0",
+      "name": "Ручной арбалет — Железо",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.iron.1",
+      "name": "Ручной арбалет — Железо +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.iron.2",
+      "name": "Ручной арбалет — Железо +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.iron.3",
+      "name": "Ручной арбалет — Железо +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.bronze.0",
+      "name": "Ручной арбалет — Бронза",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.bronze.1",
+      "name": "Ручной арбалет — Бронза +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.bronze.2",
+      "name": "Ручной арбалет — Бронза +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.bronze.3",
+      "name": "Ручной арбалет — Бронза +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.silver.0",
+      "name": "Ручной арбалет — Посеребрение",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.silver.1",
+      "name": "Ручной арбалет — Посеребрение +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.silver.2",
+      "name": "Ручной арбалет — Посеребрение +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.silver.3",
+      "name": "Ручной арбалет — Посеребрение +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.mithral.0",
+      "name": "Ручной арбалет — Мифрил",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.mithral.1",
+      "name": "Ручной арбалет — Мифрил +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.mithral.2",
+      "name": "Ручной арбалет — Мифрил +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.44.mithral.3",
+      "name": "Ручной арбалет — Мифрил +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/120)",
+        "заряжание",
+        "легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.steel.0",
+      "name": "Составной длинный лук — Сталь",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.steel.1",
+      "name": "Составной длинный лук — Сталь +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.steel.2",
+      "name": "Составной длинный лук — Сталь +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.steel.3",
+      "name": "Составной длинный лук — Сталь +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.iron.0",
+      "name": "Составной длинный лук — Железо",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.iron.1",
+      "name": "Составной длинный лук — Железо +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.iron.2",
+      "name": "Составной длинный лук — Железо +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.iron.3",
+      "name": "Составной длинный лук — Железо +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.bronze.0",
+      "name": "Составной длинный лук — Бронза",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.bronze.1",
+      "name": "Составной длинный лук — Бронза +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.bronze.2",
+      "name": "Составной длинный лук — Бронза +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.bronze.3",
+      "name": "Составной длинный лук — Бронза +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.silver.0",
+      "name": "Составной длинный лук — Посеребрение",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.silver.1",
+      "name": "Составной длинный лук — Посеребрение +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.silver.2",
+      "name": "Составной длинный лук — Посеребрение +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.silver.3",
+      "name": "Составной длинный лук — Посеребрение +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.mithral.0",
+      "name": "Составной длинный лук — Мифрил",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.mithral.1",
+      "name": "Составной длинный лук — Мифрил +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.mithral.2",
+      "name": "Составной длинный лук — Мифрил +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.45.mithral.3",
+      "name": "Составной длинный лук — Мифрил +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое",
+        "модификатор силы к урону"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Составной длинный лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.steel.0",
+      "name": "Духовая трубка — Сталь",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.steel.1",
+      "name": "Духовая трубка — Сталь +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.steel.2",
+      "name": "Духовая трубка — Сталь +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.steel.3",
+      "name": "Духовая трубка — Сталь +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.iron.0",
+      "name": "Духовая трубка — Железо",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.iron.1",
+      "name": "Духовая трубка — Железо +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+1",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.iron.2",
+      "name": "Духовая трубка — Железо +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+2",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.iron.3",
+      "name": "Духовая трубка — Железо +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+3",
+      "damageType": "колющий",
+      "weight": "1.1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.bronze.0",
+      "name": "Духовая трубка — Бронза",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.bronze.1",
+      "name": "Духовая трубка — Бронза +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+1",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.bronze.2",
+      "name": "Духовая трубка — Бронза +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+2",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.bronze.3",
+      "name": "Духовая трубка — Бронза +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+3",
+      "damageType": "колющий",
+      "weight": "1.15 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.silver.0",
+      "name": "Духовая трубка — Посеребрение",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.silver.1",
+      "name": "Духовая трубка — Посеребрение +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.silver.2",
+      "name": "Духовая трубка — Посеребрение +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.silver.3",
+      "name": "Духовая трубка — Посеребрение +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.mithral.0",
+      "name": "Духовая трубка — Мифрил",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.mithral.1",
+      "name": "Духовая трубка — Мифрил +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+1",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.mithral.2",
+      "name": "Духовая трубка — Мифрил +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+2",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.46.mithral.3",
+      "name": "Духовая трубка — Мифрил +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1+3",
+      "damageType": "колющий",
+      "weight": "0.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Боеприпас (дистанция 25/100)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Духовая трубка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.steel.0",
+      "name": "Длинный лук — Сталь",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.steel.1",
+      "name": "Длинный лук — Сталь +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.steel.2",
+      "name": "Длинный лук — Сталь +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.steel.3",
+      "name": "Длинный лук — Сталь +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.iron.0",
+      "name": "Длинный лук — Железо",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.iron.1",
+      "name": "Длинный лук — Железо +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.iron.2",
+      "name": "Длинный лук — Железо +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.iron.3",
+      "name": "Длинный лук — Железо +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.bronze.0",
+      "name": "Длинный лук — Бронза",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.bronze.1",
+      "name": "Длинный лук — Бронза +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.bronze.2",
+      "name": "Длинный лук — Бронза +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.bronze.3",
+      "name": "Длинный лук — Бронза +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.silver.0",
+      "name": "Длинный лук — Посеребрение",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.silver.1",
+      "name": "Длинный лук — Посеребрение +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.silver.2",
+      "name": "Длинный лук — Посеребрение +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.silver.3",
+      "name": "Длинный лук — Посеребрение +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.mithral.0",
+      "name": "Длинный лук — Мифрил",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume10.weapons.forge.47.mithral.1",
+      "name": "Длинный лук — Мифрил +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

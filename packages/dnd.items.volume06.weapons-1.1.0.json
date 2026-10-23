@@ -1,0 +1,3206 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume06.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume06.weapons.forge.22.mithral.2",
+      "name": "Фальшион — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Легкое",
+        "критический урон"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Фальшион. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.22.mithral.3",
+      "name": "Фальшион — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Легкое",
+        "критический урон"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Фальшион. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.steel.0",
+      "name": "Катана (Одноручный хват) — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.steel.1",
+      "name": "Катана (Одноручный хват) — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.steel.2",
+      "name": "Катана (Одноручный хват) — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.steel.3",
+      "name": "Катана (Одноручный хват) — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.iron.0",
+      "name": "Катана (Одноручный хват) — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий/колющий",
+      "weight": "3.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.iron.1",
+      "name": "Катана (Одноручный хват) — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий/колющий",
+      "weight": "3.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.iron.2",
+      "name": "Катана (Одноручный хват) — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий/колющий",
+      "weight": "3.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.iron.3",
+      "name": "Катана (Одноручный хват) — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий/колющий",
+      "weight": "3.3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.bronze.0",
+      "name": "Катана (Одноручный хват) — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий/колющий",
+      "weight": "3.45 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.bronze.1",
+      "name": "Катана (Одноручный хват) — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий/колющий",
+      "weight": "3.45 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.bronze.2",
+      "name": "Катана (Одноручный хват) — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий/колющий",
+      "weight": "3.45 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.bronze.3",
+      "name": "Катана (Одноручный хват) — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий/колющий",
+      "weight": "3.45 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.silver.0",
+      "name": "Катана (Одноручный хват) — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.silver.1",
+      "name": "Катана (Одноручный хват) — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.silver.2",
+      "name": "Катана (Одноручный хват) — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.silver.3",
+      "name": "Катана (Одноручный хват) — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий/колющий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.mithral.0",
+      "name": "Катана (Одноручный хват) — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8",
+      "damageType": "рубящий/колющий",
+      "weight": "1.5 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.mithral.1",
+      "name": "Катана (Одноручный хват) — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+1",
+      "damageType": "рубящий/колющий",
+      "weight": "1.5 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.mithral.2",
+      "name": "Катана (Одноручный хват) — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+2",
+      "damageType": "рубящий/колющий",
+      "weight": "1.5 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.23.mithral.3",
+      "name": "Катана (Одноручный хват) — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d8+3",
+      "damageType": "рубящий/колющий",
+      "weight": "1.5 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Фехтовальное",
+        "универсальное (1d10)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_longsword",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Катана (Одноручный хват). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.steel.0",
+      "name": "Кусаригама (Серп с цепью) — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.steel.1",
+      "name": "Кусаригама (Серп с цепью) — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.steel.2",
+      "name": "Кусаригама (Серп с цепью) — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.steel.3",
+      "name": "Кусаригама (Серп с цепью) — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.iron.0",
+      "name": "Кусаригама (Серп с цепью) — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.iron.1",
+      "name": "Кусаригама (Серп с цепью) — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.iron.2",
+      "name": "Кусаригама (Серп с цепью) — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.iron.3",
+      "name": "Кусаригама (Серп с цепью) — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.bronze.0",
+      "name": "Кусаригама (Серп с цепью) — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.45 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.bronze.1",
+      "name": "Кусаригама (Серп с цепью) — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.45 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.bronze.2",
+      "name": "Кусаригама (Серп с цепью) — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.45 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.bronze.3",
+      "name": "Кусаригама (Серп с цепью) — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "3.45 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.silver.0",
+      "name": "Кусаригама (Серп с цепью) — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.silver.1",
+      "name": "Кусаригама (Серп с цепью) — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.silver.2",
+      "name": "Кусаригама (Серп с цепью) — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.silver.3",
+      "name": "Кусаригама (Серп с цепью) — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.mithral.0",
+      "name": "Кусаригама (Серп с цепью) — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.mithral.1",
+      "name": "Кусаригама (Серп с цепью) — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.mithral.2",
+      "name": "Кусаригама (Серп с цепью) — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.24.mithral.3",
+      "name": "Кусаригама (Серп с цепью) — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "рубящий/дробящий",
+      "weight": "1.5 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Досягаемость",
+        "особое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_sickle",
+        "p_weap_whip"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кусаригама (Серп с цепью). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.steel.0",
+      "name": "Цестус — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.steel.1",
+      "name": "Цестус — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.steel.2",
+      "name": "Цестус — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.steel.3",
+      "name": "Цестус — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.iron.0",
+      "name": "Цестус — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий/колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.iron.1",
+      "name": "Цестус — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий/колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.iron.2",
+      "name": "Цестус — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий/колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.iron.3",
+      "name": "Цестус — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий/колющий",
+      "weight": "2.2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.bronze.0",
+      "name": "Цестус — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий/колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.bronze.1",
+      "name": "Цестус — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий/колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.bronze.2",
+      "name": "Цестус — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий/колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.bronze.3",
+      "name": "Цестус — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий/колющий",
+      "weight": "2.3 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.silver.0",
+      "name": "Цестус — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.silver.1",
+      "name": "Цестус — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.silver.2",
+      "name": "Цестус — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.silver.3",
+      "name": "Цестус — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий/колющий",
+      "weight": "2 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.mithral.0",
+      "name": "Цестус — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий/колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.mithral.1",
+      "name": "Цестус — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий/колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.mithral.2",
+      "name": "Цестус — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий/колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.25.mithral.3",
+      "name": "Цестус — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий/колющий",
+      "weight": "1 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Легкое",
+        "нельзя обезоружить"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Цестус. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.steel.0",
+      "name": "Рапира с дагой — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.steel.1",
+      "name": "Рапира с дагой — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.steel.2",
+      "name": "Рапира с дагой — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.steel.3",
+      "name": "Рапира с дагой — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.iron.0",
+      "name": "Рапира с дагой — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.iron.1",
+      "name": "Рапира с дагой — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.iron.2",
+      "name": "Рапира с дагой — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.iron.3",
+      "name": "Рапира с дагой — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.bronze.0",
+      "name": "Рапира с дагой — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.bronze.1",
+      "name": "Рапира с дагой — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.bronze.2",
+      "name": "Рапира с дагой — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.bronze.3",
+      "name": "Рапира с дагой — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.silver.0",
+      "name": "Рапира с дагой — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.silver.1",
+      "name": "Рапира с дагой — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.silver.2",
+      "name": "Рапира с дагой — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.silver.3",
+      "name": "Рапира с дагой — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.mithral.0",
+      "name": "Рапира с дагой — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.mithral.1",
+      "name": "Рапира с дагой — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.mithral.2",
+      "name": "Рапира с дагой — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.26.mithral.3",
+      "name": "Рапира с дагой — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "45 зм",
+      "properties": [
+        "Фехтовальное",
+        "защитное (+1 КД)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_rapier",
+        "p_weap_dagger"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Рапира с дагой. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.steel.0",
+      "name": "Алебарда — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.steel.1",
+      "name": "Алебарда — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.steel.2",
+      "name": "Алебарда — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.steel.3",
+      "name": "Алебарда — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.iron.0",
+      "name": "Алебарда — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.iron.1",
+      "name": "Алебарда — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.iron.2",
+      "name": "Алебарда — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.iron.3",
+      "name": "Алебарда — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.bronze.0",
+      "name": "Алебарда — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.bronze.1",
+      "name": "Алебарда — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.bronze.2",
+      "name": "Алебарда — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.bronze.3",
+      "name": "Алебарда — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.silver.0",
+      "name": "Алебарда — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.silver.1",
+      "name": "Алебарда — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.silver.2",
+      "name": "Алебарда — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.silver.3",
+      "name": "Алебарда — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.mithral.0",
+      "name": "Алебарда — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume06.weapons.forge.27.mithral.1",
+      "name": "Алебарда — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

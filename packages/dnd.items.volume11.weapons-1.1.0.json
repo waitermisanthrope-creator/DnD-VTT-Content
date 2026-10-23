@@ -1,0 +1,3230 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume11.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume11.weapons.forge.47.mithral.2",
+      "name": "Длинный лук — Мифрил +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.47.mithral.3",
+      "name": "Длинный лук — Мифрил +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 150/600)",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_bows",
+        "p_weap_longbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Длинный лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.steel.0",
+      "name": "Тяжелый арбалет — Сталь",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.steel.1",
+      "name": "Тяжелый арбалет — Сталь +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.steel.2",
+      "name": "Тяжелый арбалет — Сталь +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.steel.3",
+      "name": "Тяжелый арбалет — Сталь +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.iron.0",
+      "name": "Тяжелый арбалет — Железо",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.iron.1",
+      "name": "Тяжелый арбалет — Железо +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.iron.2",
+      "name": "Тяжелый арбалет — Железо +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.iron.3",
+      "name": "Тяжелый арбалет — Железо +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.bronze.0",
+      "name": "Тяжелый арбалет — Бронза",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.bronze.1",
+      "name": "Тяжелый арбалет — Бронза +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.bronze.2",
+      "name": "Тяжелый арбалет — Бронза +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.bronze.3",
+      "name": "Тяжелый арбалет — Бронза +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.silver.0",
+      "name": "Тяжелый арбалет — Посеребрение",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.silver.1",
+      "name": "Тяжелый арбалет — Посеребрение +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.silver.2",
+      "name": "Тяжелый арбалет — Посеребрение +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.silver.3",
+      "name": "Тяжелый арбалет — Посеребрение +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.mithral.0",
+      "name": "Тяжелый арбалет — Мифрил",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.mithral.1",
+      "name": "Тяжелый арбалет — Мифрил +1",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.mithral.2",
+      "name": "Тяжелый арбалет — Мифрил +2",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.48.mithral.3",
+      "name": "Тяжелый арбалет — Мифрил +3",
+      "category": "Воинское дальнобойное",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Боеприпас (дистанция 100/400)",
+        "заряжание",
+        "двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.steel.0",
+      "name": "Аркебуза — Сталь",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.steel.1",
+      "name": "Аркебуза — Сталь +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.steel.2",
+      "name": "Аркебуза — Сталь +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.steel.3",
+      "name": "Аркебуза — Сталь +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.iron.0",
+      "name": "Аркебуза — Железо",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "9.9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.iron.1",
+      "name": "Аркебуза — Железо +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "9.9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.iron.2",
+      "name": "Аркебуза — Железо +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "9.9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.iron.3",
+      "name": "Аркебуза — Железо +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "9.9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.bronze.0",
+      "name": "Аркебуза — Бронза",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "10.35 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.bronze.1",
+      "name": "Аркебуза — Бронза +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "10.35 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.bronze.2",
+      "name": "Аркебуза — Бронза +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "10.35 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.bronze.3",
+      "name": "Аркебуза — Бронза +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "10.35 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.silver.0",
+      "name": "Аркебуза — Посеребрение",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.silver.1",
+      "name": "Аркебуза — Посеребрение +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.silver.2",
+      "name": "Аркебуза — Посеребрение +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.silver.3",
+      "name": "Аркебуза — Посеребрение +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "9 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.mithral.0",
+      "name": "Аркебуза — Мифрил",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "4.5 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.mithral.1",
+      "name": "Аркебуза — Мифрил +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "4.5 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.mithral.2",
+      "name": "Аркебуза — Мифрил +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "4.5 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.49.mithral.3",
+      "name": "Аркебуза — Мифрил +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "4.5 фунтов",
+      "cost": "300 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "заряжание",
+        "двуручное",
+        "сошки"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Аркебуза. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.steel.0",
+      "name": "Капсюльный револьвер — Сталь",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.steel.1",
+      "name": "Капсюльный револьвер — Сталь +1",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+1",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.steel.2",
+      "name": "Капсюльный револьвер — Сталь +2",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+2",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.steel.3",
+      "name": "Капсюльный револьвер — Сталь +3",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+3",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.iron.0",
+      "name": "Капсюльный револьвер — Железо",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.iron.1",
+      "name": "Капсюльный револьвер — Железо +1",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+1",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.iron.2",
+      "name": "Капсюльный револьвер — Железо +2",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+2",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.iron.3",
+      "name": "Капсюльный револьвер — Железо +3",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+3",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.bronze.0",
+      "name": "Капсюльный револьвер — Бронза",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.bronze.1",
+      "name": "Капсюльный револьвер — Бронза +1",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+1",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.bronze.2",
+      "name": "Капсюльный револьвер — Бронза +2",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+2",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.bronze.3",
+      "name": "Капсюльный револьвер — Бронза +3",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+3",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.silver.0",
+      "name": "Капсюльный револьвер — Посеребрение",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.silver.1",
+      "name": "Капсюльный револьвер — Посеребрение +1",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+1",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.silver.2",
+      "name": "Капсюльный револьвер — Посеребрение +2",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+2",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.silver.3",
+      "name": "Капсюльный револьвер — Посеребрение +3",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+3",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.mithral.0",
+      "name": "Капсюльный револьвер — Мифрил",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.mithral.1",
+      "name": "Капсюльный револьвер — Мифрил +1",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+1",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.mithral.2",
+      "name": "Капсюльный револьвер — Мифрил +2",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+2",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.50.mithral.3",
+      "name": "Капсюльный револьвер — Мифрил +3",
+      "category": "Огнестрельное (Дикий Запад / Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d6+3",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "700 зм",
+      "properties": [
+        "Боеприпас (дистанция 50/150)",
+        "емкость (6 патронов)"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Капсюльный револьвер. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.steel.0",
+      "name": "Кремневый пистолет — Сталь",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.steel.1",
+      "name": "Кремневый пистолет — Сталь +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.steel.2",
+      "name": "Кремневый пистолет — Сталь +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.steel.3",
+      "name": "Кремневый пистолет — Сталь +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.iron.0",
+      "name": "Кремневый пистолет — Железо",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.iron.1",
+      "name": "Кремневый пистолет — Железо +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.iron.2",
+      "name": "Кремневый пистолет — Железо +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.iron.3",
+      "name": "Кремневый пистолет — Железо +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "3.3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.bronze.0",
+      "name": "Кремневый пистолет — Бронза",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.bronze.1",
+      "name": "Кремневый пистолет — Бронза +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.bronze.2",
+      "name": "Кремневый пистолет — Бронза +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.bronze.3",
+      "name": "Кремневый пистолет — Бронза +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "3.45 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.silver.0",
+      "name": "Кремневый пистолет — Посеребрение",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.silver.1",
+      "name": "Кремневый пистолет — Посеребрение +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.silver.2",
+      "name": "Кремневый пистолет — Посеребрение +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.silver.3",
+      "name": "Кремневый пистолет — Посеребрение +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "3 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.mithral.0",
+      "name": "Кремневый пистолет — Мифрил",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.mithral.1",
+      "name": "Кремневый пистолет — Мифрил +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+1",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.mithral.2",
+      "name": "Кремневый пистолет — Мифрил +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+2",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.51.mithral.3",
+      "name": "Кремневый пистолет — Мифрил +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d10+3",
+      "damageType": "колющий/пуля",
+      "weight": "1.5 фунтов",
+      "cost": "250 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_blowgun"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый пистолет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.steel.0",
+      "name": "Кремневый мушкет — Сталь",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.steel.1",
+      "name": "Кремневый мушкет — Сталь +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.steel.2",
+      "name": "Кремневый мушкет — Сталь +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.steel.3",
+      "name": "Кремневый мушкет — Сталь +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.iron.0",
+      "name": "Кремневый мушкет — Железо",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "колющий/пуля",
+      "weight": "11 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.iron.1",
+      "name": "Кремневый мушкет — Железо +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "колющий/пуля",
+      "weight": "11 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.iron.2",
+      "name": "Кремневый мушкет — Железо +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "колющий/пуля",
+      "weight": "11 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.iron.3",
+      "name": "Кремневый мушкет — Железо +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "колющий/пуля",
+      "weight": "11 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.bronze.0",
+      "name": "Кремневый мушкет — Бронза",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "колющий/пуля",
+      "weight": "11.5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.bronze.1",
+      "name": "Кремневый мушкет — Бронза +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "колющий/пуля",
+      "weight": "11.5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.bronze.2",
+      "name": "Кремневый мушкет — Бронза +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "колющий/пуля",
+      "weight": "11.5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.bronze.3",
+      "name": "Кремневый мушкет — Бронза +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "колющий/пуля",
+      "weight": "11.5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.silver.0",
+      "name": "Кремневый мушкет — Посеребрение",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.silver.1",
+      "name": "Кремневый мушкет — Посеребрение +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.silver.2",
+      "name": "Кремневый мушкет — Посеребрение +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.silver.3",
+      "name": "Кремневый мушкет — Посеребрение +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "колющий/пуля",
+      "weight": "10 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.mithral.0",
+      "name": "Кремневый мушкет — Мифрил",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "колющий/пуля",
+      "weight": "5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume11.weapons.forge.52.mithral.1",
+      "name": "Кремневый мушкет — Мифрил +1",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "колющий/пуля",
+      "weight": "5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

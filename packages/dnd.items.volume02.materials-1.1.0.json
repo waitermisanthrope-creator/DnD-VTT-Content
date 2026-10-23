@@ -1,0 +1,933 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume02.materials",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_tooth",
+      "name": "Зуб гуманоида",
+      "weight": "0.01 кг",
+      "description": "Зуб гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_tooth",
+      "harvestGroup": "humanoid",
+      "harvestPart": "tooth",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_claw",
+      "name": "Коготь гуманоида",
+      "weight": "0.02 кг",
+      "description": "Коготь гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_claw",
+      "harvestGroup": "humanoid",
+      "harvestPart": "claw",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_sinew",
+      "name": "Сухожилие гуманоида",
+      "weight": "0.1 кг",
+      "description": "Сухожилие гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_sinew",
+      "harvestGroup": "humanoid",
+      "harvestPart": "sinew",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_liver",
+      "name": "Печень гуманоида",
+      "weight": "0.4 кг",
+      "description": "Печень гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_liver",
+      "harvestGroup": "humanoid",
+      "harvestPart": "liver",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_gland",
+      "name": "Железа гуманоида",
+      "weight": "0.05 кг",
+      "description": "Железа гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_gland",
+      "harvestGroup": "humanoid",
+      "harvestPart": "gland",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_040"
+      ]
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_horn",
+      "name": "Рог гуманоида",
+      "weight": "0.4 кг",
+      "description": "Рог гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_horn",
+      "harvestGroup": "humanoid",
+      "harvestPart": "horn",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_scale",
+      "name": "Чешуя гуманоида",
+      "weight": "0.1 кг",
+      "description": "Чешуя гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_scale",
+      "harvestGroup": "humanoid",
+      "harvestPart": "scale",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_marrow",
+      "name": "Костный мозг гуманоида",
+      "weight": "0.1 кг",
+      "description": "Костный мозг гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_marrow",
+      "harvestGroup": "humanoid",
+      "harvestPart": "marrow",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_fur",
+      "name": "Мех гуманоида",
+      "weight": "0.3 кг",
+      "description": "Мех гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_fur",
+      "harvestGroup": "humanoid",
+      "harvestPart": "fur",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_feather",
+      "name": "Перо гуманоида",
+      "weight": "0.01 кг",
+      "description": "Перо гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_feather",
+      "harvestGroup": "humanoid",
+      "harvestPart": "feather",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.harvest_humanoid_venom",
+      "name": "Яд гуманоида",
+      "weight": "0.02 кг",
+      "description": "Яд гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_venom",
+      "harvestGroup": "humanoid",
+      "harvestPart": "venom",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_0",
+      "name": "Железо — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_1",
+      "name": "Железо — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_2",
+      "name": "Железо — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_3",
+      "name": "Железо — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_4",
+      "name": "Железо — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_5",
+      "name": "Железо — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_6",
+      "name": "Железо — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_0_7",
+      "name": "Железо — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «железо». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_0_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_0",
+      "name": "Медь — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_1",
+      "name": "Медь — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_2",
+      "name": "Медь — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_3",
+      "name": "Медь — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_4",
+      "name": "Медь — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_5",
+      "name": "Медь — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_6",
+      "name": "Медь — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_1_7",
+      "name": "Медь — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «медь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_1_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_0",
+      "name": "Олово — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_1",
+      "name": "Олово — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_2",
+      "name": "Олово — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_3",
+      "name": "Олово — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_4",
+      "name": "Олово — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_5",
+      "name": "Олово — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_6",
+      "name": "Олово — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_2_7",
+      "name": "Олово — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «олово». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_2_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_0",
+      "name": "Серебро — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_1",
+      "name": "Серебро — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_2",
+      "name": "Серебро — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_3",
+      "name": "Серебро — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_4",
+      "name": "Серебро — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_5",
+      "name": "Серебро — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_6",
+      "name": "Серебро — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_3_7",
+      "name": "Серебро — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «серебро». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_3_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_0",
+      "name": "Золото — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_1",
+      "name": "Золото — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_2",
+      "name": "Золото — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_3",
+      "name": "Золото — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_4",
+      "name": "Золото — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_5",
+      "name": "Золото — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_6",
+      "name": "Золото — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_4_7",
+      "name": "Золото — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «золото». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_4_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_0",
+      "name": "Мифрил — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_1",
+      "name": "Мифрил — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_2",
+      "name": "Мифрил — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_3",
+      "name": "Мифрил — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_4",
+      "name": "Мифрил — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_5",
+      "name": "Мифрил — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_6",
+      "name": "Мифрил — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_5_7",
+      "name": "Мифрил — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «мифрил». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_5_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_0",
+      "name": "Адамантин — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_1",
+      "name": "Адамантин — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_2",
+      "name": "Адамантин — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_3",
+      "name": "Адамантин — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_4",
+      "name": "Адамантин — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_5",
+      "name": "Адамантин — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_6",
+      "name": "Адамантин — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_6_7",
+      "name": "Адамантин — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «адамантин». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_6_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_0",
+      "name": "Обсидиан — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_1",
+      "name": "Обсидиан — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_2",
+      "name": "Обсидиан — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_3",
+      "name": "Обсидиан — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_4",
+      "name": "Обсидиан — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_5",
+      "name": "Обсидиан — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_6",
+      "name": "Обсидиан — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_7_7",
+      "name": "Обсидиан — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «обсидиан». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_7_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_0",
+      "name": "Кварц — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_1",
+      "name": "Кварц — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_2",
+      "name": "Кварц — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_3",
+      "name": "Кварц — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_4",
+      "name": "Кварц — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_5",
+      "name": "Кварц — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_6",
+      "name": "Кварц — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_8_7",
+      "name": "Кварц — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «кварц». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_8_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_0",
+      "name": "Янтарь — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_1",
+      "name": "Янтарь — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_2",
+      "name": "Янтарь — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_3",
+      "name": "Янтарь — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_4",
+      "name": "Янтарь — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_5",
+      "name": "Янтарь — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_6",
+      "name": "Янтарь — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_9_7",
+      "name": "Янтарь — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «янтарь». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_9_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_0",
+      "name": "Гранит — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_0"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_1",
+      "name": "Гранит — порошок",
+      "weight": "0.5 кг",
+      "description": "Порошок материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_1"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_2",
+      "name": "Гранит — кусок",
+      "weight": "0.5 кг",
+      "description": "Кусок материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_2"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_3",
+      "name": "Гранит — заготовка",
+      "weight": "0.5 кг",
+      "description": "Заготовка материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_3"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_4",
+      "name": "Гранит — смесь",
+      "weight": "0.5 кг",
+      "description": "Смесь материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_4"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_5",
+      "name": "Гранит — паста",
+      "weight": "0.5 кг",
+      "description": "Паста материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_5"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_6",
+      "name": "Гранит — концентрат",
+      "weight": "0.5 кг",
+      "description": "Концентрат материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_6"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_10_7",
+      "name": "Гранит — образец",
+      "weight": "0.5 кг",
+      "description": "Образец материала «гранит». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_10_7"
+    },
+    {
+      "id": "dnd.items.volume02.materials.resource_11_0",
+      "name": "Мрамор — крошка",
+      "weight": "0.5 кг",
+      "description": "Крошка материала «мрамор». Заготовка для будущих рецептов; автоматического рецепта пока нет.",
+      "inventoryCategory": "materials",
+      "category": "Минеральное сырьё",
+      "craftMaterialId": "resource_11_0"
+    }
+  ]
+}

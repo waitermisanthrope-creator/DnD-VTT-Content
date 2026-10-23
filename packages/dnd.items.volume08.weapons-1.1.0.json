@@ -1,0 +1,3174 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume08.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume08.weapons.forge.32.mithral.2",
+      "name": "Люцернский молот — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "дробящий/колющий",
+      "weight": "4 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.32.mithral.3",
+      "name": "Люцернский молот — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "дробящий/колющий",
+      "weight": "4 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.steel.0",
+      "name": "Меч палача — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.steel.1",
+      "name": "Меч палача — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.steel.2",
+      "name": "Меч палача — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.steel.3",
+      "name": "Меч палача — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.iron.0",
+      "name": "Меч палача — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "8.8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.iron.1",
+      "name": "Меч палача — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "8.8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.iron.2",
+      "name": "Меч палача — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "8.8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.iron.3",
+      "name": "Меч палача — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "8.8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.bronze.0",
+      "name": "Меч палача — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "9.2 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.bronze.1",
+      "name": "Меч палача — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "9.2 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.bronze.2",
+      "name": "Меч палача — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "9.2 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.bronze.3",
+      "name": "Меч палача — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "9.2 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.silver.0",
+      "name": "Меч палача — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.silver.1",
+      "name": "Меч палача — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.silver.2",
+      "name": "Меч палача — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.silver.3",
+      "name": "Меч палача — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "8 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.mithral.0",
+      "name": "Меч палача — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.mithral.1",
+      "name": "Меч палача — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.mithral.2",
+      "name": "Меч палача — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.33.mithral.3",
+      "name": "Меч палача — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "4 фунтов",
+      "cost": "60 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "казнь (крит х3 в хб)"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Меч палача. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.steel.0",
+      "name": "Молот (Тяжелый двуручный) — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.steel.1",
+      "name": "Молот (Тяжелый двуручный) — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.steel.2",
+      "name": "Молот (Тяжелый двуручный) — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.steel.3",
+      "name": "Молот (Тяжелый двуручный) — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.iron.0",
+      "name": "Молот (Тяжелый двуручный) — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.iron.1",
+      "name": "Молот (Тяжелый двуручный) — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.iron.2",
+      "name": "Молот (Тяжелый двуручный) — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.iron.3",
+      "name": "Молот (Тяжелый двуручный) — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.bronze.0",
+      "name": "Молот (Тяжелый двуручный) — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.bronze.1",
+      "name": "Молот (Тяжелый двуручный) — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.bronze.2",
+      "name": "Молот (Тяжелый двуручный) — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.bronze.3",
+      "name": "Молот (Тяжелый двуручный) — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.silver.0",
+      "name": "Молот (Тяжелый двуручный) — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.silver.1",
+      "name": "Молот (Тяжелый двуручный) — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.silver.2",
+      "name": "Молот (Тяжелый двуручный) — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.silver.3",
+      "name": "Молот (Тяжелый двуручный) — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.mithral.0",
+      "name": "Молот (Тяжелый двуручный) — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.mithral.1",
+      "name": "Молот (Тяжелый двуручный) — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.mithral.2",
+      "name": "Молот (Тяжелый двуручный) — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.34.mithral.3",
+      "name": "Молот (Тяжелый двуручный) — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "10 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_maul"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Молот (Тяжелый двуручный). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.steel.0",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.steel.1",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.steel.2",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.steel.3",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.iron.0",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.iron.1",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.iron.2",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.iron.3",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.bronze.0",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.bronze.1",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.bronze.2",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.bronze.3",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.silver.0",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.silver.1",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.silver.2",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.silver.3",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.mithral.0",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.mithral.1",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.mithral.2",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.35.mithral.3",
+      "name": "Нодати (Длинный двуручный самурайский меч) — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "75 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "фехтовальное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Нодати (Длинный двуручный самурайский меч). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.steel.0",
+      "name": "Пика — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.steel.1",
+      "name": "Пика — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.steel.2",
+      "name": "Пика — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.steel.3",
+      "name": "Пика — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.iron.0",
+      "name": "Пика — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.iron.1",
+      "name": "Пика — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.iron.2",
+      "name": "Пика — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.iron.3",
+      "name": "Пика — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "19.8 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.bronze.0",
+      "name": "Пика — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.bronze.1",
+      "name": "Пика — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.bronze.2",
+      "name": "Пика — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.bronze.3",
+      "name": "Пика — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "20.7 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.silver.0",
+      "name": "Пика — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.silver.1",
+      "name": "Пика — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.silver.2",
+      "name": "Пика — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.silver.3",
+      "name": "Пика — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "18 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.mithral.0",
+      "name": "Пика — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.mithral.1",
+      "name": "Пика — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.mithral.2",
+      "name": "Пика — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.36.mithral.3",
+      "name": "Пика — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "колющий",
+      "weight": "9 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Пика. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.steel.0",
+      "name": "Секира (Двуручный топор) — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.steel.1",
+      "name": "Секира (Двуручный топор) — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.steel.2",
+      "name": "Секира (Двуручный топор) — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.steel.3",
+      "name": "Секира (Двуручный топор) — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.iron.0",
+      "name": "Секира (Двуручный топор) — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.iron.1",
+      "name": "Секира (Двуручный топор) — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.iron.2",
+      "name": "Секира (Двуручный топор) — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.iron.3",
+      "name": "Секира (Двуручный топор) — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "7.7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.bronze.0",
+      "name": "Секира (Двуручный топор) — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.bronze.1",
+      "name": "Секира (Двуручный топор) — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.bronze.2",
+      "name": "Секира (Двуручный топор) — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.bronze.3",
+      "name": "Секира (Двуручный топор) — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "8.05 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.silver.0",
+      "name": "Секира (Двуручный топор) — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.silver.1",
+      "name": "Секира (Двуручный топор) — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.silver.2",
+      "name": "Секира (Двуручный топор) — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.silver.3",
+      "name": "Секира (Двуручный топор) — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "7 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.mithral.0",
+      "name": "Секира (Двуручный топор) — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume08.weapons.forge.37.mithral.1",
+      "name": "Секира (Двуручный топор) — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

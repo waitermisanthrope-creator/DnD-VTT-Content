@@ -1,0 +1,1168 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume02.consumables",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume02.consumables.healing.6.8",
+      "name": "Мазь восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.6.9",
+      "name": "Порошок восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.0",
+      "name": "Микстура восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.1",
+      "name": "Бальзам восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.2",
+      "name": "Отвар восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.3",
+      "name": "Настойка восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.4",
+      "name": "Эссенция восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.5",
+      "name": "Эликсир восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.6",
+      "name": "Пилюля восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.7",
+      "name": "Сироп восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.8",
+      "name": "Мазь восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.7.9",
+      "name": "Порошок восстановления (20 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 20 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 20
+        }
+      ],
+      "potency": 200
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.0",
+      "name": "Микстура восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.1",
+      "name": "Бальзам восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.2",
+      "name": "Отвар восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.3",
+      "name": "Настойка восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.4",
+      "name": "Эссенция восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.5",
+      "name": "Эликсир восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.6",
+      "name": "Пилюля восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.7",
+      "name": "Сироп восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.8",
+      "name": "Мазь восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.8.9",
+      "name": "Порошок восстановления (24 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 24 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 24
+        }
+      ],
+      "potency": 240
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.0",
+      "name": "Микстура восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.1",
+      "name": "Бальзам восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.2",
+      "name": "Отвар восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.3",
+      "name": "Настойка восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.4",
+      "name": "Эссенция восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.5",
+      "name": "Эликсир восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.6",
+      "name": "Пилюля восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.7",
+      "name": "Сироп восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.8",
+      "name": "Мазь восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.healing.9.9",
+      "name": "Порошок восстановления (30 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 30 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 30
+        }
+      ],
+      "potency": 300
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.0.0",
+      "name": "Хлеб — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: хлеб. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.0.1",
+      "name": "Хлеб — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: хлеб. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.0.2",
+      "name": "Хлеб — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: хлеб. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.0.3",
+      "name": "Хлеб — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: хлеб. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.0.4",
+      "name": "Хлеб — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: хлеб. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.1.0",
+      "name": "Сухари — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: сухари. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.1.1",
+      "name": "Сухари — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: сухари. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.1.2",
+      "name": "Сухари — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: сухари. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.1.3",
+      "name": "Сухари — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: сухари. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.1.4",
+      "name": "Сухари — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: сухари. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.2.0",
+      "name": "Вяленое мясо — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: вяленое мясо. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.2.1",
+      "name": "Вяленое мясо — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: вяленое мясо. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.2.2",
+      "name": "Вяленое мясо — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: вяленое мясо. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.2.3",
+      "name": "Вяленое мясо — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: вяленое мясо. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.2.4",
+      "name": "Вяленое мясо — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: вяленое мясо. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.3.0",
+      "name": "Сыр — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: сыр. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.3.1",
+      "name": "Сыр — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: сыр. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.3.2",
+      "name": "Сыр — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: сыр. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.3.3",
+      "name": "Сыр — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: сыр. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.3.4",
+      "name": "Сыр — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: сыр. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.4.0",
+      "name": "Сушёные яблоки — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: сушёные яблоки. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.4.1",
+      "name": "Сушёные яблоки — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: сушёные яблоки. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.4.2",
+      "name": "Сушёные яблоки — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: сушёные яблоки. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.4.3",
+      "name": "Сушёные яблоки — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: сушёные яблоки. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.4.4",
+      "name": "Сушёные яблоки — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: сушёные яблоки. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.5.0",
+      "name": "Орехи — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: орехи. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.5.1",
+      "name": "Орехи — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: орехи. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.5.2",
+      "name": "Орехи — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: орехи. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.5.3",
+      "name": "Орехи — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: орехи. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.5.4",
+      "name": "Орехи — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: орехи. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.6.0",
+      "name": "Каша — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: каша. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.6.1",
+      "name": "Каша — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: каша. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.6.2",
+      "name": "Каша — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: каша. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.6.3",
+      "name": "Каша — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: каша. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.6.4",
+      "name": "Каша — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: каша. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.7.0",
+      "name": "Суп — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: суп. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.7.1",
+      "name": "Суп — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: суп. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.7.2",
+      "name": "Суп — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: суп. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.7.3",
+      "name": "Суп — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: суп. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.7.4",
+      "name": "Суп — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: суп. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.8.0",
+      "name": "Похлёбка — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: похлёбка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.8.1",
+      "name": "Похлёбка — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: похлёбка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.8.2",
+      "name": "Похлёбка — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: похлёбка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.8.3",
+      "name": "Похлёбка — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: похлёбка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.8.4",
+      "name": "Похлёбка — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: похлёбка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.9.0",
+      "name": "Лепёшка — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: лепёшка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.9.1",
+      "name": "Лепёшка — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: лепёшка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.9.2",
+      "name": "Лепёшка — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: лепёшка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.9.3",
+      "name": "Лепёшка — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: лепёшка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.9.4",
+      "name": "Лепёшка — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: лепёшка. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.10.0",
+      "name": "Пирог — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: пирог. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.10.1",
+      "name": "Пирог — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: пирог. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.10.2",
+      "name": "Пирог — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: пирог. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.10.3",
+      "name": "Пирог — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: пирог. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.10.4",
+      "name": "Пирог — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: пирог. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.11.0",
+      "name": "Сушёная рыба — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: сушёная рыба. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.11.1",
+      "name": "Сушёная рыба — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: сушёная рыба. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.11.2",
+      "name": "Сушёная рыба — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: сушёная рыба. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.11.3",
+      "name": "Сушёная рыба — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: сушёная рыба. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.11.4",
+      "name": "Сушёная рыба — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: сушёная рыба. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.12.0",
+      "name": "Мёд — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: мёд. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.12.1",
+      "name": "Мёд — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: мёд. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.12.2",
+      "name": "Мёд — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: мёд. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.12.3",
+      "name": "Мёд — походный запас",
+      "weight": "0.6 кг",
+      "description": "Походный запас: мёд. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.12.4",
+      "name": "Мёд — праздничная порция",
+      "weight": "0.75 кг",
+      "description": "Праздничная порция: мёд. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.13.0",
+      "name": "Чай — малая порция",
+      "weight": "0.15 кг",
+      "description": "Малая порция: чай. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.13.1",
+      "name": "Чай — дорожная порция",
+      "weight": "0.3 кг",
+      "description": "Дорожная порция: чай. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.volume02.consumables.provision.13.2",
+      "name": "Чай — большая порция",
+      "weight": "0.45 кг",
+      "description": "Большая порция: чай. Применение списывает одну единицу. Питание и прочие эффекты учитывает мастер. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "category": "Провизия",
+      "useMode": "manual",
+      "effects": []
+    }
+  ]
+}

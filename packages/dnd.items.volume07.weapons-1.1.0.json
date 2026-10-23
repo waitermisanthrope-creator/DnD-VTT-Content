@@ -1,0 +1,3184 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume07.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume07.weapons.forge.27.mithral.2",
+      "name": "Алебарда — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.27.mithral.3",
+      "name": "Алебарда — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_halberd"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Алебарда. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.steel.0",
+      "name": "Великая дубина — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.steel.1",
+      "name": "Великая дубина — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.steel.2",
+      "name": "Великая дубина — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.steel.3",
+      "name": "Великая дубина — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.iron.0",
+      "name": "Великая дубина — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.iron.1",
+      "name": "Великая дубина — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.iron.2",
+      "name": "Великая дубина — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.iron.3",
+      "name": "Великая дубина — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.bronze.0",
+      "name": "Великая дубина — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.bronze.1",
+      "name": "Великая дубина — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.bronze.2",
+      "name": "Великая дубина — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.bronze.3",
+      "name": "Великая дубина — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.silver.0",
+      "name": "Великая дубина — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.silver.1",
+      "name": "Великая дубина — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.silver.2",
+      "name": "Великая дубина — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.silver.3",
+      "name": "Великая дубина — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.mithral.0",
+      "name": "Великая дубина — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.mithral.1",
+      "name": "Великая дубина — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.mithral.2",
+      "name": "Великая дубина — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.28.mithral.3",
+      "name": "Великая дубина — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_greatclub"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великая дубина. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.steel.0",
+      "name": "Великий меч (Двуручник) — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.steel.1",
+      "name": "Великий меч (Двуручник) — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.steel.2",
+      "name": "Великий меч (Двуручник) — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.steel.3",
+      "name": "Великий меч (Двуручник) — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.iron.0",
+      "name": "Великий меч (Двуручник) — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.iron.1",
+      "name": "Великий меч (Двуручник) — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.iron.2",
+      "name": "Великий меч (Двуручник) — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.iron.3",
+      "name": "Великий меч (Двуручник) — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.bronze.0",
+      "name": "Великий меч (Двуручник) — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.bronze.1",
+      "name": "Великий меч (Двуручник) — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.bronze.2",
+      "name": "Великий меч (Двуручник) — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.bronze.3",
+      "name": "Великий меч (Двуручник) — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.silver.0",
+      "name": "Великий меч (Двуручник) — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.silver.1",
+      "name": "Великий меч (Двуручник) — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.silver.2",
+      "name": "Великий меч (Двуручник) — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.silver.3",
+      "name": "Великий меч (Двуручник) — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.mithral.0",
+      "name": "Великий меч (Двуручник) — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.mithral.1",
+      "name": "Великий меч (Двуручник) — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.mithral.2",
+      "name": "Великий меч (Двуручник) — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.29.mithral.3",
+      "name": "Великий меч (Двуручник) — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "50 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greatsword"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Великий меч (Двуручник). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.steel.0",
+      "name": "Глефа — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.steel.1",
+      "name": "Глефа — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.steel.2",
+      "name": "Глефа — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.steel.3",
+      "name": "Глефа — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.iron.0",
+      "name": "Глефа — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.iron.1",
+      "name": "Глефа — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.iron.2",
+      "name": "Глефа — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.iron.3",
+      "name": "Глефа — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.bronze.0",
+      "name": "Глефа — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.bronze.1",
+      "name": "Глефа — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.bronze.2",
+      "name": "Глефа — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.bronze.3",
+      "name": "Глефа — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.silver.0",
+      "name": "Глефа — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.silver.1",
+      "name": "Глефа — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.silver.2",
+      "name": "Глефа — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.silver.3",
+      "name": "Глефа — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.mithral.0",
+      "name": "Глефа — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.mithral.1",
+      "name": "Глефа — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.mithral.2",
+      "name": "Глефа — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.30.mithral.3",
+      "name": "Глефа — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "20 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_glaive"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Глефа. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.steel.0",
+      "name": "Двойной скимитар (Валарский клинок) — Сталь",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.steel.1",
+      "name": "Двойной скимитар (Валарский клинок) — Сталь +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.steel.2",
+      "name": "Двойной скимитар (Валарский клинок) — Сталь +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.steel.3",
+      "name": "Двойной скимитар (Валарский клинок) — Сталь +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.iron.0",
+      "name": "Двойной скимитар (Валарский клинок) — Железо",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.iron.1",
+      "name": "Двойной скимитар (Валарский клинок) — Железо +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+1",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.iron.2",
+      "name": "Двойной скимитар (Валарский клинок) — Железо +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+2",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.iron.3",
+      "name": "Двойной скимитар (Валарский клинок) — Железо +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+3",
+      "damageType": "рубящий",
+      "weight": "6.6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.bronze.0",
+      "name": "Двойной скимитар (Валарский клинок) — Бронза",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.bronze.1",
+      "name": "Двойной скимитар (Валарский клинок) — Бронза +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+1",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.bronze.2",
+      "name": "Двойной скимитар (Валарский клинок) — Бронза +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+2",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.bronze.3",
+      "name": "Двойной скимитар (Валарский клинок) — Бронза +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+3",
+      "damageType": "рубящий",
+      "weight": "6.9 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.silver.0",
+      "name": "Двойной скимитар (Валарский клинок) — Посеребрение",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.silver.1",
+      "name": "Двойной скимитар (Валарский клинок) — Посеребрение +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+1",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.silver.2",
+      "name": "Двойной скимитар (Валарский клинок) — Посеребрение +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+2",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.silver.3",
+      "name": "Двойной скимитар (Валарский клинок) — Посеребрение +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+3",
+      "damageType": "рубящий",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.mithral.0",
+      "name": "Двойной скимитар (Валарский клинок) — Мифрил",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.mithral.1",
+      "name": "Двойной скимитар (Валарский клинок) — Мифрил +1",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+1",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.mithral.2",
+      "name": "Двойной скимитар (Валарский клинок) — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+2",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.31.mithral.3",
+      "name": "Двойной скимитар (Валарский клинок) — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d4+3",
+      "damageType": "рубящий",
+      "weight": "3 фунтов",
+      "cost": "100 зм",
+      "properties": [
+        "Двуручное",
+        "фехтовальное",
+        "особое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_scimitar"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Двойной скимитар (Валарский клинок). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.steel.0",
+      "name": "Люцернский молот — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.steel.1",
+      "name": "Люцернский молот — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.steel.2",
+      "name": "Люцернский молот — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.steel.3",
+      "name": "Люцернский молот — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.iron.0",
+      "name": "Люцернский молот — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "дробящий/колющий",
+      "weight": "8.8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.iron.1",
+      "name": "Люцернский молот — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "дробящий/колющий",
+      "weight": "8.8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.iron.2",
+      "name": "Люцернский молот — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "дробящий/колющий",
+      "weight": "8.8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.iron.3",
+      "name": "Люцернский молот — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "дробящий/колющий",
+      "weight": "8.8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.bronze.0",
+      "name": "Люцернский молот — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "дробящий/колющий",
+      "weight": "9.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.bronze.1",
+      "name": "Люцернский молот — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "дробящий/колющий",
+      "weight": "9.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.bronze.2",
+      "name": "Люцернский молот — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "дробящий/колющий",
+      "weight": "9.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.bronze.3",
+      "name": "Люцернский молот — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "дробящий/колющий",
+      "weight": "9.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.silver.0",
+      "name": "Люцернский молот — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.silver.1",
+      "name": "Люцернский молот — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.silver.2",
+      "name": "Люцернский молот — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+2",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.silver.3",
+      "name": "Люцернский молот — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+3",
+      "damageType": "дробящий/колющий",
+      "weight": "8 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.mithral.0",
+      "name": "Люцернский молот — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10",
+      "damageType": "дробящий/колющий",
+      "weight": "4 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume07.weapons.forge.32.mithral.1",
+      "name": "Люцернский молот — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d10+1",
+      "damageType": "дробящий/колющий",
+      "weight": "4 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "досягаемость",
+        "бронебойное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_warhammer",
+        "p_weap_pike"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Люцернский молот. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

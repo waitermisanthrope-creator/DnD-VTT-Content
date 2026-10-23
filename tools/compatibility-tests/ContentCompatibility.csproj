@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType><TargetFramework>net8.0</TargetFramework>
+    <PublishedUnityRoot Condition="'$(PublishedUnityRoot)' == ''">../../../DnD-VTT-Unity-Published</PublishedUnityRoot>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="$(PublishedUnityRoot)/unity/ci/workshop-tests/WorkshopTests.csproj" /></ItemGroup>
+</Project>

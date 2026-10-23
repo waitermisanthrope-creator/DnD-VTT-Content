@@ -1,0 +1,1065 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.materials",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.materials.1",
+      "name": "Железная руда / Слиток железа",
+      "category": "Металл (Базовый)",
+      "weight": "5 фунтов",
+      "cost": "1 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Железная руда / Слиток железа. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.2",
+      "name": "Стальной слиток",
+      "category": "Металл (Обработанный)",
+      "weight": "5 фунтов",
+      "cost": "5 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Стальной слиток. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.3",
+      "name": "Чистое серебро",
+      "category": "Драгоценный металл",
+      "weight": "1 фунт",
+      "cost": "50 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Чистое серебро. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.4",
+      "name": "Золотой слиток",
+      "category": "Драгоценный металл",
+      "weight": "1 фунт",
+      "cost": "50 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Золотой слиток. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.5",
+      "name": "Мифриловая руда",
+      "category": "Редкий металл (DMG)",
+      "weight": "2 фунта",
+      "cost": "500 зм",
+      "rarity": "Редкое",
+      "description": "Предмет игрового справочника: Мифриловая руда. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.6",
+      "name": "Адамантитовый сплав",
+      "category": "Редкий металл (DMG)",
+      "weight": "5 фунтов",
+      "cost": "1000 зм",
+      "rarity": "Очень редкое",
+      "description": "Предмет игрового справочника: Адамантитовый сплав. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.7",
+      "name": "Темная сталь",
+      "category": "Металл (Редкий)",
+      "weight": "6 фунтов",
+      "cost": "100 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Темная сталь. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.8",
+      "name": "Твердая древесина (Дуб / Ясень)",
+      "category": "Древесина (Базовая)",
+      "weight": "10 фунтов",
+      "cost": "1 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Твердая древесина (Дуб / Ясень). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.9",
+      "name": "Железное дерево",
+      "category": "Древесина (Редкая)",
+      "weight": "10 фунтов",
+      "cost": "50 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Железное дерево. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.10",
+      "name": "Толстая шкура зверя",
+      "category": "Органический материал",
+      "weight": "5 фунтов",
+      "cost": "5 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Толстая шкура зверя. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.11",
+      "name": "Шкура дрейка / химеры",
+      "category": "Органический материал",
+      "weight": "8 фунтов",
+      "cost": "200 зм",
+      "rarity": "Редкое",
+      "description": "Предмет игрового справочника: Шкура дрейка / химеры. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.12",
+      "name": "Сухожилие монстра",
+      "category": "Органический материал",
+      "weight": "1 фунт",
+      "cost": "25 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Сухожилия великана / монстра. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials",
+      "legacyName": "Сухожилия великана / монстра",
+      "craftMaterialId": "harvest_monster_sinew"
+    },
+    {
+      "id": "dnd.items.materials.13",
+      "name": "Сера (самородная)",
+      "category": "Алхимия (Минерал)",
+      "weight": "1 фунт",
+      "cost": "2 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Сера (самородная). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.14",
+      "name": "Калийная селитра",
+      "category": "Алхимия (Минерал)",
+      "weight": "1 фунт",
+      "cost": "5 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Калийная селитра. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.15",
+      "name": "Древесный уголь особой очистки",
+      "category": "Алхимия / Сырье",
+      "weight": "1 фунт",
+      "cost": "1 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Древесный уголь особой очистки. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.16",
+      "name": "Экстракт белладонны (Ночной паслен)",
+      "category": "Алхимия / Токсин",
+      "weight": "0.1 фунта",
+      "cost": "25 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Экстракт белладонны (Ночной паслен). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.17",
+      "name": "Яд животного",
+      "category": "Алхимия / Токсин",
+      "weight": "0.5 фунта",
+      "cost": "200 зм",
+      "rarity": "Редкое",
+      "description": "Предмет игрового справочника: Яд виверны / змеи. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials",
+      "legacyName": "Яд виверны / змеи",
+      "craftMaterialId": "harvest_animal_venom"
+    },
+    {
+      "id": "dnd.items.materials.18",
+      "name": "Целебные травы (Аглаона / Корень жизни)",
+      "category": "Алхимия / Травы",
+      "weight": "0.5 фунта",
+      "cost": "10 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Целебные травы (Аглаона / Корень жизни). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.19",
+      "name": "Фосфоресцирующий мох",
+      "category": "Алхимия / Редкое сырье",
+      "weight": "0.2 фунта",
+      "cost": "40 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Фосфоресцирующий мох. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.20",
+      "name": "Алхимическая ртуть",
+      "category": "Алхимическая жидкость",
+      "weight": "1 фунт",
+      "cost": "100 зм",
+      "rarity": "Редкое",
+      "description": "Предмет игрового справочника: Алхимическая ртуть. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.21",
+      "name": "Кристаллы солевой кислоты",
+      "category": "Алхимия / Кислота",
+      "weight": "1 фунт",
+      "cost": "15 зм",
+      "rarity": "Обычное",
+      "description": "Предмет игрового справочника: Кристаллы солевой кислоты. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.22",
+      "name": "Эссенция пламени (Искровая руна)",
+      "category": "Магический компонент",
+      "weight": "0.1 фунта",
+      "cost": "150 зм",
+      "rarity": "Редкое",
+      "description": "Предмет игрового справочника: Эссенция пламени (Искровая руна). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.23",
+      "name": "Ледяной осколок (Сердце зимы)",
+      "category": "Магический компонент",
+      "weight": "0.1 фунта",
+      "cost": "150 зм",
+      "rarity": "Редкое",
+      "description": "Предмет игрового справочника: Ледяной осколок (Сердце зимы). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.24",
+      "name": "Громовая пыль (Осколок бури)",
+      "category": "Магический компонент",
+      "weight": "0.2 фунта",
+      "cost": "300 зм",
+      "rarity": "Очень редкое",
+      "description": "Предмет игрового справочника: Громовая пыль (Осколок бури). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.25",
+      "name": "Чистый мана-кристал (Астральный осколок)",
+      "category": "Магический компонент",
+      "weight": "0.2 фунта",
+      "cost": "250 зм",
+      "rarity": "Редкое",
+      "description": "Предмет игрового справочника: Чистый мана-кристал (Астральный осколок). Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.26",
+      "name": "Кровь мантикоры / химеры",
+      "category": "Магический компонент",
+      "weight": "1 фунт",
+      "cost": "80 зм",
+      "rarity": "Необычное",
+      "description": "Предмет игрового справочника: Кровь мантикоры / химеры. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials"
+    },
+    {
+      "id": "dnd.items.materials.27",
+      "name": "Чешуя монстра",
+      "category": "Редкий компонент",
+      "weight": "2 фунта",
+      "cost": "1000 зм",
+      "rarity": "Легендарное",
+      "description": "Предмет игрового справочника: Чешуя взрослого дракона. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials",
+      "legacyName": "Чешуя взрослого дракона",
+      "craftMaterialId": "harvest_monster_scale"
+    },
+    {
+      "id": "dnd.items.materials.28",
+      "name": "Рог монстра",
+      "category": "Редкий компонент",
+      "weight": "3 фунта",
+      "cost": "500 зм",
+      "rarity": "Очень редкое",
+      "description": "Предмет игрового справочника: Рог исчадия / демона. Характеристики указаны в полях записи.",
+      "inventoryCategory": "materials",
+      "legacyName": "Рог исчадия / демона",
+      "craftMaterialId": "harvest_monster_horn"
+    },
+    {
+      "id": "dnd.items.materials.craft.iron",
+      "name": "Железо",
+      "weight": 1,
+      "description": "Железо: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "iron",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.steel",
+      "name": "Сталь",
+      "weight": 1,
+      "description": "Сталь: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "steel",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.mithral",
+      "name": "Мифрил",
+      "weight": 1,
+      "description": "Мифрил: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "mithral",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.adamantine",
+      "name": "Адамантин",
+      "weight": 1,
+      "description": "Адамантин: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "adamantine",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.silver",
+      "name": "Серебро",
+      "weight": 1,
+      "description": "Серебро: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "silver",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.copper",
+      "name": "Медь",
+      "weight": 1,
+      "description": "Медь: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "copper",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.wood",
+      "name": "Древесина",
+      "weight": 1,
+      "description": "Древесина: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "wood",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.hardwood",
+      "name": "Твёрдая древесина",
+      "weight": 1,
+      "description": "Твёрдая древесина: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "hardwood",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.darkwood",
+      "name": "Тенедревесина",
+      "weight": 1,
+      "description": "Тенедревесина: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "darkwood",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.leather",
+      "name": "Кожа",
+      "weight": 0.5,
+      "description": "Кожа: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "leather",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.hide",
+      "name": "Шкура",
+      "weight": 1,
+      "description": "Шкура: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "hide",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.dragonscale",
+      "name": "Чешуя монстра",
+      "weight": 0.5,
+      "description": "Драконья чешуя: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "dragonScale",
+      "category": "Ремесленный материал",
+      "legacyName": "Драконья чешуя"
+    },
+    {
+      "id": "dnd.items.materials.craft.spidersilk",
+      "name": "Паучий шёлк",
+      "weight": 0.2,
+      "description": "Паучий шёлк: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "spiderSilk",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.cloth",
+      "name": "Ткань",
+      "weight": 0.2,
+      "description": "Ткань: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "cloth",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.thread",
+      "name": "Нить",
+      "weight": 0.1,
+      "description": "Нить: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "thread",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.paper",
+      "name": "Бумага",
+      "weight": 0.05,
+      "description": "Бумага: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "paper",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.parchment",
+      "name": "Пергамент",
+      "weight": 0.05,
+      "description": "Пергамент: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "parchment",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.glass",
+      "name": "Стекло",
+      "weight": 0.2,
+      "description": "Стекло: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "glass",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.crystal",
+      "name": "Кристалл",
+      "weight": 0.2,
+      "description": "Кристалл: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "crystal",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.clay",
+      "name": "Глина",
+      "weight": 1,
+      "description": "Глина: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "clay",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.ceramic",
+      "name": "Керамика",
+      "weight": 0.5,
+      "description": "Керамика: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "ceramic",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.charcoal",
+      "name": "Древесный уголь",
+      "weight": 0.5,
+      "description": "Древесный уголь: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "charcoal",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.salt",
+      "name": "Соль",
+      "weight": 0.2,
+      "description": "Соль: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "salt",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.resin",
+      "name": "Смола",
+      "weight": 0.2,
+      "description": "Смола: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "resin",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.wax",
+      "name": "Воск",
+      "weight": 0.2,
+      "description": "Воск: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "wax",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.gem",
+      "name": "Драгоценный камень",
+      "weight": 0.1,
+      "description": "Драгоценный камень: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "gem",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.ink",
+      "name": "Чернила",
+      "weight": 0.05,
+      "description": "Чернила: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "ink",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.herb",
+      "name": "Сушёные травы",
+      "weight": 0.1,
+      "description": "Сушёные травы: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "herb",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.craft.monsterpart",
+      "name": "Часть чудовища",
+      "weight": 0.2,
+      "description": "Часть чудовища: материал для рецептов ремесленной мастерской.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "monsterPart",
+      "category": "Ремесленный материал"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_heart",
+      "name": "Сердце животного",
+      "weight": "0.3 кг",
+      "description": "Сердце животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_heart",
+      "harvestGroup": "animal",
+      "harvestPart": "heart",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_blood",
+      "name": "Кровь животного",
+      "weight": "0.25 кг",
+      "description": "Кровь животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_blood",
+      "harvestGroup": "animal",
+      "harvestPart": "blood",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_027"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_bone",
+      "name": "Кость животного",
+      "weight": "0.2 кг",
+      "description": "Кость животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_bone",
+      "harvestGroup": "animal",
+      "harvestPart": "bone",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_hide",
+      "name": "Шкура животного",
+      "weight": "2 кг",
+      "description": "Шкура животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_hide",
+      "harvestGroup": "animal",
+      "harvestPart": "hide",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_meat",
+      "name": "Мясо животного",
+      "weight": "0.5 кг",
+      "description": "Мясо животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_meat",
+      "harvestGroup": "animal",
+      "harvestPart": "meat",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_fat",
+      "name": "Жир животного",
+      "weight": "0.25 кг",
+      "description": "Жир животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_fat",
+      "harvestGroup": "animal",
+      "harvestPart": "fat",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_eye",
+      "name": "Глаз животного",
+      "weight": "0.02 кг",
+      "description": "Глаз животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_eye",
+      "harvestGroup": "animal",
+      "harvestPart": "eye",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_028"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_tooth",
+      "name": "Зуб животного",
+      "weight": "0.01 кг",
+      "description": "Зуб животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_tooth",
+      "harvestGroup": "animal",
+      "harvestPart": "tooth",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_025"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_claw",
+      "name": "Коготь животного",
+      "weight": "0.02 кг",
+      "description": "Коготь животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_claw",
+      "harvestGroup": "animal",
+      "harvestPart": "claw",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_030"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_sinew",
+      "name": "Сухожилие животного",
+      "weight": "0.1 кг",
+      "description": "Сухожилие животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_sinew",
+      "harvestGroup": "animal",
+      "harvestPart": "sinew",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_liver",
+      "name": "Печень животного",
+      "weight": "0.4 кг",
+      "description": "Печень животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_liver",
+      "harvestGroup": "animal",
+      "harvestPart": "liver",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_gland",
+      "name": "Железа животного",
+      "weight": "0.05 кг",
+      "description": "Железа животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_gland",
+      "harvestGroup": "animal",
+      "harvestPart": "gland",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_horn",
+      "name": "Рог животного",
+      "weight": "0.4 кг",
+      "description": "Рог животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_horn",
+      "harvestGroup": "animal",
+      "harvestPart": "horn",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_scale",
+      "name": "Чешуя животного",
+      "weight": "0.1 кг",
+      "description": "Чешуя животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_scale",
+      "harvestGroup": "animal",
+      "harvestPart": "scale",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_marrow",
+      "name": "Костный мозг животного",
+      "weight": "0.1 кг",
+      "description": "Костный мозг животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_marrow",
+      "harvestGroup": "animal",
+      "harvestPart": "marrow",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_fur",
+      "name": "Мех животного",
+      "weight": "0.3 кг",
+      "description": "Мех животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_fur",
+      "harvestGroup": "animal",
+      "harvestPart": "fur",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_feather",
+      "name": "Перо животного",
+      "weight": "0.01 кг",
+      "description": "Перо животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_feather",
+      "harvestGroup": "animal",
+      "harvestPart": "feather",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_029",
+        "ing_082"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_animal_venom",
+      "name": "Яд животного",
+      "weight": "0.02 кг",
+      "description": "Яд животного. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_animal_venom",
+      "harvestGroup": "animal",
+      "harvestPart": "venom",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_heart",
+      "name": "Сердце монстра",
+      "weight": "0.3 кг",
+      "description": "Сердце монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_heart",
+      "harvestGroup": "monster",
+      "harvestPart": "heart",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_blood",
+      "name": "Кровь монстра",
+      "weight": "0.25 кг",
+      "description": "Кровь монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_blood",
+      "harvestGroup": "monster",
+      "harvestPart": "blood",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_033"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_bone",
+      "name": "Кость монстра",
+      "weight": "0.2 кг",
+      "description": "Кость монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_bone",
+      "harvestGroup": "monster",
+      "harvestPart": "bone",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_036"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_hide",
+      "name": "Шкура монстра",
+      "weight": "2 кг",
+      "description": "Шкура монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_hide",
+      "harvestGroup": "monster",
+      "harvestPart": "hide",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_meat",
+      "name": "Мясо монстра",
+      "weight": "0.5 кг",
+      "description": "Мясо монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_meat",
+      "harvestGroup": "monster",
+      "harvestPart": "meat",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_fat",
+      "name": "Жир монстра",
+      "weight": "0.25 кг",
+      "description": "Жир монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_fat",
+      "harvestGroup": "monster",
+      "harvestPart": "fat",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_eye",
+      "name": "Глаз монстра",
+      "weight": "0.02 кг",
+      "description": "Глаз монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_eye",
+      "harvestGroup": "monster",
+      "harvestPart": "eye",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_039"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_tooth",
+      "name": "Зуб монстра",
+      "weight": "0.01 кг",
+      "description": "Зуб монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_tooth",
+      "harvestGroup": "monster",
+      "harvestPart": "tooth",
+      "category": "Материал разделки",
+      "alchemyIds": [
+        "ing_031"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_claw",
+      "name": "Коготь монстра",
+      "weight": "0.02 кг",
+      "description": "Коготь монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_claw",
+      "harvestGroup": "monster",
+      "harvestPart": "claw",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_sinew",
+      "name": "Сухожилие монстра",
+      "weight": "0.1 кг",
+      "description": "Сухожилие монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_sinew",
+      "harvestGroup": "monster",
+      "harvestPart": "sinew",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_liver",
+      "name": "Печень монстра",
+      "weight": "0.4 кг",
+      "description": "Печень монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_liver",
+      "harvestGroup": "monster",
+      "harvestPart": "liver",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_gland",
+      "name": "Железа монстра",
+      "weight": "0.05 кг",
+      "description": "Железа монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_gland",
+      "harvestGroup": "monster",
+      "harvestPart": "gland",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_horn",
+      "name": "Рог монстра",
+      "weight": "0.4 кг",
+      "description": "Рог монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_horn",
+      "harvestGroup": "monster",
+      "harvestPart": "horn",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_scale",
+      "name": "Чешуя монстра",
+      "weight": "0.1 кг",
+      "description": "Чешуя монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_scale",
+      "harvestGroup": "monster",
+      "harvestPart": "scale",
+      "category": "Материал разделки",
+      "craftMaterialIds": [
+        "dragonScale"
+      ],
+      "alchemyIds": [
+        "ing_034"
+      ]
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_marrow",
+      "name": "Костный мозг монстра",
+      "weight": "0.1 кг",
+      "description": "Костный мозг монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_marrow",
+      "harvestGroup": "monster",
+      "harvestPart": "marrow",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_fur",
+      "name": "Мех монстра",
+      "weight": "0.3 кг",
+      "description": "Мех монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_fur",
+      "harvestGroup": "monster",
+      "harvestPart": "fur",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_feather",
+      "name": "Перо монстра",
+      "weight": "0.01 кг",
+      "description": "Перо монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_feather",
+      "harvestGroup": "monster",
+      "harvestPart": "feather",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_monster_venom",
+      "name": "Яд монстра",
+      "weight": "0.02 кг",
+      "description": "Яд монстра. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_monster_venom",
+      "harvestGroup": "monster",
+      "harvestPart": "venom",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_humanoid_heart",
+      "name": "Сердце гуманоида",
+      "weight": "0.3 кг",
+      "description": "Сердце гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_heart",
+      "harvestGroup": "humanoid",
+      "harvestPart": "heart",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_humanoid_blood",
+      "name": "Кровь гуманоида",
+      "weight": "0.25 кг",
+      "description": "Кровь гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_blood",
+      "harvestGroup": "humanoid",
+      "harvestPart": "blood",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_humanoid_bone",
+      "name": "Кость гуманоида",
+      "weight": "0.2 кг",
+      "description": "Кость гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_bone",
+      "harvestGroup": "humanoid",
+      "harvestPart": "bone",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_humanoid_hide",
+      "name": "Шкура гуманоида",
+      "weight": "2 кг",
+      "description": "Шкура гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_hide",
+      "harvestGroup": "humanoid",
+      "harvestPart": "hide",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_humanoid_meat",
+      "name": "Мясо гуманоида",
+      "weight": "0.5 кг",
+      "description": "Мясо гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_meat",
+      "harvestGroup": "humanoid",
+      "harvestPart": "meat",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_humanoid_fat",
+      "name": "Жир гуманоида",
+      "weight": "0.25 кг",
+      "description": "Жир гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_fat",
+      "harvestGroup": "humanoid",
+      "harvestPart": "fat",
+      "category": "Материал разделки"
+    },
+    {
+      "id": "dnd.items.materials.harvest_humanoid_eye",
+      "name": "Глаз гуманоида",
+      "weight": "0.02 кг",
+      "description": "Глаз гуманоида. Общий материал разделки; вид существа не меняет ID. Выход и доступность части определяет таблица добычи.",
+      "inventoryCategory": "materials",
+      "craftMaterialId": "harvest_humanoid_eye",
+      "harvestGroup": "humanoid",
+      "harvestPart": "eye",
+      "category": "Материал разделки"
+    }
+  ]
+}

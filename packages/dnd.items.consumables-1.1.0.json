@@ -1,0 +1,1412 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.consumables",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.consumables.1",
+      "name": "Зелье лечения",
+      "category": "Зелье (Обычное)",
+      "weight": "0.5 фунта",
+      "cost": "50 зм",
+      "effect": "Восстанавливает 2d4 + 2 хитов.",
+      "description": "Восстанавливает 2d4 + 2 хитов. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.consumables.2",
+      "name": "Зелье великого лечения",
+      "category": "Зелье (Необычное)",
+      "weight": "0.5 фунта",
+      "cost": "150 зм",
+      "effect": "Восстанавливает 4d4 + 4 хитов.",
+      "description": "Восстанавливает 4d4 + 4 хитов. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.consumables.3",
+      "name": "Зелье превосходного лечения",
+      "category": "Зелье (Редкое)",
+      "weight": "0.5 фунта",
+      "cost": "450 зм",
+      "effect": "Восстанавливает 8d4 + 8 хитов.",
+      "description": "Восстанавливает 8d4 + 8 хитов. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.consumables.4",
+      "name": "Зелье исключительного лечения",
+      "category": "Зелье (Очень редкое)",
+      "weight": "0.5 фунта",
+      "cost": "1350 зм",
+      "effect": "Восстанавливает 10d4 + 20 хитов.",
+      "description": "Восстанавливает 10d4 + 20 хитов. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "effects": [],
+      "useMode": "manual"
+    },
+    {
+      "id": "dnd.items.consumables.5",
+      "name": "Зелье лазания",
+      "category": "Зелье (Необычное)",
+      "weight": "0.5 фунта",
+      "cost": "75 зм",
+      "effect": "Дает скорость лазания, равную наземной, и преимущество на проверки Силы (Атлетика) при карабканье на 1 час.",
+      "description": "Дает скорость лазания, равную наземной, и преимущество на проверки Силы (Атлетика) при карабканье на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.6",
+      "name": "Зелье водного дыхания",
+      "category": "Зелье (Редкое)",
+      "weight": "0.5 фунта",
+      "cost": "180 зм",
+      "effect": "Позволяет дышать под водой в течение 24 часов.",
+      "description": "Позволяет дышать под водой в течение 24 часов. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.7",
+      "name": "Зелье невидимости",
+      "category": "Зелье (Очень редкое)",
+      "weight": "0.5 фунта",
+      "cost": "4000 зм",
+      "effect": "Делает персонажа и всё его снаряжение невидимым на 1 час (или до атаки/заклинания).",
+      "description": "Делает персонажа и всё его снаряжение невидимым на 1 час (или до атаки/заклинания). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.8",
+      "name": "Зелье скорости",
+      "category": "Зелье (Очень редкое)",
+      "weight": "0.5 фунта",
+      "cost": "4000 зм",
+      "effect": "Дает эффект заклинания «Ускорение» на 1 минуту (без шока от окончания).",
+      "description": "Дает эффект заклинания «Ускорение» на 1 минуту (без шока от окончания). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.9",
+      "name": "Зелье полета",
+      "category": "Зелье (Очень редкое)",
+      "weight": "0.5 фунта",
+      "cost": "2500 зм",
+      "effect": "Дает скорость полета 60 футов на 1 час.",
+      "description": "Дает скорость полета 60 футов на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.10",
+      "name": "Зелье сопротивления (к типу урона)",
+      "category": "Зелье (Необычное)",
+      "weight": "0.5 фунта",
+      "cost": "300 зм",
+      "effect": "Дает сопротивление к конкретному типу урона (огонь, холод, яд и т.д.) на 1 час.",
+      "description": "Дает сопротивление к конкретному типу урона (огонь, холод, яд и т.д.) на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.11",
+      "name": "Зелье чтения мыслей",
+      "category": "Зелье (Редкое)",
+      "weight": "0.5 фунта",
+      "cost": "300 зм",
+      "effect": "Эффект заклинания «Обнаружение мыслей» на 1 час.",
+      "description": "Эффект заклинания «Обнаружение мыслей» на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.12",
+      "name": "Зелье героизма",
+      "category": "Зелье (Редкое)",
+      "weight": "0.5 фунта",
+      "cost": "300 зм",
+      "effect": "Временные хиты равны модификатору макс. уровня и иммунитет к испугу на 1 час.",
+      "description": "Временные хиты равны модификатору макс. уровня и иммунитет к испугу на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.13",
+      "name": "Зелье дружбы с животными",
+      "category": "Зелье (Необычное)",
+      "weight": "0.5 фунта",
+      "cost": "200 зм",
+      "effect": "Эффект заклинания «Дружба с животными» (СЛ 13) на 1 час.",
+      "description": "Эффект заклинания «Дружба с животными» (СЛ 13) на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.14",
+      "name": "Масло заточки",
+      "category": "Магическое масло (Очень редкое)",
+      "weight": "1 фунт",
+      "cost": "1500 зм",
+      "effect": "Оружие наносит +3 к урону и игнорирует невосприимчивость к несуществ. урону на 1 час.",
+      "description": "Оружие наносит +3 к урону и игнорирует невосприимчивость к несуществ. урону на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.15",
+      "name": "Масло эфирности",
+      "category": "Магическое масло (Редкое)",
+      "weight": "1 фунт",
+      "cost": "1000 зм",
+      "effect": "Эффект заклинания «Эфирность» на 1 час.",
+      "description": "Эффект заклинания «Эфирность» на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.16",
+      "name": "Кровь ассасина",
+      "category": "Яд (Глоток / Проглатывание)",
+      "weight": "0 фунтов",
+      "cost": "150 зм",
+      "effect": "Спасбросок Выносливости СЛ 10. Урон: 1d10 ядом при провале (половина при успехе).",
+      "description": "Спасбросок Выносливости СЛ 10. Урон: 1d10 ядом при провале (половина при успехе). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.17",
+      "name": "Яд пурпурного червя",
+      "category": "Яд (Контактный / Оружие)",
+      "weight": "0 фунтов",
+      "cost": "2000 зм",
+      "effect": "Спасбросок Выносливости СЛ 19. Урон: 12d6 ядом при провале (половина при успехе).",
+      "description": "Спасбросок Выносливости СЛ 19. Урон: 12d6 ядом при провале (половина при успехе). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.18",
+      "name": "Противоядие (Антидот)",
+      "category": "Расходник / Медицина",
+      "weight": "0.1 фунта",
+      "cost": "50 зм",
+      "effect": "Преимущество на спасброски против ядов на 1 час или нейтрализация текущего эффекта отравления.",
+      "description": "Преимущество на спасброски против ядов на 1 час или нейтрализация текущего эффекта отравления. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.19",
+      "name": "Свиток заговора",
+      "category": "Свиток (Обычный)",
+      "weight": "0.1 фунта",
+      "cost": "25 зм",
+      "effect": "Позволяет однократно сотворить базовый заговор.",
+      "description": "Позволяет однократно сотворить базовый заговор. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.20",
+      "name": "Свиток заклинания (1 круг)",
+      "category": "Свиток (Обычный)",
+      "weight": "0.1 фунта",
+      "cost": "75 зм",
+      "effect": "Однократное применение заклинания 1 круга (Щит, Волшебная стрела, Лечение ран и т.д.).",
+      "description": "Однократное применение заклинания 1 круга (Щит, Волшебная стрела, Лечение ран и т.д.). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.21",
+      "name": "Свиток заклинания (2 круг)",
+      "category": "Свиток (Необычный)",
+      "weight": "0.1 фунта",
+      "cost": "150 зм",
+      "effect": "Однократное применение заклинания 2 круга (Невидимость, Туманный шаг и т.д.).",
+      "description": "Однократное применение заклинания 2 круга (Невидимость, Туманный шаг и т.д.). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.22",
+      "name": "Свиток заклинания (3 круг)",
+      "category": "Свиток (Необычный)",
+      "weight": "0.1 фунта",
+      "cost": "300 зм",
+      "effect": "Однократное применение заклинания 3 круга (Огненный шар, Полет и т.д.).",
+      "description": "Однократное применение заклинания 3 круга (Огненный шар, Полет и т.д.). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.23",
+      "name": "Свиток заклинания (4 круг)",
+      "category": "Свиток (Редкое)",
+      "weight": "0.1 фунта",
+      "cost": "500 зм",
+      "effect": "Однократное применение заклинания 4 круга.",
+      "description": "Однократное применение заклинания 4 круга. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.24",
+      "name": "Свиток заклинания (5 круг)",
+      "category": "Свиток (Редкое)",
+      "weight": "0.1 фунта",
+      "cost": "1000 зм",
+      "effect": "Однократное применение заклинания 5 круга (Телепортация, Стена камня и т.д.).",
+      "description": "Однократное применение заклинания 5 круга (Телепортация, Стена камня и т.д.). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.25",
+      "name": "Бочонок черного пороха",
+      "category": "Взрывчатка",
+      "weight": "20 фунтов",
+      "cost": "250 зм",
+      "effect": "При детонации наносит 3d6 урона огнем всем в радиусе 10 футов (Спасбросок Ловкости СЛ 12 за половину). При подрыве запаса — колоссальный урон структуре корабля.",
+      "description": "При детонации наносит 3d6 урона огнем всем в радиусе 10 футов (Спасбросок Ловкости СЛ 12 за половину). При подрыве запаса — колоссальный урон структуре корабля. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.26",
+      "name": "Пороховница (заряд для пистоля/мушкета)",
+      "category": "Боеприпас / Расходник",
+      "weight": "2 фунта",
+      "cost": "10 зм",
+      "effect": "Содержит 10 выстрелов для огнестрельного оружия.",
+      "description": "Содержит 10 выстрелов для огнестрельного оружия. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.27",
+      "name": "Алхимический огонь (фляга)",
+      "category": "Взрывоопасное вещество",
+      "weight": "1 фунт",
+      "cost": "50 зм",
+      "effect": "Дальнобойная атака (до 20 фт). При попадании цель получает 1d4 урона огнем в начале каждого хода (пока не потратит действие на тушение).",
+      "description": "Дальнобойная атака (до 20 фт). При попадании цель получает 1d4 урона огнем в начале каждого хода (пока не потратит действие на тушение). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.28",
+      "name": "Фляга с кислотой",
+      "category": "Алхимический расходник",
+      "weight": "1 фунт",
+      "cost": "25 зм",
+      "effect": "Наносит 2d6 кислотного урона при броске по цели или разъедает замок/петли.",
+      "description": "Наносит 2d6 кислотного урона при броске по цели или разъедает замок/петли. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.29",
+      "name": "Набор противоядий",
+      "category": "Медицинский расходник",
+      "weight": "0 фунтов",
+      "cost": "50 зм",
+      "effect": "Дает преимущество на спасброски от ядов при своевременном применении.",
+      "description": "Дает преимущество на спасброски от ядов при своевременном применении. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.30",
+      "name": "Пакет дымового пороха",
+      "category": "Вспомогательный расходник",
+      "weight": "0.5 фунта",
+      "cost": "30 зм",
+      "effect": "Создает плотную дымовую завесу радиусом 15 футов на 1 минуту (эквивалент заклинания «Туманное облако»).",
+      "description": "Создает плотную дымовую завесу радиусом 15 футов на 1 минуту (эквивалент заклинания «Туманное облако»). Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.31",
+      "name": "Капитанский выдержанный ром (фляга)",
+      "category": "Бытовой / Боевой стимулятор",
+      "weight": "2 фунта",
+      "cost": "2 зм",
+      "effect": "Дает временные хиты (1d4), но накладывает помеху на проверки Интеллекта и Мудрости на 1 час.",
+      "description": "Дает временные хиты (1d4), но накладывает помеху на проверки Интеллекта и Мудрости на 1 час. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.32",
+      "name": "Аптечка (10 применений)",
+      "category": "Медицинский расходник",
+      "weight": "3 фунта",
+      "cost": "5 зм",
+      "effect": "Позволяет стабилизировать умирающего персонажа без проверок Медицины.",
+      "description": "Позволяет стабилизировать умирающего персонажа без проверок Медицины. Применение списывает одну единицу; эффект учитывает мастер.",
+      "inventoryCategory": "consumables",
+      "useMode": "manual",
+      "effects": []
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.0",
+      "name": "Микстура восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.1",
+      "name": "Бальзам восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.2",
+      "name": "Отвар восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.3",
+      "name": "Настойка восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.4",
+      "name": "Эссенция восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.5",
+      "name": "Эликсир восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.6",
+      "name": "Пилюля восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.7",
+      "name": "Сироп восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.8",
+      "name": "Мазь восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.0.9",
+      "name": "Порошок восстановления (2 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 2 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 2
+        }
+      ],
+      "potency": 20
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.0",
+      "name": "Микстура восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.1",
+      "name": "Бальзам восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.2",
+      "name": "Отвар восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.3",
+      "name": "Настойка восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.4",
+      "name": "Эссенция восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.5",
+      "name": "Эликсир восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.6",
+      "name": "Пилюля восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.7",
+      "name": "Сироп восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.8",
+      "name": "Мазь восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.1.9",
+      "name": "Порошок восстановления (4 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 4 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 4
+        }
+      ],
+      "potency": 40
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.0",
+      "name": "Микстура восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.1",
+      "name": "Бальзам восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.2",
+      "name": "Отвар восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.3",
+      "name": "Настойка восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.4",
+      "name": "Эссенция восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.5",
+      "name": "Эликсир восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.6",
+      "name": "Пилюля восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.7",
+      "name": "Сироп восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.8",
+      "name": "Мазь восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.2.9",
+      "name": "Порошок восстановления (6 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 6 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 6
+        }
+      ],
+      "potency": 60
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.0",
+      "name": "Микстура восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.1",
+      "name": "Бальзам восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.2",
+      "name": "Отвар восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.3",
+      "name": "Настойка восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.4",
+      "name": "Эссенция восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.5",
+      "name": "Эликсир восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.6",
+      "name": "Пилюля восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.7",
+      "name": "Сироп восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.8",
+      "name": "Мазь восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.3.9",
+      "name": "Порошок восстановления (8 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 8 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 8
+        }
+      ],
+      "potency": 80
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.0",
+      "name": "Микстура восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.1",
+      "name": "Бальзам восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.2",
+      "name": "Отвар восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.3",
+      "name": "Настойка восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.4",
+      "name": "Эссенция восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.5",
+      "name": "Эликсир восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.6",
+      "name": "Пилюля восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.7",
+      "name": "Сироп восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.8",
+      "name": "Мазь восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.4.9",
+      "name": "Порошок восстановления (10 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 10 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 10
+        }
+      ],
+      "potency": 100
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.0",
+      "name": "Микстура восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.1",
+      "name": "Бальзам восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.2",
+      "name": "Отвар восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.3",
+      "name": "Настойка восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.4",
+      "name": "Эссенция восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.5",
+      "name": "Эликсир восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.6",
+      "name": "Пилюля восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.7",
+      "name": "Сироп восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.8",
+      "name": "Мазь восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.5.9",
+      "name": "Порошок восстановления (12 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 12 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 12
+        }
+      ],
+      "potency": 120
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.0",
+      "name": "Микстура восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.1",
+      "name": "Бальзам восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.2",
+      "name": "Отвар восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.3",
+      "name": "Настойка восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.4",
+      "name": "Эссенция восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.5",
+      "name": "Эликсир восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.6",
+      "name": "Пилюля восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    },
+    {
+      "id": "dnd.items.consumables.healing.6.7",
+      "name": "Сироп восстановления (16 ОЗ)",
+      "weight": "0.1 кг",
+      "description": "При применении восстанавливает 16 ОЗ, не превышая максимум, и расходует одну единицу.",
+      "inventoryCategory": "consumables",
+      "category": "Лечебный расходник",
+      "effects": [
+        {
+          "kind": "heal",
+          "amount": 16
+        }
+      ],
+      "potency": 160
+    }
+  ]
+}

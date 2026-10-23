@@ -247,3 +247,51 @@
 - `tools/build_item_collections.py` — 14811 B; расширенные сборники, только для нового клиента v4.
 - `tools/verify_item_collections.py` — 1693 B; расширенные сборники, только для нового клиента v4.
 - `docs/ITEM_COLLECTIONS_V4.md` — 4980 B; расширенные сборники, только для нового клиента v4.
+
+## Совместимые опциональные тома 1.1.0 для живого v3
+
+Каталог v3: 224 записи; 36 томов, 3291 предмет. См. `docs/WORKSHOP_ITEM_VOLUMES.md`.
+
+- `.gitignore` — 32 B; совместимая опциональная поставка предметов.
+- `docs/WORKSHOP_ITEM_VOLUMES.md` — 7155 B; совместимая опциональная поставка предметов.
+- `sources/workshop-volumes-1.1.0.json` — 577111 B; совместимая опциональная поставка предметов.
+- `tools/build_workshop_volumes.py` — 11004 B; совместимая опциональная поставка предметов.
+- `tools/verify_workshop_volumes.py` — 3101 B; совместимая опциональная поставка предметов.
+- `tools/compatibility-tests/ContentCompatibility.csproj` — 399 B; совместимая опциональная поставка предметов.
+- `tools/compatibility-tests/Program.cs` — 5654 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.armor-1.1.0.json` — 86910 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.consumables-1.1.0.json` — 60948 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.junk-1.1.0.json` — 44105 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.materials-1.1.0.json` — 51492 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume02.armor-1.1.0.json` — 97547 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume02.consumables-1.1.0.json` — 60121 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume02.junk-1.1.0.json` — 43416 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume02.materials-1.1.0.json` — 49596 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume02.weapons-1.1.0.json` — 103436 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume03.armor-1.1.0.json` — 97863 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume03.consumables-1.1.0.json` — 32912 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume03.junk-1.1.0.json` — 43785 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume03.materials-1.1.0.json` — 47822 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume03.weapons-1.1.0.json` — 105056 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume04.armor-1.1.0.json` — 98876 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume04.junk-1.1.0.json` — 43961 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume04.materials-1.1.0.json` — 44556 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume04.weapons-1.1.0.json` — 101626 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume05.armor-1.1.0.json` — 99016 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume05.junk-1.1.0.json` — 19005 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume05.materials-1.1.0.json` — 40507 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume05.weapons-1.1.0.json` — 103276 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume06.armor-1.1.0.json` — 89535 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume06.materials-1.1.0.json` — 11222 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume06.weapons-1.1.0.json` — 111572 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume07.armor-1.1.0.json` — 43733 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume07.weapons-1.1.0.json` — 109382 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume08.armor-1.1.0.json` — 25563 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume08.weapons-1.1.0.json` — 110228 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume09.weapons-1.1.0.json` — 115200 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume10.weapons-1.1.0.json` — 111068 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume11.weapons-1.1.0.json` — 114748 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume12.weapons-1.1.0.json` — 116602 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume13.weapons-1.1.0.json` — 108444 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.volume14.weapons-1.1.0.json` — 18056 B; совместимая опциональная поставка предметов.
+- `packages/dnd.items.weapons-1.1.0.json` — 98009 B; совместимая опциональная поставка предметов.

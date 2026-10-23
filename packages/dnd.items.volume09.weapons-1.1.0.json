@@ -1,0 +1,3226 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume09.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume09.weapons.forge.37.mithral.2",
+      "name": "Секира (Двуручный топор) — Мифрил +2",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.37.mithral.3",
+      "name": "Секира (Двуручный топор) — Мифрил +3",
+      "category": "Воинское рукопашное",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "рубящий",
+      "weight": "3.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_greataxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Секира (Двуручный топор). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.steel.0",
+      "name": "Тяжелый двуручный цеп — Сталь",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.steel.1",
+      "name": "Тяжелый двуручный цеп — Сталь +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.steel.2",
+      "name": "Тяжелый двуручный цеп — Сталь +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.steel.3",
+      "name": "Тяжелый двуручный цеп — Сталь +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.iron.0",
+      "name": "Тяжелый двуручный цеп — Железо",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.iron.1",
+      "name": "Тяжелый двуручный цеп — Железо +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.iron.2",
+      "name": "Тяжелый двуручный цеп — Железо +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.iron.3",
+      "name": "Тяжелый двуручный цеп — Железо +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "дробящий",
+      "weight": "11 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.bronze.0",
+      "name": "Тяжелый двуручный цеп — Бронза",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.bronze.1",
+      "name": "Тяжелый двуручный цеп — Бронза +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.bronze.2",
+      "name": "Тяжелый двуручный цеп — Бронза +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.bronze.3",
+      "name": "Тяжелый двуручный цеп — Бронза +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "дробящий",
+      "weight": "11.5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.silver.0",
+      "name": "Тяжелый двуручный цеп — Посеребрение",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.silver.1",
+      "name": "Тяжелый двуручный цеп — Посеребрение +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.silver.2",
+      "name": "Тяжелый двуручный цеп — Посеребрение +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.silver.3",
+      "name": "Тяжелый двуручный цеп — Посеребрение +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "дробящий",
+      "weight": "10 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.mithral.0",
+      "name": "Тяжелый двуручный цеп — Мифрил",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.mithral.1",
+      "name": "Тяжелый двуручный цеп — Мифрил +1",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+1",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.mithral.2",
+      "name": "Тяжелый двуручный цеп — Мифрил +2",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.38.mithral.3",
+      "name": "Тяжелый двуручный цеп — Мифрил +3",
+      "category": "Воинское рукопашное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "melee",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "дробящий",
+      "weight": "5 фунтов",
+      "cost": "30 зм",
+      "properties": [
+        "Двуручное",
+        "тяжелое",
+        "игнорирует щиты"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_weap_flail"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Тяжелый двуручный цеп. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.steel.0",
+      "name": "Легкий арбалет — Сталь",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.steel.1",
+      "name": "Легкий арбалет — Сталь +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.steel.2",
+      "name": "Легкий арбалет — Сталь +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.steel.3",
+      "name": "Легкий арбалет — Сталь +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.iron.0",
+      "name": "Легкий арбалет — Железо",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "5.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.iron.1",
+      "name": "Легкий арбалет — Железо +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "5.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.iron.2",
+      "name": "Легкий арбалет — Железо +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "5.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.iron.3",
+      "name": "Легкий арбалет — Железо +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "5.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.bronze.0",
+      "name": "Легкий арбалет — Бронза",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "5.75 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.bronze.1",
+      "name": "Легкий арбалет — Бронза +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "5.75 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.bronze.2",
+      "name": "Легкий арбалет — Бронза +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "5.75 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.bronze.3",
+      "name": "Легкий арбалет — Бронза +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "5.75 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.silver.0",
+      "name": "Легкий арбалет — Посеребрение",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.silver.1",
+      "name": "Легкий арбалет — Посеребрение +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.silver.2",
+      "name": "Легкий арбалет — Посеребрение +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.silver.3",
+      "name": "Легкий арбалет — Посеребрение +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.mithral.0",
+      "name": "Легкий арбалет — Мифрил",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8",
+      "damageType": "колющий",
+      "weight": "2.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.mithral.1",
+      "name": "Легкий арбалет — Мифрил +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+1",
+      "damageType": "колющий",
+      "weight": "2.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.mithral.2",
+      "name": "Легкий арбалет — Мифрил +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+2",
+      "damageType": "колющий",
+      "weight": "2.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.39.mithral.3",
+      "name": "Легкий арбалет — Мифрил +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d8+3",
+      "damageType": "колющий",
+      "weight": "2.5 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Легкий арбалет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.steel.0",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Сталь",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.steel.1",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Сталь +1",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.steel.2",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Сталь +2",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.steel.3",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Сталь +3",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.iron.0",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Железо",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.22 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.iron.1",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Железо +1",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "0.22 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.iron.2",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Железо +2",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "0.22 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.iron.3",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Железо +3",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "0.22 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.bronze.0",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Бронза",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.23 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.bronze.1",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Бронза +1",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "0.23 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.bronze.2",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Бронза +2",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "0.23 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.bronze.3",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Бронза +3",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "0.23 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.silver.0",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Посеребрение",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.silver.1",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Посеребрение +1",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.silver.2",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Посеребрение +2",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.silver.3",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Посеребрение +3",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "0.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.mithral.0",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Мифрил",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "колющий",
+      "weight": "0.1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.mithral.1",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Мифрил +1",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "колющий",
+      "weight": "0.1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.mithral.2",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Мифрил +2",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "колющий",
+      "weight": "0.1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.40.mithral.3",
+      "name": "Метательный дротик (Сюрикэн / Дарт) — Мифрил +3",
+      "category": "Простое дальнобойное (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "колющий",
+      "weight": "0.1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Фехтовальное",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Метательный дротик (Сюрикэн / Дарт). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.steel.0",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Сталь",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.steel.1",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Сталь +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.steel.2",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Сталь +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.steel.3",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Сталь +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.iron.0",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Железо",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "6.6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.iron.1",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Железо +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "6.6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.iron.2",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Железо +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "6.6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.iron.3",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Железо +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "6.6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.bronze.0",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Бронза",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "6.9 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.bronze.1",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Бронза +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "6.9 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.bronze.2",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Бронза +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "6.9 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.bronze.3",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Бронза +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "6.9 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.silver.0",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Посеребрение",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.silver.1",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Посеребрение +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.silver.2",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Посеребрение +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.silver.3",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Посеребрение +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "6 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.mithral.0",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Мифрил",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.mithral.1",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Мифрил +1",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.mithral.2",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Мифрил +2",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.41.mithral.3",
+      "name": "Многозарядный арбалет (Чо-ко-ну) — Мифрил +3",
+      "category": "Воинское дальнобойное (Хоумбрю)",
+      "groupKey": "martial",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "150 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/160)",
+        "емкость (6 болтов)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_martial",
+        "p_crossbows",
+        "p_weap_light_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многозарядный арбалет (Чо-ко-ну). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.steel.0",
+      "name": "Короткий лук — Сталь",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.steel.1",
+      "name": "Короткий лук — Сталь +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.steel.2",
+      "name": "Короткий лук — Сталь +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.steel.3",
+      "name": "Короткий лук — Сталь +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.iron.0",
+      "name": "Короткий лук — Железо",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.iron.1",
+      "name": "Короткий лук — Железо +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.iron.2",
+      "name": "Короткий лук — Железо +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.iron.3",
+      "name": "Короткий лук — Железо +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.bronze.0",
+      "name": "Короткий лук — Бронза",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.bronze.1",
+      "name": "Короткий лук — Бронза +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.bronze.2",
+      "name": "Короткий лук — Бронза +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.bronze.3",
+      "name": "Короткий лук — Бронза +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.silver.0",
+      "name": "Короткий лук — Посеребрение",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.silver.1",
+      "name": "Короткий лук — Посеребрение +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.silver.2",
+      "name": "Короткий лук — Посеребрение +2",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.silver.3",
+      "name": "Короткий лук — Посеребрение +3",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.mithral.0",
+      "name": "Короткий лук — Мифрил",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume09.weapons.forge.42.mithral.1",
+      "name": "Короткий лук — Мифрил +1",
+      "category": "Простое дальнобойное",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "25 зм",
+      "properties": [
+        "Боеприпас (дистанция 80/320)",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_bows",
+        "p_weap_shortbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Короткий лук. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

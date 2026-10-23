@@ -1,0 +1,3248 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume12.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume12.weapons.forge.52.mithral.2",
+      "name": "Кремневый мушкет — Мифрил +2",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+2",
+      "damageType": "колющий/пуля",
+      "weight": "5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.52.mithral.3",
+      "name": "Кремневый мушкет — Мифрил +3",
+      "category": "Огнестрельное (Эпоха Возрождения)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "1d12+3",
+      "damageType": "колющий/пуля",
+      "weight": "5 фунтов",
+      "cost": "500 зм",
+      "properties": [
+        "Боеприпас (дистанция 40/120)",
+        "заряжание",
+        "двуручное"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Кремневый мушкет. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.steel.0",
+      "name": "Многоствольный пистолет (Пеппербокс) — Сталь",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.steel.1",
+      "name": "Многоствольный пистолет (Пеппербокс) — Сталь +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.steel.2",
+      "name": "Многоствольный пистолет (Пеппербокс) — Сталь +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.steel.3",
+      "name": "Многоствольный пистолет (Пеппербокс) — Сталь +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.iron.0",
+      "name": "Многоствольный пистолет (Пеппербокс) — Железо",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий/пуля",
+      "weight": "4.4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.iron.1",
+      "name": "Многоствольный пистолет (Пеппербокс) — Железо +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий/пуля",
+      "weight": "4.4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.iron.2",
+      "name": "Многоствольный пистолет (Пеппербокс) — Железо +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий/пуля",
+      "weight": "4.4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.iron.3",
+      "name": "Многоствольный пистолет (Пеппербокс) — Железо +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий/пуля",
+      "weight": "4.4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.bronze.0",
+      "name": "Многоствольный пистолет (Пеппербокс) — Бронза",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий/пуля",
+      "weight": "4.6 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.bronze.1",
+      "name": "Многоствольный пистолет (Пеппербокс) — Бронза +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий/пуля",
+      "weight": "4.6 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.bronze.2",
+      "name": "Многоствольный пистолет (Пеппербокс) — Бронза +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий/пуля",
+      "weight": "4.6 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.bronze.3",
+      "name": "Многоствольный пистолет (Пеппербокс) — Бронза +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий/пуля",
+      "weight": "4.6 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.silver.0",
+      "name": "Многоствольный пистолет (Пеппербокс) — Посеребрение",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.silver.1",
+      "name": "Многоствольный пистолет (Пеппербокс) — Посеребрение +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.silver.2",
+      "name": "Многоствольный пистолет (Пеппербокс) — Посеребрение +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.silver.3",
+      "name": "Многоствольный пистолет (Пеппербокс) — Посеребрение +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий/пуля",
+      "weight": "4 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.mithral.0",
+      "name": "Многоствольный пистолет (Пеппербокс) — Мифрил",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8",
+      "damageType": "колющий/пуля",
+      "weight": "2 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.mithral.1",
+      "name": "Многоствольный пистолет (Пеппербокс) — Мифрил +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+1",
+      "damageType": "колющий/пуля",
+      "weight": "2 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.mithral.2",
+      "name": "Многоствольный пистолет (Пеппербокс) — Мифрил +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+2",
+      "damageType": "колющий/пуля",
+      "weight": "2 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.53.mithral.3",
+      "name": "Многоствольный пистолет (Пеппербокс) — Мифрил +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d8+3",
+      "damageType": "колющий/пуля",
+      "weight": "2 фунтов",
+      "cost": "400 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "емкость (4 выстрела)",
+        "осечка"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Многоствольный пистолет (Пеппербокс). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.steel.0",
+      "name": "Мушкетон (Тромблон) — Сталь",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.steel.1",
+      "name": "Мушкетон (Тромблон) — Сталь +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.steel.2",
+      "name": "Мушкетон (Тромблон) — Сталь +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.steel.3",
+      "name": "Мушкетон (Тромблон) — Сталь +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.iron.0",
+      "name": "Мушкетон (Тромблон) — Железо",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "колющий/дробь",
+      "weight": "8.8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.iron.1",
+      "name": "Мушкетон (Тромблон) — Железо +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "колющий/дробь",
+      "weight": "8.8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.iron.2",
+      "name": "Мушкетон (Тромблон) — Железо +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "колющий/дробь",
+      "weight": "8.8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.iron.3",
+      "name": "Мушкетон (Тромблон) — Железо +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "колющий/дробь",
+      "weight": "8.8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.bronze.0",
+      "name": "Мушкетон (Тромблон) — Бронза",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "колющий/дробь",
+      "weight": "9.2 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.bronze.1",
+      "name": "Мушкетон (Тромблон) — Бронза +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "колющий/дробь",
+      "weight": "9.2 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.bronze.2",
+      "name": "Мушкетон (Тромблон) — Бронза +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "колющий/дробь",
+      "weight": "9.2 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.bronze.3",
+      "name": "Мушкетон (Тромблон) — Бронза +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "колющий/дробь",
+      "weight": "9.2 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.silver.0",
+      "name": "Мушкетон (Тромблон) — Посеребрение",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.silver.1",
+      "name": "Мушкетон (Тромблон) — Посеребрение +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.silver.2",
+      "name": "Мушкетон (Тромблон) — Посеребрение +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.silver.3",
+      "name": "Мушкетон (Тромблон) — Посеребрение +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "колющий/дробь",
+      "weight": "8 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.mithral.0",
+      "name": "Мушкетон (Тромблон) — Мифрил",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.mithral.1",
+      "name": "Мушкетон (Тромблон) — Мифрил +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+1",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.mithral.2",
+      "name": "Мушкетон (Тромблон) — Мифрил +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+2",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.54.mithral.3",
+      "name": "Мушкетон (Тромблон) — Мифрил +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d6+3",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "350 зм",
+      "properties": [
+        "Боеприпас (дистанция 15/45)",
+        "заряжание",
+        "двуручное",
+        "широкий урон"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Мушкетон (Тромблон). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.steel.0",
+      "name": "Драгунский пистолет (Обрезыч) — Сталь",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.steel.1",
+      "name": "Драгунский пистолет (Обрезыч) — Сталь +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+1",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.steel.2",
+      "name": "Драгунский пистолет (Обрезыч) — Сталь +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+2",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.steel.3",
+      "name": "Драгунский пистолет (Обрезыч) — Сталь +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+3",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.iron.0",
+      "name": "Драгунский пистолет (Обрезыч) — Железо",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4",
+      "damageType": "колющий/дробь",
+      "weight": "4.4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.iron.1",
+      "name": "Драгунский пистолет (Обрезыч) — Железо +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+1",
+      "damageType": "колющий/дробь",
+      "weight": "4.4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.iron.2",
+      "name": "Драгунский пистолет (Обрезыч) — Железо +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+2",
+      "damageType": "колющий/дробь",
+      "weight": "4.4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.iron.3",
+      "name": "Драгунский пистолет (Обрезыч) — Железо +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+3",
+      "damageType": "колющий/дробь",
+      "weight": "4.4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.bronze.0",
+      "name": "Драгунский пистолет (Обрезыч) — Бронза",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4",
+      "damageType": "колющий/дробь",
+      "weight": "4.6 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.bronze.1",
+      "name": "Драгунский пистолет (Обрезыч) — Бронза +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+1",
+      "damageType": "колющий/дробь",
+      "weight": "4.6 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.bronze.2",
+      "name": "Драгунский пистолет (Обрезыч) — Бронза +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+2",
+      "damageType": "колющий/дробь",
+      "weight": "4.6 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.bronze.3",
+      "name": "Драгунский пистолет (Обрезыч) — Бронза +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+3",
+      "damageType": "колющий/дробь",
+      "weight": "4.6 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.silver.0",
+      "name": "Драгунский пистолет (Обрезыч) — Посеребрение",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.silver.1",
+      "name": "Драгунский пистолет (Обрезыч) — Посеребрение +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+1",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.silver.2",
+      "name": "Драгунский пистолет (Обрезыч) — Посеребрение +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+2",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.silver.3",
+      "name": "Драгунский пистолет (Обрезыч) — Посеребрение +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+3",
+      "damageType": "колющий/дробь",
+      "weight": "4 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.mithral.0",
+      "name": "Драгунский пистолет (Обрезыч) — Мифрил",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4",
+      "damageType": "колющий/дробь",
+      "weight": "2 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.mithral.1",
+      "name": "Драгунский пистолет (Обрезыч) — Мифрил +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+1",
+      "damageType": "колющий/дробь",
+      "weight": "2 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.mithral.2",
+      "name": "Драгунский пистолет (Обрезыч) — Мифрил +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+2",
+      "damageType": "колющий/дробь",
+      "weight": "2 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.55.mithral.3",
+      "name": "Драгунский пистолет (Обрезыч) — Мифрил +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "2d4+3",
+      "damageType": "колющий/дробь",
+      "weight": "2 фунтов",
+      "cost": "200 зм",
+      "properties": [
+        "Боеприпас (дистанция 20/60)",
+        "заряжание",
+        "ближний конус"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_hand_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Драгунский пистолет (Обрезыч). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.steel.0",
+      "name": "Ручная мортирка — Сталь",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.steel.1",
+      "name": "Ручная мортирка — Сталь +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+1",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.steel.2",
+      "name": "Ручная мортирка — Сталь +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+2",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.steel.3",
+      "name": "Ручная мортирка — Сталь +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+3",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.iron.0",
+      "name": "Ручная мортирка — Железо",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8",
+      "damageType": "огонь / взрыв",
+      "weight": "15.4 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.iron.1",
+      "name": "Ручная мортирка — Железо +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+1",
+      "damageType": "огонь / взрыв",
+      "weight": "15.4 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.iron.2",
+      "name": "Ручная мортирка — Железо +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+2",
+      "damageType": "огонь / взрыв",
+      "weight": "15.4 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.iron.3",
+      "name": "Ручная мортирка — Железо +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+3",
+      "damageType": "огонь / взрыв",
+      "weight": "15.4 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.bronze.0",
+      "name": "Ручная мортирка — Бронза",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8",
+      "damageType": "огонь / взрыв",
+      "weight": "16.1 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.bronze.1",
+      "name": "Ручная мортирка — Бронза +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+1",
+      "damageType": "огонь / взрыв",
+      "weight": "16.1 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.bronze.2",
+      "name": "Ручная мортирка — Бронза +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+2",
+      "damageType": "огонь / взрыв",
+      "weight": "16.1 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.bronze.3",
+      "name": "Ручная мортирка — Бронза +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+3",
+      "damageType": "огонь / взрыв",
+      "weight": "16.1 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.silver.0",
+      "name": "Ручная мортирка — Посеребрение",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.silver.1",
+      "name": "Ручная мортирка — Посеребрение +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+1",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.silver.2",
+      "name": "Ручная мортирка — Посеребрение +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+2",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.silver.3",
+      "name": "Ручная мортирка — Посеребрение +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+3",
+      "damageType": "огонь / взрыв",
+      "weight": "14 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.mithral.0",
+      "name": "Ручная мортирка — Мифрил",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8",
+      "damageType": "огонь / взрыв",
+      "weight": "7 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.mithral.1",
+      "name": "Ручная мортирка — Мифрил +1",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+1",
+      "damageType": "огонь / взрыв",
+      "weight": "7 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.mithral.2",
+      "name": "Ручная мортирка — Мифрил +2",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+2",
+      "damageType": "огонь / взрыв",
+      "weight": "7 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.56.mithral.3",
+      "name": "Ручная мортирка — Мифрил +3",
+      "category": "Огнестрельное (Хоумбрю)",
+      "groupKey": "firearm",
+      "typeKey": "ranged",
+      "hands": "🖐️🖐️ 2 руки",
+      "damage": "2d8+3",
+      "damageType": "огонь / взрыв",
+      "weight": "7 фунтов",
+      "cost": "900 зм",
+      "properties": [
+        "Боеприпас (дистанция 30/90)",
+        "заряжание",
+        "двуручное",
+        "взрыв по площади"
+      ],
+      "proficiencies": [
+        "p_firearms",
+        "p_weap_heavy_crossbow"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручная мортирка. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.steel.0",
+      "name": "Болас — Сталь",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.steel.1",
+      "name": "Болас — Сталь +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.steel.2",
+      "name": "Болас — Сталь +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.steel.3",
+      "name": "Болас — Сталь +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.iron.0",
+      "name": "Болас — Железо",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.iron.1",
+      "name": "Болас — Железо +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.iron.2",
+      "name": "Болас — Железо +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.iron.3",
+      "name": "Болас — Железо +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2.2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.bronze.0",
+      "name": "Болас — Бронза",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.bronze.1",
+      "name": "Болас — Бронза +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.bronze.2",
+      "name": "Болас — Бронза +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.bronze.3",
+      "name": "Болас — Бронза +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.silver.0",
+      "name": "Болас — Посеребрение",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.silver.1",
+      "name": "Болас — Посеребрение +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.silver.2",
+      "name": "Болас — Посеребрение +2",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.silver.3",
+      "name": "Болас — Посеребрение +3",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.mithral.0",
+      "name": "Болас — Мифрил",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume12.weapons.forge.57.mithral.1",
+      "name": "Болас — Мифрил +1",
+      "category": "Экзотическое (Хоумбрю)",
+      "groupKey": "simple",
+      "typeKey": "ranged",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+1",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Особое",
+        "метательное (дистанция 20/60)",
+        "сбивает с ног / опутывает"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_net"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Болас. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}

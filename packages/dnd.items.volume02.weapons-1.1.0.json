@@ -1,0 +1,3008 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.items.volume02.weapons",
+  "version": "1.1.0",
+  "type": "item",
+  "items": [
+    {
+      "id": "dnd.items.volume02.weapons.forge.2.mithral.2",
+      "name": "Дубина — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+2",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_club"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Дубина. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.2.mithral.3",
+      "name": "Дубина — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d4+3",
+      "damageType": "дробящий",
+      "weight": "1 фунтов",
+      "cost": "1 см",
+      "properties": [
+        "Легкое"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_club"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Дубина. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.steel.0",
+      "name": "Ручной топорик — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.steel.1",
+      "name": "Ручной топорик — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.steel.2",
+      "name": "Ручной топорик — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.steel.3",
+      "name": "Ручной топорик — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.iron.0",
+      "name": "Ручной топорик — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.iron.1",
+      "name": "Ручной топорик — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.iron.2",
+      "name": "Ручной топорик — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.iron.3",
+      "name": "Ручной топорик — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "2.2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.bronze.0",
+      "name": "Ручной топорик — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.bronze.1",
+      "name": "Ручной топорик — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.bronze.2",
+      "name": "Ручной топорик — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.bronze.3",
+      "name": "Ручной топорик — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "2.3 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.silver.0",
+      "name": "Ручной топорик — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.silver.1",
+      "name": "Ручной топорик — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.silver.2",
+      "name": "Ручной топорик — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.silver.3",
+      "name": "Ручной топорик — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.mithral.0",
+      "name": "Ручной топорик — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.mithral.1",
+      "name": "Ручной топорик — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.mithral.2",
+      "name": "Ручной топорик — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.3.mithral.3",
+      "name": "Ручной топорик — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "рубящий",
+      "weight": "1 фунтов",
+      "cost": "5 зм",
+      "properties": [
+        "Легкое",
+        "метательное (дистанция 20/60)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_handaxe"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Ручной топорик. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.steel.0",
+      "name": "Сулицах (дротик) — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.steel.1",
+      "name": "Сулицах (дротик) — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.steel.2",
+      "name": "Сулицах (дротик) — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.steel.3",
+      "name": "Сулицах (дротик) — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.iron.0",
+      "name": "Сулицах (дротик) — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.iron.1",
+      "name": "Сулицах (дротик) — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.iron.2",
+      "name": "Сулицах (дротик) — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.iron.3",
+      "name": "Сулицах (дротик) — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2.2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.bronze.0",
+      "name": "Сулицах (дротик) — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.bronze.1",
+      "name": "Сулицах (дротик) — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.bronze.2",
+      "name": "Сулицах (дротик) — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.bronze.3",
+      "name": "Сулицах (дротик) — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2.3 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.silver.0",
+      "name": "Сулицах (дротик) — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.silver.1",
+      "name": "Сулицах (дротик) — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.silver.2",
+      "name": "Сулицах (дротик) — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.silver.3",
+      "name": "Сулицах (дротик) — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "2 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.mithral.0",
+      "name": "Сулицах (дротик) — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.mithral.1",
+      "name": "Сулицах (дротик) — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.mithral.2",
+      "name": "Сулицах (дротик) — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.4.mithral.3",
+      "name": "Сулицах (дротик) — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "1 фунтов",
+      "cost": "5 см",
+      "properties": [
+        "Метательное (дистанция 30/120)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_javelin"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Сулицах (дротик). Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.steel.0",
+      "name": "Копье — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.steel.1",
+      "name": "Копье — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.steel.2",
+      "name": "Копье — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.steel.3",
+      "name": "Копье — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.iron.0",
+      "name": "Копье — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.iron.1",
+      "name": "Копье — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.iron.2",
+      "name": "Копье — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.iron.3",
+      "name": "Копье — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3.3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.bronze.0",
+      "name": "Копье — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.bronze.1",
+      "name": "Копье — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.bronze.2",
+      "name": "Копье — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.bronze.3",
+      "name": "Копье — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3.45 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.silver.0",
+      "name": "Копье — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.silver.1",
+      "name": "Копье — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.silver.2",
+      "name": "Копье — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.silver.3",
+      "name": "Копье — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "3 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.mithral.0",
+      "name": "Копье — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.mithral.1",
+      "name": "Копье — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.mithral.2",
+      "name": "Копье — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.5.mithral.3",
+      "name": "Копье — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "колющий",
+      "weight": "1.5 фунтов",
+      "cost": "1 зм",
+      "properties": [
+        "Метательное (дистанция 20/60)",
+        "универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_spear"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Копье. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.steel.0",
+      "name": "Булава — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.steel.1",
+      "name": "Булава — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.steel.2",
+      "name": "Булава — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.steel.3",
+      "name": "Булава — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.iron.0",
+      "name": "Булава — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.iron.1",
+      "name": "Булава — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.iron.2",
+      "name": "Булава — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.iron.3",
+      "name": "Булава — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.bronze.0",
+      "name": "Булава — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.bronze.1",
+      "name": "Булава — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.bronze.2",
+      "name": "Булава — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.bronze.3",
+      "name": "Булава — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.silver.0",
+      "name": "Булава — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.silver.1",
+      "name": "Булава — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.silver.2",
+      "name": "Булава — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.silver.3",
+      "name": "Булава — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.mithral.0",
+      "name": "Булава — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.mithral.1",
+      "name": "Булава — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.mithral.2",
+      "name": "Булава — Мифрил +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.6.mithral.3",
+      "name": "Булава — Мифрил +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 рука",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "5 зм",
+      "properties": [],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_mace"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Булава. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.steel.0",
+      "name": "Боевой посох — Сталь",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: сталь; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.steel.1",
+      "name": "Боевой посох — Сталь +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.steel.2",
+      "name": "Боевой посох — Сталь +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.steel.3",
+      "name": "Боевой посох — Сталь +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: сталь; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.iron.0",
+      "name": "Боевой посох — Железо",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: железо; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.iron.1",
+      "name": "Боевой посох — Железо +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.iron.2",
+      "name": "Боевой посох — Железо +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.iron.3",
+      "name": "Боевой посох — Железо +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4.4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: железо; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.bronze.0",
+      "name": "Боевой посох — Бронза",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: бронза; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.bronze.1",
+      "name": "Боевой посох — Бронза +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.bronze.2",
+      "name": "Боевой посох — Бронза +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.bronze.3",
+      "name": "Боевой посох — Бронза +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4.6 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: бронза; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.silver.0",
+      "name": "Боевой посох — Посеребрение",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: посеребрение; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.silver.1",
+      "name": "Боевой посох — Посеребрение +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.silver.2",
+      "name": "Боевой посох — Посеребрение +2",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+2",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 2,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +2; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.silver.3",
+      "name": "Боевой посох — Посеребрение +3",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+3",
+      "damageType": "дробящий",
+      "weight": "4 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 3,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: посеребрение; вес изменён относительно основы. Магический бонус атаки +3; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.mithral.0",
+      "name": "Боевой посох — Мифрил",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 0,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: мифрил; вес изменён относительно основы. Использует параметры базового оружия. Особые свойства учитывает мастер.",
+      "inventoryCategory": "weapons"
+    },
+    {
+      "id": "dnd.items.volume02.weapons.forge.7.mithral.1",
+      "name": "Боевой посох — Мифрил +1",
+      "category": "Простое рукопашное",
+      "groupKey": "simple",
+      "typeKey": "melee",
+      "hands": "🖐️ 1 или 2 руки (универсальное)",
+      "damage": "1d6+1",
+      "damageType": "дробящий",
+      "weight": "2 фунтов",
+      "cost": "2 зм",
+      "properties": [
+        "Универсальное (1d8)"
+      ],
+      "proficiencies": [
+        "p_weapon_simple",
+        "p_weap_quarterstaff"
+      ],
+      "toHit": 1,
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "description": "Боевой посох. Исполнение: мифрил; вес изменён относительно основы. Магический бонус атаки +1; бонус урона указан в формуле.",
+      "inventoryCategory": "weapons"
+    }
+  ]
+}
