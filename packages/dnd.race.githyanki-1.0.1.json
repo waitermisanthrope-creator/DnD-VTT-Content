@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.githyanki",
+  "version": "1.0.1",
+  "type": "race",
+  "races": [
+    {
+      "id": "githyanki",
+      "name": "Гитъянки",
+      "speed": "30 футов",
+      "bonuses": {
+        "str": 2,
+        "dex": 0,
+        "con": 0,
+        "int": 1,
+        "wis": 0,
+        "cha": 0
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Гитский",
+        "Один язык на выбор"
+      ],
+      "seed": {
+        "raceId": "githyanki",
+        "raceName": "Гитъянки",
+        "stats": {
+          "str": 12,
+          "dex": 10,
+          "con": 10,
+          "int": 11,
+          "wis": 10,
+          "cha": 10
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          }
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": false,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов"
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний",
+        "abilities": {
+          "str": 12,
+          "dex": 10,
+          "con": 10,
+          "int": 11,
+          "wis": 10,
+          "cha": 10
+        },
+        "features": [
+          "Параметры расы: Гитъянки"
+        ],
+        "raceFeatureDescriptions": [
+          "Гитъянки — худощавые гуманоиды с желтоватой кожей, заострёнными ушами и резкими чертами лица. В их одежде и снаряжении нередко соседствуют воинские знаки и трофеи далёких миров. За внешней суровостью может скрываться коллекционер, художник или любитель вполне земных удобств.",
+          "Крепости Астрала и память об освобождении от иллитидов определяют историю многих гитъянки. Однако отношение к власти, походам и чужим народам у каждого своё. Путешественник может исполнять приказ, искать пропавшего товарища или впервые решать, какой жизни достоин за пределами гарнизона.",
+          "Возраст и жизнь: В Mordenkainen’s Tome of Foes молодые гитъянки растут вне Астрала, где течение времени не останавливает развитие; в Астрале физическое старение прекращается. Авторский ориентир для листа по биологическим годам вне Астрала: дети 0–11; подростки 12–17; взрослые 18–69; пожилые 70–89; старые 90 и более. Это авторские границы, не установленный предел жизни; календарный возраст может быть гораздо больше.",
+          "Для листа персонажа: описание и возрастные этапы сохраняются в расовых особенностях. Возраст выбирает игрок; переход между этапами не меняет характеристики автоматически. Игровые параметры и доступные выборы этой расы сохранены; текст не добавляет новых способностей или автоматизации боя."
+        ]
+      },
+      "choices": [
+        {
+          "id": "race_languages",
+          "key": "race:githyanki:languages",
+          "type": "multi",
+          "count": 1,
+          "label": "Дополнительные языки",
+          "options": [
+            {
+              "id": "lang_common",
+              "category": "Языки",
+              "name": "Всеобщий язык"
+            },
+            {
+              "id": "lang_dwarvish",
+              "category": "Языки",
+              "name": "Дварфийский"
+            },
+            {
+              "id": "lang_elvish",
+              "category": "Языки",
+              "name": "Эльфийский"
+            },
+            {
+              "id": "lang_giant",
+              "category": "Языки",
+              "name": "Великаний"
+            },
+            {
+              "id": "lang_gnomish",
+              "category": "Языки",
+              "name": "Гномий"
+            },
+            {
+              "id": "lang_goblin",
+              "category": "Языки",
+              "name": "Гоблинский"
+            },
+            {
+              "id": "lang_halfling",
+              "category": "Языки",
+              "name": "Язык полуросликов"
+            },
+            {
+              "id": "lang_orc",
+              "category": "Языки",
+              "name": "Орочий"
+            },
+            {
+              "id": "lang_abyssal",
+              "category": "Языки",
+              "name": "Бездны"
+            },
+            {
+              "id": "lang_celestial",
+              "category": "Языки",
+              "name": "Небесный"
+            },
+            {
+              "id": "lang_draconic",
+              "category": "Языки",
+              "name": "Драконий"
+            },
+            {
+              "id": "lang_deep_speech",
+              "category": "Языки",
+              "name": "Глубинная речь"
+            },
+            {
+              "id": "lang_infernal",
+              "category": "Языки",
+              "name": "Инфернальный"
+            },
+            {
+              "id": "lang_primordial",
+              "category": "Языки",
+              "name": "Первичный"
+            },
+            {
+              "id": "lang_sylvan",
+              "category": "Языки",
+              "name": "Сильван"
+            },
+            {
+              "id": "lang_undercommon",
+              "category": "Языки",
+              "name": "Подземный торговый"
+            }
+          ],
+          "source": "race",
+          "raceId": "githyanki"
+        }
+      ],
+      "desc": "Гитъянки — худощавые гуманоиды с желтоватой кожей, заострёнными ушами и резкими чертами лица. В их одежде и снаряжении нередко соседствуют воинские знаки и трофеи далёких миров. За внешней суровостью может скрываться коллекционер, художник или любитель вполне земных удобств.\n\nКрепости Астрала и память об освобождении от иллитидов определяют историю многих гитъянки. Однако отношение к власти, походам и чужим народам у каждого своё. Путешественник может исполнять приказ, искать пропавшего товарища или впервые решать, какой жизни достоин за пределами гарнизона.\n\nВозраст и жизнь: В Mordenkainen’s Tome of Foes молодые гитъянки растут вне Астрала, где течение времени не останавливает развитие; в Астрале физическое старение прекращается. Авторский ориентир для листа по биологическим годам вне Астрала: дети 0–11; подростки 12–17; взрослые 18–69; пожилые 70–89; старые 90 и более. Это авторские границы, не установленный предел жизни; календарный возраст может быть гораздо больше.\n\nДля листа персонажа: описание и возрастные этапы сохраняются в расовых особенностях. Возраст выбирает игрок; переход между этапами не меняет характеристики автоматически. Игровые параметры и доступные выборы этой расы сохранены; текст не добавляет новых способностей или автоматизации боя."
+    }
+  ]
+}

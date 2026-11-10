@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.warforged",
+  "version": "1.0.1",
+  "type": "race",
+  "races": [
+    {
+      "id": "warforged",
+      "name": "Кованый (Варфорджед)",
+      "speed": "30 футов",
+      "bonuses": {
+        "str": 0,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Один язык на выбор"
+      ],
+      "seed": {
+        "raceId": "warforged",
+        "raceName": "Кованый (Варфорджед)",
+        "stats": {
+          "str": 10,
+          "dex": 10,
+          "con": 12,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          }
+        ],
+        "features": [
+          "Параметры расы: Кованый (Варфорджед)"
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": false,
+          "telepathy": false,
+          "magicResistance": false,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": true,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов",
+          "craftBonuses": [
+            "Конструкторская природа: +1 к металлу и механизмам"
+          ]
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний",
+        "raceCraftBonuses": [
+          "Конструкторская природа: +1 к металлу и механизмам"
+        ],
+        "hpMax": 9,
+        "hpCurrent": 9,
+        "abilities": {
+          "str": 10,
+          "dex": 10,
+          "con": 12,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "raceFeatureDescriptions": [
+          "Кованые — живые искусственно созданные существа, в телах которых сочетаются металл, древесные волокна и другие материалы. Лицевые пластины и очертания корпуса различаются, а выбранные украшения, одежда и следы ремонта постепенно превращают изначальную конструкцию в личный облик.",
+          "В Эберроне история кованых связана с Последней войной и трудным поиском места после неё. Мирная профессия, дружба или собственное имя могут значить больше воинского назначения. Герою полезно решить, какую привычку службы он сохранил и чему впервые учится по собственному желанию.",
+          "Возраст и жизнь: Eberron: Rising from the Last War не устанавливает известного предела жизни кованых. Биологические дети и подростки отсутствуют: возраст считают годами с активации. Авторский ориентир для листа, условные служебные стадии: начинающие 0–2 года; освоившиеся 3–9; опытные 10–29; ветераны 30+. Эти названия не означают физиологическую старость или обязательный износ.",
+          "Для листа персонажа: описание и возрастные этапы сохраняются в расовых особенностях. Возраст выбирает игрок; переход между этапами не меняет характеристики автоматически. Игровые параметры и доступные выборы этой расы сохранены; текст не добавляет новых способностей или автоматизации боя."
+        ]
+      },
+      "choices": [
+        {
+          "id": "race_languages",
+          "key": "race:warforged:languages",
+          "type": "multi",
+          "count": 1,
+          "label": "Дополнительные языки",
+          "options": [
+            {
+              "id": "lang_common",
+              "category": "Языки",
+              "name": "Всеобщий язык"
+            },
+            {
+              "id": "lang_dwarvish",
+              "category": "Языки",
+              "name": "Дварфийский"
+            },
+            {
+              "id": "lang_elvish",
+              "category": "Языки",
+              "name": "Эльфийский"
+            },
+            {
+              "id": "lang_giant",
+              "category": "Языки",
+              "name": "Великаний"
+            },
+            {
+              "id": "lang_gnomish",
+              "category": "Языки",
+              "name": "Гномий"
+            },
+            {
+              "id": "lang_goblin",
+              "category": "Языки",
+              "name": "Гоблинский"
+            },
+            {
+              "id": "lang_halfling",
+              "category": "Языки",
+              "name": "Язык полуросликов"
+            },
+            {
+              "id": "lang_orc",
+              "category": "Языки",
+              "name": "Орочий"
+            },
+            {
+              "id": "lang_abyssal",
+              "category": "Языки",
+              "name": "Бездны"
+            },
+            {
+              "id": "lang_celestial",
+              "category": "Языки",
+              "name": "Небесный"
+            },
+            {
+              "id": "lang_draconic",
+              "category": "Языки",
+              "name": "Драконий"
+            },
+            {
+              "id": "lang_deep_speech",
+              "category": "Языки",
+              "name": "Глубинная речь"
+            },
+            {
+              "id": "lang_infernal",
+              "category": "Языки",
+              "name": "Инфернальный"
+            },
+            {
+              "id": "lang_primordial",
+              "category": "Языки",
+              "name": "Первичный"
+            },
+            {
+              "id": "lang_sylvan",
+              "category": "Языки",
+              "name": "Сильван"
+            },
+            {
+              "id": "lang_undercommon",
+              "category": "Языки",
+              "name": "Подземный торговый"
+            }
+          ],
+          "source": "race",
+          "raceId": "warforged"
+        }
+      ],
+      "desc": "Кованые — живые искусственно созданные существа, в телах которых сочетаются металл, древесные волокна и другие материалы. Лицевые пластины и очертания корпуса различаются, а выбранные украшения, одежда и следы ремонта постепенно превращают изначальную конструкцию в личный облик.\n\nВ Эберроне история кованых связана с Последней войной и трудным поиском места после неё. Мирная профессия, дружба или собственное имя могут значить больше воинского назначения. Герою полезно решить, какую привычку службы он сохранил и чему впервые учится по собственному желанию.\n\nВозраст и жизнь: Eberron: Rising from the Last War не устанавливает известного предела жизни кованых. Биологические дети и подростки отсутствуют: возраст считают годами с активации. Авторский ориентир для листа, условные служебные стадии: начинающие 0–2 года; освоившиеся 3–9; опытные 10–29; ветераны 30+. Эти названия не означают физиологическую старость или обязательный износ.\n\nДля листа персонажа: описание и возрастные этапы сохраняются в расовых особенностях. Возраст выбирает игрок; переход между этапами не меняет характеристики автоматически. Игровые параметры и доступные выборы этой расы сохранены; текст не добавляет новых способностей или автоматизации боя."
+    }
+  ]
+}

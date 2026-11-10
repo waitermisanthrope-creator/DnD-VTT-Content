@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.race.tabaxi",
+  "version": "1.0.1",
+  "type": "race",
+  "races": [
+    {
+      "id": "tabaxi",
+      "name": "Табакси",
+      "speed": "30 футов",
+      "bonuses": {
+        "str": 0,
+        "dex": 2,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 1
+      },
+      "languages": [
+        "Всеобщий язык",
+        "Один язык на выбор"
+      ],
+      "seed": {
+        "raceId": "tabaxi",
+        "raceName": "Табакси",
+        "stats": {
+          "str": 10,
+          "dex": 12,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 11
+        },
+        "proficiencies": [
+          {
+            "id": "lang_common",
+            "category": "Языки",
+            "name": "Всеобщий язык"
+          }
+        ],
+        "features": [
+          "Параметры расы: Табакси"
+        ],
+        "raceMechanics": {
+          "darkvisionFt": 0,
+          "flight": false,
+          "swim": false,
+          "climb": true,
+          "telepathy": false,
+          "magicResistance": false,
+          "poisonResistance": false,
+          "poisonImmunity": false,
+          "fireResistance": false,
+          "coldResistance": false,
+          "acidResistance": false,
+          "necroticResistance": false,
+          "radiantResistance": false,
+          "psychicResistance": false,
+          "amphibious": false,
+          "breathWeapon": false,
+          "lucky": false,
+          "brave": false,
+          "relentlessEndurance": false,
+          "powerfulBuild": false,
+          "naturalArmor": false,
+          "shapeshifter": false,
+          "mimicry": false,
+          "noSleep": false,
+          "noBreath": false,
+          "sunlightSensitivity": false,
+          "stoneEndurance": false,
+          "charge": false,
+          "horns": false,
+          "sizeChoice": false,
+          "feyAncestry": false,
+          "weaponTraining": false,
+          "savageAttacks": false,
+          "nimbleEscape": false,
+          "packTactics": false,
+          "trunk": false,
+          "glide": false,
+          "repairable": false,
+          "mentalShield": false,
+          "undeadResilience": false,
+          "spiderClimb": false,
+          "speedFt": 30,
+          "size": "Средний",
+          "innateSpellcasting": false,
+          "skillBonuses": [],
+          "speed": "30 футов"
+        },
+        "resistances": [],
+        "immunities": [],
+        "size": "Средний",
+        "abilities": {
+          "str": 10,
+          "dex": 12,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 11
+        },
+        "raceFeatureDescriptions": [
+          "Табакси — кошачьи гуманоиды с гибкой фигурой, хвостом и выразительными ушами. Окрас шерсти и рисунок пятен сильно различаются; одежду нередко подгоняют так, чтобы она не мешала движениям. Улыбку, настороженность или раздражение собеседник может заметить прежде всего по ушам и хвосту.",
+          "В рассказах о табакси часто встречаются далёкие дороги и любовь к необычным историям, но интересы отдельного героя гораздо шире. Он может собирать песни, искать пропавшего родственника или скучать по спокойному дому. Выберите одну вещь, ради которой путешествие действительно стоит продолжать.",
+          "Возраст и жизнь: Volo’s Guide to Monsters сравнивает продолжительность жизни табакси с человеческой. Авторский ориентир для листа: дети 0–12 лет; подростки 13–17; взрослые 18–59; пожилые 60–74; старые 75+. Подробные стадии — проектная договорённость, не отдельное каноническое расписание взросления.",
+          "Для листа персонажа: описание и возрастные этапы сохраняются в расовых особенностях. Возраст выбирает игрок; переход между этапами не меняет характеристики автоматически. Игровые параметры и доступные выборы этой расы сохранены; текст не добавляет новых способностей или автоматизации боя."
+        ]
+      },
+      "choices": [
+        {
+          "id": "race_languages",
+          "key": "race:tabaxi:languages",
+          "type": "multi",
+          "count": 1,
+          "label": "Дополнительные языки",
+          "options": [
+            {
+              "id": "lang_common",
+              "category": "Языки",
+              "name": "Всеобщий язык"
+            },
+            {
+              "id": "lang_dwarvish",
+              "category": "Языки",
+              "name": "Дварфийский"
+            },
+            {
+              "id": "lang_elvish",
+              "category": "Языки",
+              "name": "Эльфийский"
+            },
+            {
+              "id": "lang_giant",
+              "category": "Языки",
+              "name": "Великаний"
+            },
+            {
+              "id": "lang_gnomish",
+              "category": "Языки",
+              "name": "Гномий"
+            },
+            {
+              "id": "lang_goblin",
+              "category": "Языки",
+              "name": "Гоблинский"
+            },
+            {
+              "id": "lang_halfling",
+              "category": "Языки",
+              "name": "Язык полуросликов"
+            },
+            {
+              "id": "lang_orc",
+              "category": "Языки",
+              "name": "Орочий"
+            },
+            {
+              "id": "lang_abyssal",
+              "category": "Языки",
+              "name": "Бездны"
+            },
+            {
+              "id": "lang_celestial",
+              "category": "Языки",
+              "name": "Небесный"
+            },
+            {
+              "id": "lang_draconic",
+              "category": "Языки",
+              "name": "Драконий"
+            },
+            {
+              "id": "lang_deep_speech",
+              "category": "Языки",
+              "name": "Глубинная речь"
+            },
+            {
+              "id": "lang_infernal",
+              "category": "Языки",
+              "name": "Инфернальный"
+            },
+            {
+              "id": "lang_primordial",
+              "category": "Языки",
+              "name": "Первичный"
+            },
+            {
+              "id": "lang_sylvan",
+              "category": "Языки",
+              "name": "Сильван"
+            },
+            {
+              "id": "lang_undercommon",
+              "category": "Языки",
+              "name": "Подземный торговый"
+            }
+          ],
+          "source": "race",
+          "raceId": "tabaxi"
+        }
+      ],
+      "desc": "Табакси — кошачьи гуманоиды с гибкой фигурой, хвостом и выразительными ушами. Окрас шерсти и рисунок пятен сильно различаются; одежду нередко подгоняют так, чтобы она не мешала движениям. Улыбку, настороженность или раздражение собеседник может заметить прежде всего по ушам и хвосту.\n\nВ рассказах о табакси часто встречаются далёкие дороги и любовь к необычным историям, но интересы отдельного героя гораздо шире. Он может собирать песни, искать пропавшего родственника или скучать по спокойному дому. Выберите одну вещь, ради которой путешествие действительно стоит продолжать.\n\nВозраст и жизнь: Volo’s Guide to Monsters сравнивает продолжительность жизни табакси с человеческой. Авторский ориентир для листа: дети 0–12 лет; подростки 13–17; взрослые 18–59; пожилые 60–74; старые 75+. Подробные стадии — проектная договорённость, не отдельное каноническое расписание взросления.\n\nДля листа персонажа: описание и возрастные этапы сохраняются в расовых особенностях. Возраст выбирает игрок; переход между этапами не меняет характеристики автоматически. Игровые параметры и доступные выборы этой расы сохранены; текст не добавляет новых способностей или автоматизации боя."
+    }
+  ]
+}
