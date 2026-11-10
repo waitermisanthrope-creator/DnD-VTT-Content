@@ -27,8 +27,10 @@ Files: packages/dnd.race.{kuo_toa,merrow,sahuagin,locathah}-1.0.0.json; packages
 
 ## Task 2: Publish and verify
 
-- [ ] Опубликовать проверенный снимок через GitHub с проверкой текущей вершины ветки.
-- [ ] Скачать живой каталог и семь payloads, проверить размеры и SHA-256, записать результат.
-- [ ] Сообщить пользователю название сборника и действия в мастерской.
+- [x] Опубликовать проверенный снимок через GitHub с проверкой текущей вершины ветки.
+- [x] Скачать живой каталог и семь payloads, проверить размеры и SHA-256, записать результат.
+- [x] Сообщить пользователю название сборника и действия в мастерской.
 
 Task 1: complete. Проверки: AQUATIC_CONTENT_PASS; AQUATIC_RUNTIME_PASS189 (независимо повторён); PUBLISHED_CLIENT_COMPATIBILITY_PASS1096; CHARACTER_DELETE_PASS119. Ревью: существенных замечаний нет. Общий workshop test остановился на отсутствующем release-only spiral tray, не заявлен пройденным.
+
+Task 2: complete. Published f86d718c3cb7b9aec5107d372358ac2171133710, tree67f6127b716b33595b666c8bb08be812929021fa equals verified local index. AQUATIC_PUBLIC_PASS: live Content v3 catalog and seven actual public downloads match bytes/SHA-256. User instructions are in docs/AQUATIC_RACES.md and final handoff.
