@@ -474,9 +474,9 @@ Content v3 сохраняет304 записи. 42 расы с заглушкам
 - `sources/race-descriptions-1.0.0.json` — 73080 B; исходные описания, документация или воспроизводимая проверка всех рас.
 - `tools/verify_race_descriptions.py` — 5097 B; исходные описания, документация или воспроизводимая проверка всех рас.
 - `tools/compatibility-tests/RaceDescriptionChecks.cs` — 6193 B; исходные описания, документация или воспроизводимая проверка всех рас.
-- `docs/RACE_DESCRIPTIONS.md` — 10359 B; исходные описания, документация или воспроизводимая проверка всех рас.
+- `docs/RACE_DESCRIPTIONS.md` — 10681 B; исходные описания, документация или воспроизводимая проверка всех рас.
 - `docs/superpowers/specs/2026-11-10-race-descriptions-design.md` — 2689 B; исходные описания, документация или воспроизводимая проверка всех рас.
-- `docs/superpowers/plans/2026-11-10-race-descriptions.md` — 2921 B; исходные описания, документация или воспроизводимая проверка всех рас.
+- `docs/superpowers/plans/2026-11-10-race-descriptions.md` — 3217 B; исходные описания, документация или воспроизводимая проверка всех рас.
 - `catalog/v3/index.json`: версии/URL/точные bytes/SHA-256 для42 рас и общего сборника.
 - `tools/compatibility-tests/Program.cs`: режим `--race-descriptions`.
 - `README.md`: ссылка на инструкцию мегапака1.0.2.

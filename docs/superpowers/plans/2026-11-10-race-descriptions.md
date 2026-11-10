@@ -25,7 +25,9 @@
 
 ## Task 2: Delivery
 
-- [ ] Опубликовать в живой Content v3 с проверкой вершины ветки.
-- [ ] Проверить живой каталог и43 скачиваемых новых payloads; дать инструкцию обновления.
+- [x] Опубликовать в живой Content v3 с проверкой вершины ветки.
+- [x] Проверить живой каталог и43 скачиваемых новых payloads; дать инструкцию обновления.
 
 Task 1: complete. RED: old demo lacked lore/age. GREEN: RACE_DESCRIPTIONS_CONTENT_PASS; RACE_DESCRIPTIONS_RUNTIME_PASS1188; AQUATIC_RUNTIME_PASS189. Independent review found a false UI-selection implication for simic hybrid; corrected to narrative-only wording in source/payload/manifest and reverified. No mechanical or historical payload changes. Native device GUI not tested.
+
+Task 2: complete. Published74110d7b6caee94073cd69d3c2e3397a8fdd590c; tree1eb7fb2bc06a38a9052506523790339d97701476 matches verified index. RACE_DESCRIPTIONS_PUBLIC_PASS: live catalog +43 actual downloads with exact bytes/SHA-256. Update instructions delivered; old saved heroes remain unchanged.
