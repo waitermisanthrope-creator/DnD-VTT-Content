@@ -10,6 +10,7 @@ class Compatibility
  static void Main(string[] args)
  {
   string source=Path.GetFullPath(args[0]);
+  if(args.Length>1 && args[1]=="--aquatic") {AquaticChecks.Run(source);return;}
   if(args.Length>1 && args[1]=="--world") {WorldChecks.Run(source);return;}
   if(args.Length>1 && args[1]=="--repairs") {RepairChecks.Run(source);return;}
   var catalog=WorkshopStore.Catalog(File.ReadAllText(Path.Combine(source,"catalog/v3/index.json")),"packages");

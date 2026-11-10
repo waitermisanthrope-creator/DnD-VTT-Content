@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.collections.aquatic-races",
+  "version": "1.0.0",
+  "type": "collection",
+  "collectionCategory": "races",
+  "members": [
+    "dnd.race.kuo_toa",
+    "dnd.race.merrow",
+    "dnd.race.triton",
+    "dnd.race.sahuagin",
+    "dnd.race.locathah"
+  ]
+}
