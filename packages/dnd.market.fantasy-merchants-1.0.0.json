@@ -1,0 +1,1009 @@
+{
+  "schemaVersion": 1,
+  "id": "dnd.market.fantasy-merchants",
+  "version": "1.0.0",
+  "type": "market",
+  "description": "Дерево категорий с 45 фэнтезийными торговцами. Ассортимент расширяется только из установленных предметных сборников DnD-VTT-Content; дубликатов предметов нет.",
+  "departments": [
+    {
+      "id": "weapons",
+      "name": "Оружие",
+      "traders": [
+        "blacksmith",
+        "weaponwright",
+        "exotic_weapon_dealer",
+        "fletcher",
+        "hunter"
+      ]
+    },
+    {
+      "id": "armor",
+      "name": "Броня и защита",
+      "traders": [
+        "armorer",
+        "blacksmith",
+        "leatherworker",
+        "cobbler",
+        "tailor"
+      ]
+    },
+    {
+      "id": "alchemy",
+      "name": "Алхимия и медицина",
+      "traders": [
+        "apothecary",
+        "alchemist",
+        "herbalist",
+        "poisoner",
+        "healer",
+        "temple"
+      ]
+    },
+    {
+      "id": "clothes",
+      "name": "Одежда и изделия из кожи",
+      "traders": [
+        "tailor",
+        "weaver",
+        "cobbler",
+        "leatherworker",
+        "luxury"
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "Материалы и ресурсы",
+      "traders": [
+        "miner",
+        "blacksmith",
+        "woodcarver",
+        "stonecutter",
+        "mason",
+        "hunter",
+        "monsterparts"
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "Инструменты и ремесло",
+      "traders": [
+        "tinker",
+        "carpenter",
+        "potter",
+        "glassblower",
+        "jeweler",
+        "gemcutter",
+        "painter"
+      ]
+    },
+    {
+      "id": "books",
+      "name": "Карты, книги и письменность",
+      "traders": [
+        "cartographer",
+        "scribe",
+        "scrollmerchant",
+        "painter"
+      ]
+    },
+    {
+      "id": "magic",
+      "name": "Магия, религия и редкости",
+      "traders": [
+        "arcane",
+        "relicdealer",
+        "scrollmerchant",
+        "temple",
+        "alchemist",
+        "jeweler",
+        "blackmarket"
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Еда и напитки",
+      "traders": [
+        "cook",
+        "brewer",
+        "fisher",
+        "herbalist",
+        "generalstore"
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "Путешествия и транспорт",
+      "traders": [
+        "caravan",
+        "caravan_master",
+        "stablemaster",
+        "shipchandler",
+        "cartographer"
+      ]
+    },
+    {
+      "id": "general",
+      "name": "Товары общего назначения",
+      "traders": [
+        "village",
+        "generalstore",
+        "caravan",
+        "luxury"
+      ]
+    },
+    {
+      "id": "special",
+      "name": "Особые торговцы",
+      "traders": [
+        "siege",
+        "blackmarket",
+        "monsterparts",
+        "poisoner",
+        "relicdealer"
+      ]
+    }
+  ],
+  "traders": [
+    {
+      "id": "village",
+      "name": "Деревенский торговец",
+      "template": "village",
+      "itemCategories": [
+        "junk",
+        "consumables"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "blacksmith",
+      "name": "Кузнец",
+      "template": "blacksmith",
+      "itemCategories": [
+        "weapons",
+        "armor",
+        "materials"
+      ],
+      "nameContains": [
+        "желез",
+        "сталь",
+        "металл",
+        "слит",
+        "руда",
+        "молот",
+        "меч",
+        "топор",
+        "брон",
+        "щит"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "apothecary",
+      "name": "Аптекарь и алхимик",
+      "template": "apothecary",
+      "itemCategories": [
+        "consumables",
+        "materials"
+      ],
+      "nameContains": [
+        "зель",
+        "лек",
+        "противояд",
+        "антидот",
+        "эссенц",
+        "эликсир",
+        "алхим",
+        "флакон"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "caravan",
+      "name": "Странствующий караванщик",
+      "template": "caravan",
+      "itemCategories": [
+        "junk",
+        "materials",
+        "consumables"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "armorer",
+      "name": "Бронник",
+      "template": "armorer",
+      "itemCategories": [
+        "armor"
+      ],
+      "nameContains": [
+        "брон",
+        "доспех",
+        "шлем",
+        "щит",
+        "кольчуг",
+        "наручи",
+        "понож",
+        "лат"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "weaponwright",
+      "name": "Оружейник",
+      "template": "weaponwright",
+      "itemCategories": [
+        "weapons"
+      ],
+      "nameContains": [
+        "меч",
+        "топор",
+        "копь",
+        "молот",
+        "кинжал",
+        "рапир",
+        "палиц",
+        "булав",
+        "алебард",
+        "глеф",
+        "арбалет",
+        "клинок"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "fletcher",
+      "name": "Лучник и оплетчик",
+      "template": "fletcher",
+      "itemCategories": [
+        "weapons"
+      ],
+      "nameContains": [
+        "лук",
+        "арбалет",
+        "стрел",
+        "болт",
+        "тетив",
+        "оперен",
+        "колчан"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "leatherworker",
+      "name": "Кожевник",
+      "template": "leatherworker",
+      "itemCategories": [
+        "junk"
+      ],
+      "nameContains": [
+        "кож",
+        "шкур",
+        "ремн",
+        "сумк",
+        "сбру",
+        "ножн",
+        "перчатк"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "weaver",
+      "name": "Ткач",
+      "template": "weaver",
+      "itemCategories": [
+        "junk"
+      ],
+      "nameContains": [
+        "ткан",
+        "ткач",
+        "лён",
+        "шерст",
+        "шёлк",
+        "плащ",
+        "мант",
+        "полот",
+        "парус",
+        "верёв"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "woodcarver",
+      "name": "Резчик по дереву",
+      "template": "woodcarver",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "дерев",
+        "древес",
+        "дуб",
+        "тис",
+        "рукоят",
+        "древк",
+        "колья",
+        "лук"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "carpenter",
+      "name": "Плотник",
+      "template": "carpenter",
+      "itemCategories": [
+        "junk"
+      ],
+      "nameContains": [
+        "дерев",
+        "ящик",
+        "сундук",
+        "бочк",
+        "стол",
+        "кровать",
+        "доска",
+        "лестниц"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "jeweler",
+      "name": "Ювелир",
+      "template": "jeweler",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "оправ",
+        "кольц",
+        "перст",
+        "серебр",
+        "золот",
+        "аметист",
+        "гранат",
+        "опал",
+        "ожерел"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "gemcutter",
+      "name": "Огранщик самоцветов",
+      "template": "gemcutter",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "драгоцен",
+        "кварц",
+        "гранат",
+        "сапфир",
+        "рубин",
+        "изумруд",
+        "обсидиан",
+        "камень"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "potter",
+      "name": "Гончар",
+      "template": "potter",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "керамик",
+        "глин",
+        "горш",
+        "кувшин",
+        "чаш",
+        "тигель",
+        "кружк"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "glassblower",
+      "name": "Стеклодув",
+      "template": "glassblower",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "стекл",
+        "флакон",
+        "колб",
+        "бутыл",
+        "зеркал",
+        "графин",
+        "хруст"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "mason",
+      "name": "Каменщик",
+      "template": "mason",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "кирпич",
+        "камен",
+        "строит",
+        "извест",
+        "раствор",
+        "мрамор",
+        "гранит"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "cobbler",
+      "name": "Сапожник",
+      "template": "cobbler",
+      "itemCategories": [
+        "junk"
+      ],
+      "nameContains": [
+        "сапог",
+        "ботин",
+        "обув",
+        "туфл",
+        "подошв",
+        "бахил"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "painter",
+      "name": "Художник и герольд",
+      "template": "painter",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "краск",
+        "кист",
+        "палитр",
+        "пигмент",
+        "холст",
+        "герб"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "tinker",
+      "name": "Жестянщик и механик",
+      "template": "tinker",
+      "itemCategories": [
+        "junk",
+        "materials"
+      ],
+      "nameContains": [
+        "шестерн",
+        "пружин",
+        "механ",
+        "инструмент",
+        "замок",
+        "детал",
+        "метиз"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "scribe",
+      "name": "Писец",
+      "template": "scribe",
+      "itemCategories": [
+        "junk"
+      ],
+      "nameContains": [
+        "чернил",
+        "пергамент",
+        "бумаг",
+        "книг",
+        "перо",
+        "свиток",
+        "печать"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "cartographer",
+      "name": "Картограф",
+      "template": "cartographer",
+      "itemCategories": [
+        "junk"
+      ],
+      "nameContains": [
+        "карт",
+        "компас",
+        "атлас",
+        "пергамент",
+        "навигац",
+        "циркул"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "herbalist",
+      "name": "Травник",
+      "template": "herbalist",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "трав",
+        "корен",
+        "цвет",
+        "лист",
+        "гриб",
+        "растен",
+        "семен"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "alchemist",
+      "name": "Алхимик",
+      "template": "alchemist",
+      "itemCategories": [
+        "consumables"
+      ],
+      "nameContains": [
+        "алхим",
+        "зель",
+        "эликсир",
+        "эссенц",
+        "реагент",
+        "кислот"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "poisoner",
+      "name": "Торговец ядами",
+      "template": "poisoner",
+      "itemCategories": [
+        "consumables"
+      ],
+      "nameContains": [
+        "яд",
+        "токсин",
+        "отрав",
+        "приманк"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "brewer",
+      "name": "Пивовар",
+      "template": "brewer",
+      "itemCategories": [
+        "consumables"
+      ],
+      "nameContains": [
+        "пиво",
+        "эль",
+        "мёд",
+        "сидр",
+        "бочк",
+        "брага",
+        "солод"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "cook",
+      "name": "Повар",
+      "template": "cook",
+      "itemCategories": [
+        "consumables"
+      ],
+      "nameContains": [
+        "еда",
+        "хлеб",
+        "мяс",
+        "соль",
+        "масло",
+        "паёк",
+        "сыр",
+        "рыб",
+        "пряност",
+        "кух"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "fisher",
+      "name": "Рыбак",
+      "template": "fisher",
+      "itemCategories": [
+        "consumables"
+      ],
+      "nameContains": [
+        "рыб",
+        "сеть",
+        "крюч",
+        "удоч",
+        "наживк"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "shipchandler",
+      "name": "Корабельный снабженец",
+      "template": "shipchandler",
+      "itemCategories": [
+        "junk",
+        "materials"
+      ],
+      "nameContains": [
+        "парус",
+        "кораб",
+        "якор",
+        "канат",
+        "море",
+        "шварт",
+        "компас"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "miner",
+      "name": "Рудокоп",
+      "template": "miner",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "руда",
+        "слит",
+        "кирк",
+        "уголь",
+        "шахт",
+        "желез"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "stonecutter",
+      "name": "Торговец камнем",
+      "template": "stonecutter",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "камень",
+        "мрамор",
+        "гранит",
+        "сланец",
+        "обсидиан"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "generalstore",
+      "name": "Лавочник",
+      "template": "generalstore",
+      "itemCategories": [
+        "junk",
+        "consumables",
+        "materials"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "luxury",
+      "name": "Торговец роскошью",
+      "template": "luxury",
+      "itemCategories": [
+        "junk",
+        "materials"
+      ],
+      "nameContains": [
+        "дух",
+        "шёлк",
+        "золото",
+        "серебро",
+        "ожерел",
+        "кольц",
+        "роскош",
+        "ткан"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "relicdealer",
+      "name": "Торговец реликвиями",
+      "template": "relicdealer",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "релик",
+        "древн",
+        "артефакт",
+        "талисман",
+        "амулет",
+        "идол"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "arcane",
+      "name": "Торговец магическими реагентами",
+      "template": "arcane",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "магич",
+        "аркан",
+        "кристалл",
+        "эссенц",
+        "рунич",
+        "чар"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "stablemaster",
+      "name": "Конюший",
+      "template": "stablemaster",
+      "itemCategories": [
+        "junk",
+        "materials"
+      ],
+      "nameContains": [
+        "лошад",
+        "седл",
+        "повод",
+        "сбру",
+        "корм",
+        "узд"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "hunter",
+      "name": "Охотник",
+      "template": "hunter",
+      "itemCategories": [
+        "materials",
+        "weapons"
+      ],
+      "nameContains": [
+        "шкур",
+        "мяс",
+        "ловуш",
+        "капкан",
+        "лук",
+        "стрел",
+        "трофе"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "monsterparts",
+      "name": "Заготовитель чудовищных трофеев",
+      "template": "monsterparts",
+      "itemCategories": [
+        "materials"
+      ],
+      "nameContains": [
+        "клык",
+        "коготь",
+        "чешуя",
+        "рог",
+        "яд",
+        "трофей",
+        "орган",
+        "сердц"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "scrollmerchant",
+      "name": "Торговец свитками",
+      "template": "scrollmerchant",
+      "itemCategories": [
+        "consumables"
+      ],
+      "nameContains": [
+        "свиток",
+        "пергамент",
+        "чернил",
+        "книг",
+        "заклин"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "temple",
+      "name": "Храмовый лавочник",
+      "template": "temple",
+      "itemCategories": [
+        "consumables",
+        "junk"
+      ],
+      "nameContains": [
+        "леч",
+        "свят",
+        "ритуал",
+        "ладан",
+        "зель",
+        "благослов",
+        "свеч"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "blackmarket",
+      "name": "Чёрный рынок",
+      "template": "blackmarket",
+      "itemCategories": [
+        "junk",
+        "consumables",
+        "weapons"
+      ],
+      "nameContains": [
+        "яд",
+        "токс",
+        "отмыч",
+        "кинжал",
+        "скрыт",
+        "редк",
+        "контрабанд"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "caravan_master",
+      "name": "Мастер каравана",
+      "template": "caravan_master",
+      "itemCategories": [
+        "junk",
+        "materials",
+        "consumables"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "siege",
+      "name": "Осадный снабженец",
+      "template": "siege",
+      "itemCategories": [
+        "materials",
+        "weapons"
+      ],
+      "nameContains": [
+        "болт",
+        "катапульт",
+        "осад",
+        "порох",
+        "металл",
+        "баллист",
+        "ядро"
+      ],
+      "deriveLimit": 32,
+      "inheritStock": true
+    },
+    {
+      "id": "exotic_weapon_dealer",
+      "name": "Продавец экзотического оружия",
+      "template": "weaponwright",
+      "itemCategories": [
+        "weapons"
+      ],
+      "nameContains": [
+        "экзот",
+        "катана",
+        "глефа",
+        "алебард",
+        "боевой цеп",
+        "серп",
+        "кнут",
+        "двойной",
+        "сюрикен",
+        "чакрам",
+        "кукри",
+        "сабля",
+        "цепной"
+      ],
+      "inheritStock": false,
+      "deriveLimit": 32
+    },
+    {
+      "id": "tailor",
+      "name": "Швея / портной",
+      "template": "weaver",
+      "itemCategories": [
+        "junk",
+        "armor"
+      ],
+      "nameContains": [
+        "одеж",
+        "плать",
+        "рубах",
+        "плащ",
+        "мант",
+        "капюш",
+        "туник",
+        "перчатк",
+        "пояс",
+        "шёлк",
+        "ткан",
+        "халат"
+      ],
+      "inheritStock": false,
+      "deriveLimit": 32
+    },
+    {
+      "id": "healer",
+      "name": "Лекарь",
+      "template": "apothecary",
+      "itemCategories": [
+        "consumables",
+        "materials",
+        "junk"
+      ],
+      "nameContains": [
+        "леч",
+        "перевяз",
+        "бинт",
+        "аптеч",
+        "противояд",
+        "лекар",
+        "зель",
+        "трав",
+        "санитар",
+        "медиц"
+      ],
+      "inheritStock": false,
+      "deriveLimit": 32
+    }
+  ]
+}
