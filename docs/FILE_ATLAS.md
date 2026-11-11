@@ -485,10 +485,10 @@ Content v3 сохраняет304 записи. 42 расы с заглушкам
 
 **Внимание:** старые счётчики и перечень выше — исторический снимок; актуальный полный каталог и дерево репозитория находятся в GitHub. Мод ниже пока НЕ опубликован в Content/main и НЕ совместим с выпущенной Unity 1.00.49.
 
-- `packages/dnd.market.fantasy-merchants-1.0.0.json` — 21516 B, SHA-256 `7a2c54b07f6bba7ef352073bb5d6b3a18f994fe649c1de7a93998242ac4dbd2b`; декларативная структура 12 категорий и 45 торговцев. Товары не дублирует, ссылается на уже установленные item-пакеты.
+- `packages/dnd.market.fantasy-merchants-1.0.0.json` — 23728 B, SHA-256 `40c0d4950cb83cc2edf4aa680a486fd9e33d3911695eb918c8d47dad09fe9877`; декларативная структура 12 категорий и 45 торговцев. Товары не дублирует, ссылается на уже установленные item-пакеты.
 - `docs/FANTASY_MERCHANTS.md` — описание модификации, ограничения и проверка готовности к выпуску.
 - `tools/verify_fantasy_market.py` — локальный валидатор каталога, структуры и точного хеша мода.
-- `schemas/catalog-entry-v1.schema.json` — в черновой ветке добавлен тип `market`.
-- `catalog/v3/index.json` — в черновой ветке добавлена запись `dnd.market.fantasy-merchants` (minClientVersionCode 10050); эта запись не видна текущему live-клиенту до слияния ветки.
+- `schemas/catalog-entry-v1.schema.json` — тип не менялся — используется прежний поддерживаемый `craft` ради совместимости со старым Unity.
+- `catalog/v3/index.json` — в черновой ветке добавлена запись `dnd.market.fantasy-merchants` (minClientVersionCode 10050, `type=craft`); эта запись не видна текущему live-клиенту до слияния ветки.
 - Движок обработки: `DnD-VTT`, ветка `experiment/unity-vtt`, `unity/Assets/Vtt/Runtime/WorkshopStore.cs`, `CommerceRules.Market.cs`, `LegacySessionPanel.Market.cs`.
 
