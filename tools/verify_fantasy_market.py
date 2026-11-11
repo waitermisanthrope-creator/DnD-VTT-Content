@@ -17,13 +17,18 @@ def main():
     entries = [e for e in catalog["packages"] if e.get("id") == data["id"]]
     assert len(entries) == 1, "catalog entry missing or duplicated"
     entry = entries[0]
-    assert entry["type"] == data["type"] == "market"
+    assert entry["type"] == data["type"] == "craft"
+    assert data["mode"] == "alchemy-ingredients"
+    assert data["ingredients"] == [] and data["items"] == [], "compatibility envelope must be inert"
+    market = data["merchantMarket"]
+    assert market["schemaVersion"] == 1 and market["type"] == "market"
+    assert market["id"] == data["id"] and market["version"] == data["version"]
     assert data["version"] == entry["version"] == "1.0.0"
     assert entry["bytes"] == len(raw), "byte count mismatch"
     assert entry["sha256"] == hashlib.sha256(raw).hexdigest(), "SHA-256 mismatch"
     assert entry["url"].endswith("/packages/" + PATH.name)
-    traders = data["traders"]
-    departments = data["departments"]
+    traders = market["traders"]
+    departments = market["departments"]
     assert len(traders) == 45 and len(departments) == 12
     ids = [trader["id"] for trader in traders]
     assert len(ids) == len(set(ids)), "duplicated vendor"
