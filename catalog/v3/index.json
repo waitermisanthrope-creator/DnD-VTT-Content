@@ -6694,6 +6694,26 @@
       "collectionRole": "category",
       "modCategoryCollection": true,
       "packageCount": 5
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dnd.market.fantasy-merchants",
+      "name": "Фэнтезийные торговцы — 45 профессий и древовидный рынок (необязательный)",
+      "version": "1.0.0",
+      "author": "DnD-VTT contributors",
+      "license": "CC0-1.0",
+      "type": "craft",
+      "format": "json",
+      "platform": "any",
+      "unityVersion": "*",
+      "dependencies": [],
+      "minClientVersionCode": 10050,
+      "description": "12 разделов рынка, 45 торговцев, включая экзотическое оружие, портного и лекаря. Товары берутся из установленных сборников предметов без копирования; старые товары и кошельки сохранены.",
+      "bytes": 23728,
+      "sha256": "40c0d4950cb83cc2edf4aa680a486fd9e33d3911695eb918c8d47dad09fe9877",
+      "url": "https://raw.githubusercontent.com/waitermisanthrope-creator/DnD-VTT-Content/main/packages/dnd.market.fantasy-merchants-1.0.0.json",
+      "publishedAt": "2026-11-11T10:33:00Z",
+      "updatedAt": "2026-11-11T10:33:00Z"
     }
   ]
 }
